@@ -2,19 +2,20 @@ import React, { Component } from 'react'
 import { BrowserRouter as Router } from 'react-router-dom'
 import App from './App'
 import 'typeface-roboto'
-import { injectGlobal } from 'styled-components'
+import { createGlobalStyle } from "styled-components"
 
 export default class Root extends Component {
   render() {
     return (
       <Router>
         <App />
+        <GlobalStyle />
       </Router>
     );
   }
 }
 
-injectGlobal`
+const GlobalStyle = createGlobalStyle`
   html {
     height: 100%
   }
