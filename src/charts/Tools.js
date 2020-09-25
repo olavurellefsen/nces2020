@@ -27,6 +27,8 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     })
     if (!scenario) return undefined //this will be the case for sceanrio2 if only one scenario is selected
     let accumulatedData = {}
+    console.log("data.scenarios: ", data.scenarios)
+    console.log("scenario: ", scenario)
     data.scenarios
         .find(o => o.scenario === scenario)
         .indicators.find(o => o.indicator === chartName)
