@@ -6,6 +6,7 @@ import StackedBarDiffChart from './StackedBarDiffChart'
 import { MainArea, Flex } from './Charts.style'
 import stackedBar from '../data/stackedBar'
 import line from '../data/line'
+import indicators from '../data/indicators'
 
 const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection
@@ -22,7 +23,22 @@ const Charts = props => {
         (props.scenarioSelection.showDifference === true &&
           selectedScenario2 === '')) && (
         <Flex>
-          <StackedBarChart
+          {
+indicators.map(i => <StackedBarChart
+  chartName={i}
+  chartTitle={i}
+  selectedScenario={selectedScenario}
+  selectedScenario2={selectedScenario2}
+  selectedCountries={selectedCountries}
+  combinedChart={false}
+  label="PJ"
+  minY={0}
+  maxY={1500}
+  stackedBar={stackedBar}
+  line={line}
+/>)
+          }
+          {/* <StackedBarChart
             chartName="_CO2 Emissions"
             chartTitle="CO2 Emissions"
             selectedScenario={selectedScenario}
@@ -34,8 +50,8 @@ const Charts = props => {
             maxY={180000}
             stackedBar={stackedBar}
             line={line}
-          />
-          <StackedBarChart
+          /> */}
+          {/* <StackedBarChart
             chartName="_Captured CO2"
             chartTitle="Captured CO2"
             selectedScenario={selectedScenario}
@@ -48,7 +64,7 @@ const Charts = props => {
             options={options}
             stackedBar={stackedBar}
             line={line}
-          />
+          /> */}
           <StackedBarChart
             chartName="_Biomass Primary Supply"
             chartTitle="Biomass Primary Supply"
@@ -62,7 +78,7 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
-          <StackedBarChart
+          {/* <StackedBarChart
             chartName="_Elproduktion"
             chartTitle="Power Production"
             selectedScenario={selectedScenario}
@@ -152,7 +168,7 @@ const Charts = props => {
             maxY={50000}
 			stackedBar={stackedBar}
 			line={line}
-          />
+          /> */}
         </Flex>
       )}
       {props.scenarioSelection.showDifference === true &&

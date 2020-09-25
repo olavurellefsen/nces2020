@@ -70,7 +70,7 @@
     "welcome-4": "Close this window and start exploring..."
   },
   "chartTitle": {
-    "Biomass Primary Supply": "Biomass Primary Supply",
+    "_Biomass Primary Supply": "Biomass Primary Supply",
     "District Heating Supply": "District Heating Production",
     "Captured CO2": "Captured CO2",
     "CO2 Emissions": "CO2 Emissions (All Sectors)",
@@ -79,7 +79,6 @@
     "Power Production": "Power Production",
     "Power Trade": "Power Trade",
     "System Costs": "System Costs",
-    "Transport Consumption": "Transport Consumption",
     "CO2 Emissions in Transport": "CO2 Emissions (Transport)",
     "Transport Consumption": "Transport Fuel Consumption",
     "Transport Inland Consumption": "Inland Transport Fuel Consumption",

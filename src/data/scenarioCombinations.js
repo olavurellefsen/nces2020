@@ -38,7 +38,7 @@ regionOptions : [
 { "id": 2, "name": "Sweden", "country": "Sweden", "short_description": "Sweden", "ultra_short_description": "Sweden" }
                ], 
 optionsAvailable:  {
-       "Nordic_Tech": {"ccs": true, "bio": true, "opt2": true, "opt3": true},
+       "Nordic_Tech": {"ccs": true, "bio": true, "opt2": true},
        "Nordic_ShiftAvoid": {"ccs": true, "bio": true, "opt2": true, "opt3": true},
     }
   }

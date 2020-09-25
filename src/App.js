@@ -159,6 +159,8 @@ export class App extends React.Component {
   }
 
   ToggleOption = (scenario, option) => {
+    console.log("scenario: ", scenario)
+    console.log("option: ", option)
     let newOptions = this.state.options
     newOptions[scenario][option] = !this.state.options[scenario][option]
     this.setState({
@@ -179,6 +181,7 @@ export class App extends React.Component {
     })
   }
   render() {
+    console.log("selected scenariocs: ", this.state.scenarioSelection)
     return (
       <Page>
         <LeftColumn>
