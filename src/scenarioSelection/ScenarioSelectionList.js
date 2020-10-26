@@ -38,7 +38,7 @@ const ScenarioSelectionList = props => {
   let stringValue = props.selectedValue.toString();
   let stringValue2 = props.selectedValue2.toString();
   let scenarioOptions = scenarioCombinations.scenarioOptions
-    .filter(s => !s.ccs && !s.bio && !s.opt2 && !s.opt3) //ensure that each scenario is only listed once
+    .filter(s => !s.cns && !s.bio && !s.opt2 && !s.opt3) //ensure that each scenario is only listed once
     .map(option => {
       let optionValue = option.nameNoOptions;
       if (optionValue === "division_line") {
@@ -66,22 +66,22 @@ const ScenarioSelectionList = props => {
             <IconContainer narrowVersion={narrowVersion}>
               <Icon
                 available={
-                  scenarioCombinations.optionsAvailable[optionValue].ccs
+                  scenarioCombinations.optionsAvailable[optionValue].cns
                 }
                 onClick={event => {
-                  if (scenarioCombinations.optionsAvailable[optionValue].ccs) {
-                    props.toggleOption(optionValue, "ccs");
+                  if (scenarioCombinations.optionsAvailable[optionValue].cns) {
+                    props.toggleOption(optionValue, "cns");
                   }
                   cancelBubble(event); //prevent onclick for scenario being fired
                 }}
                 data-tip={
                   t("options.ccs") +
                   " " +
-                  (!scenarioCombinations.optionsAvailable[optionValue].ccs
+                  (!scenarioCombinations.optionsAvailable[optionValue].cns
                     ? t("options.unavailable")
                     : "")
                 }
-                selected={scenarioSwitches[optionValue].ccs}
+                selected={scenarioSwitches[optionValue].cns}
               >
                 <FontAwesomeIcon icon={faDatabase} />
               </Icon>

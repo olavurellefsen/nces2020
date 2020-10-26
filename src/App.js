@@ -50,14 +50,14 @@ export const changeScenario = (name, value) => ({
   [name]: value,
 })
 
-const default_scenario = "Nordic_Tech";
+const default_scenario = "ONTIMES_2209";
 const default_countries = ['no','se','dk'];
 const options = []
 scenarioCombinations.scenarioCombinations.scenarioOptions
   .filter(s => !s.ccs && !s.bio && !s.opt2 && !s.opt3)
   .forEach(s => {
     options[s.nameNoOptions] = {}
-    options[s.nameNoOptions]['ccs'] = false
+    options[s.nameNoOptions]['cns'] = false
     options[s.nameNoOptions]['bio'] = false
     options[s.nameNoOptions]['opt2'] = false
     options[s.nameNoOptions]['opt3'] = false
@@ -88,7 +88,7 @@ export class App extends React.Component {
       return {
         scenarioSelection:
           state.scenarioSelectionNoOptions +
-          (state.options[state.scenarioSelectionNoOptions].ccs ? '_ccs' : '') +
+          (state.options[state.scenarioSelectionNoOptions].ccs ? '_cns' : '') +
           (state.options[state.scenarioSelectionNoOptions].bio ? '_bio' : '') +
           (state.options[state.scenarioSelectionNoOptions].opt2 ? '_ELC' : '') +
           (state.options[state.scenarioSelectionNoOptions].opt3 ? '_SAC' : ''),
@@ -100,7 +100,7 @@ export class App extends React.Component {
           state.scenarioSelectionNoOptions2 !== ''
             ? state.scenarioSelectionNoOptions2 +
               (state.options[state.scenarioSelectionNoOptions2].ccs
-                ? '_ccs'
+                ? '_cns'
                 : '') +
               (state.options[state.scenarioSelectionNoOptions2].bio ? '_bio' : '') +
               (state.options[state.scenarioSelectionNoOptions2].opt2 ? '_ELC' : '') +

@@ -218,7 +218,7 @@ const StackedBarChart = props => {
           data={stackedBar.data.scenarios
             .find(o => o.scenario === scenario)
             .indicators.find(o => o.indicator === chartName)
-            .regions.find(r => r.region === 'Denmark')
+            .regions.find(r => r.region === 'DKE')
             .indicatorGroups.map((chartGroup, i) => ({
               name: t('legend.' + chartGroup.indicatorGroup)
                 .concat('        ')

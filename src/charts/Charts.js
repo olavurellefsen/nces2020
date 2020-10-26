@@ -65,7 +65,7 @@ indicators.map(i => <StackedBarChart
             stackedBar={stackedBar}
             line={line}
           /> */}
-          <StackedBarChart
+          {/* <StackedBarChart
             chartName="_Biomass Primary Supply"
             chartTitle="Biomass Primary Supply"
             selectedScenario={selectedScenario}
@@ -77,7 +77,7 @@ indicators.map(i => <StackedBarChart
             maxY={1500}
             stackedBar={stackedBar}
             line={line}
-          />
+          /> */}
           {/* <StackedBarChart
             chartName="_Elproduktion"
             chartTitle="Power Production"
@@ -174,7 +174,21 @@ indicators.map(i => <StackedBarChart
       {props.scenarioSelection.showDifference === true &&
         selectedScenario2 !== '' && (
         <Flex>
-		  <StackedBarDiffChart
+          {
+indicators.map(i => <StackedBarDiffChart
+  chartName={i}
+  chartTitle={i}
+  selectedScenario={selectedScenario}
+  selectedScenario2={selectedScenario2}
+  selectedCountries={selectedCountries}
+  combinedChart={false}
+  label="PJ"
+  minY={-1}
+  maxY={1}
+  stackedBar={stackedBar}
+  line={line}
+/>)}
+		  {/* <StackedBarDiffChart
             chartName="_CO2 Emissions"
             chartTitle="CO2 Emissions"
             selectedScenario={selectedScenario}
@@ -186,8 +200,8 @@ indicators.map(i => <StackedBarChart
             maxY={1}
             stackedBar={stackedBar}
             line={line}
-          />
-          <StackedBarDiffChart
+          /> */}
+          {/* <StackedBarDiffChart
             chartName="_Captured CO2"
             chartTitle="Captured CO2"
             selectedScenario={selectedScenario}
@@ -304,7 +318,7 @@ indicators.map(i => <StackedBarChart
             maxY={1}
             stackedBar={stackedBar}
             line={line}
-          />
+          /> */}
           </Flex>
         )}
     </MainArea>
