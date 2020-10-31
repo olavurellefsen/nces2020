@@ -1,9 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
-import { ReactComponent as Europe } from './europe.svg'
+import { ReactComponent as Regions } from './regions.svg'
 
-const activeCountries = ['dk', 'no', 'se']
+const activeCountries = ['dk', 'no', 'se', 'fi', 'is']
 
 const countryColorsCSS = props =>
   props.countries.map(
@@ -15,7 +15,7 @@ const countryColorsCSS = props =>
     `
 )
 
- const StyledEurope = styled.div`
+ const StyledRegions = styled.div`
   ${props => countryColorsCSS(props)}
   fill: #616161;
   stroke: gray;
@@ -24,8 +24,8 @@ const countryColorsCSS = props =>
   position: relative;
 `
 const MapContainer = (props) => (
-    <StyledEurope selectedCountries={props.selectedCountries} countries={activeCountries}> 
-    <Europe
+    <StyledRegions selectedCountries={props.selectedCountries} countries={activeCountries}> 
+    <Regions
       onClick={event => {
         const id = event.target.id
         if (id && activeCountries.includes(id)) {
@@ -34,7 +34,7 @@ const MapContainer = (props) => (
         }
       }}
     />
-  </StyledEurope>
+  </StyledRegions>
 )
 
 MapContainer.propTypes = {
