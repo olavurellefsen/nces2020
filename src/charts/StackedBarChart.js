@@ -34,8 +34,6 @@ const StackedBarChart = props => {
   const selectedCountries = props.selectedCountries
   const chartName = props.chartName
   const chartTitle = t('chartTitle.' + props.chartTitle)
-  console.log("chart_name: ", chartName)
-  console.log("chart_tit: ", props.chartTitle)
   const combinedChart = props.combinedChart
 
   let gutter, rowGutter
@@ -78,7 +76,7 @@ const StackedBarChart = props => {
     maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year],
       scenario2 ? totalYearValuesScenario2[year] : -Infinity))
   })
-  console.log("legends nerver die: ", stackedBar.data.scenarios
+  
   .find(o => o.scenario === scenario)
   .indicators.find(o => o.indicator === chartName)
   .regions.find(r => r.region === 'DKE')
@@ -93,17 +91,10 @@ const StackedBarChart = props => {
   .find(o => o.scenario === scenario)
   .indicators.find(o => o.indicator === chartName).regions.forEach((reg)=>{
     reg.indicatorGroups.forEach((group)=>{
-      //console.log("legnd:", group.indicatorGroup)
       legends.add(group.indicatorGroup)
     })
   })
-  console.log("legends: ", legends)
-  console.log("legCol: ", legends.entries((legend, i) => ({
-    name: t('legend.' + legend)
-      .concat('        ')
-      .substr(0, 16),
-    fill: colors[i],
-  })))
+  
   return (
     <div>
       <VictoryChart
