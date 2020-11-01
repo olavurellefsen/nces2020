@@ -1,29 +1,7 @@
 import years from "./../data/years"
-import mapRegions from "./../data/mapRegionToDataRegions"
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 
-function convertToLongName(country) {
-    let selectedCountry = ''
-        switch(country) {
-          case 'dk': 
-            selectedCountry = 'DKE'
-            break
-          case 'no':
-            selectedCountry = 'NO1'
-            break
-          case 'se':
-            selectedCountry = 'SW1'
-            break
-          default:
-            console.log('Unknown selected country')
-            break
-        }
-        return selectedCountry
-  }
-  
-//const years = [2010,2020,2030,2040, 2050]
 export function createAccumulatedData(data, scenario, percentage, chartName, selectedCountries) { 
-  const selectedCountriesLongNames = selectedCountries.map(convertToLongName)
   let selectedDataRegions = [] 
   mapRegionToDataRegions.forEach((mapRegion) => {
       if(selectedCountries.includes(mapRegion.path_id)) {

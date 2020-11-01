@@ -77,15 +77,6 @@ const StackedBarChart = props => {
       scenario2 ? totalYearValuesScenario2[year] : -Infinity))
   })
   
-  .find(o => o.scenario === scenario)
-  .indicators.find(o => o.indicator === chartName)
-  .regions.find(r => r.region === 'DKE')
-  .indicatorGroups.map((chartGroup, i) => ({
-    name: t('legend.' + chartGroup.indicatorGroup)
-      .concat('        ')
-      .substr(0, 16),
-    fill: colors[i],
-  })))
   let legends = new Set()
   stackedBar.data.scenarios
   .find(o => o.scenario === scenario)
