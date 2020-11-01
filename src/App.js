@@ -7,7 +7,7 @@ import LeftMenu from './leftMenu/LeftMenu'
 import LeftMenuMobile from './leftMenu/LeftMenu.mobile'
 import Tabs from './tabs/Tabs'
 import TabsMobile from './tabs/Tabs.mobile'
-import Charts from './charts/Charts'
+import ChartsTab1 from './charts/ChartsTab1'
 import ChartsTab2 from './charts/ChartsTab2'
 import PageRenderer from './pages/PageRenderer'
 import scenarioCombinations from './data/scenarioCombinations'
@@ -219,7 +219,7 @@ export class App extends React.Component {
                 exact
                 path="/"
                 render={() => (
-                  <Charts
+                  <ChartsTab1
                     scenarioSelection={this.state}
                     closeWelcome={this.CloseWelcomeWidget}
                     selectedCountries={this.state.selectedCountries}

@@ -46,9 +46,9 @@ function Tabs(props) {
       <TabItem to="/" selected={props.selectedChartgroup === "/"}>
         {t("tabs.overview")}
       </TabItem>
-      <TabItem to="/tab2" selected={props.selectedChartgroup === "/tab2"}>
+      {/* <TabItem to="/tab2" selected={props.selectedChartgroup === "/tab2"}>
         {t("tabs.mainresults")}
-      </TabItem>
+      </TabItem> */}
     </TabLayout>
   );
 }

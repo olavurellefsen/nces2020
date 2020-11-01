@@ -69,7 +69,7 @@ exports[`should render correctly 1`] = `
             class="sc-gZMcBi dMbhNk"
           >
             <svg>
-              europe.svg
+              regions.svg
             </svg>
           </div>
           <hr
@@ -479,7 +479,7 @@ exports[`should render correctly 1`] = `
             class="sc-gZMcBi dMbhNk"
           >
             <svg>
-              europe.svg
+              regions.svg
             </svg>
           </div>
           <hr

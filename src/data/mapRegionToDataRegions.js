@@ -1,27 +1,33 @@
-export default {
-    sweden: {
+export default [
+    {
+        country: "Sweden",
         path_id : "se", 
         data_regions: ["SE1", "SE2", "SE3", "SE4"],
     }, 
-    norway: {
+    {
+        country: "Norway",
         path_id : "no", 
         data_regions: ["NO1", "NO2"],
     }, 
-    denmark: {
+    {
+        country: "Denmark",
         path_id : "dk", 
         data_regions: ["DKE", "DKW"],
     }, 
-    finland: {
+    {
+        country: "Finland",
         path_id : "fi", 
         data_regions: [],
     },
-    iceland: {
-        path_id : "fi", 
+    {
+        country: "Iceland",
+        path_id : "is", 
         data_regions: [],
     },
-    faroe_islands: {
-        path_id : "fi", 
+    {
+        country: "Faroe Islands",
+        path_id : "fo", 
         data_regions: [],
     },
-}
+]
 

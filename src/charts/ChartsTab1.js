@@ -6,13 +6,12 @@ import StackedBarDiffChart from './StackedBarDiffChart'
 import { MainArea, Flex } from './Charts.style'
 import stackedBar from '../data/stackedBar'
 import line from '../data/line'
-import indicators from '../data/indicators'
+import indicators from '../data/indicatorsTab1'
 
 const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection
   const selectedScenario2 = props.scenarioSelection.scenarioSelection2
   const selectedCountries = props.selectedCountries
-  const options = props.scenarioSelection.options
 
   return (
     <MainArea>
@@ -24,7 +23,8 @@ const Charts = props => {
           selectedScenario2 === '')) && (
         <Flex>
           {
-indicators.map(i => <StackedBarChart
+indicators.map((i, index) => <StackedBarChart
+  key={i+' '+index}
   chartName={i}
   chartTitle={i}
   selectedScenario={selectedScenario}
