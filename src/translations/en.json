@@ -66,8 +66,13 @@
     "tab6": "Households",
     "tab7": "Transport",
     "mobile": {
-      "overview": "Main results",
-      "mainresults": "Transport sector"
+      "tab1": "Main results",
+      "tab2": "Supply",
+      "tab3": "Power & DH",
+      "tab4": "Heavy industry",
+      "tab5": "Other",
+      "tab6": "Households",
+      "tab7": "Transport"
     }
   },
   "welcome-text": {
