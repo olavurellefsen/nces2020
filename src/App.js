@@ -9,6 +9,11 @@ import Tabs from './tabs/Tabs'
 import TabsMobile from './tabs/Tabs.mobile'
 import ChartsTab1 from './charts/ChartsTab1'
 import ChartsTab2 from './charts/ChartsTab2'
+import ChartsTab3 from './charts/ChartsTab3'
+import ChartsTab4 from './charts/ChartsTab4'
+import ChartsTab5 from './charts/ChartsTab5'
+import ChartsTab6 from './charts/ChartsTab6'
+import ChartsTab7 from './charts/ChartsTab7'
 import PageRenderer from './pages/PageRenderer'
 import scenarioCombinations from './data/scenarioCombinations'
 
@@ -227,6 +232,56 @@ export class App extends React.Component {
                 path="/tab2"
                 render={() => (
                   <ChartsTab2
+                    scenarioSelection={this.state}
+                    closeWelcome={this.CloseWelcomeWidget}
+                    selectedCountries={this.state.selectedCountries}
+                  />
+                )}
+              />
+              <Route
+                path="/tab3"
+                render={() => (
+                  <ChartsTab3
+                    scenarioSelection={this.state}
+                    closeWelcome={this.CloseWelcomeWidget}
+                    selectedCountries={this.state.selectedCountries}
+                  />
+                )}
+              />
+              <Route
+                path="/tab4"
+                render={() => (
+                  <ChartsTab4
+                    scenarioSelection={this.state}
+                    closeWelcome={this.CloseWelcomeWidget}
+                    selectedCountries={this.state.selectedCountries}
+                  />
+                )}
+              />
+              <Route
+                path="/tab5"
+                render={() => (
+                  <ChartsTab5
+                    scenarioSelection={this.state}
+                    closeWelcome={this.CloseWelcomeWidget}
+                    selectedCountries={this.state.selectedCountries}
+                  />
+                )}
+              />
+              <Route
+                path="/tab6"
+                render={() => (
+                  <ChartsTab6
+                    scenarioSelection={this.state}
+                    closeWelcome={this.CloseWelcomeWidget}
+                    selectedCountries={this.state.selectedCountries}
+                  />
+                )}
+              />
+              <Route
+                path="/tab7"
+                render={() => (
+                  <ChartsTab7
                     scenarioSelection={this.state}
                     closeWelcome={this.CloseWelcomeWidget}
                     selectedCountries={this.state.selectedCountries}

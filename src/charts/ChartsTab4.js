@@ -6,7 +6,7 @@ import StackedBarDiffChart from './StackedBarDiffChart'
 import { MainArea, Flex } from './Charts.style'
 import stackedBar from '../data/stackedBar'
 import line from '../data/line'
-import indicators from '../data/indicatorsTab1'
+import indicators from '../data/indicatorsTab4'
 
 const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection

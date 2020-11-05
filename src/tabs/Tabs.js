@@ -44,11 +44,26 @@ function Tabs(props) {
   return (
     <TabLayout>
       <TabItem to="/" selected={props.selectedChartgroup === "/"}>
-        {t("tabs.overview")}
+        {t("tabs.tab1")}
       </TabItem>
-      {/* <TabItem to="/tab2" selected={props.selectedChartgroup === "/tab2"}>
-        {t("tabs.mainresults")}
-      </TabItem> */}
+      <TabItem to="/tab2" selected={props.selectedChartgroup === "/tab2"}>
+        {t("tabs.tab2")}
+      </TabItem>
+      <TabItem to="/tab3" selected={props.selectedChartgroup === "/tab3"}>
+        {t("tabs.tab3")}
+      </TabItem>
+      <TabItem to="/tab4" selected={props.selectedChartgroup === "/tab4"}>
+        {t("tabs.tab4")}
+      </TabItem>
+      <TabItem to="/tab5" selected={props.selectedChartgroup === "/tab5"}>
+        {t("tabs.tab5")}
+      </TabItem>
+      <TabItem to="/tab6" selected={props.selectedChartgroup === "/tab6"}>
+        {t("tabs.tab6")}
+      </TabItem>
+      <TabItem to="/tab7" selected={props.selectedChartgroup === "/tab7"}>
+        {t("tabs.tab7")}
+      </TabItem>
     </TabLayout>
   );
 }

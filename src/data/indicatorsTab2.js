@@ -1,7 +1,11 @@
+// Supply
 export default 
     [
-        "_Biomass Primary Supply",
-        "_CO2 Emissions"
+        "_RE_refineries",
+        "_Supply CO2",
+        "_SupplyCost",
+        "_SysCost",
+        "_TPES",
     ]
 
 var ind = {
