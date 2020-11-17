@@ -29,7 +29,7 @@ ChartHeader.displayName = 'ChartHeader'
 const StackedBarChart = props => {
   const { t } = useTranslation()
   const stackedBar = props.stackedBar
-  const scenario = props.selectedScenario
+  const scenario = props.selectedScenario.substring(12, 17) === "_copy" ? props.selectedScenario.replace("_copy", "") : props.selectedScenario
   const scenario2 = props.selectedScenario2
   const selectedCountries = props.selectedCountries
   const chartName = props.chartName
@@ -78,6 +78,7 @@ const StackedBarChart = props => {
   })
   
   let legends = new Set()
+  
   stackedBar.data.scenarios
   .find(o => o.scenario === scenario)
   .indicators.find(o => o.indicator === chartName).regions.forEach((reg)=>{

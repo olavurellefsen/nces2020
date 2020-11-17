@@ -18,10 +18,20 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     })
     if (!scenario) return undefined //this will be the case for sceanrio2 if only one scenario is selected
     let accumulatedData = {}
-    data.scenarios
-        .find(o => o.scenario === scenario)
-        .indicators.find(o => o.indicator === chartName)
-        .regions.forEach(r => {
+    console.log("scenario accu****************************: ", scenario)
+    console.log("scenarioL: ", scenario.length)
+    console.log("_copy: ", scenario.substring(12, 17))
+    console.log("scenarioA: ", scenario)
+    if (scenario.substring(12, 17) === "_copy")
+      scenario = scenario.replace("_copy", "")
+    console.log("_copy replaced", scenario)
+    console.log("length", scenario.length)
+    let scen = data.scenarios
+    .find(o => o.scenario === scenario)
+    console.log("scen: ", scen)
+    let ind = scen.indicators.find(o => o.indicator === chartName)
+        console.log("ind: ", ind)
+        ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
               if (!accumulatedData[indicatorGroup.indicatorGroup]) {
                 accumulatedData[indicatorGroup.indicatorGroup]=[]
