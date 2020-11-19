@@ -93,7 +93,7 @@ export class App extends React.Component {
       return {
         scenarioSelection:
           state.scenarioSelectionNoOptions +
-          (state.options[state.scenarioSelectionNoOptions].ccs ? '_cns' : '') +
+          (state.options[state.scenarioSelectionNoOptions].cns ? '_cns' : '') +
           (state.options[state.scenarioSelectionNoOptions].bio ? '_bio' : '') +
           (state.options[state.scenarioSelectionNoOptions].opt2 ? '_ELC' : '') +
           (state.options[state.scenarioSelectionNoOptions].opt3 ? '_SAC' : ''),
@@ -104,7 +104,7 @@ export class App extends React.Component {
         scenarioSelection2:
           state.scenarioSelectionNoOptions2 !== ''
             ? state.scenarioSelectionNoOptions2 +
-              (state.options[state.scenarioSelectionNoOptions2].ccs
+              (state.options[state.scenarioSelectionNoOptions2].cns
                 ? '_cns'
                 : '') +
               (state.options[state.scenarioSelectionNoOptions2].bio ? '_bio' : '') +
@@ -124,6 +124,8 @@ export class App extends React.Component {
     })
   }
   UpdateScenarioSelection = (e, name, value) => {
+    //console.log("name: ", name)
+    //console.log("value: ", value)
     e.preventDefault()
     if (this.state.scenarioSelectionNoOptions2 !== '') {
       if (value === this.state.scenarioSelectionNoOptions) {
@@ -142,15 +144,20 @@ export class App extends React.Component {
           this.unselectToggles(this.state.scenarioSelectionNoOptions2)
           this.setState({ showDifference: false })
         } else {
+          console.log("hello")
           this.setState(changeScenario('scenarioSelectionNoOptions2', value))
         }
       }
     } else {
+      //console.log("hello2: ", changeScenario('scenarioSelectionNoOptions2', value))
       if (value !== this.state.scenarioSelectionNoOptions) {
-        this.setState(changeScenario('scenarioSelectionNoOptions2', value))
+        this.setState(changeScenario('scenarioSelectionNoOptions2', value), ()=>{
+          //console.log("stateCallb: ", this.state)
+        })
       }
     }
     this.UpdateScenarioNames()
+    //console.log("state: ", this.state)
   }
 
 
@@ -183,7 +190,9 @@ export class App extends React.Component {
       selectedCountries: newSelectedCountries,
     })
   }
+  
   render() {
+    console.log("stateBeforeRender: ", this.state)
     return (
       <Page>
         <LeftColumn>

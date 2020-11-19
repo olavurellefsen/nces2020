@@ -44,6 +44,7 @@ const ScenarioSelectionList = props => {
       if (optionValue === "division_line") {
         return <MenuSeparatorLine key={option.id} />;
       } else {
+        console.log("optionvalue: ", optionValue)
         return (
           <ScenarioOption
             key={option.id}
