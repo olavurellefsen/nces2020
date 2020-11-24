@@ -23,7 +23,7 @@
           "cns": false, //must correspond to name
           "bio": false  //must correspond to name
         },
-        { "id": 5, "name": "CNS_2311_bio_copy", "nameNoOptions": "CNS_2311_copy", "short_description": "cns + bio", "ultra_short_description": "Tech","desc":"nordic_tech_desc", "cns": true, "bio": true },
+        { "id": 5, "name": "CNS_2311_copy_bio", "nameNoOptions": "CNS_2311_copy", "short_description": "cns + bio", "ultra_short_description": "Tech","desc":"nordic_tech_desc", "cns": true, "bio": true },
         
       ], 
       optionsAvailable:  { //option names are defined in src/translations/

@@ -20,9 +20,9 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     let accumulatedData = {}
     console.log("scenario accu****************************: ", scenario)
     console.log("scenarioL: ", scenario.length)
-    console.log("_copy: ", scenario.substring(12, 17))
+    console.log("_copy: ", scenario.substring(8, 13))
     console.log("scenarioA: ", scenario)
-    if (scenario.substring(12, 17) === "_copy")
+    if (scenario.substring(8, 13) === "_copy")
       scenario = scenario.replace("_copy", "")
     console.log("_copy replaced", scenario)
     console.log("length", scenario.length)
@@ -33,7 +33,7 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     let ind = scen.indicators.find(o => o.indicator === chartName)
         console.log("chartName: ", chartName)
         console.log("all ind: ", scen.indicators)
-        console.log("ind: ", ind.regions)
+        console.log("ind: ", ind)
         ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
               if (!accumulatedData[indicatorGroup.indicatorGroup]) {
