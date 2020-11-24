@@ -29,8 +29,9 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     let scen = data.scenarios
     .find(o => o.scenario === scenario)
     console.log("scen: ", scen)
+    console.log("all scens: ", data.scenarios)
     let ind = scen.indicators.find(o => o.indicator === chartName)
-        console.log("ind: ", ind)
+        //console.log("ind: ", ind)
         ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
               if (!accumulatedData[indicatorGroup.indicatorGroup]) {
@@ -43,8 +44,12 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
                 indicatorGroup.indicatorGroupValues.forEach((value, index) => {
                   //if(indicatorGroup.indicatorGroup === "Wood chips and wood waste")
                   //if(indicatorGroup.indicatorGroup === "Straw")
+                  //console.log("fff*************", accumulatedData[indicatorGroup.indicatorGroup])
+                  //console.log("index: ", index)
                   if (accumulatedData[indicatorGroup.indicatorGroup][index].year !== value.year ) {
                      //Extra check we rely on the two arrays being indexed the same way
+                     console.log("accu:", accumulatedData[indicatorGroup.indicatorGroup][index].year)
+                     console.log("value: ", value.year)
                     console.log("Error in array indexing")
                   }
                   accumulatedData[indicatorGroup.indicatorGroup][index].total += percentage ? value.total/selectedCountries.length : value.total

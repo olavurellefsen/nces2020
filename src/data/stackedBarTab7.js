@@ -5670,7 +5670,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio_2311",
+        "scenario": "CNS_2311_bio",
         "indicators": [
           {
             "indicator": "Transport CO2 emissioner",

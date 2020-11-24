@@ -43,9 +43,9 @@ function Tabs(props) {
   const { t } = useTranslation();
   return (
     <TabLayout>
-      <TabItem to="/" selected={props.selectedChartgroup === "/"}>
+      {/* <TabItem to="/" selected={props.selectedChartgroup === "/"}>
         {t("tabs.tab1")}
-      </TabItem>
+      </TabItem> */}
       <TabItem to="/tab2" selected={props.selectedChartgroup === "/tab2"}>
         {t("tabs.tab2")}
       </TabItem>

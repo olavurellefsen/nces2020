@@ -55,7 +55,7 @@ export const changeScenario = (name, value) => ({
   [name]: value,
 })
 
-const default_scenario = "ONTIMES_2209";
+const default_scenario = "CNS_2311";
 const default_countries = ['no','se','dk'];
 const options = []
 scenarioCombinations.scenarioCombinations.scenarioOptions
@@ -90,6 +90,7 @@ export class App extends React.Component {
   }
   UpdateScenarioNames = () => {
     this.setState(state => {
+      console.log("state: ", state)
       return {
         scenarioSelection:
           state.scenarioSelectionNoOptions +
