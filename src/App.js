@@ -56,7 +56,7 @@ export const changeScenario = (name, value) => ({
 })
 
 const default_scenario = "CNS_2311";
-const default_countries = ['no','se','dk'];
+const default_countries = ['no','se','dk', "fi"];
 const options = []
 scenarioCombinations.scenarioCombinations.scenarioOptions
   .filter(s => !s.ccs && !s.bio && !s.opt2 && !s.opt3)
