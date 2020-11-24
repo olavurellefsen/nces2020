@@ -1,11 +1,13 @@
 //Power and DH
 export default
 [
-  "_Power Trade",
-  "_Power Trade Nordic",
-  "_Power capacity",
-  "_Power&HEat fuel consumption",
-  "_District heat production",
+  "Power Trade",
+  "Power Trade Nordic",
+  "Power capacity",
+  "Marginal Prices - District Hea",
+  "District heat production",
+  "Marginal Prices - Electricity ",
+  "Power&HEat fuel consumption",
 ]
 
 

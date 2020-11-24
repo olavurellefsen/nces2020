@@ -31,7 +31,9 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     console.log("scen: ", scen)
     console.log("all scens: ", data.scenarios)
     let ind = scen.indicators.find(o => o.indicator === chartName)
-        //console.log("ind: ", ind)
+        console.log("chartName: ", chartName)
+        console.log("all ind: ", scen.indicators)
+        console.log("ind: ", ind.regions)
         ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
               if (!accumulatedData[indicatorGroup.indicatorGroup]) {

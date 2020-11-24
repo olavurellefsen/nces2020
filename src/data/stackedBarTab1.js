@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS",
+        "scenario": "CNS_2311",
         "indicators": [
           {
             "indicator": "CO2 Emissions",
@@ -1875,7 +1875,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNS_2311_bio",
         "indicators": [
           {
             "indicator": "CO2 Emissions",

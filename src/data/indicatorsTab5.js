@@ -1,7 +1,12 @@
 //Other sectors Prod. industry Trade & Service
 export default 
 [
-  "_Other Industry CO2 emissions",
-  "_Other Industry Cost",
-  "_Other Industry Service demand",
+  "Final energy consumption by sector",
+  "Other Industry Agriculture fue",
+  "Other Industry CO2 emissions",
+  "Other Industry Cost",
+  "Other Industry Service demand",
+  "Other Industry Production fuel",
+  "Other Industry Trade and Servi",
+  "Other Industry fuel consumption",
 ]
