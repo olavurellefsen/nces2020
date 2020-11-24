@@ -11,7 +11,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -224,7 +224,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -1294,7 +1294,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -1507,7 +1507,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -2577,7 +2577,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -2790,7 +2790,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -3860,7 +3860,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -4073,7 +4073,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -5143,7 +5143,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -5356,7 +5356,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -6426,7 +6426,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -6639,7 +6639,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -7709,7 +7709,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -7922,7 +7922,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -8992,7 +8992,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -9205,7 +9205,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -10275,7 +10275,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -10488,7 +10488,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -11558,7 +11558,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -11771,7 +11771,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -12841,7 +12841,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -13054,7 +13054,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -14124,7 +14124,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -14337,7 +14337,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -15407,7 +15407,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -15620,7 +15620,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -16690,7 +16690,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -16903,7 +16903,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -17973,7 +17973,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -18186,7 +18186,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -19256,7 +19256,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -19469,7 +19469,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -20539,7 +20539,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -20752,7 +20752,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -21822,7 +21822,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -22035,7 +22035,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -23105,7 +23105,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -23318,7 +23318,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -24388,7 +24388,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -24601,7 +24601,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -25671,7 +25671,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
@@ -25884,7 +25884,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogases",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2010,
