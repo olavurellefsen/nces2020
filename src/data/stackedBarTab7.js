@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS_2311",
+        "scenario": "CNS",
         "indicators": [
           {
             "indicator": "Transport CO2 emissioner",
@@ -443,7 +443,44 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel",
+                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 62.4650704636
+                      },
+                      {
+                        "year": 2020,
+                        "total": 54.2338464233
+                      },
+                      {
+                        "year": 2025,
+                        "total": 38.7657002335
+                      },
+                      {
+                        "year": 2030,
+                        "total": 22.2376853858
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.7687697076
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.7368815898
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0471270855
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.001662627
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Annual activity costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -552,43 +589,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 62.4650704636
-                      },
-                      {
-                        "year": 2020,
-                        "total": 54.2338464233
-                      },
-                      {
-                        "year": 2025,
-                        "total": 38.7657002335
-                      },
-                      {
-                        "year": 2030,
-                        "total": 22.2376853858
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.7687697076
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.7368815898
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0471270855
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.001662627
-                      }
-                    ]
                   }
                 ]
               },
@@ -596,7 +596,44 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel",
+                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 57.9441391814
+                      },
+                      {
+                        "year": 2020,
+                        "total": 49.2238580077
+                      },
+                      {
+                        "year": 2025,
+                        "total": 41.4195803928
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.6159070237
+                      },
+                      {
+                        "year": 2035,
+                        "total": 22.4475379925
+                      },
+                      {
+                        "year": 2040,
+                        "total": 19.3940540216
+                      },
+                      {
+                        "year": 2045,
+                        "total": 19.6495373975
+                      },
+                      {
+                        "year": 2050,
+                        "total": 17.8209380104
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Annual activity costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -705,43 +742,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 57.9441391814
-                      },
-                      {
-                        "year": 2020,
-                        "total": 49.2238580077
-                      },
-                      {
-                        "year": 2025,
-                        "total": 41.4195803928
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.6159070237
-                      },
-                      {
-                        "year": 2035,
-                        "total": 22.4475379925
-                      },
-                      {
-                        "year": 2040,
-                        "total": 19.3940540216
-                      },
-                      {
-                        "year": 2045,
-                        "total": 19.6495373975
-                      },
-                      {
-                        "year": 2050,
-                        "total": 17.8209380104
-                      }
-                    ]
                   }
                 ]
               },
@@ -749,7 +749,44 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel",
+                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 32.7778857177
+                      },
+                      {
+                        "year": 2020,
+                        "total": 42.7936394707
+                      },
+                      {
+                        "year": 2025,
+                        "total": 35.7728255065
+                      },
+                      {
+                        "year": 2030,
+                        "total": 28.2656912531
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.3730384929
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1.8949204889
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1702297569
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0003578909
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Annual activity costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -858,43 +895,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 32.7778857177
-                      },
-                      {
-                        "year": 2020,
-                        "total": 42.7936394707
-                      },
-                      {
-                        "year": 2025,
-                        "total": 35.7728255065
-                      },
-                      {
-                        "year": 2030,
-                        "total": 28.2656912531
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.3730384929
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.8949204889
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1702297569
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0003578909
-                      }
-                    ]
                   }
                 ]
               },
@@ -902,7 +902,44 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel",
+                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.4618116153
+                      },
+                      {
+                        "year": 2020,
+                        "total": 87.5538775805
+                      },
+                      {
+                        "year": 2025,
+                        "total": 55.258451983
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.4211384162
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7.9253019753
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.8069440694
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0672881005
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0022719902
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Annual activity costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1009,43 +1046,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.15683e-05
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.4618116153
-                      },
-                      {
-                        "year": 2020,
-                        "total": 87.5538775805
-                      },
-                      {
-                        "year": 2025,
-                        "total": 55.258451983
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.4211384162
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.9253019753
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.8069440694
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0672881005
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0022719902
                       }
                     ]
                   }
@@ -5670,7 +5670,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_2311_bio",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
             "indicator": "Transport CO2 emissioner",
@@ -6111,7 +6111,44 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel",
+                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 62.4650704636
+                      },
+                      {
+                        "year": 2020,
+                        "total": 54.2338464233
+                      },
+                      {
+                        "year": 2025,
+                        "total": 37.8156867555
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21.2679648584
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.852079177
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.5429370612
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0471270855
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.001662627
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Annual activity costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6220,43 +6257,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 62.4650704636
-                      },
-                      {
-                        "year": 2020,
-                        "total": 54.2338464233
-                      },
-                      {
-                        "year": 2025,
-                        "total": 37.8156867555
-                      },
-                      {
-                        "year": 2030,
-                        "total": 21.2679648584
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.852079177
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.5429370612
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0471270855
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.001662627
-                      }
-                    ]
                   }
                 ]
               },
@@ -6264,7 +6264,44 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel",
+                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 57.9441391814
+                      },
+                      {
+                        "year": 2020,
+                        "total": 49.2561354979
+                      },
+                      {
+                        "year": 2025,
+                        "total": 41.451857883
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.6532636814
+                      },
+                      {
+                        "year": 2035,
+                        "total": 22.4848946502
+                      },
+                      {
+                        "year": 2040,
+                        "total": 19.5304916959
+                      },
+                      {
+                        "year": 2045,
+                        "total": 19.1011342135
+                      },
+                      {
+                        "year": 2050,
+                        "total": 17.2725370079
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Annual activity costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6373,43 +6410,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 57.9441391814
-                      },
-                      {
-                        "year": 2020,
-                        "total": 49.2561354979
-                      },
-                      {
-                        "year": 2025,
-                        "total": 41.451857883
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.6532636814
-                      },
-                      {
-                        "year": 2035,
-                        "total": 22.4848946502
-                      },
-                      {
-                        "year": 2040,
-                        "total": 19.5304916959
-                      },
-                      {
-                        "year": 2045,
-                        "total": 19.1011342135
-                      },
-                      {
-                        "year": 2050,
-                        "total": 17.2725370079
-                      }
-                    ]
                   }
                 ]
               },
@@ -6417,7 +6417,44 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel",
+                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 32.7778857177
+                      },
+                      {
+                        "year": 2020,
+                        "total": 42.7936394707
+                      },
+                      {
+                        "year": 2025,
+                        "total": 35.582498236
+                      },
+                      {
+                        "year": 2030,
+                        "total": 27.8334042226
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.9462136986
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1.6183491148
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1201665976
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0003578909
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Annual activity costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6526,43 +6563,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 32.7778857177
-                      },
-                      {
-                        "year": 2020,
-                        "total": 42.7936394707
-                      },
-                      {
-                        "year": 2025,
-                        "total": 35.582498236
-                      },
-                      {
-                        "year": 2030,
-                        "total": 27.8334042226
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.9462136986
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.6183491148
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1201665976
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0003578909
-                      }
-                    ]
                   }
                 ]
               },
@@ -6570,7 +6570,44 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel",
+                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.4618116153
+                      },
+                      {
+                        "year": 2020,
+                        "total": 88.4976315497
+                      },
+                      {
+                        "year": 2025,
+                        "total": 55.258451983
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.4211384162
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7.9253019753
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.8069440694
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0672881005
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0022719902
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Annual activity costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6677,43 +6714,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.15683e-05
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.4618116153
-                      },
-                      {
-                        "year": 2020,
-                        "total": 88.4976315497
-                      },
-                      {
-                        "year": 2025,
-                        "total": 55.258451983
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.4211384162
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.9253019753
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.8069440694
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0672881005
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0022719902
                       }
                     ]
                   }

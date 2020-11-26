@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS_2311",
+        "scenario": "CNS",
         "indicators": [
           {
             "indicator": "Final energy consumption by sector",
@@ -1552,7 +1552,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other Industry Agriculture fue",
+            "indicator": "Other Industry Agriculture fuel",
             "regions": [
               {
                 "region": "DK",
@@ -6951,7 +6951,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other Industry Trade and Servi",
+            "indicator": "Other Industry Trade and Services",
             "regions": [
               {
                 "region": "DK",
@@ -9418,7 +9418,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_2311_bio",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
             "indicator": "Final energy consumption by sector",
@@ -10968,7 +10968,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other Industry Agriculture fue",
+            "indicator": "Other Industry Agriculture fuel",
             "regions": [
               {
                 "region": "DK",
@@ -16367,7 +16367,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other Industry Trade and Servi",
+            "indicator": "Other Industry Trade and Services",
             "regions": [
               {
                 "region": "DK",

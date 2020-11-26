@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS_2311",
+        "scenario": "CNS",
         "indicators": [
           {
             "indicator": "Heavy Industry CO2 emissions",
@@ -2051,7 +2051,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry Cement Fuel con",
+            "indicator": "Heavy industry Cement Fuel consumption",
             "regions": [
               {
                 "region": "DK",
@@ -3154,7 +3154,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry Fuel consumptio",
+            "indicator": "Heavy industry Fuel consumption",
             "regions": [
               {
                 "region": "DK",
@@ -4726,7 +4726,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry Mining Fuel con",
+            "indicator": "Heavy industry Mining Fuel consumption",
             "regions": [
               {
                 "region": "FI",
@@ -6653,7 +6653,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_2311_bio",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
             "indicator": "Heavy Industry CO2 emissions",
@@ -8702,7 +8702,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry Cement Fuel con",
+            "indicator": "Heavy industry Cement Fuel consumption",
             "regions": [
               {
                 "region": "DK",
@@ -9805,7 +9805,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry Fuel consumptio",
+            "indicator": "Heavy industry Fuel consumption",
             "regions": [
               {
                 "region": "DK",
@@ -11377,7 +11377,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry Mining Fuel con",
+            "indicator": "Heavy industry Mining Fuel consumption",
             "regions": [
               {
                 "region": "FI",

@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS_2311",
+        "scenario": "CNS",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -807,7 +807,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal Prices - District Hea",
+            "indicator": "Marginal Prices - District Heat",
             "regions": [
               {
                 "region": "DK",
@@ -4272,7 +4272,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power&HEat fuel consumption",
+            "indicator": "Power&Heat fuel consumption",
             "regions": [
               {
                 "region": "DK",
@@ -5488,7 +5488,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_2311_bio",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -6293,7 +6293,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal Prices - District Hea",
+            "indicator": "Marginal Prices - District Heat",
             "regions": [
               {
                 "region": "DK",
@@ -9758,7 +9758,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power&HEat fuel consumption",
+            "indicator": "Power&Heat fuel consumption",
             "regions": [
               {
                 "region": "DK",
