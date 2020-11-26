@@ -90,7 +90,6 @@ export class App extends React.Component {
   }
   UpdateScenarioNames = () => {
     this.setState(state => {
-      console.log("state: ", state)
       return {
         scenarioSelection:
           state.scenarioSelectionNoOptions +
@@ -125,8 +124,6 @@ export class App extends React.Component {
     })
   }
   UpdateScenarioSelection = (e, name, value) => {
-    //console.log("name: ", name)
-    //console.log("value: ", value)
     e.preventDefault()
     if (this.state.scenarioSelectionNoOptions2 !== '') {
       if (value === this.state.scenarioSelectionNoOptions) {
@@ -145,20 +142,16 @@ export class App extends React.Component {
           this.unselectToggles(this.state.scenarioSelectionNoOptions2)
           this.setState({ showDifference: false })
         } else {
-          console.log("hello")
           this.setState(changeScenario('scenarioSelectionNoOptions2', value))
         }
       }
     } else {
-      //console.log("hello2: ", changeScenario('scenarioSelectionNoOptions2', value))
       if (value !== this.state.scenarioSelectionNoOptions) {
         this.setState(changeScenario('scenarioSelectionNoOptions2', value), ()=>{
-          //console.log("stateCallb: ", this.state)
         })
       }
     }
     this.UpdateScenarioNames()
-    //console.log("state: ", this.state)
   }
 
 
@@ -193,7 +186,6 @@ export class App extends React.Component {
   }
   
   render() {
-    console.log("stateBeforeRender: ", this.state)
     return (
       <Page>
         <LeftColumn>

@@ -26,8 +26,6 @@ const ChartHeader = styled(VictoryLabel)`
 ChartHeader.displayName = 'ChartHeader'
 
 const StackedBarChart = props => {
-  console.log("diff: ", props.selectedScenario)
-  console.log("diff: ", props.selectedScenario2)
   const { t } = useTranslation()
   const stackedBar = props.stackedBar
   const scenario = props.selectedScenario
@@ -69,19 +67,14 @@ const StackedBarChart = props => {
 
   const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
-  console.log("dataScenario1: ", dataScenario1)
-  console.log("dataScenario2: ", dataScenario2)
   const accumulatedDataScenario1 = dataScenario1[0]
   const accumulatedDataScenario2 = scenario2 ? dataScenario2[0] : undefined
   let diffData = JSON.parse(JSON.stringify(accumulatedDataScenario1))
   Object.keys(accumulatedDataScenario2).forEach(indicatorName => {
     accumulatedDataScenario2[indicatorName].forEach((yearValue, index) => {
-      console.log("diffData[indicatorName][index].total: ", diffData[indicatorName][index].total)
-      console.log("yearValue.total: ", yearValue.total)
       diffData[indicatorName][index].total =  diffData[indicatorName][index].total - yearValue.total
     })
   }) 
-  console.log("diffData: ", diffData)
   let maxValue = -Infinity
   let minValue = Infinity
 
@@ -93,10 +86,8 @@ const StackedBarChart = props => {
     totalYearValuesNeg[year] = 0
   })
   Object.keys(diffData).forEach(indicatorName => {
-    console.log("indicatirName: ", indicatorName)
     diffData[indicatorName].forEach(yearValue => {
       let value = yearValue.total
-      console.log("yearValue: ", yearValue)
       if (value < 0) {
         totalYearValuesNeg[yearValue.year] += yearValue.total
 
