@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS_2311",
+        "scenario": "CNS",
         "indicators": [
           {
             "indicator": "Household electric appliances",
@@ -4150,7 +4150,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio_2311",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
             "indicator": "Household electric appliances",
