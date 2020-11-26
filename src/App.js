@@ -55,8 +55,8 @@ export const changeScenario = (name, value) => ({
   [name]: value,
 })
 
-const default_scenario = "ONTIMES_2209";
-const default_countries = ['no','se','dk'];
+const default_scenario = "CNS_2311";
+const default_countries = ['no','se','dk', "fi"];
 const options = []
 scenarioCombinations.scenarioCombinations.scenarioOptions
   .filter(s => !s.ccs && !s.bio && !s.opt2 && !s.opt3)
@@ -124,8 +124,6 @@ export class App extends React.Component {
     })
   }
   UpdateScenarioSelection = (e, name, value) => {
-    //console.log("name: ", name)
-    //console.log("value: ", value)
     e.preventDefault()
     if (this.state.scenarioSelectionNoOptions2 !== '') {
       if (value === this.state.scenarioSelectionNoOptions) {
@@ -144,20 +142,16 @@ export class App extends React.Component {
           this.unselectToggles(this.state.scenarioSelectionNoOptions2)
           this.setState({ showDifference: false })
         } else {
-          console.log("hello")
           this.setState(changeScenario('scenarioSelectionNoOptions2', value))
         }
       }
     } else {
-      //console.log("hello2: ", changeScenario('scenarioSelectionNoOptions2', value))
       if (value !== this.state.scenarioSelectionNoOptions) {
         this.setState(changeScenario('scenarioSelectionNoOptions2', value), ()=>{
-          //console.log("stateCallb: ", this.state)
         })
       }
     }
     this.UpdateScenarioNames()
-    //console.log("state: ", this.state)
   }
 
 
@@ -192,7 +186,6 @@ export class App extends React.Component {
   }
   
   render() {
-    console.log("stateBeforeRender: ", this.state)
     return (
       <Page>
         <LeftColumn>

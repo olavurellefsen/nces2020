@@ -2,22 +2,22 @@ export default [
     {
         country: "Sweden",
         path_id : "se", 
-        data_regions: ["SE1", "SE2", "SE3", "SE4"],
+        data_regions: ["SE"],
     }, 
     {
         country: "Norway",
         path_id : "no", 
-        data_regions: ["NO1", "NO2"],
+        data_regions: ["NO"],
     }, 
     {
         country: "Denmark",
         path_id : "dk", 
-        data_regions: ["DKE", "DKW"],
+        data_regions: ["DK"],
     }, 
     {
         country: "Finland",
         path_id : "fi", 
-        data_regions: [],
+        data_regions: ["FI"],
     },
     {
         country: "Iceland",

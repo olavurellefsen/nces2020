@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
+import years from "../data/years"
 import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
@@ -33,7 +34,7 @@ const StackedBarChart = props => {
   const chartName = props.chartName
   const chartTitle = t('chartTitle.' + props.chartTitle)
   const combinedChart = props.combinedChart
-  const periods = [2010, 2020, 2030, 2040, 2050]
+  const periods = years
   let gutter, rowGutter
   let minY = props.minY
   let maxY = props.maxY
@@ -79,7 +80,7 @@ const StackedBarChart = props => {
 
   let totalYearValuesPos = {}
   let totalYearValuesNeg = {}
-  const years = [2010, 2013,2020,2030,2040, 2050]
+  
   years.forEach(year => {
     totalYearValuesPos[year] = 0
     totalYearValuesNeg[year] = 0

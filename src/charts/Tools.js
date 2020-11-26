@@ -18,19 +18,11 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     })
     if (!scenario) return undefined //this will be the case for sceanrio2 if only one scenario is selected
     let accumulatedData = {}
-    console.log("scenario accu****************************: ", scenario)
-    console.log("scenarioL: ", scenario.length)
-    console.log("_copy: ", scenario.substring(12, 17))
-    console.log("scenarioA: ", scenario)
-    if (scenario.substring(12, 17) === "_copy")
+    if (scenario.substring(8, 13) === "_copy")
       scenario = scenario.replace("_copy", "")
-    console.log("_copy replaced", scenario)
-    console.log("length", scenario.length)
     let scen = data.scenarios
     .find(o => o.scenario === scenario)
-    console.log("scen: ", scen)
     let ind = scen.indicators.find(o => o.indicator === chartName)
-        console.log("ind: ", ind)
         ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
               if (!accumulatedData[indicatorGroup.indicatorGroup]) {
@@ -41,8 +33,6 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
               }
               if (selectedDataRegions.includes(r.region)) {//Only include selected countries
                 indicatorGroup.indicatorGroupValues.forEach((value, index) => {
-                  //if(indicatorGroup.indicatorGroup === "Wood chips and wood waste")
-                  //if(indicatorGroup.indicatorGroup === "Straw")
                   if (accumulatedData[indicatorGroup.indicatorGroup][index].year !== value.year ) {
                      //Extra check we rely on the two arrays being indexed the same way
                     console.log("Error in array indexing")

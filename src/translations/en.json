@@ -40,10 +40,10 @@
     "Tech": "Tech",
     "nordic_tech_desc":"This scenario has a technology focus and include a range of transport <br /> technology  options and future development of them. However, no external <br /> shift and avoid measures are assumed possible for meeting the CO2 target",
     "nordic_shift_desc":"This scenario includes an alternative transport demand development considering <br /> external shift and avoid measures (i.e., shift to more energy-efficient modes <br /> and avoided travel demand), e.g., lower car traffic levels. <br /> It includes the same technology options and performance as Nordic_Tech",
-    "TBase": "Times1",
-    "TBase2": "Times2",
-    "B1": "T1",
-    "B2": "T2",
+    "TBase": "CNS1",
+    "TBase2": "CNS2",
+    "B1": "C1",
+    "B2": "C2",
     "times_desc": "Long eleoquent Times scenario description"
   },
   "scenario_code": {
