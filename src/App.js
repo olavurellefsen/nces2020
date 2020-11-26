@@ -54,8 +54,8 @@ const MainSwitch = styled(Switch)`
 export const changeScenario = (name, value) => ({
   [name]: value,
 })
-
-const default_scenario = "CNS_2311";
+console.log("scenarioCombinations.scenarioCombinations: ", scenarioCombinations.scenarioCombinations)
+const default_scenario = scenarioCombinations.scenarioCombinations.scenarioOptions[0].name;
 const default_countries = ['no','se','dk', "fi"];
 const options = []
 scenarioCombinations.scenarioCombinations.scenarioOptions

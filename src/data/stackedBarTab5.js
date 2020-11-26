@@ -9418,7 +9418,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNS_bio",
         "indicators": [
           {
             "indicator": "Final energy consumption by sector",

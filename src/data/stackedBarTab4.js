@@ -6653,7 +6653,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNS_bio",
         "indicators": [
           {
             "indicator": "Heavy Industry CO2 emissions",
