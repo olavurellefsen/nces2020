@@ -18,22 +18,22 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     })
     if (!scenario) return undefined //this will be the case for sceanrio2 if only one scenario is selected
     let accumulatedData = {}
-    console.log("scenario accu****************************: ", scenario)
-    console.log("scenarioL: ", scenario.length)
-    console.log("_copy: ", scenario.substring(8, 13))
-    console.log("scenarioA: ", scenario)
+    //console.log("scenario accu****************************: ", scenario)
+    //console.log("scenarioL: ", scenario.length)
+    //console.log("_copy: ", scenario.substring(8, 13))
+    //console.log("scenarioA: ", scenario)
     if (scenario.substring(8, 13) === "_copy")
       scenario = scenario.replace("_copy", "")
-    console.log("_copy replaced", scenario)
-    console.log("length", scenario.length)
+    //console.log("_copy replaced", scenario)
+    //console.log("length", scenario.length)
     let scen = data.scenarios
     .find(o => o.scenario === scenario)
-    console.log("scen: ", scen)
-    console.log("all scens: ", data.scenarios)
+    //console.log("scen: ", scen)
+    //console.log("all scens: ", data.scenarios)
     let ind = scen.indicators.find(o => o.indicator === chartName)
-        console.log("chartName: ", chartName)
-        console.log("all ind: ", scen.indicators)
-        console.log("ind: ", ind)
+        //console.log("chartName: ", chartName)
+        //console.log("all ind: ", scen.indicators)
+        //console.log("ind: ", ind)
         ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
               if (!accumulatedData[indicatorGroup.indicatorGroup]) {
@@ -50,8 +50,8 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
                   //console.log("index: ", index)
                   if (accumulatedData[indicatorGroup.indicatorGroup][index].year !== value.year ) {
                      //Extra check we rely on the two arrays being indexed the same way
-                     console.log("accu:", accumulatedData[indicatorGroup.indicatorGroup][index].year)
-                     console.log("value: ", value.year)
+                     //console.log("accu:", accumulatedData[indicatorGroup.indicatorGroup][index].year)
+                     //console.log("value: ", value.year)
                     console.log("Error in array indexing")
                   }
                   accumulatedData[indicatorGroup.indicatorGroup][index].total += percentage ? value.total/selectedCountries.length : value.total
