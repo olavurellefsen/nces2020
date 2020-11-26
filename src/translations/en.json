@@ -15,16 +15,16 @@
     }
   },
   "options": {
-    "ccs": "Include CCS technologies",
-    "bio": "Restrict biomass import",
+    "opt0": "Include CCS technologies",
+    "opt1": "Restrict biomass import",
     "opt2": "Increase cost of electrict vehicles",
     "opt3": "Include shared autonomous cars",
     "unavailable": "(unavailable)"
   },
   "general": {
     "scenarios": "Scenarios",
-    "CCS": "CCS",
-    "bio": "Bio",
+    "opt0": "CCS",
+    "opt1": "Bio",
     "opt2": "ELC",
     "opt3": "SAC",
     "scenario-difference": "Scenario difference",
