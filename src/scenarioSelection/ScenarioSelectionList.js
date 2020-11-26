@@ -51,12 +51,14 @@ const ScenarioSelectionList = props => {
             selected={optionValue === stringValue}
             selected2={optionValue === stringValue2}
             narrowVersion={narrowVersion}
-            onClick={event => {
-              handleChange(event, optionValue);
-            }}
+            
           >
             <ScenarioNameContainer
               data-tip={t("scenario." + option.desc)}
+              narrowVersion={narrowVersion}
+              onClick={event => {
+              handleChange(event, optionValue);
+            }}
             >
               {narrowVersion === false &&
                 t("scenario." + option.short_description)}
@@ -93,6 +95,8 @@ const ScenarioSelectionList = props => {
                   if (scenarioCombinations.optionsAvailable[optionValue].bio) {
                     props.toggleOption(optionValue, "bio");
                   }
+                  console.log("props: ", props)
+                  console.log("event: ", event.target)
                   cancelBubble(event); //prevent onclick for scenario being fired
                 }}
                 data-tip={
