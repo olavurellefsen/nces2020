@@ -5,7 +5,7 @@ import StackedBarChart from './StackedBarChart'
 import StackedBarDiffChart from './StackedBarDiffChart'
 import { MainArea, Flex } from './Charts.style'
 import stackedBar from '../data/stackedBarTab7'
-import line from '../data/line'
+//import line from '../data/line'
 import indicators from '../data/indicatorsTab7'
 
 const Charts = props => {
@@ -36,7 +36,7 @@ const Charts = props => {
                 minY={0}
                 maxY={1500}
                 stackedBar={stackedBar}
-                line={line}
+                //line={line}
               />
             )
           }
@@ -58,7 +58,7 @@ const Charts = props => {
                 minY={-1}
                 maxY={1}
                 stackedBar={stackedBar}
-                line={line}
+                //line={line}
               />
             )
           }
