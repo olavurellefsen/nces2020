@@ -24,7 +24,7 @@
   "general": {
     "scenarios": "Scenarios",
     "opt0": "CCS",
-    "opt1": "Bio",
+    "opt1": "BIO",
     "opt2": "ELC",
     "opt3": "SAC",
     "scenario-difference": "Scenario difference",
