@@ -155,8 +155,11 @@ function ScenarioSelectionMenu(props) {
   return (
     <MenuLayout>
       <MenuHeader>
-        <ExternalLink href="http://www.nordicenergy.org/flagship/project-shift/">
-          <AppLogo src="./images/shift_logo_white.png" alt="logo" />
+      <ExternalLink href="https://www.nordicenergy.org">
+          <AppLogo
+            src="./images/nordic_energy_research_cropped.png"
+            alt="Nordic Energy Research"
+          />
         </ExternalLink>
         <MenuRoutes>
           <MenuItem
@@ -232,12 +235,6 @@ function ScenarioSelectionMenu(props) {
       </ScenarioDifferenceText>
       <MenuSeparatorLine />
       <MenuFooter>
-        <ExternalLink href="https://www.nordicenergy.org">
-          <AppLogo
-            src="./images/nordic_energy_research_cropped.png"
-            alt="Nordic Energy Research"
-          />
-        </ExternalLink>
         <CopyrightNotice>
           <Header> {t("general.developed-by")}</Header>
           <CopyrightItem>
