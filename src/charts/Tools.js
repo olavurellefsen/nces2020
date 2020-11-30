@@ -21,7 +21,7 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     if (scenario.substring(3, 8) === "_copy")
       scenario = scenario.replace("_copy", "")
     let scen = data.scenarios
-    .find(o => o.scenario === scenario)
+    .find(o => o.scenario.toLowerCase() === scenario.toLowerCase())
     console.log("data: ", data)
     console.log("scenario: ", scenario)
     let ind = scen.indicators.find(o => o.indicator === chartName)
