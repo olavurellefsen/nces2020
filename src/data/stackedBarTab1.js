@@ -11,43 +11,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 47072.8778005935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 337.0579885778
-                      },
-                      {
-                        "year": 2025,
-                        "total": 334.9542148024
-                      },
-                      {
-                        "year": 2030,
-                        "total": 397.3597681191
-                      },
-                      {
-                        "year": 2035,
-                        "total": 458.1584020739
-                      },
-                      {
-                        "year": 2040,
-                        "total": 500.1512378324
-                      },
-                      {
-                        "year": 2045,
-                        "total": 517.4461316268
-                      },
-                      {
-                        "year": 2050,
-                        "total": 531.1741812034
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
                       {
@@ -126,35 +89,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 864.0029755264
+                        "total": 47936.8807761199
                       },
                       {
                         "year": 2020,
-                        "total": 1022.1852178207
+                        "total": 1359.2432063985
                       },
                       {
                         "year": 2025,
-                        "total": 1600.1913392979
+                        "total": 1935.1455541003
                       },
                       {
                         "year": 2030,
-                        "total": 1860.141501864
+                        "total": 2257.501269983
                       },
                       {
                         "year": 2035,
-                        "total": 2236.4656119484
+                        "total": 2694.6240140223
                       },
                       {
                         "year": 2040,
-                        "total": 2139.4632525263
+                        "total": 2639.6144903587
                       },
                       {
                         "year": 2045,
-                        "total": 2224.2108060641
+                        "total": 2741.6569376909
                       },
                       {
                         "year": 2050,
-                        "total": 2383.4120881149
+                        "total": 2914.5862693183
                       }
                     ]
                   },
@@ -200,43 +163,6 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5941.6312845028
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6613.287526068
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6998.0430146087
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7421.7207560363
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7590.571328662
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7874.197833009
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7936.5340168106
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7868.6468777323
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
@@ -316,35 +242,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 629.2081257445
+                        "total": 6570.8394102474
                       },
                       {
                         "year": 2020,
-                        "total": 1452.7205219144
+                        "total": 8066.0080479825
                       },
                       {
                         "year": 2025,
-                        "total": 2713.6067330797
+                        "total": 9711.6497476883
                       },
                       {
                         "year": 2030,
-                        "total": 3838.0042666583
+                        "total": 11259.7250226946
                       },
                       {
                         "year": 2035,
-                        "total": 4587.1055837891
+                        "total": 12177.676912451
                       },
                       {
                         "year": 2040,
-                        "total": 4997.0095364253
+                        "total": 12871.2073694343
                       },
                       {
                         "year": 2045,
-                        "total": 5330.9861043793
+                        "total": 13267.5201211899
                       },
                       {
                         "year": 2050,
-                        "total": 5387.0874278055
+                        "total": 13255.7343055378
                       }
                     ]
                   },
@@ -390,43 +316,6 @@ export default {
               {
                 "region": "IS",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15632.8097378861
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39038.1723477339
-                      },
-                      {
-                        "year": 2030,
-                        "total": 66427.2783139047
-                      },
-                      {
-                        "year": 2035,
-                        "total": 90041.897694563
-                      },
-                      {
-                        "year": 2040,
-                        "total": 90041.9018684118
-                      },
-                      {
-                        "year": 2045,
-                        "total": 90041.9060422607
-                      },
-                      {
-                        "year": 2050,
-                        "total": 90041.9102161095
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
@@ -510,31 +399,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 221.7264782134
+                        "total": 15854.5362160995
                       },
                       {
                         "year": 2025,
-                        "total": 221.7264782134
+                        "total": 39259.8988259473
                       },
                       {
                         "year": 2030,
-                        "total": 221.6917445529
+                        "total": 66648.9700584576
                       },
                       {
                         "year": 2035,
-                        "total": 221.7663482081
+                        "total": 90263.6640427712
                       },
                       {
                         "year": 2040,
-                        "total": 221.716526898
+                        "total": 90263.6183953099
                       },
                       {
                         "year": 2045,
-                        "total": 221.5388913255
+                        "total": 90263.4449335861
                       },
                       {
                         "year": 2050,
-                        "total": 221.47782501
+                        "total": 90263.3880411194
                       }
                     ]
                   }
@@ -543,43 +432,6 @@ export default {
               {
                 "region": "NO",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25564.5068995842
-                      },
-                      {
-                        "year": 2020,
-                        "total": 459.8855367604
-                      },
-                      {
-                        "year": 2025,
-                        "total": 419.0811423741
-                      },
-                      {
-                        "year": 2030,
-                        "total": 485.9287410444
-                      },
-                      {
-                        "year": 2035,
-                        "total": 444.8379337329
-                      },
-                      {
-                        "year": 2040,
-                        "total": 446.3002339148
-                      },
-                      {
-                        "year": 2045,
-                        "total": 451.3545320652
-                      },
-                      {
-                        "year": 2050,
-                        "total": 509.7308609897
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
@@ -659,35 +511,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4560.8073496061
+                        "total": 30125.3142491903
                       },
                       {
                         "year": 2020,
-                        "total": 4599.3432785533
+                        "total": 5059.2288153137
                       },
                       {
                         "year": 2025,
-                        "total": 4714.769058405
+                        "total": 5133.8502007791
                       },
                       {
                         "year": 2030,
-                        "total": 4431.7017626793
+                        "total": 4917.6305037237
                       },
                       {
                         "year": 2035,
-                        "total": 4348.2202961674
+                        "total": 4793.0582299003
                       },
                       {
                         "year": 2040,
-                        "total": 4260.952768544
+                        "total": 4707.2530024588
                       },
                       {
                         "year": 2045,
-                        "total": 4138.6831817085
+                        "total": 4590.0377137737
                       },
                       {
                         "year": 2050,
-                        "total": 4236.6732645852
+                        "total": 4746.4041255749
                       }
                     ]
                   },
@@ -733,43 +585,6 @@ export default {
               {
                 "region": "SE",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1177479.1332715363
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30105.6577440156
-                      },
-                      {
-                        "year": 2025,
-                        "total": 58701.5634686741
-                      },
-                      {
-                        "year": 2030,
-                        "total": 76625.3076043468
-                      },
-                      {
-                        "year": 2035,
-                        "total": 82349.253530418
-                      },
-                      {
-                        "year": 2040,
-                        "total": 87933.4452109117
-                      },
-                      {
-                        "year": 2045,
-                        "total": 90798.6921699242
-                      },
-                      {
-                        "year": 2050,
-                        "total": 93621.6352681358
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
@@ -849,35 +664,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1664.2720228884
+                        "total": 1179143.4052944246
                       },
                       {
                         "year": 2020,
-                        "total": 1955.7518212083
+                        "total": 32061.4095652239
                       },
                       {
                         "year": 2025,
-                        "total": 3581.0306994217
+                        "total": 62282.5941680959
                       },
                       {
                         "year": 2030,
-                        "total": 4035.9726524293
+                        "total": 80661.2802567762
                       },
                       {
                         "year": 2035,
-                        "total": 4360.221479323
+                        "total": 86709.475009741
                       },
                       {
                         "year": 2040,
-                        "total": 4608.880967014
+                        "total": 92542.3261779257
                       },
                       {
                         "year": 2045,
-                        "total": 4686.4047829672
+                        "total": 95485.0969528914
                       },
                       {
                         "year": 2050,
-                        "total": 4788.2444902175
+                        "total": 98409.8797583533
                       }
                     ]
                   },
@@ -1884,43 +1699,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 47073.1934573141
-                      },
-                      {
-                        "year": 2020,
-                        "total": 303.6879363597
-                      },
-                      {
-                        "year": 2025,
-                        "total": 333.0213226155
-                      },
-                      {
-                        "year": 2030,
-                        "total": 440.3125970123
-                      },
-                      {
-                        "year": 2035,
-                        "total": 507.3996439532
-                      },
-                      {
-                        "year": 2040,
-                        "total": 629.2403535135
-                      },
-                      {
-                        "year": 2045,
-                        "total": 562.829619057
-                      },
-                      {
-                        "year": 2050,
-                        "total": 532.0360761158
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
                       {
@@ -1999,35 +1777,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 864.1132252776
+                        "total": 47937.3066825916
                       },
                       {
                         "year": 2020,
-                        "total": 1021.267306686
+                        "total": 1324.9552430457
                       },
                       {
                         "year": 2025,
-                        "total": 1594.9072785243
+                        "total": 1927.9286011397
                       },
                       {
                         "year": 2030,
-                        "total": 1865.0502019841
+                        "total": 2305.3627989965
                       },
                       {
                         "year": 2035,
-                        "total": 2206.3604497605
+                        "total": 2713.7600937137
                       },
                       {
                         "year": 2040,
-                        "total": 2227.976837253
+                        "total": 2857.2171907666
                       },
                       {
                         "year": 2045,
-                        "total": 2383.3992219726
+                        "total": 2946.2288410295
                       },
                       {
                         "year": 2050,
-                        "total": 2547.6597402025
+                        "total": 3079.6958163183
                       }
                     ]
                   },
@@ -2073,43 +1851,6 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5945.2191869427
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6617.044836285
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6954.3678522392
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7409.542543795
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7581.617293128
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7867.076314872
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7919.4619338769
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7863.9885902519
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
@@ -2189,35 +1930,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 628.172023902
+                        "total": 6573.3912108448
                       },
                       {
                         "year": 2020,
-                        "total": 1452.791566593
+                        "total": 8069.836402878
                       },
                       {
                         "year": 2025,
-                        "total": 2713.4854591155
+                        "total": 9667.8533113548
                       },
                       {
                         "year": 2030,
-                        "total": 3834.8663634177
+                        "total": 11244.4089072127
                       },
                       {
                         "year": 2035,
-                        "total": 4577.535753216
+                        "total": 12159.153046344
                       },
                       {
                         "year": 2040,
-                        "total": 5024.2416285926
+                        "total": 12891.3179434646
                       },
                       {
                         "year": 2045,
-                        "total": 5319.7406960217
+                        "total": 13239.2026298985
                       },
                       {
                         "year": 2050,
-                        "total": 5375.8943613836
+                        "total": 13239.8829516354
                       }
                     ]
                   },
@@ -2263,43 +2004,6 @@ export default {
               {
                 "region": "IS",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15632.8097378861
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39038.1723477339
-                      },
-                      {
-                        "year": 2030,
-                        "total": 66427.2783139047
-                      },
-                      {
-                        "year": 2035,
-                        "total": 90041.897694563
-                      },
-                      {
-                        "year": 2040,
-                        "total": 90041.9018684118
-                      },
-                      {
-                        "year": 2045,
-                        "total": 90041.9060422607
-                      },
-                      {
-                        "year": 2050,
-                        "total": 90041.9102161095
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
@@ -2383,31 +2087,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 221.7264782134
+                        "total": 15854.5362160995
                       },
                       {
                         "year": 2025,
-                        "total": 221.7264782134
+                        "total": 39259.8988259473
                       },
                       {
                         "year": 2030,
-                        "total": 221.6917445529
+                        "total": 66648.9700584576
                       },
                       {
                         "year": 2035,
-                        "total": 221.7663482081
+                        "total": 90263.6640427712
                       },
                       {
                         "year": 2040,
-                        "total": 221.716526898
+                        "total": 90263.6183953099
                       },
                       {
                         "year": 2045,
-                        "total": 221.5388913255
+                        "total": 90263.4449335861
                       },
                       {
                         "year": 2050,
-                        "total": 221.47782501
+                        "total": 90263.3880411194
                       }
                     ]
                   }
@@ -2416,43 +2120,6 @@ export default {
               {
                 "region": "NO",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25564.4991902784
-                      },
-                      {
-                        "year": 2020,
-                        "total": 458.2960820128
-                      },
-                      {
-                        "year": 2025,
-                        "total": 419.2558927567
-                      },
-                      {
-                        "year": 2030,
-                        "total": 467.392383176
-                      },
-                      {
-                        "year": 2035,
-                        "total": 474.6955592792
-                      },
-                      {
-                        "year": 2040,
-                        "total": 450.5180208744
-                      },
-                      {
-                        "year": 2045,
-                        "total": 461.816969815
-                      },
-                      {
-                        "year": 2050,
-                        "total": 518.3057380509
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
@@ -2532,35 +2199,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4560.8021681872
+                        "total": 30125.3013584656
                       },
                       {
                         "year": 2020,
-                        "total": 4600.4668160425
+                        "total": 5058.7628980553
                       },
                       {
                         "year": 2025,
-                        "total": 4716.0761176878
+                        "total": 5135.3320104446
                       },
                       {
                         "year": 2030,
-                        "total": 4432.8197340887
+                        "total": 4900.2121172647
                       },
                       {
                         "year": 2035,
-                        "total": 4349.5188185828
+                        "total": 4824.214377862
                       },
                       {
                         "year": 2040,
-                        "total": 4267.1343046196
+                        "total": 4717.652325494
                       },
                       {
                         "year": 2045,
-                        "total": 4183.6606781285
+                        "total": 4645.4776479435
                       },
                       {
                         "year": 2050,
-                        "total": 4237.6036855079
+                        "total": 4755.9094235588
                       }
                     ]
                   },
@@ -2606,43 +2273,6 @@ export default {
               {
                 "region": "SE",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Annual activity costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1177484.4391808435
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30201.6848832583
-                      },
-                      {
-                        "year": 2025,
-                        "total": 59016.0239374774
-                      },
-                      {
-                        "year": 2030,
-                        "total": 77053.6589774183
-                      },
-                      {
-                        "year": 2035,
-                        "total": 82690.2685195587
-                      },
-                      {
-                        "year": 2040,
-                        "total": 88360.884110493
-                      },
-                      {
-                        "year": 2045,
-                        "total": 90847.5187981207
-                      },
-                      {
-                        "year": 2050,
-                        "total": 93676.0737612869
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Annual fuel costs",
                     "indicatorGroupValues": [
@@ -2722,35 +2352,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1663.9228368211
+                        "total": 1179148.3620176648
                       },
                       {
                         "year": 2020,
-                        "total": 2151.7405572955
+                        "total": 32353.4254405538
                       },
                       {
                         "year": 2025,
-                        "total": 3813.2863891318
+                        "total": 62829.3103266091
                       },
                       {
                         "year": 2030,
-                        "total": 4183.9166154538
+                        "total": 81237.575592872
                       },
                       {
                         "year": 2035,
-                        "total": 4497.3944790426
+                        "total": 87187.6629986013
                       },
                       {
                         "year": 2040,
-                        "total": 4755.2967291587
+                        "total": 93116.1808396517
                       },
                       {
                         "year": 2045,
-                        "total": 4689.7669384632
+                        "total": 95537.2857365839
                       },
                       {
                         "year": 2050,
-                        "total": 4779.4304777962
+                        "total": 98455.5042390832
                       }
                     ]
                   },
