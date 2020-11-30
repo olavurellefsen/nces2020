@@ -5417,7 +5417,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNS_bio",
         "indicators": [
           {
             "indicator": "Freight transport demand",
@@ -7292,38 +7292,7 @@ export default {
                         "year": 2050,
                         "total": 23.7231478505
                       },
-                      {
-                        "year": 2015,
-                        "total": 2.687471751
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.7162571468
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.7501127123
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.7906217878
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.7377425204
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.6868390853
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.6425576756
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.6012329653
-                      }
+                      
                     ]
                   },
                   {

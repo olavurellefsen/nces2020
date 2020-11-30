@@ -5488,7 +5488,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNS_bio",
         "indicators": [
           {
             "indicator": "District heat production",
