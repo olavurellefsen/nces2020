@@ -54,7 +54,6 @@ const MainSwitch = styled(Switch)`
 export const changeScenario = (name, value) => ({
   [name]: value,
 })
-console.log("scenarioCombinations.scenarioCombinations: ", scenarioCombinations.scenarioCombinations)
 const default_scenario = scenarioCombinations.scenarioCombinations.scenarioOptions[1].name;
 const default_countries = ['no','se','dk', "fi"];
 const options = []
@@ -90,7 +89,6 @@ export class App extends React.Component {
   }
   UpdateScenarioNames = () => {
     this.setState(state => {
-      console.log("state-----------------------: ", state)
       return {
         scenarioSelection:
           state.scenarioSelectionNoOptions +
@@ -126,7 +124,6 @@ export class App extends React.Component {
   }
   UpdateScenarioSelection = (e, name, value) => {
     e.preventDefault()
-    console.log("update scenario selection: ", value)
     if (this.state.scenarioSelectionNoOptions2 !== '') {
       if (value === this.state.scenarioSelectionNoOptions) {
         this.setState(
@@ -167,8 +164,6 @@ export class App extends React.Component {
   }
 
   ToggleOption = (scenario, option) => {
-    console.log("scenario: ", scenario)
-    console.log("option: ", option)
     let newOptions = this.state.options
     newOptions[scenario][option] = !this.state.options[scenario][option]
     this.setState({

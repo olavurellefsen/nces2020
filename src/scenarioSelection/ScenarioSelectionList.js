@@ -37,7 +37,6 @@ const ScenarioSelectionList = props => {
   const { scenarioCombinations, dimensionTitle, narrowVersion } = props;
   let stringValue = props.selectedValue.toString();
   let stringValue2 = props.selectedValue2.toString();
-  console.log("scenarioOptions", scenarioCombinations.scenarioOptions.filter(s => !s.opt0 && !s.opt1 && !s.opt2 && !s.opt3))
   let scenarioOptions = scenarioCombinations.scenarioOptions
     .filter(s => !s.opt0 && !s.opt1 && !s.opt2 && !s.opt3) //ensure that each scenario is only listed once
     .map(option => {
@@ -100,8 +99,6 @@ const ScenarioSelectionList = props => {
                   if (scenarioCombinations.optionsAvailable[optionValue].opt1) {
                     props.toggleOption(optionValue, "opt1");
                   }
-                  console.log("props: ", props)
-                  console.log("event: ", event.target)
                   cancelBubble(event); //prevent onclick for scenario being fired
                 }}
                 data-tip={
