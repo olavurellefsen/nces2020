@@ -11,7 +11,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48,7 +48,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -85,7 +85,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -122,7 +122,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -159,7 +159,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -196,7 +196,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -233,7 +233,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -275,7 +275,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -312,7 +312,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -349,7 +349,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -386,7 +386,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -423,7 +423,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -460,7 +460,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -502,7 +502,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -539,7 +539,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -581,7 +581,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -618,7 +618,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -655,7 +655,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -692,7 +692,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -729,7 +729,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -766,7 +766,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -808,7 +808,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -845,7 +845,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -882,7 +882,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -919,7 +919,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -956,7 +956,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -993,7 +993,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1030,7 +1030,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1067,7 +1067,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3967,7 +3967,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4004,7 +4004,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4041,7 +4041,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4078,7 +4078,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4115,7 +4115,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4157,7 +4157,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4194,7 +4194,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4231,7 +4231,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4273,7 +4273,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4310,7 +4310,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4347,7 +4347,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4384,7 +4384,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4421,7 +4421,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4463,7 +4463,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4500,7 +4500,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4537,7 +4537,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4574,7 +4574,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4611,7 +4611,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4648,7 +4648,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4685,7 +4685,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4732,7 +4732,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4769,7 +4769,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4811,7 +4811,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4853,7 +4853,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4890,7 +4890,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4927,7 +4927,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4964,7 +4964,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5006,7 +5006,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5043,7 +5043,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5080,7 +5080,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5117,7 +5117,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5154,7 +5154,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5191,7 +5191,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5228,7 +5228,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5275,7 +5275,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5312,7 +5312,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5349,7 +5349,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5386,7 +5386,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5423,7 +5423,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5465,7 +5465,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5502,7 +5502,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5539,7 +5539,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5581,7 +5581,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5618,7 +5618,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5655,7 +5655,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5692,7 +5692,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5734,7 +5734,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5771,7 +5771,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5808,7 +5808,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5845,7 +5845,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5882,7 +5882,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5919,7 +5919,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5956,7 +5956,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6003,7 +6003,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6040,7 +6040,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6077,7 +6077,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6114,7 +6114,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6151,7 +6151,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6188,7 +6188,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6225,7 +6225,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6267,7 +6267,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6309,7 +6309,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6346,7 +6346,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6388,7 +6388,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6425,7 +6425,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6462,7 +6462,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6499,7 +6499,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6536,7 +6536,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6573,7 +6573,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6610,7 +6610,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6653,7 +6653,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_bio",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
             "indicator": "Cement fuel consumption",
@@ -6662,7 +6662,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6699,7 +6699,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6736,7 +6736,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6773,7 +6773,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6810,7 +6810,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6847,7 +6847,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6884,7 +6884,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6926,7 +6926,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6963,7 +6963,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7000,7 +7000,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7037,7 +7037,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7074,7 +7074,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7111,7 +7111,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7153,7 +7153,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7190,7 +7190,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7232,7 +7232,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7269,7 +7269,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7306,7 +7306,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7343,7 +7343,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7380,7 +7380,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7417,7 +7417,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7459,7 +7459,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7496,7 +7496,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7533,7 +7533,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7570,7 +7570,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7607,7 +7607,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7644,7 +7644,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7681,7 +7681,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7718,7 +7718,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10618,7 +10618,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10655,7 +10655,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10692,7 +10692,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10729,7 +10729,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10766,7 +10766,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10808,7 +10808,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10845,7 +10845,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10882,7 +10882,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10924,7 +10924,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10961,7 +10961,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10998,7 +10998,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11035,7 +11035,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11072,7 +11072,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11114,7 +11114,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11151,7 +11151,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11188,7 +11188,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11225,7 +11225,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11262,7 +11262,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11299,7 +11299,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11336,7 +11336,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11383,7 +11383,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11420,7 +11420,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11462,7 +11462,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11504,7 +11504,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11541,7 +11541,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11578,7 +11578,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11615,7 +11615,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11657,7 +11657,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11694,7 +11694,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11731,7 +11731,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11768,7 +11768,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11805,7 +11805,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11842,7 +11842,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11879,7 +11879,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All waste fuels",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11926,7 +11926,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11963,7 +11963,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12000,7 +12000,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12037,7 +12037,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12074,7 +12074,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12116,7 +12116,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12153,7 +12153,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12190,7 +12190,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12232,7 +12232,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12269,7 +12269,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12306,7 +12306,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12343,7 +12343,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12385,7 +12385,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12422,7 +12422,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12459,7 +12459,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12496,7 +12496,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12533,7 +12533,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12570,7 +12570,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12607,7 +12607,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12654,7 +12654,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12691,7 +12691,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12728,7 +12728,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12765,7 +12765,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12802,7 +12802,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12839,7 +12839,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12876,7 +12876,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12918,7 +12918,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12960,7 +12960,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12997,7 +12997,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13039,7 +13039,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "All biofuels",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13076,7 +13076,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All coal fuels",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13113,7 +13113,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All electricity",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13150,7 +13150,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All heat energy",
+                    "indicatorGroup": "Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13187,7 +13187,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All natural gas fuels",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13224,7 +13224,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All oil fuels",
+                    "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13261,7 +13261,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "All other energy sources",
+                    "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

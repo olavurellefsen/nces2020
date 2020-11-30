@@ -5417,7 +5417,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_bio",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
             "indicator": "Freight transport demand",
