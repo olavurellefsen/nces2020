@@ -1,7 +1,5 @@
-//main results
 export default 
-    [
-        "Annual System Costs",
-        "CO2 Emissions",
-    ]
-
+ 	 [ 
+		"Annual system costs",
+		"CO2 Emissions",
+	 ]

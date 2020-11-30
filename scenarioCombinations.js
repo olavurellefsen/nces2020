@@ -4,7 +4,7 @@ export default {
 			scenarioOptions : [ 
 				{ 
 					"id": 0, 
-					"name": CNS_Bio, 
+					"name": CNS_bio, 
 					"nameNoOptions": CNS, 
 					"short_description": CNS + Bio, 
 					"ultra_short_description": C0, 

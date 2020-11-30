@@ -1,8 +1,7 @@
-//Households
 export default 
-[
-  "Household electric appliances",
-  "Households costs",
-  "Households heating",
-  "Households total fuel",
-]
+ 	 [ 
+		"Electric appliances consumption",
+		"Households annual costs",
+		"Households heating",
+		"Households total fuel consumption",
+	 ]
