@@ -19,7 +19,7 @@ export default {
 					"name": "CNS_bio", 
 					"nameNoOptions": "CNS", 
 					"short_description": "CNS + Bio", 
-					"ultra_short_description": "CNS+B", 
+					"ultra_short_description": "CNS+B",  
 					"desc": "long and eloquent scenario description", 
 					"opt0": false, 
 					"opt1": true, 
@@ -40,7 +40,7 @@ export default {
 				}, 
 				{ 
 					"id": 3, 
-					"name": "CNS_copy_Bio", 
+					"name": "CNS_copy_bio", 
 					"nameNoOptions": "CNS_copy", 
 					"short_description": "CNS + Bio", 
 					"ultra_short_description": "CNS+B", 

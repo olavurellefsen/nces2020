@@ -58,11 +58,11 @@ const default_scenario = scenarioCombinations.scenarioCombinations.scenarioOptio
 const default_countries = ['no','se','dk', "fi"];
 const options = []
 scenarioCombinations.scenarioCombinations.scenarioOptions
-  .filter(s => !s.opt0 && !s.op1 && !s.opt2 && !s.opt3)
+  .filter(s => !s.ccs && !s.bio && !s.opt2 && !s.opt3)
   .forEach(s => {
     options[s.nameNoOptions] = {}
-    options[s.nameNoOptions]['opt0'] = false
-    options[s.nameNoOptions]['opt1'] = false
+    options[s.nameNoOptions]['cns'] = false
+    options[s.nameNoOptions]['bio'] = false
     options[s.nameNoOptions]['opt2'] = false
     options[s.nameNoOptions]['opt3'] = false
   })
@@ -92,8 +92,8 @@ export class App extends React.Component {
       return {
         scenarioSelection:
           state.scenarioSelectionNoOptions +
-          (state.options[state.scenarioSelectionNoOptions].op0 ? '_cns' : '') +
-          (state.options[state.scenarioSelectionNoOptions].opt1 ? '_bio' : '') +
+          (state.options[state.scenarioSelectionNoOptions].cns ? '_cns' : '') +
+          (state.options[state.scenarioSelectionNoOptions].bio ? '_bio' : '') +
           (state.options[state.scenarioSelectionNoOptions].opt2 ? '_ELC' : '') +
           (state.options[state.scenarioSelectionNoOptions].opt3 ? '_SAC' : ''),
       }
@@ -103,10 +103,10 @@ export class App extends React.Component {
         scenarioSelection2:
           state.scenarioSelectionNoOptions2 !== ''
             ? state.scenarioSelectionNoOptions2 +
-              (state.options[state.scenarioSelectionNoOptions2].opt0
+              (state.options[state.scenarioSelectionNoOptions2].cns
                 ? '_cns'
                 : '') +
-              (state.options[state.scenarioSelectionNoOptions2].opt1 ? '_bio' : '') +
+              (state.options[state.scenarioSelectionNoOptions2].bio ? '_bio' : '') +
               (state.options[state.scenarioSelectionNoOptions2].opt2 ? '_ELC' : '') +
               (state.options[state.scenarioSelectionNoOptions2].opt3 ? '_SAC' : '')
             : '',
@@ -124,6 +124,7 @@ export class App extends React.Component {
   }
   UpdateScenarioSelection = (e, name, value) => {
     e.preventDefault()
+    console.log("update scenario selection: ", value)
     if (this.state.scenarioSelectionNoOptions2 !== '') {
       if (value === this.state.scenarioSelectionNoOptions) {
         this.setState(
@@ -164,6 +165,8 @@ export class App extends React.Component {
   }
 
   ToggleOption = (scenario, option) => {
+    console.log("scenario: ", scenario)
+    console.log("option: ", option)
     let newOptions = this.state.options
     newOptions[scenario][option] = !this.state.options[scenario][option]
     this.setState({

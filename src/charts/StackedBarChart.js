@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
-//import { useTranslation } from 'react-i18next'
+import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
   VictoryLabel,
@@ -27,14 +27,13 @@ const ChartHeader = styled(VictoryLabel)`
 ChartHeader.displayName = 'ChartHeader'
 
 const StackedBarChart = props => {
-  //const { t } = useTranslation()
+  const { t } = useTranslation()
   const stackedBar = props.stackedBar
   const scenario = props.selectedScenario.substring(3, 8) === "_copy" ? props.selectedScenario.replace("_copy", "") : props.selectedScenario
   const scenario2 = props.selectedScenario2
   const selectedCountries = props.selectedCountries
   const chartName = props.chartName
-  //const chartTitle = t('chartTitle.' + props.chartTitle)
-  const chartTitle = props.chartTitle
+  const chartTitle = t('chartTitle.' + props.chartTitle)
   const combinedChart = props.combinedChart
 
   let gutter, rowGutter
@@ -150,7 +149,7 @@ const StackedBarChart = props => {
           }}
           colorScale={colors}
           data={Array.from(legends).map((legend, i) => ({
-              name: legend
+              name: t('legend.' + legend)
                 .concat('        ')
                 .substr(0, 16),
               fill: colors[i],
@@ -163,11 +162,10 @@ const StackedBarChart = props => {
                 <VictoryBar
                   key={chartGroupName}
                   data={accumulatedDataScenario1[chartGroupName].map(
-                    chartGroupValue => {
-                      return({
+                    chartGroupValue => ({
                       ...chartGroupValue,
                       label:
-                        chartGroupName +
+                        t('legend.' + chartGroupName) +
                         ': ' +
                         (props.YPercentage
                           ? (
@@ -177,7 +175,7 @@ const StackedBarChart = props => {
                           : (
                               chartGroupValue.total / props.divideValues
                             ).toFixed(0)),
-                    })}
+                    })
                   )}
                   x="year"
                   y={datum => datum['total'] / (maxY === 0 ? 100 : maxY)}
@@ -197,7 +195,7 @@ const StackedBarChart = props => {
                       chartGroupValue => ({
                         ...chartGroupValue,
                         label:
-                          chartGroupName +
+                          t('legend.' + chartGroupName) +
                           ': ' +
                           (props.YPercentage
                             ? (

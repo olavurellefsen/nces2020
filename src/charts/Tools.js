@@ -22,6 +22,8 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
       scenario = scenario.replace("_copy", "")
     let scen = data.scenarios
     .find(o => o.scenario === scenario)
+    console.log("data: ", data)
+    console.log("scenario: ", scenario)
     let ind = scen.indicators.find(o => o.indicator === chartName)
         ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
