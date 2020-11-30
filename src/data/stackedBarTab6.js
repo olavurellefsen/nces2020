@@ -5,7 +5,7 @@ export default {
         "scenario": "CNS",
         "indicators": [
           {
-            "indicator": "Household electric appliances",
+            "indicator": "Electric appliances consumption",
             "regions": [
               {
                 "region": "DK",
@@ -728,7 +728,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households costs",
+            "indicator": "Households annual costs",
             "regions": [
               {
                 "region": "DK",
@@ -1319,7 +1319,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio Synt. Nat. Gas RES",
+                    "indicatorGroup": "Bio synth gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1356,7 +1356,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1393,7 +1393,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1430,7 +1430,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel RES",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1467,44 +1467,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Firewoods RES",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 17.6051068482
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.7367378988
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8683689494
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1541,7 +1504,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Firewood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 17.6051068482
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.7367378988
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.8683689494
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1578,7 +1578,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1615,7 +1615,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1657,7 +1657,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biofuels (RES)",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1694,44 +1694,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biopellets (RES)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.1178235416
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.8902718457
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.3932373511
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.4068112569
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.4203851627
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal (RES)",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1768,7 +1731,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel (RES)",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1805,7 +1768,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity (RHA)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1838,12 +1801,7 @@ export default {
                       {
                         "year": 2050,
                         "total": 6.2134046534
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity (RHP)",
-                    "indicatorGroupValues": [
+                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -1875,12 +1833,7 @@ export default {
                       {
                         "year": 2050,
                         "total": 10.2195710052
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity (RHT)",
-                    "indicatorGroupValues": [
+                      },
                       {
                         "year": 2015,
                         "total": 24.0941727243
@@ -1912,12 +1865,7 @@ export default {
                       {
                         "year": 2050,
                         "total": 20.5084636385
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity (RWH)",
-                    "indicatorGroupValues": [
+                      },
                       {
                         "year": 2015,
                         "total": 10.159970369
@@ -1949,12 +1897,7 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity (RWP)",
-                    "indicatorGroupValues": [
+                      },
                       {
                         "year": 2015,
                         "total": 2.2701934372
@@ -2027,7 +1970,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heavy Fuel Oil (RES)",
+                    "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2064,7 +2007,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquefied Petroleum Gas RES",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2101,7 +2044,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2138,7 +2081,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2173,6 +2116,43 @@ export default {
                         "total": 0.5266903202
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Wood pellets",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.1178235416
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.8902718457
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.3932373511
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.4068112569
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.4203851627
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               },
@@ -2180,7 +2160,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Geothermal RES",
+                    "indicatorGroup": "Geothermal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2222,7 +2202,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2259,7 +2239,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2296,7 +2276,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel RES",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2333,7 +2313,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2370,7 +2350,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2407,7 +2387,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2444,7 +2424,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2486,7 +2466,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio Synt. Nat. Gas RES",
+                    "indicatorGroup": "Bio synth gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2523,7 +2503,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2560,7 +2540,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2597,7 +2577,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2634,7 +2614,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2671,7 +2651,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2708,7 +2688,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2749,13 +2729,13 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel",
+            "indicator": "Households total fuel consumption",
             "regions": [
               {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity RES",
+                    "indicatorGroup": "Appliances Electricity consumption",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2792,7 +2772,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio Synt. Nat. Gas RES",
+                    "indicatorGroup": "Bio synth gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2829,7 +2809,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2866,7 +2846,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2903,7 +2883,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel RES",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2940,44 +2920,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Firewoods RES",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 17.6051068482
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.7367378988
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8683689494
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3014,7 +2957,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Firewood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 17.6051068482
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.7367378988
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.8683689494
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3051,7 +3031,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3088,7 +3068,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3130,7 +3110,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biofuels (RES)",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3167,44 +3147,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biopellets (RES)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.1178235416
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.8902718457
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.3932373511
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.4068112569
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.4203851627
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal (RES)",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3241,7 +3184,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel (RES)",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3278,7 +3221,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity (RES)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3352,7 +3295,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heavy Fuel Oil (RES)",
+                    "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3389,7 +3332,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquefied Petroleum Gas RES",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3426,7 +3369,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3463,7 +3406,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3498,6 +3441,43 @@ export default {
                         "total": 0.5266903202
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Wood pellets",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.1178235416
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.8902718457
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.3932373511
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.4068112569
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.4203851627
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               },
@@ -3505,7 +3485,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Geothermal RES",
+                    "indicatorGroup": "Geothermal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3547,7 +3527,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity RES",
+                    "indicatorGroup": "Appliances Electricity consumption",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3584,7 +3564,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3621,7 +3601,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3658,7 +3638,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel RES",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3695,7 +3675,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3732,7 +3712,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3769,7 +3749,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3806,7 +3786,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3848,7 +3828,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity RES",
+                    "indicatorGroup": "Appliances Electricity consumption",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3885,7 +3865,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio Synt. Nat. Gas RES",
+                    "indicatorGroup": "Bio synth gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3922,7 +3902,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3959,7 +3939,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3996,7 +3976,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4033,7 +4013,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4070,7 +4050,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4107,7 +4087,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4150,10 +4130,10 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_bio",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
-            "indicator": "Household electric appliances",
+            "indicator": "Electric appliances consumption",
             "regions": [
               {
                 "region": "DK",
@@ -4876,7 +4856,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households costs",
+            "indicator": "Households annual costs",
             "regions": [
               {
                 "region": "DK",
@@ -5467,7 +5447,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio Synt. Nat. Gas RES",
+                    "indicatorGroup": "Bio synth gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5504,7 +5484,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5541,7 +5521,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5578,7 +5558,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel RES",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5615,44 +5595,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Firewoods RES",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 17.6051068482
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.7367378988
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8683689494
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5689,7 +5632,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Firewood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 17.6051068482
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.7367378988
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.8683689494
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5726,7 +5706,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5763,7 +5743,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5805,7 +5785,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biofuels (RES)",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5842,44 +5822,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biopellets (RES)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.1178235416
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.8902718457
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.3932373511
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.4068112569
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.4203851627
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal (RES)",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5916,7 +5859,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel (RES)",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5953,7 +5896,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity (RHA)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5986,12 +5929,7 @@ export default {
                       {
                         "year": 2050,
                         "total": 6.2444439529
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity (RHP)",
-                    "indicatorGroupValues": [
+                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -6023,12 +5961,7 @@ export default {
                       {
                         "year": 2050,
                         "total": 10.2119109912
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity (RHT)",
-                    "indicatorGroupValues": [
+                      },
                       {
                         "year": 2015,
                         "total": 24.0941727243
@@ -6060,12 +5993,7 @@ export default {
                       {
                         "year": 2050,
                         "total": 20.4177357412
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity (RWH)",
-                    "indicatorGroupValues": [
+                      },
                       {
                         "year": 2015,
                         "total": 10.159970369
@@ -6097,12 +6025,7 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity (RWP)",
-                    "indicatorGroupValues": [
+                      },
                       {
                         "year": 2015,
                         "total": 2.2701934372
@@ -6175,7 +6098,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heavy Fuel Oil (RES)",
+                    "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6212,7 +6135,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquefied Petroleum Gas RES",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6249,7 +6172,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6286,7 +6209,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6321,6 +6244,43 @@ export default {
                         "total": 0.5266903202
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Wood pellets",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.1178235416
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.8902718457
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.3932373511
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.4068112569
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.4203851627
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               },
@@ -6328,7 +6288,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Geothermal RES",
+                    "indicatorGroup": "Geothermal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6370,7 +6330,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6407,7 +6367,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6444,7 +6404,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel RES",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6481,7 +6441,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6518,7 +6478,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6555,7 +6515,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6592,7 +6552,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6634,7 +6594,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio Synt. Nat. Gas RES",
+                    "indicatorGroup": "Bio synth gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6671,7 +6631,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6708,7 +6668,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6745,7 +6705,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6782,7 +6742,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6819,7 +6779,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6856,7 +6816,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6897,13 +6857,13 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel",
+            "indicator": "Households total fuel consumption",
             "regions": [
               {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity RES",
+                    "indicatorGroup": "Appliances Electricity consumption",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6940,7 +6900,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio Synt. Nat. Gas RES",
+                    "indicatorGroup": "Bio synth gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6977,7 +6937,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7014,7 +6974,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7051,7 +7011,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel RES",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7088,44 +7048,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Firewoods RES",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 17.6051068482
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.7367378988
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8683689494
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7162,7 +7085,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Firewood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 17.6051068482
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.7367378988
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.8683689494
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7199,7 +7159,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7236,7 +7196,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7278,7 +7238,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biofuels (RES)",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7315,44 +7275,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biopellets (RES)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.1178235416
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.8902718457
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.3932373511
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.4068112569
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.4203851627
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal (RES)",
+                    "indicatorGroup": "Coal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7389,7 +7312,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel (RES)",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7426,7 +7349,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity (RES)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7500,7 +7423,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heavy Fuel Oil (RES)",
+                    "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7537,7 +7460,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquefied Petroleum Gas RES",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7574,7 +7497,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7611,7 +7534,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7646,6 +7569,43 @@ export default {
                         "total": 0.5266903202
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Wood pellets",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.1178235416
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.8902718457
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.3932373511
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.4068112569
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.4203851627
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               },
@@ -7653,7 +7613,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Geothermal RES",
+                    "indicatorGroup": "Geothermal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7695,7 +7655,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity RES",
+                    "indicatorGroup": "Appliances Electricity consumption",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7732,7 +7692,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7769,7 +7729,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7806,7 +7766,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel RES",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7843,7 +7803,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7880,7 +7840,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7917,7 +7877,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7954,7 +7914,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7996,7 +7956,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity RES",
+                    "indicatorGroup": "Appliances Electricity consumption",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8033,7 +7993,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio Synt. Nat. Gas RES",
+                    "indicatorGroup": "Bio synth gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8070,7 +8030,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Centralised District Heat RES",
+                    "indicatorGroup": "Central DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8107,7 +8067,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Decentralised District Heat RES",
+                    "indicatorGroup": "Decentral DH",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8144,7 +8104,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Heating Electricity RES",
+                    "indicatorGroup": "Electricity for heating",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8181,7 +8141,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Nat. Gas RES",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8218,7 +8178,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Solar RES",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8255,7 +8215,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood Pellets RES",
+                    "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

@@ -4,13 +4,13 @@ export default {
 			scenarioOptions : [ 
 				{ 
 					"id": 0, 
-					"name": CNS_Bio, 
+					"name": CNS_copy, 
 					"nameNoOptions": CNS, 
-					"short_description": CNS + Bio, 
+					"short_description": CNS, 
 					"ultra_short_description": C0, 
 					"desc": times_desc, 
 					"opt0": false, 
-					"opt1": true, 
+					"opt1": false, 
 					"opt2": false, 
 					"opt3": false, 
 				}, 
@@ -28,13 +28,13 @@ export default {
 				}, 
 				{ 
 					"id": 2, 
-					"name": CNS_copy, 
+					"name": CNS_Bio, 
 					"nameNoOptions": CNS, 
-					"short_description": CNS, 
+					"short_description": CNS + Bio, 
 					"ultra_short_description": C2, 
 					"desc": times_desc, 
 					"opt0": false, 
-					"opt1": false, 
+					"opt1": true, 
 					"opt2": false, 
 					"opt3": false, 
 				}, 
@@ -52,13 +52,13 @@ export default {
 				}, 
 			], 
 			optionsAvailable: 
-				"CNS": { 
+				"CNS_copy": { 
 					"opt0": false,
 					"opt1": true,
 					"opt2": false,
 					"opt3": false,
 					}, 
-				"CNS_copy": { 
+				"CNS": { 
 					"opt0": false,
 					"opt1": true,
 					"opt2": false,

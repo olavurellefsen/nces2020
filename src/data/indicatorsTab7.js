@@ -1,10 +1,9 @@
-//Transport
-export default
-  [
-    "Transport CO2 emissioner",
-    "Transport Cars Consumption",
-    "Transport Freight demand",
-    "Transport Fuel Consumption",
-    "Transport Passengers demand",
-    "Transport System Cost",
-  ]
+export default 
+ 	 [ 
+		"Freight transport demand",
+		"Fuel consumption cars",
+		"Fuel consumption transport",
+		"Passenger transport demand",
+		"Transport CO2 emissioner",
+		"Transport System Cost",
+	 ]
