@@ -27,11 +27,12 @@ const StackedBarChart = props => {
   const stackedBar = props.stackedBar;
   const chartName = props.chartName;
   const options = props.options;
-  const chartTitle = t("chartTitle." + props.chartTitle);
+  //const chartTitle = t("chartTitle." + props.chartTitle);
+  const chartTitle = props.chartTitle
   const scenarios = scenarioCombinations.scenarioCombinations.scenarioOptions
     .filter(o => 
-      o.ccs === options[o.nameNoOptions].ccs 
-      && o.bio === options[o.nameNoOptions].bio 
+      o.opt0 === options[o.nameNoOptions].opt0 
+      && o.opt1 === options[o.nameNoOptions].opt1 
       && o.opt2 === options[o.nameNoOptions].opt2 
       && o.opt3 === options[o.nameNoOptions].opt3)
     .map(scenario => scenario.name);
