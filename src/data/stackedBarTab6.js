@@ -4130,7 +4130,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_bio",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
             "indicator": "Electric appliances consumption",

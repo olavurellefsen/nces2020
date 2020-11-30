@@ -3714,7 +3714,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_bio",
+        "scenario": "CNS_Bio",
         "indicators": [
           {
             "indicator": "Import/Export of biofuels",
