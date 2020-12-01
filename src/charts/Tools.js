@@ -21,7 +21,7 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
     if (scenario.substring(3, 8) === "_copy")
       scenario = scenario.replace("_copy", "")
     let scen = data.scenarios
-    .find(o => o.scenario === scenario)
+    .find(o => o.scenario.toLowerCase() === scenario.toLowerCase())
     console.log("data: ", data)
     console.log("scenario: ", scenario)
     let ind = scen.indicators.find(o => o.indicator === chartName)
@@ -34,6 +34,7 @@ export function createAccumulatedData(data, scenario, percentage, chartName, sel
                 })
               }
               if (selectedDataRegions.includes(r.region)) {//Only include selected countries
+                console.log("indicatorGroup.indicatorGroup", indicatorGroup.indicatorGroup)
                 indicatorGroup.indicatorGroupValues.forEach((value, index) => {
                   if (accumulatedData[indicatorGroup.indicatorGroup][index].year !== value.year ) {
                      //Extra check we rely on the two arrays being indexed the same way
