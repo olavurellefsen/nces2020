@@ -81,7 +81,7 @@ const StackedBarChart = props => {
   let legends = new Set()
   
   stackedBar.data.scenarios
-  .find(o => o.scenario === scenario)
+  .find(o => o.scenario.toLowerCase() === scenario.toLowerCase())
   .indicators.find(o => o.indicator === chartName).regions.forEach((reg)=>{
     reg.indicatorGroups.forEach((group)=>{
       legends.add(group.indicatorGroup)
