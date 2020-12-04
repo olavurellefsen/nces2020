@@ -2,7 +2,7 @@ export default
  	 [ 
 		"Cement fuel consumption",
 		"Heavy Industry CO2 emissions",
-		"Heavy Industry Energy service ",
+		"Heavy Industry Energy service demand",
 		"Heavy industry Fuel consumption",
 		"Heavy industry annual costs",
 		"Iron and steel fuel consumption",

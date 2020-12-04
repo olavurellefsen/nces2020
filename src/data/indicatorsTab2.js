@@ -6,4 +6,5 @@ export default
 		"RE refineries output",
 		"RE_refineries_by_type",
 		"Supply annual system costs",
+		"Supply sector CO2 emission",
 	 ]
