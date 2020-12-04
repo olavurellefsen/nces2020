@@ -14,14 +14,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 94156.2320602052
                       },
@@ -58,14 +50,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 15242.0901802635
@@ -104,14 +88,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1804.1661751704
                       },
@@ -149,14 +125,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 5232.545674874
                       },
@@ -193,14 +161,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": -2923.4128409652
@@ -244,14 +204,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 11877.4039897941
                       },
@@ -288,14 +240,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 10054.8928091082
@@ -334,14 +278,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1259.03896414
                       },
@@ -379,14 +315,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 12548.7157485198
                       },
@@ -423,14 +351,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4038.2295923006
@@ -474,14 +394,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 417.2954385012
                       },
@@ -518,14 +430,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.2313912446
@@ -564,14 +468,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 454.5266307897
                       },
@@ -608,14 +504,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4.5568404774
@@ -659,14 +547,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 51138.0368238473
                       },
@@ -703,14 +583,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 20737.3516302368
@@ -749,14 +621,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 9937.3807973137
                       },
@@ -794,14 +658,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 13128.0012047874
                       },
@@ -838,14 +694,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": -10916.7367500931
@@ -889,14 +737,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2354962.643159118
                       },
@@ -933,14 +773,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 21370.5902546142
@@ -979,14 +811,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3528.6320475184
                       },
@@ -1024,14 +848,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 15630.8281942256
                       },
@@ -1068,14 +884,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9801.9199987577
@@ -1124,14 +932,6 @@ export default {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 14074.4990655197
                       },
@@ -1168,14 +968,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 39929.5123078021
@@ -1214,14 +1006,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 4673.0651441516
                       },
@@ -1258,14 +1042,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Supply",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 341.2309771772
@@ -1304,14 +1080,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 33796.91572416
                       },
@@ -1348,14 +1116,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -1399,14 +1159,6 @@ export default {
                     "indicatorGroup": "CO2-Agriculture",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3729.6830720359
                       },
@@ -1443,14 +1195,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 23820.0176630511
@@ -1489,14 +1233,6 @@ export default {
                     "indicatorGroup": "CO2-Internation transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 5679.5015477471
                       },
@@ -1533,14 +1269,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 32907.8950406797
@@ -1579,14 +1307,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2577.3353943347
                       },
@@ -1623,14 +1343,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Service",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1808.1753453438
@@ -1669,14 +1381,6 @@ export default {
                     "indicatorGroup": "CO2-Supply",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 12832.1790191791
                       },
@@ -1714,14 +1418,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 23405.000056577
                       },
@@ -1758,14 +1454,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -1809,14 +1497,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1.4367290209
                       },
@@ -1859,14 +1539,6 @@ export default {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7103.6392660572
                       },
@@ -1903,14 +1575,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1236.767703507
@@ -1949,14 +1613,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7684.868919261
                       },
@@ -1994,14 +1650,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 35456.5269658727
                       },
@@ -2038,14 +1686,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -2089,14 +1729,6 @@ export default {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 21723.8313601033
                       },
@@ -2133,14 +1765,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 15879.2198057604
@@ -2179,14 +1803,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 161.7830574585
                       },
@@ -2224,14 +1840,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 76657.7914278363
                       },
@@ -2268,14 +1876,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -2317,7 +1917,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNS-BIO",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -2329,13 +1929,5750 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
+                        "year": 2015,
                         "total": 0.0
                       },
                       {
-                        "year": 2012,
+                        "year": 2020,
                         "total": 0.0
                       },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "CO2 Emissions",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNS-BIO-CCS",
+        "indicators": [
+          {
+            "indicator": "Annual system costs",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "CO2 Emissions",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNS-Bio",
+        "indicators": [
+          {
+            "indicator": "Annual system costs",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Flo",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "CO2 Emissions",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNS_Bio",
+        "indicators": [
+          {
+            "indicator": "Annual system costs",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroupValues": [
                       {
                         "year": 2015,
                         "total": 94153.1817925127
@@ -2374,14 +7711,6 @@ export default {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 15226.0167924096
                       },
@@ -2418,14 +7747,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1800.1422510271
@@ -2464,14 +7785,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 5224.0889572656
                       },
@@ -2508,14 +7821,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": -2891.5219388879
@@ -2559,14 +7864,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 11886.5504905719
                       },
@@ -2603,14 +7900,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 10058.7149720082
@@ -2649,14 +7938,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1256.7927156806
                       },
@@ -2694,14 +7975,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 12540.2249310052
                       },
@@ -2738,14 +8011,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4026.4964819893
@@ -2789,14 +8054,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 417.2954385012
                       },
@@ -2833,14 +8090,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.2313912446
@@ -2879,14 +8128,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 454.5266307897
                       },
@@ -2923,14 +8164,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4.5568404774
@@ -2974,14 +8207,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 51140.2269702999
                       },
@@ -3018,14 +8243,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 20754.281184308
@@ -3064,14 +8281,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 9937.3759717835
                       },
@@ -3109,14 +8318,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 23052.4451961711
                       },
@@ -3153,14 +8354,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": -10916.4782837353
@@ -3204,14 +8397,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2354965.5756009873
                       },
@@ -3248,14 +8433,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 21387.7102671297
@@ -3294,14 +8471,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3697.6864086368
                       },
@@ -3339,14 +8508,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 15622.3988368907
                       },
@@ -3383,14 +8544,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9781.503740634
@@ -3439,14 +8592,6 @@ export default {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 14236.497766917
                       },
@@ -3483,14 +8628,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 40051.4190031618
@@ -3529,14 +8666,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 4672.8304311904
                       },
@@ -3573,14 +8702,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Supply",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 341.2309771772
@@ -3619,14 +8740,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 33796.91572416
                       },
@@ -3663,14 +8776,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -3714,14 +8819,6 @@ export default {
                     "indicatorGroup": "CO2-Agriculture",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3729.6830720359
                       },
@@ -3758,14 +8855,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 23839.7374166608
@@ -3804,14 +8893,6 @@ export default {
                     "indicatorGroup": "CO2-Internation transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 5679.5015477471
                       },
@@ -3848,14 +8929,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 32947.9281575423
@@ -3894,14 +8967,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2577.3353943347
                       },
@@ -3938,14 +9003,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Service",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1808.1753453438
@@ -3984,14 +9041,6 @@ export default {
                     "indicatorGroup": "CO2-Supply",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 12836.3116235611
                       },
@@ -4029,14 +9078,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 23405.000056577
                       },
@@ -4073,14 +9114,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -4124,14 +9157,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1.4367290209
                       },
@@ -4174,14 +9199,6 @@ export default {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7106.53543541
                       },
@@ -4218,14 +9235,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 2164.3434811372
@@ -4264,14 +9273,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7684.868919261
                       },
@@ -4309,14 +9310,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 35456.5269658727
                       },
@@ -4353,14 +9346,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -4404,14 +9389,6 @@ export default {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 21809.2419016502
                       },
@@ -4448,14 +9425,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 20237.439679266
@@ -4494,14 +9463,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 170.2902667587
                       },
@@ -4539,14 +9500,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 76657.7914278363
                       },
@@ -4583,14 +9536,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -4644,14 +9589,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 47080.3557651199
                       },
@@ -4688,14 +9625,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 8175.5267157017
@@ -4734,14 +9663,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 906.1557120786
                       },
@@ -4779,14 +9700,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2731.1946845026
                       },
@@ -4823,14 +9736,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": -1737.5493933302
@@ -4874,14 +9779,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 5941.3313245335
                       },
@@ -4918,14 +9815,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 5160.735761171
@@ -4964,14 +9853,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 628.6888499288
                       },
@@ -5009,14 +9890,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 6270.751633689
                       },
@@ -5053,14 +9926,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1921.0042850667
@@ -5104,14 +9969,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 417.2954385012
                       },
@@ -5148,14 +10005,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.2313659627
@@ -5194,14 +10043,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 234.6182633384
                       },
@@ -5238,14 +10079,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3.5826238396
@@ -5289,14 +10122,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 25573.6981837584
                       },
@@ -5333,14 +10158,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 10769.4434588525
@@ -5379,14 +10196,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 4855.9118899438
                       },
@@ -5424,14 +10233,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 10027.4001921593
                       },
@@ -5468,14 +10269,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": -5624.5467161921
@@ -5519,14 +10312,6 @@ export default {
                     "indicatorGroup": "Cost_Act",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1177479.5155072953
                       },
@@ -5563,14 +10348,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_Flo",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 11594.9969051175
@@ -5609,14 +10386,6 @@ export default {
                     "indicatorGroup": "Cost_Fom",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1776.7853866271
                       },
@@ -5654,14 +10423,6 @@ export default {
                     "indicatorGroup": "Cost_Inv",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 9666.2146661461
                       },
@@ -5698,14 +10459,6 @@ export default {
                   {
                     "indicatorGroup": "Cost_ire",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 5441.0918244556
@@ -5754,14 +10507,6 @@ export default {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7003.9905053854
                       },
@@ -5798,14 +10543,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 22259.5314653212
@@ -5844,14 +10581,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2336.3276228066
                       },
@@ -5888,14 +10617,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Supply",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 170.6154885886
@@ -5934,14 +10655,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 16898.45786208
                       },
@@ -5978,14 +10691,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -6029,14 +10734,6 @@ export default {
                     "indicatorGroup": "CO2-Agriculture",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1864.8415360179
                       },
@@ -6073,14 +10770,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 11940.5366299853
@@ -6119,14 +10808,6 @@ export default {
                     "indicatorGroup": "CO2-Internation transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2839.7507738735
                       },
@@ -6163,14 +10844,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 16494.045245091
@@ -6209,14 +10882,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1288.6676971673
                       },
@@ -6253,14 +10918,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Service",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 904.0876709187
@@ -6299,14 +10956,6 @@ export default {
                     "indicatorGroup": "CO2-Supply",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 6401.1050776713
                       },
@@ -6344,14 +10993,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 11702.5000282885
                       },
@@ -6388,14 +11029,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -6439,14 +11072,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1.4367290209
                       },
@@ -6489,14 +11114,6 @@ export default {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3583.7923650855
                       },
@@ -6533,14 +11150,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 618.3838517535
@@ -6579,14 +11188,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1726.3774787976
                       },
@@ -6624,14 +11225,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 17728.2689216338
                       },
@@ -6668,14 +11261,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -6719,14 +11304,6 @@ export default {
                     "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 11043.0607092586
                       },
@@ -6763,14 +11340,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-Power and Heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9449.9887415051
@@ -6809,14 +11378,6 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 97.5654346083
                       },
@@ -6854,14 +11415,6 @@ export default {
                     "indicatorGroup": "CO2-Transport",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 38328.8957139182
                       },
@@ -6898,14 +11451,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0

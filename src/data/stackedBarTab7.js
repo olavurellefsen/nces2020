@@ -14,14 +14,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1326.79008
                       },
@@ -58,14 +50,6 @@ export default {
                   {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 774.1175843518
@@ -104,14 +88,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 114052.8736511875
                       },
@@ -149,14 +125,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 20559.2512014332
                       },
@@ -193,14 +161,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 7740.6691309544
@@ -244,14 +204,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 20569.3474876455
                       },
@@ -288,14 +240,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6212.1581140895
@@ -334,14 +278,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 53726.240295965
                       },
@@ -378,14 +314,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 2219.460006676
@@ -429,14 +357,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 555.7104
                       },
@@ -473,14 +393,6 @@ export default {
                   {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 7390.2368296868
@@ -519,14 +431,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 146132.0145742781
                       },
@@ -564,14 +468,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 42229.9009498609
                       },
@@ -608,14 +504,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1798.6223665086
@@ -659,14 +547,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 198.4583396617
                       },
@@ -703,14 +583,6 @@ export default {
                   {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 29064.1134634727
@@ -749,14 +621,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1658663.4041224932
                       },
@@ -794,14 +658,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 75515.5348400145
                       },
@@ -838,14 +694,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6401.0627114988
@@ -894,14 +742,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 78.3456643857
                       },
@@ -938,14 +778,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0408733352
@@ -984,14 +816,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.00300186
                       },
@@ -1028,14 +852,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 124.9301409272
@@ -1079,14 +895,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 63.3844571155
                       },
@@ -1123,14 +931,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0878447388
@@ -1169,14 +969,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.3018617926
                       },
@@ -1213,14 +1005,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 115.8882783628
@@ -1264,14 +1048,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 90.1651468771
                       },
@@ -1308,14 +1084,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1.0033132621
@@ -1354,14 +1122,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0045236157
                       },
@@ -1398,14 +1158,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 65.5565954804
@@ -1449,14 +1201,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 148.0463168761
                       },
@@ -1493,14 +1237,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0613404612
@@ -1539,14 +1275,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 16.0853567326
                       },
@@ -1583,14 +1311,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 216.9236232307
@@ -1639,14 +1359,6 @@ export default {
                     "indicatorGroup": "TRAAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.11095
                       },
@@ -1683,14 +1395,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSB",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9.9826564476
@@ -1729,14 +1433,6 @@ export default {
                     "indicatorGroup": "TRADSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 214.1449588448
                       },
@@ -1773,14 +1469,6 @@ export default {
                   {
                     "indicatorGroup": "TRAELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 18.2795126371
@@ -1819,14 +1507,6 @@ export default {
                     "indicatorGroup": "TRAGSB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -1863,14 +1543,6 @@ export default {
                   {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 134.0632333412
@@ -1909,14 +1581,6 @@ export default {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 16.5043580501
                       },
@@ -1953,14 +1617,6 @@ export default {
                   {
                     "indicatorGroup": "TRAKER",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 102.2650930147
@@ -1999,14 +1655,6 @@ export default {
                     "indicatorGroup": "TRAKRB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.6247589222
                       },
@@ -2043,14 +1691,6 @@ export default {
                   {
                     "indicatorGroup": "TRALPG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0008605938
@@ -2089,14 +1729,6 @@ export default {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.002701674
                       },
@@ -2133,14 +1765,6 @@ export default {
                   {
                     "indicatorGroup": "TRASNG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.000300186
@@ -2184,14 +1808,6 @@ export default {
                     "indicatorGroup": "TRAAVG",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.1220957924
                       },
@@ -2228,14 +1844,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSO",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9.0193708267
@@ -2274,14 +1882,6 @@ export default {
                     "indicatorGroup": "TRADST",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 204.8168818845
                       },
@@ -2318,14 +1918,6 @@ export default {
                   {
                     "indicatorGroup": "TRAETH",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1.3205586252
@@ -2364,14 +1956,6 @@ export default {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 124.7965383426
                       },
@@ -2408,14 +1992,6 @@ export default {
                   {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1.6744401726
@@ -2454,14 +2030,6 @@ export default {
                     "indicatorGroup": "TRAJET",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 52.5136396453
                       },
@@ -2498,14 +2066,6 @@ export default {
                   {
                     "indicatorGroup": "TRAJTK",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9.989159255
@@ -2544,14 +2104,6 @@ export default {
                     "indicatorGroup": "TRAMET",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -2588,14 +2140,6 @@ export default {
                   {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.5942716259
@@ -2634,14 +2178,6 @@ export default {
                     "indicatorGroup": "TRAOIL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 23.9983360249
                       },
@@ -2679,14 +2215,6 @@ export default {
                     "indicatorGroup": "TRDELC",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.1048403885
                       },
@@ -2723,14 +2251,6 @@ export default {
                   {
                     "indicatorGroup": "TTRELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 5.3749435019
@@ -2774,14 +2294,6 @@ export default {
                     "indicatorGroup": "TRAAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.1466666667
                       },
@@ -2818,14 +2330,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSB",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -2864,14 +2368,6 @@ export default {
                     "indicatorGroup": "TRADSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 281.7029463576
                       },
@@ -2908,14 +2404,6 @@ export default {
                   {
                     "indicatorGroup": "TRAELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 20.9052319486
@@ -2954,14 +2442,6 @@ export default {
                     "indicatorGroup": "TRAGSB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -2998,14 +2478,6 @@ export default {
                   {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 86.8910355897
@@ -3044,14 +2516,6 @@ export default {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 18.2433800157
                       },
@@ -3088,14 +2552,6 @@ export default {
                   {
                     "indicatorGroup": "TRAKER",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 99.2767350333
@@ -3134,14 +2590,6 @@ export default {
                     "indicatorGroup": "TRAKRB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -3179,14 +2627,6 @@ export default {
                     "indicatorGroup": "TRALPG",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0053444922
                       },
@@ -3223,14 +2663,6 @@ export default {
                   {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0045236157
@@ -3274,14 +2706,6 @@ export default {
                     "indicatorGroup": "TRAAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.9816831197
                       },
@@ -3318,14 +2742,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSB",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 2.9465722451
@@ -3364,14 +2780,6 @@ export default {
                     "indicatorGroup": "TRADSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 393.1476503464
                       },
@@ -3408,14 +2816,6 @@ export default {
                   {
                     "indicatorGroup": "TRAELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 16.2227165242
@@ -3454,14 +2854,6 @@ export default {
                     "indicatorGroup": "TRAGSB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7.6167702971
                       },
@@ -3498,14 +2890,6 @@ export default {
                   {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 223.1614421611
@@ -3544,14 +2928,6 @@ export default {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 294.5981178225
                       },
@@ -3588,14 +2964,6 @@ export default {
                   {
                     "indicatorGroup": "TRAKER",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 105.9258112545
@@ -3634,14 +3002,6 @@ export default {
                     "indicatorGroup": "TRAKRB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -3679,14 +3039,6 @@ export default {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 28.0654510971
                       },
@@ -3723,14 +3075,6 @@ export default {
                   {
                     "indicatorGroup": "TRASNG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -3779,14 +3123,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 104682.805963143
                       },
@@ -3823,14 +3159,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4856.1538745977
@@ -3869,14 +3197,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 14259.7352021924
                       },
@@ -3913,14 +3233,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 111607.2499650125
@@ -3959,14 +3271,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 13654.6709209702
                       },
@@ -4003,14 +3307,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3498.2976
@@ -4049,14 +3345,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1090.9424948599
                       },
@@ -4093,14 +3381,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3196.344190737
@@ -4144,14 +3424,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2447.9019632345
                       },
@@ -4188,14 +3460,6 @@ export default {
                   {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 16044.5877492729
@@ -4234,14 +3498,6 @@ export default {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 131871.2961260163
                       },
@@ -4279,14 +3535,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 9669.672223123
                       },
@@ -4323,14 +3571,6 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3225.1851922517
@@ -4374,14 +3614,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 69759.8860527169
                       },
@@ -4418,14 +3650,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 789.9635794443
@@ -4464,14 +3688,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 9926.7276288432
                       },
@@ -4508,14 +3724,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 120971.1312831554
@@ -4554,14 +3762,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7841.7185951758
                       },
@@ -4598,14 +3798,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9583.44871092
@@ -4644,14 +3836,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2828.2648327561
                       },
@@ -4688,14 +3872,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1612.9349227208
@@ -4739,14 +3915,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 96955.0610172253
                       },
@@ -4783,14 +3951,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3812.509700014
@@ -4829,14 +3989,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 18048.5397264251
                       },
@@ -4873,14 +4025,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 221864.0829593559
@@ -4919,14 +4063,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 27891.5279781781
                       },
@@ -4963,14 +4099,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 21938.0048905623
@@ -5009,14 +4137,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2136.0741084992
                       },
@@ -5053,14 +4173,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6677.2857431662
@@ -5109,14 +4221,6 @@ export default {
                     "indicatorGroup": "TRACO2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 25158.9293883276
                       },
@@ -5154,14 +4258,6 @@ export default {
                     "indicatorGroup": "TRACO2A",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7360.5490227534
                       },
@@ -5198,14 +4294,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1277.437313079
@@ -5249,14 +4337,6 @@ export default {
                     "indicatorGroup": "TRACO2B",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 5679.5015477471
                       },
@@ -5293,14 +4373,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 23405.000056577
@@ -5344,14 +4416,6 @@ export default {
                     "indicatorGroup": "TRACO2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 26896.3281037669
                       },
@@ -5389,14 +4453,6 @@ export default {
                     "indicatorGroup": "TRACO2A",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7148.1612488919
                       },
@@ -5433,14 +4489,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1412.0376132139
@@ -5484,14 +4532,6 @@ export default {
                     "indicatorGroup": "TRACO2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 46171.8006389817
                       },
@@ -5529,14 +4569,6 @@ export default {
                     "indicatorGroup": "TRACO2A",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7684.0964693912
                       },
@@ -5573,14 +4605,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 22801.8943194634
@@ -5629,14 +4653,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 597.4488746006
                       },
@@ -5673,14 +4689,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 207.577093456
@@ -5719,14 +4727,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 710.1264970177
                       },
@@ -5763,14 +4763,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 355.44358027
@@ -5809,14 +4801,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 89.9478759187
                       },
@@ -5853,14 +4837,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6.754508569
@@ -5899,14 +4875,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 62.8505181773
                       },
@@ -5943,14 +4911,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 13.7589645382
@@ -5994,14 +4954,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -6038,14 +4990,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -6084,14 +5028,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -6128,14 +5064,6 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -6179,14 +5107,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 303.5042274824
                       },
@@ -6223,14 +5143,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 39.8717356068
@@ -6269,14 +5181,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1030.7860181957
                       },
@@ -6313,14 +5217,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3.0165096052
@@ -6359,14 +5255,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 70.5411825711
                       },
@@ -6403,14 +5291,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 26.2035488832
@@ -6449,14 +5329,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 68.917943281
                       },
@@ -6493,14 +5365,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6.943975966
@@ -6544,14 +5408,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 561.1452550043
                       },
@@ -6588,14 +5444,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 527.5153203009
@@ -6634,14 +5482,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 944.0337777589
                       },
@@ -6678,14 +5518,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 518.9900573912
@@ -6724,14 +5556,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 310.8427447015
                       },
@@ -6768,14 +5592,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 682.4111909579
@@ -6814,14 +5630,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 123.5499955508
                       },
@@ -6858,14 +5666,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 40.9000725818
@@ -6907,7 +5707,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNS-BIO",
         "indicators": [
           {
             "indicator": "Freight transport demand",
@@ -6919,13 +5719,17120 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
+                        "year": 2015,
                         "total": 0.0
                       },
                       {
-                        "year": 2012,
+                        "year": 2020,
                         "total": 0.0
                       },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Fuel consumption cars",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Fuel consumption transport",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKER",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKRB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRALPG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRASNG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAVG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADST",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAETH",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAJET",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAJTK",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAMET",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAOIL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRDELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TTRELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKER",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKRB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRALPG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKER",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKRB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRASNG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Passenger transport demand",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Transport CO2 emissioner",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2A",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2B",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2A",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2A",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Transport System Cost",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNS-BIO-CCS",
+        "indicators": [
+          {
+            "indicator": "Freight transport demand",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Fuel consumption cars",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Fuel consumption transport",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKER",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKRB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRALPG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRASNG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAVG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADST",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAETH",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAJET",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAJTK",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAMET",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAOIL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRDELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TTRELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKER",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKRB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRALPG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKER",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKRB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRASNG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Passenger transport demand",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Transport CO2 emissioner",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2A",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2B",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2A",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2A",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Transport System Cost",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNS-Bio",
+        "indicators": [
+          {
+            "indicator": "Freight transport demand",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Truck",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Van",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Fuel consumption cars",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRA_DIESEL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_ELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GAS",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRA_GASOLINE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Fuel consumption transport",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKER",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKRB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRALPG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRASNG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAVG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADST",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAETH",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAJET",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAJTK",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAMET",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAOIL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRDELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TTRELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKER",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKRB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRALPG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRAAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRADSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAELC",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAGSL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAHFO",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKER",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRAKRB",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRANGA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRASNG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Passenger transport demand",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Transport CO2 emissioner",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2A",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2B",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2A",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TRACO2",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2A",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TRACO2N",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Transport System Cost",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bike",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bus",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Car",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Rail",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Ship",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Two wheelers",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Walk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNS_Bio",
+        "indicators": [
+          {
+            "indicator": "Freight transport demand",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Aviation",
+                    "indicatorGroupValues": [
                       {
                         "year": 2015,
                         "total": 1326.79008
@@ -6964,14 +22871,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 774.1175843518
                       },
@@ -7008,14 +22907,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 114052.8736511875
@@ -7054,14 +22945,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 20559.2512014332
                       },
@@ -7098,14 +22981,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 7740.6691309544
@@ -7149,14 +23024,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 20569.3474876455
                       },
@@ -7193,14 +23060,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6212.1581140895
@@ -7239,14 +23098,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 53726.240295965
                       },
@@ -7283,14 +23134,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 2219.460006676
@@ -7334,14 +23177,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 555.7104
                       },
@@ -7378,14 +23213,6 @@ export default {
                   {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 7390.2368296868
@@ -7424,14 +23251,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 146132.0145742781
                       },
@@ -7469,14 +23288,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 42229.9009498609
                       },
@@ -7513,14 +23324,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1798.6223665086
@@ -7564,14 +23367,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 198.4583396617
                       },
@@ -7608,14 +23403,6 @@ export default {
                   {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 29064.1134634727
@@ -7654,14 +23441,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1658663.4041224932
                       },
@@ -7699,14 +23478,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 75515.5348400145
                       },
@@ -7743,14 +23514,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6401.0627114988
@@ -7799,14 +23562,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 78.3456643857
                       },
@@ -7843,14 +23598,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0408733352
@@ -7889,14 +23636,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.00300186
                       },
@@ -7933,14 +23672,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 124.9301409272
@@ -7984,14 +23715,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 63.3844571155
                       },
@@ -8028,14 +23751,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0878447388
@@ -8074,14 +23789,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.3018617926
                       },
@@ -8118,14 +23825,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 115.8882783628
@@ -8169,14 +23868,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 90.1651468771
                       },
@@ -8213,14 +23904,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1.0033132621
@@ -8259,14 +23942,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0045236157
                       },
@@ -8303,14 +23978,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 65.5565954804
@@ -8354,14 +24021,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 148.0463168761
                       },
@@ -8398,14 +24057,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0613404612
@@ -8444,14 +24095,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 16.0853567326
                       },
@@ -8488,14 +24131,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 216.9236232307
@@ -8544,14 +24179,6 @@ export default {
                     "indicatorGroup": "TRAAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.11095
                       },
@@ -8588,14 +24215,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSB",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9.9826564476
@@ -8634,14 +24253,6 @@ export default {
                     "indicatorGroup": "TRADSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 214.1449588448
                       },
@@ -8678,14 +24289,6 @@ export default {
                   {
                     "indicatorGroup": "TRAELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 18.2795126371
@@ -8724,14 +24327,6 @@ export default {
                     "indicatorGroup": "TRAGSB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -8768,14 +24363,6 @@ export default {
                   {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 134.0632333412
@@ -8814,14 +24401,6 @@ export default {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 16.5043580501
                       },
@@ -8858,14 +24437,6 @@ export default {
                   {
                     "indicatorGroup": "TRAKER",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 102.2650930147
@@ -8904,14 +24475,6 @@ export default {
                     "indicatorGroup": "TRAKRB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.6247589222
                       },
@@ -8948,14 +24511,6 @@ export default {
                   {
                     "indicatorGroup": "TRALPG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0008605938
@@ -8994,14 +24549,6 @@ export default {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.002701674
                       },
@@ -9038,14 +24585,6 @@ export default {
                   {
                     "indicatorGroup": "TRASNG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.000300186
@@ -9089,14 +24628,6 @@ export default {
                     "indicatorGroup": "TRAAVG",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.1220957924
                       },
@@ -9133,14 +24664,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSO",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9.0193708267
@@ -9179,14 +24702,6 @@ export default {
                     "indicatorGroup": "TRADST",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 204.8168818845
                       },
@@ -9223,14 +24738,6 @@ export default {
                   {
                     "indicatorGroup": "TRAETH",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1.3205586252
@@ -9269,14 +24776,6 @@ export default {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 124.7965383426
                       },
@@ -9313,14 +24812,6 @@ export default {
                   {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1.6744401726
@@ -9359,14 +24850,6 @@ export default {
                     "indicatorGroup": "TRAJET",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 52.5136396453
                       },
@@ -9403,14 +24886,6 @@ export default {
                   {
                     "indicatorGroup": "TRAJTK",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9.989159255
@@ -9449,14 +24924,6 @@ export default {
                     "indicatorGroup": "TRAMET",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -9493,14 +24960,6 @@ export default {
                   {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.5942716259
@@ -9539,14 +24998,6 @@ export default {
                     "indicatorGroup": "TRAOIL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 23.9983360249
                       },
@@ -9584,14 +25035,6 @@ export default {
                     "indicatorGroup": "TRDELC",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.1048403885
                       },
@@ -9628,14 +25071,6 @@ export default {
                   {
                     "indicatorGroup": "TTRELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 5.3749435019
@@ -9679,14 +25114,6 @@ export default {
                     "indicatorGroup": "TRAAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.1466666667
                       },
@@ -9723,14 +25150,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSB",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -9769,14 +25188,6 @@ export default {
                     "indicatorGroup": "TRADSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 281.7029463576
                       },
@@ -9813,14 +25224,6 @@ export default {
                   {
                     "indicatorGroup": "TRAELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 41.8104638971
@@ -9859,14 +25262,6 @@ export default {
                     "indicatorGroup": "TRAGSB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -9903,14 +25298,6 @@ export default {
                   {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 86.8910355897
@@ -9949,14 +25336,6 @@ export default {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 18.2433800157
                       },
@@ -9993,14 +25372,6 @@ export default {
                   {
                     "indicatorGroup": "TRAKER",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 99.2767350333
@@ -10039,14 +25410,6 @@ export default {
                     "indicatorGroup": "TRAKRB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -10084,14 +25447,6 @@ export default {
                     "indicatorGroup": "TRALPG",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0053444922
                       },
@@ -10128,14 +25483,6 @@ export default {
                   {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0045236157
@@ -10179,14 +25526,6 @@ export default {
                     "indicatorGroup": "TRAAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.9816831197
                       },
@@ -10223,14 +25562,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSB",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 2.9465722451
@@ -10269,14 +25600,6 @@ export default {
                     "indicatorGroup": "TRADSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 393.1476503464
                       },
@@ -10313,14 +25636,6 @@ export default {
                   {
                     "indicatorGroup": "TRAELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 25.7057906073
@@ -10359,14 +25674,6 @@ export default {
                     "indicatorGroup": "TRAGSB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7.6167702971
                       },
@@ -10403,14 +25710,6 @@ export default {
                   {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 223.1614421611
@@ -10449,14 +25748,6 @@ export default {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 294.5981178225
                       },
@@ -10493,14 +25784,6 @@ export default {
                   {
                     "indicatorGroup": "TRAKER",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 105.9258112545
@@ -10539,14 +25822,6 @@ export default {
                     "indicatorGroup": "TRAKRB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -10584,14 +25859,6 @@ export default {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 28.0654510971
                       },
@@ -10628,14 +25895,6 @@ export default {
                   {
                     "indicatorGroup": "TRASNG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -10684,14 +25943,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 104682.805963143
                       },
@@ -10728,14 +25979,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4856.1538745977
@@ -10774,14 +26017,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 14259.7352021924
                       },
@@ -10818,14 +26053,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 111607.2499650125
@@ -10864,14 +26091,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 18611.6258078348
                       },
@@ -10908,14 +26127,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3498.2976
@@ -10954,14 +26165,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1090.9424948599
                       },
@@ -10998,14 +26201,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3196.344190737
@@ -11049,14 +26244,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2447.9019632345
                       },
@@ -11093,14 +26280,6 @@ export default {
                   {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 16044.5877492729
@@ -11139,14 +26318,6 @@ export default {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 131871.2961260163
                       },
@@ -11184,14 +26355,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 9669.672223123
                       },
@@ -11228,14 +26391,6 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3225.1851922517
@@ -11279,14 +26434,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 69759.8860527169
                       },
@@ -11323,14 +26470,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 789.9635794443
@@ -11369,14 +26508,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 9926.7276288432
                       },
@@ -11413,14 +26544,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 213818.3060656413
@@ -11459,14 +26582,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7841.7185951758
                       },
@@ -11503,14 +26618,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9583.44871092
@@ -11549,14 +26656,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3491.3803552436
                       },
@@ -11593,14 +26692,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1612.9349227208
@@ -11644,14 +26735,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 96955.0610172253
                       },
@@ -11688,14 +26771,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3812.509700014
@@ -11734,14 +26809,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 18048.5397264251
                       },
@@ -11778,14 +26845,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 269112.9615333357
@@ -11824,14 +26883,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 27891.5279781781
                       },
@@ -11868,14 +26919,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 21938.0048905623
@@ -11914,14 +26957,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2136.0741084992
                       },
@@ -11958,14 +26993,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6677.2857431662
@@ -12014,14 +27041,6 @@ export default {
                     "indicatorGroup": "TRACO2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 25158.9293883276
                       },
@@ -12059,14 +27078,6 @@ export default {
                     "indicatorGroup": "TRACO2A",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7360.5490227534
                       },
@@ -12103,14 +27114,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1277.437313079
@@ -12154,14 +27157,6 @@ export default {
                     "indicatorGroup": "TRACO2B",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 5679.5015477471
                       },
@@ -12198,14 +27193,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 23405.000056577
@@ -12249,14 +27236,6 @@ export default {
                     "indicatorGroup": "TRACO2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 26896.3281037669
                       },
@@ -12294,14 +27273,6 @@ export default {
                     "indicatorGroup": "TRACO2A",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7148.1612488919
                       },
@@ -12338,14 +27309,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1412.0376132139
@@ -12389,14 +27352,6 @@ export default {
                     "indicatorGroup": "TRACO2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 46171.8006389817
                       },
@@ -12434,14 +27389,6 @@ export default {
                     "indicatorGroup": "TRACO2A",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7684.0964693912
                       },
@@ -12478,14 +27425,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 22801.8943194634
@@ -12534,14 +27473,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 597.4488746006
                       },
@@ -12578,14 +27509,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 207.577093456
@@ -12624,14 +27547,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 710.1264970177
                       },
@@ -12668,14 +27583,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 355.44358027
@@ -12714,14 +27621,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 89.9478759187
                       },
@@ -12758,14 +27657,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6.754508569
@@ -12804,14 +27695,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 62.8505181773
                       },
@@ -12848,14 +27731,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 13.7589645382
@@ -12899,14 +27774,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -12943,14 +27810,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -12989,14 +27848,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -13033,14 +27884,6 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -13084,14 +27927,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 303.5042274824
                       },
@@ -13128,14 +27963,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 39.8717356068
@@ -13174,14 +28001,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1030.7860181957
                       },
@@ -13218,14 +28037,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3.0165096052
@@ -13264,14 +28075,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 70.5411825711
                       },
@@ -13308,14 +28111,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 26.2035488832
@@ -13354,14 +28149,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 68.917943281
                       },
@@ -13398,14 +28185,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6.943975966
@@ -13449,14 +28228,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 561.1452550043
                       },
@@ -13493,14 +28264,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 527.5153203009
@@ -13539,14 +28302,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 944.0337777589
                       },
@@ -13583,14 +28338,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 829.2091890068
@@ -13629,14 +28376,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 310.8427447015
                       },
@@ -13673,14 +28412,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 682.4111909579
@@ -13719,14 +28450,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 123.5499955508
                       },
@@ -13763,14 +28486,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 40.9000725818
@@ -13824,14 +28539,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 663.39504
                       },
@@ -13868,14 +28575,6 @@ export default {
                   {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 387.0587921759
@@ -13914,14 +28613,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 57026.4368255937
                       },
@@ -13959,14 +28650,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 10279.6256007166
                       },
@@ -14003,14 +28686,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1935.1672827386
@@ -14054,14 +28729,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 10284.6737438227
                       },
@@ -14098,14 +28765,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3106.0790570447
@@ -14144,14 +28803,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 26863.1201479825
                       },
@@ -14188,14 +28839,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1109.730003338
@@ -14239,14 +28882,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 277.8552
                       },
@@ -14283,14 +28918,6 @@ export default {
                   {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3695.1184148434
@@ -14329,14 +28956,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 73066.007287139
                       },
@@ -14374,14 +28993,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 21114.9504749305
                       },
@@ -14418,14 +29029,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 899.3111832543
@@ -14469,14 +29072,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 99.2291698308
                       },
@@ -14513,14 +29108,6 @@ export default {
                   {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 14532.0567317364
@@ -14559,14 +29146,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 829331.7020612452
                       },
@@ -14604,14 +29183,6 @@ export default {
                     "indicatorGroup": "Truck",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 37757.7674200072
                       },
@@ -14648,14 +29219,6 @@ export default {
                   {
                     "indicatorGroup": "Van",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3200.5313557494
@@ -14704,14 +29267,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 39.1728321929
                       },
@@ -14748,14 +29303,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0204366676
@@ -14794,14 +29341,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.00150093
                       },
@@ -14838,14 +29377,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 62.4650704636
@@ -14889,14 +29420,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 31.6922285577
                       },
@@ -14933,14 +29456,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0439223694
@@ -14979,14 +29494,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.1509308963
                       },
@@ -15023,14 +29530,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 57.9441391814
@@ -15074,14 +29573,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 45.0825734385
                       },
@@ -15118,14 +29609,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.501656631
@@ -15164,14 +29647,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0018497853
                       },
@@ -15208,14 +29683,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 32.7787097627
@@ -15259,14 +29726,6 @@ export default {
                     "indicatorGroup": "TRA_DIESEL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 74.023158438
                       },
@@ -15303,14 +29762,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_ELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0306702306
@@ -15349,14 +29800,6 @@ export default {
                     "indicatorGroup": "TRA_GAS",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 8.0426783663
                       },
@@ -15393,14 +29836,6 @@ export default {
                   {
                     "indicatorGroup": "TRA_GASOLINE",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 108.4618116153
@@ -15449,14 +29884,6 @@ export default {
                     "indicatorGroup": "TRAAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.055475
                       },
@@ -15493,14 +29920,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSB",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4.9913282238
@@ -15539,14 +29958,6 @@ export default {
                     "indicatorGroup": "TRADSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 107.0724794224
                       },
@@ -15583,14 +29994,6 @@ export default {
                   {
                     "indicatorGroup": "TRAELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 9.1397563185
@@ -15629,14 +30032,6 @@ export default {
                     "indicatorGroup": "TRAGSB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -15673,14 +30068,6 @@ export default {
                   {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 67.0316166706
@@ -15719,14 +30106,6 @@ export default {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 8.2521790251
                       },
@@ -15763,14 +30142,6 @@ export default {
                   {
                     "indicatorGroup": "TRAKER",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 51.1325465073
@@ -15809,14 +30180,6 @@ export default {
                     "indicatorGroup": "TRAKRB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.3123794611
                       },
@@ -15853,14 +30216,6 @@ export default {
                   {
                     "indicatorGroup": "TRALPG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0004302969
@@ -15899,14 +30254,6 @@ export default {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.001350837
                       },
@@ -15943,14 +30290,6 @@ export default {
                   {
                     "indicatorGroup": "TRASNG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.000150093
@@ -15994,14 +30333,6 @@ export default {
                     "indicatorGroup": "TRAAVG",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0610478962
                       },
@@ -16038,14 +30369,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSO",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4.5096854133
@@ -16084,14 +30407,6 @@ export default {
                     "indicatorGroup": "TRADST",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 102.4084409422
                       },
@@ -16128,14 +30443,6 @@ export default {
                   {
                     "indicatorGroup": "TRAETH",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.6602793126
@@ -16174,14 +30481,6 @@ export default {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 62.3982691713
                       },
@@ -16218,14 +30517,6 @@ export default {
                   {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.8372200863
@@ -16264,14 +30555,6 @@ export default {
                     "indicatorGroup": "TRAJET",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 26.2568198226
                       },
@@ -16308,14 +30591,6 @@ export default {
                   {
                     "indicatorGroup": "TRAJTK",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4.9945796275
@@ -16354,14 +30629,6 @@ export default {
                     "indicatorGroup": "TRAMET",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -16398,14 +30665,6 @@ export default {
                   {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.297135813
@@ -16444,14 +30703,6 @@ export default {
                     "indicatorGroup": "TRAOIL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 11.9991680125
                       },
@@ -16489,14 +30740,6 @@ export default {
                     "indicatorGroup": "TRDELC",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0524201943
                       },
@@ -16533,14 +30776,6 @@ export default {
                   {
                     "indicatorGroup": "TTRELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 2.687471751
@@ -16584,14 +30819,6 @@ export default {
                     "indicatorGroup": "TRAAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0733333333
                       },
@@ -16628,14 +30855,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSB",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -16674,14 +30893,6 @@ export default {
                     "indicatorGroup": "TRADSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 140.8514731788
                       },
@@ -16718,14 +30929,6 @@ export default {
                   {
                     "indicatorGroup": "TRAELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 10.4526159743
@@ -16764,14 +30967,6 @@ export default {
                     "indicatorGroup": "TRAGSB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -16808,14 +31003,6 @@ export default {
                   {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 43.4459298174
@@ -16854,14 +31041,6 @@ export default {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 9.1216900078
                       },
@@ -16898,14 +31077,6 @@ export default {
                   {
                     "indicatorGroup": "TRAKER",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 49.6383675166
@@ -16944,14 +31115,6 @@ export default {
                     "indicatorGroup": "TRAKRB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -16989,14 +31152,6 @@ export default {
                     "indicatorGroup": "TRALPG",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0026722461
                       },
@@ -17033,14 +31188,6 @@ export default {
                   {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0018497853
@@ -17084,14 +31231,6 @@ export default {
                     "indicatorGroup": "TRAAGSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.4908415598
                       },
@@ -17128,14 +31267,6 @@ export default {
                   {
                     "indicatorGroup": "TRADSB",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1.4732861226
@@ -17174,14 +31305,6 @@ export default {
                     "indicatorGroup": "TRADSL",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 196.5738251732
                       },
@@ -17218,14 +31341,6 @@ export default {
                   {
                     "indicatorGroup": "TRAELC",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 8.1113582621
@@ -17264,14 +31379,6 @@ export default {
                     "indicatorGroup": "TRAGSB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3.8083851485
                       },
@@ -17308,14 +31415,6 @@ export default {
                   {
                     "indicatorGroup": "TRAGSL",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 111.5807210805
@@ -17354,14 +31453,6 @@ export default {
                     "indicatorGroup": "TRAHFO",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 147.2990589113
                       },
@@ -17398,14 +31489,6 @@ export default {
                   {
                     "indicatorGroup": "TRAKER",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 52.9629056273
@@ -17444,14 +31527,6 @@ export default {
                     "indicatorGroup": "TRAKRB",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -17489,14 +31564,6 @@ export default {
                     "indicatorGroup": "TRANGA",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 14.0327255486
                       },
@@ -17533,14 +31600,6 @@ export default {
                   {
                     "indicatorGroup": "TRASNG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -17589,14 +31648,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 52341.4029815715
                       },
@@ -17633,14 +31684,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 2428.0769372988
@@ -17679,14 +31722,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 7129.8676010962
                       },
@@ -17723,14 +31758,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 55803.6249825062
@@ -17769,14 +31796,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 6827.3354604851
                       },
@@ -17813,14 +31832,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1749.1488
@@ -17859,14 +31870,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 545.4712474299
                       },
@@ -17903,14 +31906,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1598.1720953685
@@ -17954,14 +31949,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1223.9509816172
                       },
@@ -17998,14 +31985,6 @@ export default {
                   {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 8022.2938746365
@@ -18044,14 +32023,6 @@ export default {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 65935.6480630083
                       },
@@ -18089,14 +32060,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 4834.8361115615
                       },
@@ -18133,14 +32096,6 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1612.5925961258
@@ -18184,14 +32139,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 34879.9430263585
                       },
@@ -18228,14 +32175,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 394.9817897221
@@ -18274,14 +32213,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 4963.3638144216
                       },
@@ -18318,14 +32249,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 60485.5656415777
@@ -18364,14 +32287,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3920.8592975879
                       },
@@ -18408,14 +32323,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 4791.72435546
@@ -18454,14 +32361,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1414.1324163781
                       },
@@ -18498,14 +32397,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 806.4674613604
@@ -18549,14 +32440,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 48477.5305086127
                       },
@@ -18593,14 +32476,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1906.254850007
@@ -18639,14 +32514,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 9024.2698632126
                       },
@@ -18683,14 +32550,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 110932.0414796777
@@ -18729,14 +32588,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 13945.763989089
                       },
@@ -18773,14 +32624,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 10969.0024452812
@@ -18819,14 +32662,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 1068.0370542496
                       },
@@ -18863,14 +32698,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3338.6428715831
@@ -18919,14 +32746,6 @@ export default {
                     "indicatorGroup": "TRACO2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 12579.4646941638
                       },
@@ -18964,14 +32783,6 @@ export default {
                     "indicatorGroup": "TRACO2A",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3680.2745113767
                       },
@@ -19008,14 +32819,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 638.7186565395
@@ -19059,14 +32862,6 @@ export default {
                     "indicatorGroup": "TRACO2B",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 2839.7507738735
                       },
@@ -19103,14 +32898,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 11702.5000282885
@@ -19154,14 +32941,6 @@ export default {
                     "indicatorGroup": "TRACO2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 13448.1694905809
                       },
@@ -19199,14 +32978,6 @@ export default {
                     "indicatorGroup": "TRACO2A",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3574.0806244459
                       },
@@ -19243,14 +33014,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 706.018806607
@@ -19294,14 +33057,6 @@ export default {
                     "indicatorGroup": "TRACO2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 23085.9003194909
                       },
@@ -19339,14 +33094,6 @@ export default {
                     "indicatorGroup": "TRACO2A",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 3842.0482346956
                       },
@@ -19383,14 +33130,6 @@ export default {
                   {
                     "indicatorGroup": "TRACO2N",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 11400.9471597317
@@ -19439,14 +33178,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 298.7244373003
                       },
@@ -19483,14 +33214,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 103.788546728
@@ -19529,14 +33252,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 355.0632485088
                       },
@@ -19573,14 +33288,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 177.721790135
@@ -19619,14 +33326,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 44.9739379594
                       },
@@ -19663,14 +33362,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3.3772542845
@@ -19709,14 +33400,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 31.4252590886
                       },
@@ -19753,14 +33436,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 6.8794822691
@@ -19804,14 +33479,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -19848,14 +33515,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -19894,14 +33553,6 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 0.0
                       },
@@ -19938,14 +33589,6 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 0.0
@@ -19989,14 +33632,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 151.7521137412
                       },
@@ -20033,14 +33668,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 19.9358678034
@@ -20079,14 +33706,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 515.3930090979
                       },
@@ -20123,14 +33742,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 1.5082548026
@@ -20169,14 +33780,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 35.2705912856
                       },
@@ -20213,14 +33816,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 13.1017744416
@@ -20259,14 +33854,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 34.4589716405
                       },
@@ -20303,14 +33890,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 3.471987983
@@ -20354,14 +33933,6 @@ export default {
                     "indicatorGroup": "Aviation",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 280.5726275022
                       },
@@ -20398,14 +33969,6 @@ export default {
                   {
                     "indicatorGroup": "Bike",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 263.7576601505
@@ -20444,14 +34007,6 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 472.0168888795
                       },
@@ -20488,14 +34043,6 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 259.4950286956
@@ -20534,14 +34081,6 @@ export default {
                     "indicatorGroup": "Rail",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 155.4213723507
                       },
@@ -20578,14 +34117,6 @@ export default {
                   {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 341.2055954789
@@ -20624,14 +34155,6 @@ export default {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
                       {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2015,
                         "total": 61.7749977754
                       },
@@ -20668,14 +34191,6 @@ export default {
                   {
                     "indicatorGroup": "Walk",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2010,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2012,
-                        "total": 0.0
-                      },
                       {
                         "year": 2015,
                         "total": 20.4500362909
