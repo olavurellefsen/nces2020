@@ -1,5 +1,5 @@
 export default 
  	 [ 
-		"Annual system costs",
-		"CO2 Emissions",
+		"Annual system costs (MEUR15)",
+		"CO2 emissions (kt)",
 	 ]

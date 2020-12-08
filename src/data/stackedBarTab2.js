@@ -5,7 +5,7 @@ export default {
         "scenario": "CNS",
         "indicators": [
           {
-            "indicator": "Import/Export of biofuels",
+            "indicator": "Import/Export of biofuels (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -733,7 +733,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary biomass supply (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -1535,7 +1535,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE refineries input (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -2115,7 +2115,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE refineries output (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -2922,7 +2922,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE_refineries_by_type",
+            "indicator": "RE_refineries_by_type - REMOVE?",
             "regions": [
               {
                 "region": "DK",
@@ -3317,7 +3317,7 @@ export default {
             ]
           },
           {
-            "indicator": "Supply annual system costs",
+            "indicator": "Supply annual system costs (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -3786,7 +3786,7 @@ export default {
             ]
           },
           {
-            "indicator": "Supply sector CO2 emission",
+            "indicator": "Supply sector CO2 emission (kt)",
             "regions": [
               {
                 "region": "DK",
@@ -3880,7 +3880,7 @@ export default {
         "scenario": "CNS_Bio",
         "indicators": [
           {
-            "indicator": "Import/Export of biofuels",
+            "indicator": "Import/Export of biofuels (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -4608,7 +4608,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary biomass supply (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -5410,7 +5410,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE refineries input (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -5990,7 +5990,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE refineries output (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -6797,7 +6797,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE_refineries_by_type",
+            "indicator": "RE_refineries_by_type - REMOVE?",
             "regions": [
               {
                 "region": "DK",
@@ -7192,7 +7192,7 @@ export default {
             ]
           },
           {
-            "indicator": "Supply annual system costs",
+            "indicator": "Supply annual system costs (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -7661,7 +7661,7 @@ export default {
             ]
           },
           {
-            "indicator": "Supply sector CO2 emission",
+            "indicator": "Supply sector CO2 emission (kt)",
             "regions": [
               {
                 "region": "DK",
@@ -7755,7 +7755,7 @@ export default {
         "scenario": "CNS_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Import/Export of biofuels",
+            "indicator": "Import/Export of biofuels (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -8483,7 +8483,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary biomass supply (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -9285,7 +9285,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE refineries input (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -9865,7 +9865,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE refineries output (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -10672,7 +10672,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE_refineries_by_type",
+            "indicator": "RE_refineries_by_type - REMOVE?",
             "regions": [
               {
                 "region": "DK",
@@ -11067,7 +11067,7 @@ export default {
             ]
           },
           {
-            "indicator": "Supply annual system costs",
+            "indicator": "Supply annual system costs (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -11536,7 +11536,7 @@ export default {
             ]
           },
           {
-            "indicator": "Supply sector CO2 emission",
+            "indicator": "Supply sector CO2 emission (kt)",
             "regions": [
               {
                 "region": "DK",

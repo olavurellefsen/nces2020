@@ -5,7 +5,7 @@ export default {
         "scenario": "CNS",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -1108,7 +1108,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 emissions (kt)",
             "regions": [
               {
                 "region": "DK",
@@ -1614,7 +1614,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy service demand (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -2458,7 +2458,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry Fuel consumption",
+            "indicator": "Heavy industry Fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -3265,7 +3265,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry annual costs",
+            "indicator": "Heavy industry annual costs (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -3961,7 +3961,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -4726,7 +4726,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -5306,7 +5306,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-ferrous fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -6071,7 +6071,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and paper fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -6730,7 +6730,7 @@ export default {
         "scenario": "CNS_Bio",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -7833,7 +7833,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 emissions (kt)",
             "regions": [
               {
                 "region": "DK",
@@ -8339,7 +8339,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy service demand (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -9183,7 +9183,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry Fuel consumption",
+            "indicator": "Heavy industry Fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -9990,7 +9990,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry annual costs",
+            "indicator": "Heavy industry annual costs (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -10686,7 +10686,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -11451,7 +11451,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -12031,7 +12031,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-ferrous fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -12796,7 +12796,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and paper fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -13455,7 +13455,7 @@ export default {
         "scenario": "CNS_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -14558,7 +14558,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 emissions (kt)",
             "regions": [
               {
                 "region": "DK",
@@ -15064,7 +15064,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy service demand (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -15908,7 +15908,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry Fuel consumption",
+            "indicator": "Heavy industry Fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -16715,7 +16715,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy industry annual costs",
+            "indicator": "Heavy industry annual costs (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -17411,7 +17411,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -18176,7 +18176,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -18756,7 +18756,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-ferrous fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",
@@ -19521,7 +19521,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and paper fuel consumption (PJ)",
             "regions": [
               {
                 "region": "FI",

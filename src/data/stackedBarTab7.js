@@ -5,7 +5,7 @@ export default {
         "scenario": "CNS",
         "indicators": [
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight transport demand (mill.tkm)",
             "regions": [
               {
                 "region": "DK",
@@ -733,7 +733,7 @@ export default {
             ]
           },
           {
-            "indicator": "Fuel consumption cars",
+            "indicator": "Fuel consumption cars (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -1350,7 +1350,7 @@ export default {
             ]
           },
           {
-            "indicator": "Fuel consumption transport",
+            "indicator": "Fuel consumption transport (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -2892,7 +2892,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger transport demand (mill.pkm)",
             "regions": [
               {
                 "region": "DK",
@@ -3990,7 +3990,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissioner",
+            "indicator": "Transport CO2 emissioner (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -4163,7 +4163,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport System Cost",
+            "indicator": "Transport System Cost (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -5229,7 +5229,7 @@ export default {
         "scenario": "CNS_Bio",
         "indicators": [
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight transport demand (mill.tkm)",
             "regions": [
               {
                 "region": "DK",
@@ -5957,7 +5957,7 @@ export default {
             ]
           },
           {
-            "indicator": "Fuel consumption cars",
+            "indicator": "Fuel consumption cars (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -6574,7 +6574,7 @@ export default {
             ]
           },
           {
-            "indicator": "Fuel consumption transport",
+            "indicator": "Fuel consumption transport (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -8116,7 +8116,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger transport demand (mill.pkm)",
             "regions": [
               {
                 "region": "DK",
@@ -9214,7 +9214,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissioner",
+            "indicator": "Transport CO2 emissioner (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -9387,7 +9387,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport System Cost",
+            "indicator": "Transport System Cost (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -10453,7 +10453,7 @@ export default {
         "scenario": "CNS_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight transport demand (mill.tkm)",
             "regions": [
               {
                 "region": "DK",
@@ -11181,7 +11181,7 @@ export default {
             ]
           },
           {
-            "indicator": "Fuel consumption cars",
+            "indicator": "Fuel consumption cars (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -11798,7 +11798,7 @@ export default {
             ]
           },
           {
-            "indicator": "Fuel consumption transport",
+            "indicator": "Fuel consumption transport (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -13340,7 +13340,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger transport demand (mill.pkm)",
             "regions": [
               {
                 "region": "DK",
@@ -14438,7 +14438,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissioner",
+            "indicator": "Transport CO2 emissioner (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -14611,7 +14611,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport System Cost",
+            "indicator": "Transport System Cost (MEUR15)",
             "regions": [
               {
                 "region": "DK",

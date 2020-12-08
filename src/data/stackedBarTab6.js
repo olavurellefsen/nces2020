@@ -5,7 +5,7 @@ export default {
         "scenario": "CNS",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric appliances consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -728,7 +728,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Households CO2 emissions (kt)",
             "regions": [
               {
                 "region": "DK",
@@ -943,7 +943,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households PV capacity",
+            "indicator": "Households PV capacity (MW)",
             "regions": [
               {
                 "region": "DK",
@@ -1032,7 +1032,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Households annual costs (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -1580,7 +1580,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Households heating (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -3090,7 +3090,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Households total fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -4605,7 +4605,7 @@ export default {
         "scenario": "CNS_Bio",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric appliances consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -5328,7 +5328,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Households CO2 emissions (kt)",
             "regions": [
               {
                 "region": "DK",
@@ -5543,7 +5543,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households PV capacity",
+            "indicator": "Households PV capacity (MW)",
             "regions": [
               {
                 "region": "DK",
@@ -5632,7 +5632,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Households annual costs (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -6180,7 +6180,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Households heating (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -7690,7 +7690,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Households total fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -9205,7 +9205,7 @@ export default {
         "scenario": "CNS_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric appliances consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -9928,7 +9928,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Households CO2 emissions (kt)",
             "regions": [
               {
                 "region": "DK",
@@ -10143,7 +10143,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households PV capacity",
+            "indicator": "Households PV capacity (MW)",
             "regions": [
               {
                 "region": "DK",
@@ -10232,7 +10232,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Households annual costs (MEUR15)",
             "regions": [
               {
                 "region": "DK",
@@ -10780,7 +10780,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Households heating (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -12290,7 +12290,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Households total fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
