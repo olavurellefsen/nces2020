@@ -2550,7 +2550,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2592,7 +2592,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2634,7 +2634,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2676,7 +2676,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4041,7 +4041,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4078,7 +4078,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4115,7 +4115,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4152,7 +4152,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4263,43 +4263,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 118.0713123125
-                      },
-                      {
-                        "year": 2020,
-                        "total": 113.3062562773
-                      },
-                      {
-                        "year": 2025,
-                        "total": 120.2481072046
-                      },
-                      {
-                        "year": 2030,
-                        "total": 137.243880616
-                      },
-                      {
-                        "year": 2035,
-                        "total": 165.7093510523
-                      },
-                      {
-                        "year": 2040,
-                        "total": 176.8343356518
-                      },
-                      {
-                        "year": 2045,
-                        "total": 190.8714090784
-                      },
-                      {
-                        "year": 2050,
-                        "total": 193.368947148
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "IND_TRADE",
                     "indicatorGroupValues": [
                       {
@@ -4335,6 +4298,43 @@ export default {
                         "total": 27.7975762844
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Services",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 118.0713123125
+                      },
+                      {
+                        "year": 2020,
+                        "total": 113.3062562773
+                      },
+                      {
+                        "year": 2025,
+                        "total": 120.2481072046
+                      },
+                      {
+                        "year": 2030,
+                        "total": 137.243880616
+                      },
+                      {
+                        "year": 2035,
+                        "total": 165.7093510523
+                      },
+                      {
+                        "year": 2040,
+                        "total": 176.8343356518
+                      },
+                      {
+                        "year": 2045,
+                        "total": 190.8714090784
+                      },
+                      {
+                        "year": 2050,
+                        "total": 193.368947148
+                      }
+                    ]
                   }
                 ]
               },
@@ -4342,7 +4342,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4379,7 +4379,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4416,7 +4416,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4453,7 +4453,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4601,7 +4601,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4638,7 +4638,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4680,7 +4680,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4717,7 +4717,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4754,7 +4754,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4791,7 +4791,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4865,7 +4865,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4902,7 +4902,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4944,7 +4944,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4981,7 +4981,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5018,7 +5018,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5055,7 +5055,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5129,7 +5129,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5166,7 +5166,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5208,7 +5208,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5245,7 +5245,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5282,7 +5282,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5319,7 +5319,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5393,7 +5393,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5430,7 +5430,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5477,7 +5477,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5514,7 +5514,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5551,7 +5551,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5588,7 +5588,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5699,43 +5699,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 54.9258254547
-                      },
-                      {
-                        "year": 2020,
-                        "total": 75.8326828043
-                      },
-                      {
-                        "year": 2025,
-                        "total": 107.6655716434
-                      },
-                      {
-                        "year": 2030,
-                        "total": 260.7370644892
-                      },
-                      {
-                        "year": 2035,
-                        "total": 716.7199623572
-                      },
-                      {
-                        "year": 2040,
-                        "total": 761.530553493
-                      },
-                      {
-                        "year": 2045,
-                        "total": 954.7096040469
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1006.5281532705
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "IND_TRADE",
                     "indicatorGroupValues": [
                       {
@@ -5771,6 +5734,43 @@ export default {
                         "total": 14.7720835719
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Services",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 54.9258254547
+                      },
+                      {
+                        "year": 2020,
+                        "total": 75.8326828043
+                      },
+                      {
+                        "year": 2025,
+                        "total": 107.6655716434
+                      },
+                      {
+                        "year": 2030,
+                        "total": 260.7370644892
+                      },
+                      {
+                        "year": 2035,
+                        "total": 716.7199623572
+                      },
+                      {
+                        "year": 2040,
+                        "total": 761.530553493
+                      },
+                      {
+                        "year": 2045,
+                        "total": 954.7096040469
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1006.5281532705
+                      }
+                    ]
                   }
                 ]
               },
@@ -5778,7 +5778,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5815,7 +5815,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5889,7 +5889,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5926,7 +5926,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5968,7 +5968,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6005,7 +6005,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6042,7 +6042,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6084,7 +6084,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6121,7 +6121,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6158,7 +6158,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6195,7 +6195,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6269,7 +6269,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6306,7 +6306,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6348,7 +6348,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6385,7 +6385,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6422,7 +6422,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6459,7 +6459,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6533,7 +6533,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6570,7 +6570,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6617,7 +6617,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6654,7 +6654,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6691,7 +6691,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6807,7 +6807,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6844,7 +6844,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6881,7 +6881,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7029,7 +7029,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7071,7 +7071,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7108,7 +7108,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7145,7 +7145,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7219,7 +7219,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7261,7 +7261,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7298,7 +7298,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7335,7 +7335,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7409,7 +7409,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7451,7 +7451,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7488,7 +7488,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7525,7 +7525,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7599,7 +7599,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10190,7 +10190,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10232,7 +10232,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10274,7 +10274,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10316,7 +10316,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11681,7 +11681,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11718,7 +11718,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11755,7 +11755,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11792,7 +11792,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11903,43 +11903,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 165.4470268714
-                      },
-                      {
-                        "year": 2020,
-                        "total": 113.6060588429
-                      },
-                      {
-                        "year": 2025,
-                        "total": 236.9045906294
-                      },
-                      {
-                        "year": 2030,
-                        "total": 184.0739525648
-                      },
-                      {
-                        "year": 2035,
-                        "total": 157.1410804187
-                      },
-                      {
-                        "year": 2040,
-                        "total": 229.9551310962
-                      },
-                      {
-                        "year": 2045,
-                        "total": 259.6714411996
-                      },
-                      {
-                        "year": 2050,
-                        "total": 250.3138020996
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "IND_TRADE",
                     "indicatorGroupValues": [
                       {
@@ -11975,6 +11938,43 @@ export default {
                         "total": 22.1068446664
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Services",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 165.4470268714
+                      },
+                      {
+                        "year": 2020,
+                        "total": 113.6060588429
+                      },
+                      {
+                        "year": 2025,
+                        "total": 236.9045906294
+                      },
+                      {
+                        "year": 2030,
+                        "total": 184.0739525648
+                      },
+                      {
+                        "year": 2035,
+                        "total": 157.1410804187
+                      },
+                      {
+                        "year": 2040,
+                        "total": 229.9551310962
+                      },
+                      {
+                        "year": 2045,
+                        "total": 259.6714411996
+                      },
+                      {
+                        "year": 2050,
+                        "total": 250.3138020996
+                      }
+                    ]
                   }
                 ]
               },
@@ -11982,7 +11982,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12019,7 +12019,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12056,7 +12056,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12093,7 +12093,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12241,7 +12241,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12278,7 +12278,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12320,7 +12320,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12357,7 +12357,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12394,7 +12394,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12431,7 +12431,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12505,7 +12505,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12542,7 +12542,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12584,7 +12584,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12621,7 +12621,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12658,7 +12658,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12695,7 +12695,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12769,7 +12769,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12806,7 +12806,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12848,7 +12848,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12885,7 +12885,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12922,7 +12922,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12959,7 +12959,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13033,7 +13033,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13070,7 +13070,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13117,7 +13117,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13154,7 +13154,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13191,7 +13191,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13228,7 +13228,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13339,43 +13339,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 53.1245240229
-                      },
-                      {
-                        "year": 2020,
-                        "total": 74.3070601534
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.9686736079
-                      },
-                      {
-                        "year": 2030,
-                        "total": 291.7468815941
-                      },
-                      {
-                        "year": 2035,
-                        "total": 758.2134703438
-                      },
-                      {
-                        "year": 2040,
-                        "total": 765.587253373
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1024.3869904157
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2227.5279835186
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "IND_TRADE",
                     "indicatorGroupValues": [
                       {
@@ -13411,6 +13374,43 @@ export default {
                         "total": 34.1410582021
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Services",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 53.1245240229
+                      },
+                      {
+                        "year": 2020,
+                        "total": 74.3070601534
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.9686736079
+                      },
+                      {
+                        "year": 2030,
+                        "total": 291.7468815941
+                      },
+                      {
+                        "year": 2035,
+                        "total": 758.2134703438
+                      },
+                      {
+                        "year": 2040,
+                        "total": 765.587253373
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1024.3869904157
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2227.5279835186
+                      }
+                    ]
                   }
                 ]
               },
@@ -13418,7 +13418,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13455,7 +13455,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13529,7 +13529,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13566,7 +13566,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13608,7 +13608,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13645,7 +13645,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13682,7 +13682,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13724,7 +13724,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13761,7 +13761,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13798,7 +13798,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13835,7 +13835,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13909,7 +13909,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13946,7 +13946,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13988,7 +13988,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14025,7 +14025,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14062,7 +14062,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14099,7 +14099,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14173,7 +14173,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14210,7 +14210,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14257,7 +14257,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14294,7 +14294,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14331,7 +14331,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14447,7 +14447,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14484,7 +14484,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14521,7 +14521,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14669,7 +14669,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14711,7 +14711,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14748,7 +14748,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14785,7 +14785,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14859,7 +14859,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14901,7 +14901,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14938,7 +14938,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14975,7 +14975,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15049,7 +15049,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15091,7 +15091,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15128,7 +15128,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15165,7 +15165,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15239,7 +15239,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17830,7 +17830,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17872,7 +17872,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17914,7 +17914,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17956,7 +17956,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-INDS",
+                    "indicatorGroup": "CO2-Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19321,7 +19321,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19358,7 +19358,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19395,7 +19395,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19432,7 +19432,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19543,43 +19543,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 59.1330344536
-                      },
-                      {
-                        "year": 2020,
-                        "total": 56.5699612482
-                      },
-                      {
-                        "year": 2025,
-                        "total": 58.3707692701
-                      },
-                      {
-                        "year": 2030,
-                        "total": 58.606821222
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.7163718371
-                      },
-                      {
-                        "year": 2040,
-                        "total": 78.2738363585
-                      },
-                      {
-                        "year": 2045,
-                        "total": 86.674762337
-                      },
-                      {
-                        "year": 2050,
-                        "total": 86.1560901886
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "IND_TRADE",
                     "indicatorGroupValues": [
                       {
@@ -19615,6 +19578,43 @@ export default {
                         "total": 11.0440039619
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Services",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 59.1330344536
+                      },
+                      {
+                        "year": 2020,
+                        "total": 56.5699612482
+                      },
+                      {
+                        "year": 2025,
+                        "total": 58.3707692701
+                      },
+                      {
+                        "year": 2030,
+                        "total": 58.606821222
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.7163718371
+                      },
+                      {
+                        "year": 2040,
+                        "total": 78.2738363585
+                      },
+                      {
+                        "year": 2045,
+                        "total": 86.674762337
+                      },
+                      {
+                        "year": 2050,
+                        "total": 86.1560901886
+                      }
+                    ]
                   }
                 ]
               },
@@ -19622,7 +19622,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19659,7 +19659,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19696,7 +19696,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19733,7 +19733,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19881,7 +19881,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19918,7 +19918,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19960,7 +19960,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19997,7 +19997,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20034,7 +20034,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20071,7 +20071,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20145,7 +20145,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20182,7 +20182,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20224,7 +20224,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20261,7 +20261,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20298,7 +20298,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20335,7 +20335,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20409,7 +20409,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20446,7 +20446,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20488,7 +20488,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20525,7 +20525,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20562,7 +20562,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20599,7 +20599,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20673,7 +20673,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20710,7 +20710,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20757,7 +20757,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20794,7 +20794,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20831,7 +20831,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20868,7 +20868,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20979,43 +20979,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 28.1948213255
-                      },
-                      {
-                        "year": 2020,
-                        "total": 37.5262399774
-                      },
-                      {
-                        "year": 2025,
-                        "total": 47.6663400127
-                      },
-                      {
-                        "year": 2030,
-                        "total": 190.4532181203
-                      },
-                      {
-                        "year": 2035,
-                        "total": 447.9882965375
-                      },
-                      {
-                        "year": 2040,
-                        "total": 458.26769687
-                      },
-                      {
-                        "year": 2045,
-                        "total": 584.2384394899
-                      },
-                      {
-                        "year": 2050,
-                        "total": 632.7282798643
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "IND_TRADE",
                     "indicatorGroupValues": [
                       {
@@ -21051,6 +21014,43 @@ export default {
                         "total": 15.4217656697
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Services",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 28.1948213255
+                      },
+                      {
+                        "year": 2020,
+                        "total": 37.5262399774
+                      },
+                      {
+                        "year": 2025,
+                        "total": 47.6663400127
+                      },
+                      {
+                        "year": 2030,
+                        "total": 190.4532181203
+                      },
+                      {
+                        "year": 2035,
+                        "total": 447.9882965375
+                      },
+                      {
+                        "year": 2040,
+                        "total": 458.26769687
+                      },
+                      {
+                        "year": 2045,
+                        "total": 584.2384394899
+                      },
+                      {
+                        "year": 2050,
+                        "total": 632.7282798643
+                      }
+                    ]
                   }
                 ]
               },
@@ -21058,7 +21058,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21095,7 +21095,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21169,7 +21169,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21206,7 +21206,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21248,7 +21248,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21285,7 +21285,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21322,7 +21322,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21364,7 +21364,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21401,7 +21401,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21438,7 +21438,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21475,7 +21475,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21549,7 +21549,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21586,7 +21586,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21628,7 +21628,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_AGR",
+                    "indicatorGroup": "Agriculture",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21665,7 +21665,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21702,7 +21702,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21739,7 +21739,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21813,7 +21813,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_SERVICE",
+                    "indicatorGroup": "Services",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21850,7 +21850,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21897,7 +21897,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21934,7 +21934,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21971,7 +21971,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22087,7 +22087,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22124,7 +22124,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22161,7 +22161,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22309,7 +22309,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22351,7 +22351,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22388,7 +22388,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22425,7 +22425,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22499,7 +22499,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22541,7 +22541,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22578,7 +22578,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22615,7 +22615,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22689,7 +22689,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22731,7 +22731,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CHEM",
+                    "indicatorGroup": "Chemical",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22768,7 +22768,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CONSTRUC",
+                    "indicatorGroup": "Construction",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22805,7 +22805,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_FOOD",
+                    "indicatorGroup": "Food processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22879,7 +22879,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_WOOD",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

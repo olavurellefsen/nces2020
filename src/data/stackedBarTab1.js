@@ -11,118 +11,44 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 94156.2320602052
+                        "total": -2923.4128409652
                       },
                       {
                         "year": 2020,
-                        "total": 692.4527293812
+                        "total": -2567.1902656127
                       },
                       {
                         "year": 2025,
-                        "total": 690.1389258122
+                        "total": -1453.8612932159
                       },
                       {
                         "year": 2030,
-                        "total": 814.1962802234
+                        "total": -887.2564799113
                       },
                       {
                         "year": 2035,
-                        "total": 945.4562451372
+                        "total": -68.447440302
                       },
                       {
                         "year": 2040,
-                        "total": 1018.4890629792
+                        "total": 96.2233108887
                       },
                       {
                         "year": 2045,
-                        "total": 1039.1012993844
+                        "total": -82.9352023571
                       },
                       {
                         "year": 2050,
-                        "total": 1064.333343799
+                        "total": -197.2629753489
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 15242.0901802635
-                      },
-                      {
-                        "year": 2020,
-                        "total": 14527.9083306786
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12503.455563289
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11003.8610069416
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6922.6071718974
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4338.7975269477
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4545.166827669
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4793.3303095944
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1804.1661751704
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2300.7742282943
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4589.2297578858
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5265.8704923399
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6134.3076949439
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5973.3449996838
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6169.2941573326
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6544.9865219554
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -159,39 +85,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -2923.4128409652
+                        "total": 1804.1661751704
                       },
                       {
                         "year": 2020,
-                        "total": -2567.1902656127
+                        "total": 2300.7742282943
                       },
                       {
                         "year": 2025,
-                        "total": -1453.8612932159
+                        "total": 4589.2297578858
                       },
                       {
                         "year": 2030,
-                        "total": -887.2564799113
+                        "total": 5265.8704923399
                       },
                       {
                         "year": 2035,
-                        "total": -68.447440302
+                        "total": 6134.3076949439
                       },
                       {
                         "year": 2040,
-                        "total": 96.2233108887
+                        "total": 5973.3449996838
                       },
                       {
                         "year": 2045,
-                        "total": -82.9352023571
+                        "total": 6169.2941573326
                       },
                       {
                         "year": 2050,
-                        "total": -197.2629753489
+                        "total": 6544.9865219554
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 109398.3222404687
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15220.3610600598
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13193.5944891012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11818.0572871651
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7868.0634170346
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5357.2865899268
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5584.2681270533
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5857.6636533934
                       }
                     ]
                   }
@@ -201,118 +164,44 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 11877.4039897941
+                        "total": 4038.2295923006
                       },
                       {
                         "year": 2020,
-                        "total": 13223.5966972931
+                        "total": 4507.7762990499
                       },
                       {
                         "year": 2025,
-                        "total": 13989.8491697222
+                        "total": 5243.5792463932
                       },
                       {
                         "year": 2030,
-                        "total": 14840.6980817278
+                        "total": 5373.0292742593
                       },
                       {
                         "year": 2035,
-                        "total": 15179.4491448169
+                        "total": 5472.8349536832
                       },
                       {
                         "year": 2040,
-                        "total": 15744.075574423
+                        "total": 5391.3231164258
                       },
                       {
                         "year": 2045,
-                        "total": 15871.7169302683
+                        "total": 4515.9021292956
                       },
                       {
                         "year": 2050,
-                        "total": 15742.5311565458
+                        "total": 4204.834436321
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10054.8928091082
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11726.0681899671
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9286.0104747739
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7120.8982693098
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4977.9939588305
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2991.4011220371
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2039.6648194905
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1062.0059359321
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1259.03896414
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2907.1031549313
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5426.69928136
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7673.9038636464
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9176.1626777219
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9990.7666392629
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10651.227098286
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10768.6179657322
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -349,39 +238,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4038.2295923006
+                        "total": 1259.03896414
                       },
                       {
                         "year": 2020,
-                        "total": 4507.7762990499
+                        "total": 2907.1031549313
                       },
                       {
                         "year": 2025,
-                        "total": 5243.5792463932
+                        "total": 5426.69928136
                       },
                       {
                         "year": 2030,
-                        "total": 5373.0292742593
+                        "total": 7673.9038636464
                       },
                       {
                         "year": 2035,
-                        "total": 5472.8349536832
+                        "total": 9176.1626777219
                       },
                       {
                         "year": 2040,
-                        "total": 5391.3231164258
+                        "total": 9990.7666392629
                       },
                       {
                         "year": 2045,
-                        "total": 4515.9021292956
+                        "total": 10651.227098286
                       },
                       {
                         "year": 2050,
-                        "total": 4204.834436321
+                        "total": 10768.6179657322
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 21932.2967989023
+                      },
+                      {
+                        "year": 2020,
+                        "total": 24949.6648872602
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23275.8596444961
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21961.5963510376
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20157.4431036474
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18735.4766964601
+                      },
+                      {
+                        "year": 2045,
+                        "total": 17911.3817497587
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16804.5370924779
                       }
                     ]
                   }
@@ -391,81 +317,44 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 417.2954385012
+                        "total": 4.5568404774
                       },
                       {
                         "year": 2020,
-                        "total": 28396.8212400568
+                        "total": 15.1735554296
                       },
                       {
                         "year": 2025,
-                        "total": 75207.4717612213
+                        "total": 15.1735554296
                       },
                       {
                         "year": 2030,
-                        "total": 129985.608995032
+                        "total": 15.3159600454
                       },
                       {
                         "year": 2035,
-                        "total": 177214.847369022
+                        "total": 18.1278480323
                       },
                       {
                         "year": 2040,
-                        "total": 177214.855329394
+                        "total": 17.1513802145
                       },
                       {
                         "year": 2045,
-                        "total": 177214.863289766
+                        "total": 16.0287289923
                       },
                       {
                         "year": 2050,
-                        "total": 177214.871250137
+                        "total": 16.0007840015
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.2313912446
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.4684e-06
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.67e-08
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -502,39 +391,39 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4.5568404774
+                        "total": 417.5268297458
                       },
                       {
                         "year": 2020,
-                        "total": 15.1735554296
+                        "total": 28396.8212415252
                       },
                       {
                         "year": 2025,
-                        "total": 15.1735554296
+                        "total": 75207.4717612213
                       },
                       {
                         "year": 2030,
-                        "total": 15.3159600454
+                        "total": 129985.6089950687
                       },
                       {
                         "year": 2035,
-                        "total": 18.1278480323
+                        "total": 177214.847369022
                       },
                       {
                         "year": 2040,
-                        "total": 17.1513802145
+                        "total": 177214.855329394
                       },
                       {
                         "year": 2045,
-                        "total": 16.0287289923
+                        "total": 177214.863289766
                       },
                       {
                         "year": 2050,
-                        "total": 16.0007840015
+                        "total": 177214.871250137
                       }
                     ]
                   }
@@ -544,118 +433,44 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 51138.0368238473
+                        "total": -10916.7367500931
                       },
                       {
                         "year": 2020,
-                        "total": 927.5730357627
+                        "total": -8391.3567843749
                       },
                       {
                         "year": 2025,
-                        "total": 817.7050301732
+                        "total": -6614.2067980927
                       },
                       {
                         "year": 2030,
-                        "total": 991.1735925637
+                        "total": -6930.4955797875
                       },
                       {
                         "year": 2035,
-                        "total": 952.3035483512
+                        "total": -5540.4786097362
                       },
                       {
                         "year": 2040,
-                        "total": 950.1620121685
+                        "total": -4554.5478307039
                       },
                       {
                         "year": 2045,
-                        "total": 963.4482732211
+                        "total": -3130.4495677707
                       },
                       {
                         "year": 2050,
-                        "total": 1068.5429597046
+                        "total": -2245.2438484137
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 20737.3516302368
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17109.5466309943
-                      },
-                      {
-                        "year": 2025,
-                        "total": 17211.0781970578
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18379.4818435907
-                      },
-                      {
-                        "year": 2035,
-                        "total": 15819.6172673559
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13668.9816992524
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12469.9554904535
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11377.9954021194
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 9937.3807973137
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10217.826368448
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10582.4959517331
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10231.9922624103
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10147.9755614084
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9937.7511663938
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9902.4178937064
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10017.5455037149
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -692,39 +507,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -10916.7367500931
+                        "total": 9937.3807973137
                       },
                       {
                         "year": 2020,
-                        "total": -8391.3567843749
+                        "total": 10217.826368448
                       },
                       {
                         "year": 2025,
-                        "total": -6614.2067980927
+                        "total": 10582.4959517331
                       },
                       {
                         "year": 2030,
-                        "total": -6930.4955797875
+                        "total": 10231.9922624103
                       },
                       {
                         "year": 2035,
-                        "total": -5540.4786097362
+                        "total": 10147.9755614084
                       },
                       {
                         "year": 2040,
-                        "total": -4554.5478307039
+                        "total": 9937.7511663938
                       },
                       {
                         "year": 2045,
-                        "total": -3130.4495677707
+                        "total": 9902.4178937064
                       },
                       {
                         "year": 2050,
-                        "total": -2245.2438484137
+                        "total": 10017.5455037149
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 71875.3884540841
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18037.119666757
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18028.783227231
+                      },
+                      {
+                        "year": 2030,
+                        "total": 19370.6554361545
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16771.9208157072
+                      },
+                      {
+                        "year": 2040,
+                        "total": 14619.1437114209
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13433.4037636746
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12446.538361824
                       }
                     ]
                   }
@@ -734,118 +586,44 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2354962.643159118
+                        "total": 9801.9199987577
                       },
                       {
                         "year": 2020,
-                        "total": 60240.2733243457
+                        "total": 6450.7707509377
                       },
                       {
                         "year": 2025,
-                        "total": 117451.9551305329
+                        "total": 2824.4888449155
                       },
                       {
                         "year": 2030,
-                        "total": 153311.2988399826
+                        "total": 2444.7227854395
                       },
                       {
                         "year": 2035,
-                        "total": 164750.0554406131
+                        "total": 136.0910963551
                       },
                       {
                         "year": 2040,
-                        "total": 175914.7080719513
+                        "total": -932.9985966107
                       },
                       {
                         "year": 2045,
-                        "total": 181641.2045272139
+                        "total": -1302.5173591678
                       },
                       {
                         "year": 2050,
-                        "total": 187280.9142328781
+                        "total": -1762.3276125584
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 21370.5902546142
-                      },
-                      {
-                        "year": 2020,
-                        "total": 25942.8654663531
-                      },
-                      {
-                        "year": 2025,
-                        "total": 25814.8111445448
-                      },
-                      {
-                        "year": 2030,
-                        "total": 24088.2101405936
-                      },
-                      {
-                        "year": 2035,
-                        "total": 22436.4549119623
-                      },
-                      {
-                        "year": 2040,
-                        "total": 22413.2111003516
-                      },
-                      {
-                        "year": 2045,
-                        "total": 22057.7874687761
-                      },
-                      {
-                        "year": 2050,
-                        "total": 22589.6920418749
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3528.6320475184
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4691.6546840147
-                      },
-                      {
-                        "year": 2025,
-                        "total": 11300.48616304
-                      },
-                      {
-                        "year": 2030,
-                        "total": 12878.6461950831
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13706.7445483464
-                      },
-                      {
-                        "year": 2040,
-                        "total": 14264.961789506
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14508.3948207795
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14887.9001956543
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -882,39 +660,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 9801.9199987577
+                        "total": 3528.6320475184
                       },
                       {
                         "year": 2020,
-                        "total": 6450.7707509377
+                        "total": 4691.6546840147
                       },
                       {
                         "year": 2025,
-                        "total": 2824.4888449155
+                        "total": 11300.48616304
                       },
                       {
                         "year": 2030,
-                        "total": 2444.7227854395
+                        "total": 12878.6461950831
                       },
                       {
                         "year": 2035,
-                        "total": 136.0910963551
+                        "total": 13706.7445483464
                       },
                       {
                         "year": 2040,
-                        "total": -932.9985966107
+                        "total": 14264.961789506
                       },
                       {
                         "year": 2045,
-                        "total": -1302.5173591678
+                        "total": 14508.3948207795
                       },
                       {
                         "year": 2050,
-                        "total": -1762.3276125584
+                        "total": 14887.9001956543
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2376333.233413732
+                      },
+                      {
+                        "year": 2020,
+                        "total": 86183.1387906988
+                      },
+                      {
+                        "year": 2025,
+                        "total": 143266.7662750778
+                      },
+                      {
+                        "year": 2030,
+                        "total": 177399.5089805763
+                      },
+                      {
+                        "year": 2035,
+                        "total": 187186.5103525754
+                      },
+                      {
+                        "year": 2040,
+                        "total": 198327.9191723029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 203698.99199599
+                      },
+                      {
+                        "year": 2050,
+                        "total": 209870.6062747529
                       }
                     ]
                   }
@@ -1926,118 +1741,44 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 94153.1817925127
+                        "total": -2891.5219388879
                       },
                       {
                         "year": 2020,
-                        "total": 654.3767162733
+                        "total": -2513.0269629069
                       },
                       {
                         "year": 2025,
-                        "total": 659.7346930608
+                        "total": -1303.4108379361
                       },
                       {
                         "year": 2030,
-                        "total": 1303.2525648147
+                        "total": -80.698633995
                       },
                       {
                         "year": 2035,
-                        "total": 1040.3584304818
+                        "total": 859.8828316226
                       },
                       {
                         "year": 2040,
-                        "total": 1250.8869401087
+                        "total": 1245.353079849
                       },
                       {
                         "year": 2045,
-                        "total": 1125.8419346207
+                        "total": 626.3200886861
                       },
                       {
                         "year": 2050,
-                        "total": 1460.1914360565
+                        "total": 257.7046790065
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 15226.0167924096
-                      },
-                      {
-                        "year": 2020,
-                        "total": 14580.6220541179
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12332.7621257844
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10147.5671396346
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6128.9948652742
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3014.6491846742
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3327.7721065222
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3566.4285316577
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1800.1422510271
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2292.5118736174
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4580.5362913056
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7466.9399274931
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6090.7594659737
-                      },
-                      {
-                        "year": 2040,
-                        "total": 6190.8795567103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10760.3358828075
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11516.9769728231
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2074,39 +1815,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -2891.5219388879
+                        "total": 1800.1422510271
                       },
                       {
                         "year": 2020,
-                        "total": -2513.0269629069
+                        "total": 2292.5118736174
                       },
                       {
                         "year": 2025,
-                        "total": -1303.4108379361
+                        "total": 4580.5362913056
                       },
                       {
                         "year": 2030,
-                        "total": -80.698633995
+                        "total": 7466.9399274931
                       },
                       {
                         "year": 2035,
-                        "total": 859.8828316226
+                        "total": 6090.7594659737
                       },
                       {
                         "year": 2040,
-                        "total": 1245.353079849
+                        "total": 6190.8795567103
                       },
                       {
                         "year": 2045,
-                        "total": 626.3200886861
+                        "total": 10760.3358828075
                       },
                       {
                         "year": 2050,
-                        "total": 257.7046790065
+                        "total": 11516.9769728231
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 109379.1985849224
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15234.9987703912
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12992.4968188452
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11450.8197044493
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7169.353295756
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4265.5361247829
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4453.6140411429
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5026.6199677141
                       }
                     ]
                   }
@@ -2116,118 +1894,44 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 11886.5504905719
+                        "total": 4026.4964819893
                       },
                       {
                         "year": 2020,
-                        "total": 13230.2486489828
+                        "total": 3739.8189806988
                       },
                       {
                         "year": 2025,
-                        "total": 13914.971716829
+                        "total": 4870.6521335771
                       },
                       {
                         "year": 2030,
-                        "total": 14823.6690448652
+                        "total": 4881.2589763885
                       },
                       {
                         "year": 2035,
-                        "total": 15169.5593475885
+                        "total": 5157.1801999016
                       },
                       {
                         "year": 2040,
-                        "total": 15741.9804931565
+                        "total": 5018.1512074802
                       },
                       {
                         "year": 2045,
-                        "total": 15863.8206112479
+                        "total": 4296.506746388
                       },
                       {
                         "year": 2050,
-                        "total": 15757.0086621936
+                        "total": 4051.3906868253
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10058.7149720082
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12302.8939331082
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10241.9769403761
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7554.2168500171
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5236.1883064493
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3149.090607633
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4063.8507342887
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2008.3140914962
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1256.7927156806
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2906.9733457902
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5430.520005442
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7673.3545134565
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9156.7246848898
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10033.1318194146
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10623.1218188101
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10740.3648687168
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2264,39 +1968,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4026.4964819893
+                        "total": 1256.7927156806
                       },
                       {
                         "year": 2020,
-                        "total": 3739.8189806988
+                        "total": 2906.9733457902
                       },
                       {
                         "year": 2025,
-                        "total": 4870.6521335771
+                        "total": 5430.520005442
                       },
                       {
                         "year": 2030,
-                        "total": 4881.2589763885
+                        "total": 7673.3545134565
                       },
                       {
                         "year": 2035,
-                        "total": 5157.1801999016
+                        "total": 9156.7246848898
                       },
                       {
                         "year": 2040,
-                        "total": 5018.1512074802
+                        "total": 10033.1318194146
                       },
                       {
                         "year": 2045,
-                        "total": 4296.506746388
+                        "total": 10623.1218188101
                       },
                       {
                         "year": 2050,
-                        "total": 4051.3906868253
+                        "total": 10740.3648687168
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 21945.2654625801
+                      },
+                      {
+                        "year": 2020,
+                        "total": 25533.1425820909
+                      },
+                      {
+                        "year": 2025,
+                        "total": 24156.9486572051
+                      },
+                      {
+                        "year": 2030,
+                        "total": 22377.8858948823
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20405.7476540378
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18891.0711007896
+                      },
+                      {
+                        "year": 2045,
+                        "total": 19927.6713455366
+                      },
+                      {
+                        "year": 2050,
+                        "total": 17765.3227536898
                       }
                     ]
                   }
@@ -2306,81 +2047,44 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 417.2954385012
+                        "total": 4.5568404774
                       },
                       {
                         "year": 2020,
-                        "total": 28396.8212400568
+                        "total": 15.1735554296
                       },
                       {
                         "year": 2025,
-                        "total": 75207.4717612213
+                        "total": 15.1735554296
                       },
                       {
                         "year": 2030,
-                        "total": 129985.608995032
+                        "total": 15.3159600454
                       },
                       {
                         "year": 2035,
-                        "total": 177214.847369022
+                        "total": 18.1278480323
                       },
                       {
                         "year": 2040,
-                        "total": 177214.855329394
+                        "total": 17.1513802145
                       },
                       {
                         "year": 2045,
-                        "total": 177214.863289766
+                        "total": 16.0287289923
                       },
                       {
                         "year": 2050,
-                        "total": 177214.871250137
+                        "total": 16.0007840015
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.2313912446
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.4684e-06
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.67e-08
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2417,39 +2121,39 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4.5568404774
+                        "total": 417.5268297458
                       },
                       {
                         "year": 2020,
-                        "total": 15.1735554296
+                        "total": 28396.8212415252
                       },
                       {
                         "year": 2025,
-                        "total": 15.1735554296
+                        "total": 75207.4717612213
                       },
                       {
                         "year": 2030,
-                        "total": 15.3159600454
+                        "total": 129985.6089950687
                       },
                       {
                         "year": 2035,
-                        "total": 18.1278480323
+                        "total": 177214.847369022
                       },
                       {
                         "year": 2040,
-                        "total": 17.1513802145
+                        "total": 177214.855329394
                       },
                       {
                         "year": 2045,
-                        "total": 16.0287289923
+                        "total": 177214.863289766
                       },
                       {
                         "year": 2050,
-                        "total": 16.0007840015
+                        "total": 177214.871250137
                       }
                     ]
                   }
@@ -2459,118 +2163,44 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 51140.2269702999
+                        "total": -10916.4782837353
                       },
                       {
                         "year": 2020,
-                        "total": 891.7891589315
+                        "total": -8392.6317168364
                       },
                       {
                         "year": 2025,
-                        "total": 817.8815550157
+                        "total": -6609.3013925515
                       },
                       {
                         "year": 2030,
-                        "total": 987.0078172832
+                        "total": -6709.2445975248
                       },
                       {
                         "year": 2035,
-                        "total": 1063.4800781222
+                        "total": -5872.9460848626
                       },
                       {
                         "year": 2040,
-                        "total": 1837.5129387632
+                        "total": -4678.8888778889
                       },
                       {
                         "year": 2045,
-                        "total": 1003.4788154968
+                        "total": -3079.0482980986
                       },
                       {
                         "year": 2050,
-                        "total": 1104.782468002
+                        "total": -2366.1861631246
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 20754.281184308
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17128.7304687058
-                      },
-                      {
-                        "year": 2025,
-                        "total": 17233.1317043383
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18232.1871781993
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16158.7076629222
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13727.4434282354
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12229.0695462961
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11346.2621703066
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 9937.3759717835
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10218.6693592354
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10583.5152142963
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10215.9209053035
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17485.2581243699
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9977.0121258307
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10007.5501182148
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10055.9879785013
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2607,39 +2237,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -10916.4782837353
+                        "total": 9937.3759717835
                       },
                       {
                         "year": 2020,
-                        "total": -8392.6317168364
+                        "total": 10218.6693592354
                       },
                       {
                         "year": 2025,
-                        "total": -6609.3013925515
+                        "total": 10583.5152142963
                       },
                       {
                         "year": 2030,
-                        "total": -6709.2445975248
+                        "total": 10215.9209053035
                       },
                       {
                         "year": 2035,
-                        "total": -5872.9460848626
+                        "total": 17485.2581243699
                       },
                       {
                         "year": 2040,
-                        "total": -4678.8888778889
+                        "total": 9977.0121258307
                       },
                       {
                         "year": 2045,
-                        "total": -3079.0482980986
+                        "total": 10007.5501182148
                       },
                       {
                         "year": 2050,
-                        "total": -2366.1861631246
+                        "total": 10055.9879785013
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 71894.5081546079
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18020.5196276373
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18051.013259354
+                      },
+                      {
+                        "year": 2030,
+                        "total": 19219.1949954825
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17222.1877410445
+                      },
+                      {
+                        "year": 2040,
+                        "total": 15564.9563669987
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13232.548361793
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12451.0446383087
                       }
                     ]
                   }
@@ -2649,118 +2316,44 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2354965.5756009873
+                        "total": 9781.503740634
                       },
                       {
                         "year": 2020,
-                        "total": 60429.0650420953
+                        "total": 6172.4658634678
                       },
                       {
                         "year": 2025,
-                        "total": 118075.0592195958
+                        "total": 3058.032590282
                       },
                       {
                         "year": 2030,
-                        "total": 154158.3464884299
+                        "total": 1908.6842551312
                       },
                       {
                         "year": 2035,
-                        "total": 165409.7335741138
+                        "total": -987.0766309866
                       },
                       {
                         "year": 2040,
-                        "total": 177425.3183895248
+                        "total": -1584.6154094402
                       },
                       {
                         "year": 2045,
-                        "total": 182490.5313624656
+                        "total": -1843.7785369755
                       },
                       {
                         "year": 2050,
-                        "total": 187415.7169373971
+                        "total": -1942.9092027072
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 21387.7102671297
-                      },
-                      {
-                        "year": 2020,
-                        "total": 23235.440509957
-                      },
-                      {
-                        "year": 2025,
-                        "total": 23090.884426744
-                      },
-                      {
-                        "year": 2030,
-                        "total": 23596.3114955058
-                      },
-                      {
-                        "year": 2035,
-                        "total": 22169.4661332234
-                      },
-                      {
-                        "year": 2040,
-                        "total": 21852.6142665732
-                      },
-                      {
-                        "year": 2045,
-                        "total": 22421.4932040088
-                      },
-                      {
-                        "year": 2050,
-                        "total": 22601.877171735
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3697.6864086368
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6066.9120548454
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19287.9068788981
-                      },
-                      {
-                        "year": 2030,
-                        "total": 13220.0032075897
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14732.8428259443
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16394.0774634581
-                      },
-                      {
-                        "year": 2045,
-                        "total": 19788.9598617528
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14865.6303264247
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2797,39 +2390,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 9781.503740634
+                        "total": 3697.6864086368
                       },
                       {
                         "year": 2020,
-                        "total": 6172.4658634678
+                        "total": 6066.9120548454
                       },
                       {
                         "year": 2025,
-                        "total": 3058.032590282
+                        "total": 19287.9068788981
                       },
                       {
                         "year": 2030,
-                        "total": 1908.6842551312
+                        "total": 13220.0032075897
                       },
                       {
                         "year": 2035,
-                        "total": -987.0766309866
+                        "total": 14732.8428259443
                       },
                       {
                         "year": 2040,
-                        "total": -1584.6154094402
+                        "total": 16394.0774634581
                       },
                       {
                         "year": 2045,
-                        "total": -1843.7785369755
+                        "total": 19788.9598617528
                       },
                       {
                         "year": 2050,
-                        "total": -1942.9092027072
+                        "total": 14865.6303264247
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2376353.2858681167
+                      },
+                      {
+                        "year": 2020,
+                        "total": 83664.5055520523
+                      },
+                      {
+                        "year": 2025,
+                        "total": 141165.9436463398
+                      },
+                      {
+                        "year": 2030,
+                        "total": 177754.6579839357
+                      },
+                      {
+                        "year": 2035,
+                        "total": 187579.1997073372
+                      },
+                      {
+                        "year": 2040,
+                        "total": 199277.932656098
+                      },
+                      {
+                        "year": 2045,
+                        "total": 204912.0245664744
+                      },
+                      {
+                        "year": 2050,
+                        "total": 210017.5941091321
                       }
                     ]
                   }
@@ -3841,118 +3471,44 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 47080.3557651199
+                        "total": -1737.5493933302
                       },
                       {
                         "year": 2020,
-                        "total": 345.638340896
+                        "total": -1561.5208763059
                       },
                       {
                         "year": 2025,
-                        "total": 318.4767722794
+                        "total": -778.2396557565
                       },
                       {
                         "year": 2030,
-                        "total": 443.2449413891
+                        "total": 51.4658393869
                       },
                       {
                         "year": 2035,
-                        "total": 517.5513328574
+                        "total": 487.0005214519
                       },
                       {
                         "year": 2040,
-                        "total": 624.7281082237
+                        "total": 642.6767670855
                       },
                       {
                         "year": 2045,
-                        "total": 579.1793617948
+                        "total": 478.1382527874
                       },
                       {
                         "year": 2050,
-                        "total": 554.6400413759
+                        "total": 112.6544822544
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8175.5267157017
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7862.3395514703
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6595.2138200558
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5376.3384119895
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3348.651219449
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1778.5362441832
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1794.263525126
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2055.1657783452
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 906.1557120786
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1155.6803073391
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2302.2070838579
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2623.8977010666
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3084.7788019865
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3131.7254392481
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3272.0358597181
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3508.65965797
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3989,39 +3545,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -1737.5493933302
+                        "total": 906.1557120786
                       },
                       {
                         "year": 2020,
-                        "total": -1561.5208763059
+                        "total": 1155.6803073391
                       },
                       {
                         "year": 2025,
-                        "total": -778.2396557565
+                        "total": 2302.2070838579
                       },
                       {
                         "year": 2030,
-                        "total": 51.4658393869
+                        "total": 2623.8977010666
                       },
                       {
                         "year": 2035,
-                        "total": 487.0005214519
+                        "total": 3084.7788019865
                       },
                       {
                         "year": 2040,
-                        "total": 642.6767670855
+                        "total": 3131.7254392481
                       },
                       {
                         "year": 2045,
-                        "total": 478.1382527874
+                        "total": 3272.0358597181
                       },
                       {
                         "year": 2050,
-                        "total": 112.6544822544
+                        "total": 3508.65965797
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 55255.8824808216
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8207.9778923663
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6913.6905923353
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5819.5833533786
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3866.2025523064
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2403.2643524069
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2373.4428869207
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2609.8058197211
                       }
                     ]
                   }
@@ -4031,118 +3624,44 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 5941.3313245335
+                        "total": 1921.0042850667
                       },
                       {
                         "year": 2020,
-                        "total": 6613.1650369338
+                        "total": 1837.5755048632
                       },
                       {
                         "year": 2025,
-                        "total": 6959.9433195367
+                        "total": 2045.0273392627
                       },
                       {
                         "year": 2030,
-                        "total": 7414.9081209002
+                        "total": 2456.6207666252
                       },
                       {
                         "year": 2035,
-                        "total": 7587.4100587852
+                        "total": 2439.0827427443
                       },
                       {
                         "year": 2040,
-                        "total": 7875.895704111
+                        "total": 2333.5600595553
                       },
                       {
                         "year": 2045,
-                        "total": 7940.689030625
+                        "total": 2019.3696854585
                       },
                       {
                         "year": 2050,
-                        "total": 7892.4532312251
+                        "total": 1924.2039382219
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5160.735761171
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6222.1503071689
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5166.2432278172
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3791.5249980457
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2696.6326219815
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1688.7661613919
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1261.9427421085
-                      },
-                      {
-                        "year": 2050,
-                        "total": 689.6882572637
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 628.6888499288
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1454.2168852887
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2717.2580997675
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3839.5812508385
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4580.4956049109
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5013.7481744568
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5312.1491363156
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5368.0905193253
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4179,39 +3698,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1921.0042850667
+                        "total": 628.6888499288
                       },
                       {
                         "year": 2020,
-                        "total": 1837.5755048632
+                        "total": 1454.2168852887
                       },
                       {
                         "year": 2025,
-                        "total": 2045.0273392627
+                        "total": 2717.2580997675
                       },
                       {
                         "year": 2030,
-                        "total": 2456.6207666252
+                        "total": 3839.5812508385
                       },
                       {
                         "year": 2035,
-                        "total": 2439.0827427443
+                        "total": 4580.4956049109
                       },
                       {
                         "year": 2040,
-                        "total": 2333.5600595553
+                        "total": 5013.7481744568
                       },
                       {
                         "year": 2045,
-                        "total": 2019.3696854585
+                        "total": 5312.1491363156
                       },
                       {
                         "year": 2050,
-                        "total": 1924.2039382219
+                        "total": 5368.0905193253
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11102.0670857045
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12835.3153441027
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12126.1865473539
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11206.4331189458
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10284.0426807667
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9564.6618655029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9202.6317727335
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8582.1414884888
                       }
                     ]
                   }
@@ -4221,81 +3777,44 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 417.2954385012
+                        "total": 3.5826238396
                       },
                       {
                         "year": 2020,
-                        "total": 12764.0115021706
+                        "total": 8.3301778493
                       },
                       {
                         "year": 2025,
-                        "total": 36169.2994134874
+                        "total": 8.3301778493
                       },
                       {
                         "year": 2030,
-                        "total": 63558.3306811271
+                        "total": 8.3301778493
                       },
                       {
                         "year": 2035,
-                        "total": 87172.9496744594
+                        "total": 10.0537452716
                       },
                       {
                         "year": 2040,
-                        "total": 87172.9534609822
+                        "total": 9.4085464358
                       },
                       {
                         "year": 2045,
-                        "total": 87172.957247505
+                        "total": 8.5388773744
                       },
                       {
                         "year": 2050,
-                        "total": 87172.9610340278
+                        "total": 8.6405223649
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.2313659627
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.342e-07
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.83e-08
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4332,39 +3851,39 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 3.5826238396
+                        "total": 417.5268044639
                       },
                       {
                         "year": 2020,
-                        "total": 8.3301778493
+                        "total": 12764.0115029048
                       },
                       {
                         "year": 2025,
-                        "total": 8.3301778493
+                        "total": 36169.2994134874
                       },
                       {
                         "year": 2030,
-                        "total": 8.3301778493
+                        "total": 63558.3306811454
                       },
                       {
                         "year": 2035,
-                        "total": 10.0537452716
+                        "total": 87172.9496744594
                       },
                       {
                         "year": 2040,
-                        "total": 9.4085464358
+                        "total": 87172.9534609822
                       },
                       {
                         "year": 2045,
-                        "total": 8.5388773744
+                        "total": 87172.957247505
                       },
                       {
                         "year": 2050,
-                        "total": 8.6405223649
+                        "total": 87172.9610340278
                       }
                     ]
                   }
@@ -4374,118 +3893,44 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 25573.6981837584
+                        "total": -5624.5467161921
                       },
                       {
                         "year": 2020,
-                        "total": 431.1879670029
+                        "total": -4173.6856094336
                       },
                       {
                         "year": 2025,
-                        "total": 394.5152483916
+                        "total": -3390.1967487189
                       },
                       {
                         "year": 2030,
-                        "total": 513.4297759549
+                        "total": -3538.3515302819
                       },
                       {
                         "year": 2035,
-                        "total": 580.7451161506
+                        "total": -2928.1632867028
                       },
                       {
                         "year": 2040,
-                        "total": 598.0553816475
+                        "total": -2353.9760877161
                       },
                       {
                         "year": 2045,
-                        "total": 532.1570810533
+                        "total": -1802.5664013397
                       },
                       {
                         "year": 2050,
-                        "total": 583.1760365941
+                        "total": -1147.0913663844
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10769.4434588525
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8579.7884819252
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9072.7727752396
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9638.6575879991
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8409.6361120804
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7083.6637039656
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6337.2805513357
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5654.1824822597
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4855.9118899438
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5068.9411696259
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5221.9307100555
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5104.5366413301
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5092.7385774815
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4985.4784328914
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5066.8913559999
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5033.512165576
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4522,39 +3967,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -5624.5467161921
+                        "total": 4855.9118899438
                       },
                       {
                         "year": 2020,
-                        "total": -4173.6856094336
+                        "total": 5068.9411696259
                       },
                       {
                         "year": 2025,
-                        "total": -3390.1967487189
+                        "total": 5221.9307100555
                       },
                       {
                         "year": 2030,
-                        "total": -3538.3515302819
+                        "total": 5104.5366413301
                       },
                       {
                         "year": 2035,
-                        "total": -2928.1632867028
+                        "total": 5092.7385774815
                       },
                       {
                         "year": 2040,
-                        "total": -2353.9760877161
+                        "total": 4985.4784328914
                       },
                       {
                         "year": 2045,
-                        "total": -1802.5664013397
+                        "total": 5066.8913559999
                       },
                       {
                         "year": 2050,
-                        "total": -1147.0913663844
+                        "total": 5033.512165576
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 36343.1416426109
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9010.9764489281
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9467.2880236312
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10152.087363954
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8990.381228231
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7681.719085613
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6869.437632389
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6237.3585188538
                       }
                     ]
                   }
@@ -4564,118 +4046,44 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Endogenous trade costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1177479.5155072953
+                        "total": 5441.0918244556
                       },
                       {
                         "year": 2020,
-                        "total": 30222.685197756
+                        "total": 3897.6309808763
                       },
                       {
                         "year": 2025,
-                        "total": 59051.253269118
+                        "total": 2123.4090652127
                       },
                       {
                         "year": 2030,
-                        "total": 77091.4971554257
+                        "total": 1030.2649242699
                       },
                       {
                         "year": 2035,
-                        "total": 82699.7802462496
+                        "total": 2.0800225067
                       },
                       {
                         "year": 2040,
-                        "total": 88338.3671399821
+                        "total": -622.2607389248
                       },
                       {
                         "year": 2045,
-                        "total": 90902.3231457264
+                        "total": -694.9415369062
                       },
                       {
                         "year": 2050,
-                        "total": 93699.6431339168
+                        "total": -889.7670540919
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11594.9969051175
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12390.0206137307
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12333.4091102661
-                      },
-                      {
-                        "year": 2030,
-                        "total": 12602.6434496013
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11895.2293905782
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11680.6554633332
-                      },
-                      {
-                        "year": 2045,
-                        "total": 11998.6107298657
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12137.978671996
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1776.7853866271
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2594.2902851755
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5989.1552899195
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6690.463180944
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7082.664080128
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7349.2175020369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7319.6189868507
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7504.0632335455
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4712,39 +4120,76 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_ire",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 5441.0918244556
+                        "total": 1776.7853866271
                       },
                       {
                         "year": 2020,
-                        "total": 3897.6309808763
+                        "total": 2594.2902851755
                       },
                       {
                         "year": 2025,
-                        "total": 2123.4090652127
+                        "total": 5989.1552899195
                       },
                       {
                         "year": 2030,
-                        "total": 1030.2649242699
+                        "total": 6690.463180944
                       },
                       {
                         "year": 2035,
-                        "total": 2.0800225067
+                        "total": 7082.664080128
                       },
                       {
                         "year": 2040,
-                        "total": -622.2607389248
+                        "total": 7349.2175020369
                       },
                       {
                         "year": 2045,
-                        "total": -694.9415369062
+                        "total": 7319.6189868507
                       },
                       {
                         "year": 2050,
-                        "total": -889.7670540919
+                        "total": 7504.0632335455
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs, variable",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1189074.5124124128
+                      },
+                      {
+                        "year": 2020,
+                        "total": 42612.7058114868
+                      },
+                      {
+                        "year": 2025,
+                        "total": 71384.6623793841
+                      },
+                      {
+                        "year": 2030,
+                        "total": 89694.140605027
+                      },
+                      {
+                        "year": 2035,
+                        "total": 94595.0096368278
+                      },
+                      {
+                        "year": 2040,
+                        "total": 100019.0226033153
+                      },
+                      {
+                        "year": 2045,
+                        "total": 102900.9338755921
+                      },
+                      {
+                        "year": 2050,
+                        "total": 105837.6218059127
                       }
                     ]
                   }

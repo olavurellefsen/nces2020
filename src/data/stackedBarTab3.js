@@ -2291,7 +2291,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "X-ELC-RUS-FIN",
+                    "indicatorGroup": "Export RU-FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7246,7 +7246,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "X-ELC-RUS-FIN",
+                    "indicatorGroup": "Export RU-FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12201,7 +12201,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "X-ELC-RUS-FIN",
+                    "indicatorGroup": "Export RU-FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

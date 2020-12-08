@@ -1114,7 +1114,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1156,7 +1156,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1230,7 +1230,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1272,7 +1272,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1309,7 +1309,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1346,7 +1346,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1383,7 +1383,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MINING",
+                    "indicatorGroup": "Mining",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1425,7 +1425,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1462,7 +1462,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1495,80 +1495,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 67.2569337282
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8702.2292269269
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2953.3474902032
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2989.6094330184
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1309.5102729975
-                      },
-                      {
-                        "year": 2035,
-                        "total": 587.2023958121
-                      },
-                      {
-                        "year": 2040,
-                        "total": 509.8114943208
-                      },
-                      {
-                        "year": 2045,
-                        "total": 675.5187633476
-                      },
-                      {
-                        "year": 2050,
-                        "total": 659.3401187753
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 419.7741482588
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.160791897
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.2404915225
-                      },
-                      {
-                        "year": 2030,
-                        "total": 288.2771145145
-                      },
-                      {
-                        "year": 2035,
-                        "total": 318.5696627259
-                      },
-                      {
-                        "year": 2040,
-                        "total": 378.6877248776
-                      },
-                      {
-                        "year": 2045,
-                        "total": 128.435435821
-                      },
-                      {
-                        "year": 2050,
-                        "total": 130.3180149125
                       }
                     ]
                   },
@@ -1608,6 +1534,80 @@ export default {
                         "total": 6181.7734649828
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8702.2292269269
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2953.3474902032
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2989.6094330184
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1309.5102729975
+                      },
+                      {
+                        "year": 2035,
+                        "total": 587.2023958121
+                      },
+                      {
+                        "year": 2040,
+                        "total": 509.8114943208
+                      },
+                      {
+                        "year": 2045,
+                        "total": 675.5187633476
+                      },
+                      {
+                        "year": 2050,
+                        "total": 659.3401187753
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 419.7741482588
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.160791897
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.2404915225
+                      },
+                      {
+                        "year": 2030,
+                        "total": 288.2771145145
+                      },
+                      {
+                        "year": 2035,
+                        "total": 318.5696627259
+                      },
+                      {
+                        "year": 2040,
+                        "total": 378.6877248776
+                      },
+                      {
+                        "year": 2045,
+                        "total": 128.435435821
+                      },
+                      {
+                        "year": 2050,
+                        "total": 130.3180149125
+                      }
+                    ]
                   }
                 ]
               }
@@ -1620,7 +1620,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1662,7 +1662,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1699,7 +1699,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1773,7 +1773,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "IND_PP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 21.7664149507
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.7582383175
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.9881725139
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.2481195755
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.3447458896
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.4860937441
+                      },
+                      {
+                        "year": 2045,
+                        "total": 15.6851786138
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.8842634835
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1810,7 +1847,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MINING",
+                    "indicatorGroup": "Mining",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1845,43 +1882,6 @@ export default {
                         "total": 28.5675542576
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 21.7664149507
-                      },
-                      {
-                        "year": 2020,
-                        "total": 19.7582383175
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.9881725139
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.2481195755
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.3447458896
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.4860937441
-                      },
-                      {
-                        "year": 2045,
-                        "total": 15.6851786138
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.8842634835
-                      }
-                    ]
                   }
                 ]
               },
@@ -1889,7 +1889,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1926,7 +1926,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1959,80 +1959,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.279252
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9.944628
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0237869775
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.01457199
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0072
                       }
                     ]
                   },
@@ -2072,6 +1998,80 @@ export default {
                         "total": 0.1188
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2050,
+                        "total": 9.944628
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0237869775
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.01457199
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0072
+                      }
+                    ]
                   }
                 ]
               },
@@ -2079,7 +2079,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2116,7 +2116,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2149,80 +2149,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 10.6461310595
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 51.3907311893
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.6266194992
-                      },
-                      {
-                        "year": 2025,
-                        "total": 70.8153803719
-                      },
-                      {
-                        "year": 2030,
-                        "total": 73.8899353439
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.7868478274
-                      },
-                      {
-                        "year": 2040,
-                        "total": 67.668029871
-                      },
-                      {
-                        "year": 2045,
-                        "total": 52.3729355521
-                      },
-                      {
-                        "year": 2050,
-                        "total": 56.9633287202
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.5693427584
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.4819726551
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.9195946539
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.690903536
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11.6318777893
-                      },
-                      {
-                        "year": 2040,
-                        "total": 12.4110765563
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.1644097766
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.8924761958
                       }
                     ]
                   },
@@ -2262,6 +2188,80 @@ export default {
                         "total": 34.0468333797
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 51.3907311893
+                      },
+                      {
+                        "year": 2020,
+                        "total": 64.6266194992
+                      },
+                      {
+                        "year": 2025,
+                        "total": 70.8153803719
+                      },
+                      {
+                        "year": 2030,
+                        "total": 73.8899353439
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.7868478274
+                      },
+                      {
+                        "year": 2040,
+                        "total": 67.668029871
+                      },
+                      {
+                        "year": 2045,
+                        "total": 52.3729355521
+                      },
+                      {
+                        "year": 2050,
+                        "total": 56.9633287202
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.5693427584
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.4819726551
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.9195946539
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.690903536
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.6318777893
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.4110765563
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.1644097766
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.8924761958
+                      }
+                    ]
                   }
                 ]
               },
@@ -2269,7 +2269,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2306,7 +2306,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2339,80 +2339,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 9.1286648916
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 91.4311515898
-                      },
-                      {
-                        "year": 2020,
-                        "total": 96.6108578883
-                      },
-                      {
-                        "year": 2025,
-                        "total": 95.7914691964
-                      },
-                      {
-                        "year": 2030,
-                        "total": 53.8056431073
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.4158298686
-                      },
-                      {
-                        "year": 2040,
-                        "total": 37.236369829
-                      },
-                      {
-                        "year": 2045,
-                        "total": 36.485485782
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.0383285234
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 24.6405087194
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.9160526579
-                      },
-                      {
-                        "year": 2025,
-                        "total": 28.1789345841
-                      },
-                      {
-                        "year": 2030,
-                        "total": 28.3087140744
-                      },
-                      {
-                        "year": 2035,
-                        "total": 28.7571886714
-                      },
-                      {
-                        "year": 2040,
-                        "total": 29.2735808522
-                      },
-                      {
-                        "year": 2045,
-                        "total": 29.7481130634
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1825124739
                       }
                     ]
                   },
@@ -2452,6 +2378,80 @@ export default {
                         "total": 345.7215518881
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 91.4311515898
+                      },
+                      {
+                        "year": 2020,
+                        "total": 96.6108578883
+                      },
+                      {
+                        "year": 2025,
+                        "total": 95.7914691964
+                      },
+                      {
+                        "year": 2030,
+                        "total": 53.8056431073
+                      },
+                      {
+                        "year": 2035,
+                        "total": 40.4158298686
+                      },
+                      {
+                        "year": 2040,
+                        "total": 37.236369829
+                      },
+                      {
+                        "year": 2045,
+                        "total": 36.485485782
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.0383285234
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 24.6405087194
+                      },
+                      {
+                        "year": 2020,
+                        "total": 27.9160526579
+                      },
+                      {
+                        "year": 2025,
+                        "total": 28.1789345841
+                      },
+                      {
+                        "year": 2030,
+                        "total": 28.3087140744
+                      },
+                      {
+                        "year": 2035,
+                        "total": 28.7571886714
+                      },
+                      {
+                        "year": 2040,
+                        "total": 29.2735808522
+                      },
+                      {
+                        "year": 2045,
+                        "total": 29.7481130634
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1825124739
+                      }
+                    ]
                   }
                 ]
               }
@@ -2464,7 +2464,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2506,7 +2506,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2543,7 +2543,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2576,80 +2576,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 31.7886256933
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 75.7330991104
-                      },
-                      {
-                        "year": 2020,
-                        "total": 85.8706874745
-                      },
-                      {
-                        "year": 2025,
-                        "total": 85.7329378352
-                      },
-                      {
-                        "year": 2030,
-                        "total": 84.8652940831
-                      },
-                      {
-                        "year": 2035,
-                        "total": 82.1157916027
-                      },
-                      {
-                        "year": 2040,
-                        "total": 80.1179990082
-                      },
-                      {
-                        "year": 2045,
-                        "total": 77.5562263996
-                      },
-                      {
-                        "year": 2050,
-                        "total": 75.0392767992
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.9659336888
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6.5735142385
-                      },
-                      {
-                        "year": 2025,
-                        "total": 8.0356015281
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.4738922848
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.8213595409
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.927218117
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.970359812
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.013501507
                       }
                     ]
                   },
@@ -2689,6 +2615,80 @@ export default {
                         "total": 347.9984902601
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 75.7330991104
+                      },
+                      {
+                        "year": 2020,
+                        "total": 85.8706874745
+                      },
+                      {
+                        "year": 2025,
+                        "total": 85.7329378352
+                      },
+                      {
+                        "year": 2030,
+                        "total": 84.8652940831
+                      },
+                      {
+                        "year": 2035,
+                        "total": 82.1157916027
+                      },
+                      {
+                        "year": 2040,
+                        "total": 80.1179990082
+                      },
+                      {
+                        "year": 2045,
+                        "total": 77.5562263996
+                      },
+                      {
+                        "year": 2050,
+                        "total": 75.0392767992
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.9659336888
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6.5735142385
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.0356015281
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.4738922848
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.8213595409
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.927218117
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.970359812
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.013501507
+                      }
+                    ]
                   }
                 ]
               },
@@ -2696,7 +2696,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2733,7 +2733,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2766,80 +2766,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0279252
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.813594365
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3237843292
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.3237843292
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.3237843292
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.9944628
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.9944628
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.9944628
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.9944628
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0165869775
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.00737199
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -2879,6 +2805,80 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.813594365
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3237843292
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.3237843292
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.3237843292
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.9944628
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.9944628
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.9944628
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.9944628
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0165869775
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.00737199
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               },
@@ -2886,7 +2886,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2923,7 +2923,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2956,80 +2956,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.9954560503
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 65.4776855412
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.1229583481
-                      },
-                      {
-                        "year": 2025,
-                        "total": 71.9738849196
-                      },
-                      {
-                        "year": 2030,
-                        "total": 70.928608141
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.610974696
-                      },
-                      {
-                        "year": 2040,
-                        "total": 60.3164969328
-                      },
-                      {
-                        "year": 2045,
-                        "total": 42.9349781954
-                      },
-                      {
-                        "year": 2050,
-                        "total": 46.080458401
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.7282330695
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.5287754089
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1962278051
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.7066946921
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.4906258332
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.1010300964
-                      },
-                      {
-                        "year": 2045,
-                        "total": 11.7950886165
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.4636045524
                       }
                     ]
                   },
@@ -3069,6 +2995,80 @@ export default {
                         "total": 33.6821079145
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 65.4776855412
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.1229583481
+                      },
+                      {
+                        "year": 2025,
+                        "total": 71.9738849196
+                      },
+                      {
+                        "year": 2030,
+                        "total": 70.928608141
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.610974696
+                      },
+                      {
+                        "year": 2040,
+                        "total": 60.3164969328
+                      },
+                      {
+                        "year": 2045,
+                        "total": 42.9349781954
+                      },
+                      {
+                        "year": 2050,
+                        "total": 46.080458401
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.7282330695
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8.5287754089
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1962278051
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.7066946921
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.4906258332
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.1010300964
+                      },
+                      {
+                        "year": 2045,
+                        "total": 11.7950886165
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12.4636045524
+                      }
+                    ]
                   }
                 ]
               },
@@ -3076,7 +3076,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3113,7 +3113,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3146,80 +3146,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 6.974344799
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 130.4789235272
-                      },
-                      {
-                        "year": 2020,
-                        "total": 94.3687001121
-                      },
-                      {
-                        "year": 2025,
-                        "total": 93.1932679648
-                      },
-                      {
-                        "year": 2030,
-                        "total": 50.4658557626
-                      },
-                      {
-                        "year": 2035,
-                        "total": 36.5550140859
-                      },
-                      {
-                        "year": 2040,
-                        "total": 33.1121092165
-                      },
-                      {
-                        "year": 2045,
-                        "total": 31.465599184
-                      },
-                      {
-                        "year": 2050,
-                        "total": 31.5582284915
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.6033865921
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.5280481055
-                      },
-                      {
-                        "year": 2025,
-                        "total": 27.4887643011
-                      },
-                      {
-                        "year": 2030,
-                        "total": 26.6249827887
-                      },
-                      {
-                        "year": 2035,
-                        "total": 26.4461385964
-                      },
-                      {
-                        "year": 2040,
-                        "total": 26.413725186
-                      },
-                      {
-                        "year": 2045,
-                        "total": 26.4884023325
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.5519886179
                       }
                     ]
                   },
@@ -3259,6 +3185,80 @@ export default {
                         "total": 298.9727642049
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 130.4789235272
+                      },
+                      {
+                        "year": 2020,
+                        "total": 94.3687001121
+                      },
+                      {
+                        "year": 2025,
+                        "total": 93.1932679648
+                      },
+                      {
+                        "year": 2030,
+                        "total": 50.4658557626
+                      },
+                      {
+                        "year": 2035,
+                        "total": 36.5550140859
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.1121092165
+                      },
+                      {
+                        "year": 2045,
+                        "total": 31.465599184
+                      },
+                      {
+                        "year": 2050,
+                        "total": 31.5582284915
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.6033865921
+                      },
+                      {
+                        "year": 2020,
+                        "total": 27.5280481055
+                      },
+                      {
+                        "year": 2025,
+                        "total": 27.4887643011
+                      },
+                      {
+                        "year": 2030,
+                        "total": 26.6249827887
+                      },
+                      {
+                        "year": 2035,
+                        "total": 26.4461385964
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.413725186
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.4884023325
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.5519886179
+                      }
+                    ]
                   }
                 ]
               }
@@ -3271,7 +3271,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3313,7 +3313,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3350,7 +3350,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3383,43 +3383,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 273.4033804467
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 97.8667602173
-                      },
-                      {
-                        "year": 2020,
-                        "total": 238.5431665332
-                      },
-                      {
-                        "year": 2025,
-                        "total": 339.7364635625
-                      },
-                      {
-                        "year": 2030,
-                        "total": 440.9005951697
-                      },
-                      {
-                        "year": 2035,
-                        "total": 504.0412339765
-                      },
-                      {
-                        "year": 2040,
-                        "total": 541.0037402408
-                      },
-                      {
-                        "year": 2045,
-                        "total": 643.346613925
-                      },
-                      {
-                        "year": 2050,
-                        "total": 630.9301658517
                       }
                     ]
                   },
@@ -3459,6 +3422,43 @@ export default {
                         "total": 9581.6810869583
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 97.8667602173
+                      },
+                      {
+                        "year": 2020,
+                        "total": 238.5431665332
+                      },
+                      {
+                        "year": 2025,
+                        "total": 339.7364635625
+                      },
+                      {
+                        "year": 2030,
+                        "total": 440.9005951697
+                      },
+                      {
+                        "year": 2035,
+                        "total": 504.0412339765
+                      },
+                      {
+                        "year": 2040,
+                        "total": 541.0037402408
+                      },
+                      {
+                        "year": 2045,
+                        "total": 643.346613925
+                      },
+                      {
+                        "year": 2050,
+                        "total": 630.9301658517
+                      }
+                    ]
                   }
                 ]
               },
@@ -3466,7 +3466,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3503,7 +3503,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3540,7 +3540,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3582,7 +3582,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3619,7 +3619,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3652,80 +3652,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 4.6228697842
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.4219505926
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.7126035376
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.6712775221
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.9130600157
-                      },
-                      {
-                        "year": 2035,
-                        "total": 18.7317433864
-                      },
-                      {
-                        "year": 2040,
-                        "total": 15.5843590643
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6.5869307025
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.411698591
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.0517707409
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.4197162243
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.5996397987
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.7337416036
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.0242615248
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.4206880085
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1317357119
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.5618318371
                       }
                     ]
                   },
@@ -3765,6 +3691,80 @@ export default {
                         "total": 13.1943162193
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.4219505926
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.7126035376
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.6712775221
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.9130600157
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.7317433864
+                      },
+                      {
+                        "year": 2040,
+                        "total": 15.5843590643
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.5869307025
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.411698591
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.0517707409
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4197162243
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.5996397987
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.7337416036
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.0242615248
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.4206880085
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1317357119
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.5618318371
+                      }
+                    ]
                   }
                 ]
               },
@@ -3772,7 +3772,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3809,7 +3809,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3842,80 +3842,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.1009630596
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.6002560267
-                      },
-                      {
-                        "year": 2020,
-                        "total": 45.3389544773
-                      },
-                      {
-                        "year": 2025,
-                        "total": 46.1027093837
-                      },
-                      {
-                        "year": 2030,
-                        "total": 46.4490362445
-                      },
-                      {
-                        "year": 2035,
-                        "total": 44.8061762511
-                      },
-                      {
-                        "year": 2040,
-                        "total": 35.2564855151
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.837951189
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.9528985067
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.6097306069
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.5735402475
-                      },
-                      {
-                        "year": 2025,
-                        "total": 8.5735402475
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.5735402475
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.1334607957
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.7401015074
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.2458401259
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.2466515812
                       }
                     ]
                   },
@@ -3953,6 +3879,80 @@ export default {
                       {
                         "year": 2050,
                         "total": 195.7527283744
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.6002560267
+                      },
+                      {
+                        "year": 2020,
+                        "total": 45.3389544773
+                      },
+                      {
+                        "year": 2025,
+                        "total": 46.1027093837
+                      },
+                      {
+                        "year": 2030,
+                        "total": 46.4490362445
+                      },
+                      {
+                        "year": 2035,
+                        "total": 44.8061762511
+                      },
+                      {
+                        "year": 2040,
+                        "total": 35.2564855151
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.837951189
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.9528985067
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.6097306069
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8.5735402475
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.5735402475
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.5735402475
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.1334607957
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.7401015074
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.2458401259
+                      },
+                      {
+                        "year": 2050,
+                        "total": 18.2466515812
                       }
                     ]
                   }
@@ -7839,7 +7839,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7881,7 +7881,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7955,7 +7955,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7997,7 +7997,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8034,7 +8034,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8071,7 +8071,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8108,7 +8108,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MINING",
+                    "indicatorGroup": "Mining",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8150,7 +8150,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8187,7 +8187,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8220,80 +8220,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.521755653
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13027.9990336264
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1942.8217387645
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2048.4433964156
-                      },
-                      {
-                        "year": 2030,
-                        "total": 804.8726175668
-                      },
-                      {
-                        "year": 2035,
-                        "total": 416.1442035404
-                      },
-                      {
-                        "year": 2040,
-                        "total": 463.9500010678
-                      },
-                      {
-                        "year": 2045,
-                        "total": 732.1453946855
-                      },
-                      {
-                        "year": 2050,
-                        "total": 659.3401187753
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 419.7741482588
-                      },
-                      {
-                        "year": 2020,
-                        "total": 127.0868146265
-                      },
-                      {
-                        "year": 2025,
-                        "total": 138.0882194236
-                      },
-                      {
-                        "year": 2030,
-                        "total": 140.6232633472
-                      },
-                      {
-                        "year": 2035,
-                        "total": 169.6654634531
-                      },
-                      {
-                        "year": 2040,
-                        "total": 235.5725411276
-                      },
-                      {
-                        "year": 2045,
-                        "total": 128.4702016367
-                      },
-                      {
-                        "year": 2050,
-                        "total": 130.2277132627
                       }
                     ]
                   },
@@ -8333,6 +8259,80 @@ export default {
                         "total": 6295.778157953
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13027.9990336264
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1942.8217387645
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2048.4433964156
+                      },
+                      {
+                        "year": 2030,
+                        "total": 804.8726175668
+                      },
+                      {
+                        "year": 2035,
+                        "total": 416.1442035404
+                      },
+                      {
+                        "year": 2040,
+                        "total": 463.9500010678
+                      },
+                      {
+                        "year": 2045,
+                        "total": 732.1453946855
+                      },
+                      {
+                        "year": 2050,
+                        "total": 659.3401187753
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 419.7741482588
+                      },
+                      {
+                        "year": 2020,
+                        "total": 127.0868146265
+                      },
+                      {
+                        "year": 2025,
+                        "total": 138.0882194236
+                      },
+                      {
+                        "year": 2030,
+                        "total": 140.6232633472
+                      },
+                      {
+                        "year": 2035,
+                        "total": 169.6654634531
+                      },
+                      {
+                        "year": 2040,
+                        "total": 235.5725411276
+                      },
+                      {
+                        "year": 2045,
+                        "total": 128.4702016367
+                      },
+                      {
+                        "year": 2050,
+                        "total": 130.2277132627
+                      }
+                    ]
                   }
                 ]
               }
@@ -8345,7 +8345,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8387,7 +8387,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8424,7 +8424,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8498,7 +8498,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "IND_PP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 21.7664149507
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.7582383175
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.9881725139
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.2481195755
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.3447458896
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.4860937441
+                      },
+                      {
+                        "year": 2045,
+                        "total": 15.6851786138
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.8842634835
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8535,7 +8572,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MINING",
+                    "indicatorGroup": "Mining",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8570,43 +8607,6 @@ export default {
                         "total": 28.5675542576
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 21.7664149507
-                      },
-                      {
-                        "year": 2020,
-                        "total": 19.7582383175
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.9881725139
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.2481195755
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.3447458896
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.4860937441
-                      },
-                      {
-                        "year": 2045,
-                        "total": 15.6851786138
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.8842634835
-                      }
-                    ]
                   }
                 ]
               },
@@ -8614,7 +8614,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8651,7 +8651,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8684,80 +8684,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.279252
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.944628
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9.944628
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0237869775
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.01457199
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0072
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0072
                       }
                     ]
                   },
@@ -8797,6 +8723,80 @@ export default {
                         "total": 0.1188
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.944628
+                      },
+                      {
+                        "year": 2050,
+                        "total": 9.944628
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0237869775
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.01457199
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0072
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0072
+                      }
+                    ]
                   }
                 ]
               },
@@ -8804,7 +8804,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8841,7 +8841,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8874,80 +8874,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.820779498
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 51.3907311893
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.6266194992
-                      },
-                      {
-                        "year": 2025,
-                        "total": 70.8153803719
-                      },
-                      {
-                        "year": 2030,
-                        "total": 73.9060703148
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.8074278222
-                      },
-                      {
-                        "year": 2040,
-                        "total": 79.6837233336
-                      },
-                      {
-                        "year": 2045,
-                        "total": 52.3729355521
-                      },
-                      {
-                        "year": 2050,
-                        "total": 56.9633287202
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.5693427584
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.9639453102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.9195946539
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.0363553041
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11.6318777893
-                      },
-                      {
-                        "year": 2040,
-                        "total": 12.4110765563
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.1644097766
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.8924761958
                       }
                     ]
                   },
@@ -8987,6 +8913,80 @@ export default {
                         "total": 34.0468333797
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 51.3907311893
+                      },
+                      {
+                        "year": 2020,
+                        "total": 64.6266194992
+                      },
+                      {
+                        "year": 2025,
+                        "total": 70.8153803719
+                      },
+                      {
+                        "year": 2030,
+                        "total": 73.9060703148
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.8074278222
+                      },
+                      {
+                        "year": 2040,
+                        "total": 79.6837233336
+                      },
+                      {
+                        "year": 2045,
+                        "total": 52.3729355521
+                      },
+                      {
+                        "year": 2050,
+                        "total": 56.9633287202
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.5693427584
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8.9639453102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.9195946539
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.0363553041
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.6318777893
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.4110765563
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.1644097766
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.8924761958
+                      }
+                    ]
                   }
                 ]
               },
@@ -8994,7 +8994,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9031,7 +9031,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9064,80 +9064,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 9.1286648916
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 91.4311515898
-                      },
-                      {
-                        "year": 2020,
-                        "total": 96.6108578883
-                      },
-                      {
-                        "year": 2025,
-                        "total": 95.7914691964
-                      },
-                      {
-                        "year": 2030,
-                        "total": 73.2098813635
-                      },
-                      {
-                        "year": 2035,
-                        "total": 65.1657426147
-                      },
-                      {
-                        "year": 2040,
-                        "total": 56.8209885731
-                      },
-                      {
-                        "year": 2045,
-                        "total": 37.5219655546
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.0383285234
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 24.6405087194
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.9160526579
-                      },
-                      {
-                        "year": 2025,
-                        "total": 28.1789345841
-                      },
-                      {
-                        "year": 2030,
-                        "total": 28.3087140744
-                      },
-                      {
-                        "year": 2035,
-                        "total": 28.7571886714
-                      },
-                      {
-                        "year": 2040,
-                        "total": 29.2735808522
-                      },
-                      {
-                        "year": 2045,
-                        "total": 29.7481130634
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1825124739
                       }
                     ]
                   },
@@ -9177,6 +9103,80 @@ export default {
                         "total": 345.7215518881
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 91.4311515898
+                      },
+                      {
+                        "year": 2020,
+                        "total": 96.6108578883
+                      },
+                      {
+                        "year": 2025,
+                        "total": 95.7914691964
+                      },
+                      {
+                        "year": 2030,
+                        "total": 73.2098813635
+                      },
+                      {
+                        "year": 2035,
+                        "total": 65.1657426147
+                      },
+                      {
+                        "year": 2040,
+                        "total": 56.8209885731
+                      },
+                      {
+                        "year": 2045,
+                        "total": 37.5219655546
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.0383285234
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 24.6405087194
+                      },
+                      {
+                        "year": 2020,
+                        "total": 27.9160526579
+                      },
+                      {
+                        "year": 2025,
+                        "total": 28.1789345841
+                      },
+                      {
+                        "year": 2030,
+                        "total": 28.3087140744
+                      },
+                      {
+                        "year": 2035,
+                        "total": 28.7571886714
+                      },
+                      {
+                        "year": 2040,
+                        "total": 29.2735808522
+                      },
+                      {
+                        "year": 2045,
+                        "total": 29.7481130634
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1825124739
+                      }
+                    ]
                   }
                 ]
               }
@@ -9189,7 +9189,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9231,7 +9231,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9268,7 +9268,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9301,80 +9301,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.7844496323
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 75.7330991104
-                      },
-                      {
-                        "year": 2020,
-                        "total": 85.8706874745
-                      },
-                      {
-                        "year": 2025,
-                        "total": 85.7329378352
-                      },
-                      {
-                        "year": 2030,
-                        "total": 84.8652940831
-                      },
-                      {
-                        "year": 2035,
-                        "total": 82.1157916027
-                      },
-                      {
-                        "year": 2040,
-                        "total": 80.0920481915
-                      },
-                      {
-                        "year": 2045,
-                        "total": 77.5307622501
-                      },
-                      {
-                        "year": 2050,
-                        "total": 75.0142970956
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.9659336888
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6.5735142385
-                      },
-                      {
-                        "year": 2025,
-                        "total": 8.0356015281
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.4738922848
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.8213595409
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.927218117
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.970359812
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.013501507
                       }
                     ]
                   },
@@ -9414,6 +9340,80 @@ export default {
                         "total": 347.9628357608
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 75.7330991104
+                      },
+                      {
+                        "year": 2020,
+                        "total": 85.8706874745
+                      },
+                      {
+                        "year": 2025,
+                        "total": 85.7329378352
+                      },
+                      {
+                        "year": 2030,
+                        "total": 84.8652940831
+                      },
+                      {
+                        "year": 2035,
+                        "total": 82.1157916027
+                      },
+                      {
+                        "year": 2040,
+                        "total": 80.0920481915
+                      },
+                      {
+                        "year": 2045,
+                        "total": 77.5307622501
+                      },
+                      {
+                        "year": 2050,
+                        "total": 75.0142970956
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.9659336888
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6.5735142385
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.0356015281
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.4738922848
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.8213595409
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.927218117
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.970359812
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.013501507
+                      }
+                    ]
                   }
                 ]
               },
@@ -9421,7 +9421,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9458,7 +9458,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9491,80 +9491,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0279252
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.813594365
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3237843292
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.3237843292
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.3237843292
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.9944628
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.9944628
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.9944628
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.9944628
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0165869775
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.00737199
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9604,6 +9530,80 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.813594365
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3237843292
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.3237843292
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.3237843292
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.9944628
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.9944628
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.9944628
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.9944628
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0165869775
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.00737199
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               },
@@ -9611,7 +9611,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9648,7 +9648,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9681,80 +9681,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.9954560503
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 65.4776855412
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.7189925996
-                      },
-                      {
-                        "year": 2025,
-                        "total": 71.9739012542
-                      },
-                      {
-                        "year": 2030,
-                        "total": 70.9455923209
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.6323593219
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.3769161988
-                      },
-                      {
-                        "year": 2045,
-                        "total": 52.8081521074
-                      },
-                      {
-                        "year": 2050,
-                        "total": 46.080458401
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.7282330695
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.5287754089
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1962278051
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.7066946921
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.4906258332
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.1010300964
-                      },
-                      {
-                        "year": 2045,
-                        "total": 11.7950886165
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.4636045524
                       }
                     ]
                   },
@@ -9794,6 +9720,80 @@ export default {
                         "total": 33.6821079145
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 65.4776855412
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.7189925996
+                      },
+                      {
+                        "year": 2025,
+                        "total": 71.9739012542
+                      },
+                      {
+                        "year": 2030,
+                        "total": 70.9455923209
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.6323593219
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.3769161988
+                      },
+                      {
+                        "year": 2045,
+                        "total": 52.8081521074
+                      },
+                      {
+                        "year": 2050,
+                        "total": 46.080458401
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.7282330695
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8.5287754089
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1962278051
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.7066946921
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.4906258332
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.1010300964
+                      },
+                      {
+                        "year": 2045,
+                        "total": 11.7950886165
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12.4636045524
+                      }
+                    ]
                   }
                 ]
               },
@@ -9801,7 +9801,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9838,7 +9838,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9871,80 +9871,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 6.9743772848
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 130.4789235272
-                      },
-                      {
-                        "year": 2020,
-                        "total": 97.8771174059
-                      },
-                      {
-                        "year": 2025,
-                        "total": 96.7084071617
-                      },
-                      {
-                        "year": 2030,
-                        "total": 114.2378672185
-                      },
-                      {
-                        "year": 2035,
-                        "total": 64.647666611
-                      },
-                      {
-                        "year": 2040,
-                        "total": 55.0707917039
-                      },
-                      {
-                        "year": 2045,
-                        "total": 32.4998247998
-                      },
-                      {
-                        "year": 2050,
-                        "total": 31.5582284915
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.6033865921
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8470499566
-                      },
-                      {
-                        "year": 2025,
-                        "total": 27.8074632773
-                      },
-                      {
-                        "year": 2030,
-                        "total": 26.9045883719
-                      },
-                      {
-                        "year": 2035,
-                        "total": 26.750137811
-                      },
-                      {
-                        "year": 2040,
-                        "total": 26.7157932571
-                      },
-                      {
-                        "year": 2045,
-                        "total": 26.48842853
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.0242719063
                       }
                     ]
                   },
@@ -9984,6 +9910,80 @@ export default {
                         "total": 298.9727642049
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 130.4789235272
+                      },
+                      {
+                        "year": 2020,
+                        "total": 97.8771174059
+                      },
+                      {
+                        "year": 2025,
+                        "total": 96.7084071617
+                      },
+                      {
+                        "year": 2030,
+                        "total": 114.2378672185
+                      },
+                      {
+                        "year": 2035,
+                        "total": 64.647666611
+                      },
+                      {
+                        "year": 2040,
+                        "total": 55.0707917039
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32.4998247998
+                      },
+                      {
+                        "year": 2050,
+                        "total": 31.5582284915
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.6033865921
+                      },
+                      {
+                        "year": 2020,
+                        "total": 27.8470499566
+                      },
+                      {
+                        "year": 2025,
+                        "total": 27.8074632773
+                      },
+                      {
+                        "year": 2030,
+                        "total": 26.9045883719
+                      },
+                      {
+                        "year": 2035,
+                        "total": 26.750137811
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.7157932571
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.48842853
+                      },
+                      {
+                        "year": 2050,
+                        "total": 53.0242719063
+                      }
+                    ]
                   }
                 ]
               }
@@ -9996,7 +9996,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10038,7 +10038,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10075,7 +10075,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10108,43 +10108,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 292.7293171342
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 97.8667602173
-                      },
-                      {
-                        "year": 2020,
-                        "total": 238.5431665332
-                      },
-                      {
-                        "year": 2025,
-                        "total": 339.7364635625
-                      },
-                      {
-                        "year": 2030,
-                        "total": 440.9005951697
-                      },
-                      {
-                        "year": 2035,
-                        "total": 504.0412339765
-                      },
-                      {
-                        "year": 2040,
-                        "total": 541.4392878234
-                      },
-                      {
-                        "year": 2045,
-                        "total": 643.7825514844
-                      },
-                      {
-                        "year": 2050,
-                        "total": 631.3664916081
                       }
                     ]
                   },
@@ -10184,6 +10147,43 @@ export default {
                         "total": 9581.5296601406
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 97.8667602173
+                      },
+                      {
+                        "year": 2020,
+                        "total": 238.5431665332
+                      },
+                      {
+                        "year": 2025,
+                        "total": 339.7364635625
+                      },
+                      {
+                        "year": 2030,
+                        "total": 440.9005951697
+                      },
+                      {
+                        "year": 2035,
+                        "total": 504.0412339765
+                      },
+                      {
+                        "year": 2040,
+                        "total": 541.4392878234
+                      },
+                      {
+                        "year": 2045,
+                        "total": 643.7825514844
+                      },
+                      {
+                        "year": 2050,
+                        "total": 631.3664916081
+                      }
+                    ]
                   }
                 ]
               },
@@ -10191,7 +10191,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10228,7 +10228,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10265,7 +10265,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10307,7 +10307,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10344,7 +10344,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10377,80 +10377,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 4.6232047815
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.4228147998
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.8490622858
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.62613563
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.1372602276
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.8151422322
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.846226993
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6.5868873664
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.4124829521
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.0517707409
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.4189431328
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.5988667071
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.7329685121
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.0234884332
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.4199149169
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1309626203
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.5651256592
                       }
                     ]
                   },
@@ -10490,6 +10416,80 @@ export default {
                         "total": 13.194484623
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.4228147998
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.8490622858
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.62613563
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.1372602276
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20.8151422322
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.846226993
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.5868873664
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.4124829521
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.0517707409
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4189431328
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.5988667071
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.7329685121
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.0234884332
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.4199149169
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1309626203
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.5651256592
+                      }
+                    ]
                   }
                 ]
               },
@@ -10497,7 +10497,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10534,7 +10534,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10567,80 +10567,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.1950132879
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.6045288474
-                      },
-                      {
-                        "year": 2020,
-                        "total": 168.9062326187
-                      },
-                      {
-                        "year": 2025,
-                        "total": 168.9922671025
-                      },
-                      {
-                        "year": 2030,
-                        "total": 169.0087396274
-                      },
-                      {
-                        "year": 2035,
-                        "total": 169.9552352628
-                      },
-                      {
-                        "year": 2040,
-                        "total": 161.0173091835
-                      },
-                      {
-                        "year": 2045,
-                        "total": 26.5672719653
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.2752869379
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.6097306069
-                      },
-                      {
-                        "year": 2020,
-                        "total": 20.3035454502
-                      },
-                      {
-                        "year": 2025,
-                        "total": 20.3035454502
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5473078158
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.3032887669
-                      },
-                      {
-                        "year": 2040,
-                        "total": 15.0379382347
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.2406156358
-                      },
-                      {
-                        "year": 2050,
-                        "total": 36.4435602533
                       }
                     ]
                   },
@@ -10678,6 +10604,80 @@ export default {
                       {
                         "year": 2050,
                         "total": 195.7527283744
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.6045288474
+                      },
+                      {
+                        "year": 2020,
+                        "total": 168.9062326187
+                      },
+                      {
+                        "year": 2025,
+                        "total": 168.9922671025
+                      },
+                      {
+                        "year": 2030,
+                        "total": 169.0087396274
+                      },
+                      {
+                        "year": 2035,
+                        "total": 169.9552352628
+                      },
+                      {
+                        "year": 2040,
+                        "total": 161.0173091835
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.5672719653
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.2752869379
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.6097306069
+                      },
+                      {
+                        "year": 2020,
+                        "total": 20.3035454502
+                      },
+                      {
+                        "year": 2025,
+                        "total": 20.3035454502
+                      },
+                      {
+                        "year": 2030,
+                        "total": 40.5473078158
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20.3032887669
+                      },
+                      {
+                        "year": 2040,
+                        "total": 15.0379382347
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.2406156358
+                      },
+                      {
+                        "year": 2050,
+                        "total": 36.4435602533
                       }
                     ]
                   }
@@ -14564,7 +14564,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14606,7 +14606,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14680,7 +14680,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14722,7 +14722,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14759,7 +14759,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14796,7 +14796,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14833,7 +14833,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MINING",
+                    "indicatorGroup": "Mining",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14875,7 +14875,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14912,7 +14912,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14945,80 +14945,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 33.651369451
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4351.1146134634
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1110.1511294384
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1202.8425734153
-                      },
-                      {
-                        "year": 2030,
-                        "total": 465.3980778907
-                      },
-                      {
-                        "year": 2035,
-                        "total": 434.3008067716
-                      },
-                      {
-                        "year": 2040,
-                        "total": 232.5359096551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 343.0997523452
-                      },
-                      {
-                        "year": 2050,
-                        "total": 336.6189303245
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 209.8870741294
-                      },
-                      {
-                        "year": 2020,
-                        "total": 63.6130077211
-                      },
-                      {
-                        "year": 2025,
-                        "total": 64.1341938656
-                      },
-                      {
-                        "year": 2030,
-                        "total": 70.3116316736
-                      },
-                      {
-                        "year": 2035,
-                        "total": 84.8242504451
-                      },
-                      {
-                        "year": 2040,
-                        "total": 117.667990709
-                      },
-                      {
-                        "year": 2045,
-                        "total": 64.0462468442
-                      },
-                      {
-                        "year": 2050,
-                        "total": 64.9863865386
                       }
                     ]
                   },
@@ -15058,6 +14984,80 @@ export default {
                         "total": 2789.1883116562
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4351.1146134634
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1110.1511294384
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1202.8425734153
+                      },
+                      {
+                        "year": 2030,
+                        "total": 465.3980778907
+                      },
+                      {
+                        "year": 2035,
+                        "total": 434.3008067716
+                      },
+                      {
+                        "year": 2040,
+                        "total": 232.5359096551
+                      },
+                      {
+                        "year": 2045,
+                        "total": 343.0997523452
+                      },
+                      {
+                        "year": 2050,
+                        "total": 336.6189303245
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 209.8870741294
+                      },
+                      {
+                        "year": 2020,
+                        "total": 63.6130077211
+                      },
+                      {
+                        "year": 2025,
+                        "total": 64.1341938656
+                      },
+                      {
+                        "year": 2030,
+                        "total": 70.3116316736
+                      },
+                      {
+                        "year": 2035,
+                        "total": 84.8242504451
+                      },
+                      {
+                        "year": 2040,
+                        "total": 117.667990709
+                      },
+                      {
+                        "year": 2045,
+                        "total": 64.0462468442
+                      },
+                      {
+                        "year": 2050,
+                        "total": 64.9863865386
+                      }
+                    ]
                   }
                 ]
               }
@@ -15070,7 +15070,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15112,7 +15112,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15149,7 +15149,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15223,7 +15223,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "IND_PP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.8832074753
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.8791191588
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.494086257
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.1240597878
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.6723729448
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.2430468721
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.8425893069
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.4421317418
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15260,7 +15297,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MINING",
+                    "indicatorGroup": "Mining",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15295,43 +15332,6 @@ export default {
                         "total": 14.2837771288
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.8832074753
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.8791191588
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.494086257
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.1240597878
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.6723729448
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8.2430468721
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.8425893069
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.4421317418
-                      }
-                    ]
                   }
                 ]
               },
@@ -15339,7 +15339,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15376,7 +15376,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15409,80 +15409,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.223776
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.374946
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.374946
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.374946
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.374946
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.374946
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.374946
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.374946
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.374946
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0036
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0036
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0118934888
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.007285995
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0036
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0036
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0036
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0036
                       }
                     ]
                   },
@@ -15522,6 +15448,80 @@ export default {
                         "total": 0.0612
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.374946
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.374946
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.374946
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.374946
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.374946
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.374946
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.374946
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.374946
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0036
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0036
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0118934888
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.007285995
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0036
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0036
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0036
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0036
+                      }
+                    ]
                   }
                 ]
               },
@@ -15529,7 +15529,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15566,7 +15566,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15599,80 +15599,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.3230655297
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.6953655947
-                      },
-                      {
-                        "year": 2020,
-                        "total": 32.3133097496
-                      },
-                      {
-                        "year": 2025,
-                        "total": 35.4076901859
-                      },
-                      {
-                        "year": 2030,
-                        "total": 36.1673346127
-                      },
-                      {
-                        "year": 2035,
-                        "total": 37.4015606873
-                      },
-                      {
-                        "year": 2040,
-                        "total": 37.1462351349
-                      },
-                      {
-                        "year": 2045,
-                        "total": 26.186467776
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.4816643601
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.7846713792
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.4819726551
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.9195946539
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.672725884
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.8159388946
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.1027691391
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.2911024441
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.9462380979
                       }
                     ]
                   },
@@ -15712,6 +15638,80 @@ export default {
                         "total": 17.0234166898
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.6953655947
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32.3133097496
+                      },
+                      {
+                        "year": 2025,
+                        "total": 35.4076901859
+                      },
+                      {
+                        "year": 2030,
+                        "total": 36.1673346127
+                      },
+                      {
+                        "year": 2035,
+                        "total": 37.4015606873
+                      },
+                      {
+                        "year": 2040,
+                        "total": 37.1462351349
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.186467776
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.4816643601
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.7846713792
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.4819726551
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.9195946539
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.672725884
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.8159388946
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.1027691391
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.2911024441
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.9462380979
+                      }
+                    ]
                   }
                 ]
               },
@@ -15719,7 +15719,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15756,7 +15756,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15789,80 +15789,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 4.5643324458
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 45.7155757949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.3054289442
-                      },
-                      {
-                        "year": 2025,
-                        "total": 47.8957345982
-                      },
-                      {
-                        "year": 2030,
-                        "total": 34.6779456776
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1250083608
-                      },
-                      {
-                        "year": 2040,
-                        "total": 22.8585736566
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.242742891
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.5191642617
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 12.3202543597
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.9580263289
-                      },
-                      {
-                        "year": 2025,
-                        "total": 14.0894672921
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.1543570372
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.3785943357
-                      },
-                      {
-                        "year": 2040,
-                        "total": 14.6367904261
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.8740565317
-                      },
-                      {
-                        "year": 2050,
-                        "total": 15.091256237
                       }
                     ]
                   },
@@ -15902,6 +15828,80 @@ export default {
                         "total": 172.8607759441
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 45.7155757949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.3054289442
+                      },
+                      {
+                        "year": 2025,
+                        "total": 47.8957345982
+                      },
+                      {
+                        "year": 2030,
+                        "total": 34.6779456776
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1250083608
+                      },
+                      {
+                        "year": 2040,
+                        "total": 22.8585736566
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.242742891
+                      },
+                      {
+                        "year": 2050,
+                        "total": 18.5191642617
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12.3202543597
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.9580263289
+                      },
+                      {
+                        "year": 2025,
+                        "total": 14.0894672921
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.1543570372
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.3785943357
+                      },
+                      {
+                        "year": 2040,
+                        "total": 14.6367904261
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14.8740565317
+                      },
+                      {
+                        "year": 2050,
+                        "total": 15.091256237
+                      }
+                    ]
                   }
                 ]
               }
@@ -15914,7 +15914,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15956,7 +15956,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15993,7 +15993,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16026,80 +16026,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 15.4647246645
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 37.8665495552
-                      },
-                      {
-                        "year": 2020,
-                        "total": 42.9353437372
-                      },
-                      {
-                        "year": 2025,
-                        "total": 42.8664689176
-                      },
-                      {
-                        "year": 2030,
-                        "total": 42.4326470415
-                      },
-                      {
-                        "year": 2035,
-                        "total": 41.0578958014
-                      },
-                      {
-                        "year": 2040,
-                        "total": 40.0330486874
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.7526490503
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.494658696
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.4829668444
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.2867571192
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.0178007641
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.7369461424
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.4106797704
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.9636090585
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6.485179906
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.0067507535
                       }
                     ]
                   },
@@ -16139,6 +16065,80 @@ export default {
                         "total": 173.9635906307
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 37.8665495552
+                      },
+                      {
+                        "year": 2020,
+                        "total": 42.9353437372
+                      },
+                      {
+                        "year": 2025,
+                        "total": 42.8664689176
+                      },
+                      {
+                        "year": 2030,
+                        "total": 42.4326470415
+                      },
+                      {
+                        "year": 2035,
+                        "total": 41.0578958014
+                      },
+                      {
+                        "year": 2040,
+                        "total": 40.0330486874
+                      },
+                      {
+                        "year": 2045,
+                        "total": 38.7526490503
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.494658696
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.4829668444
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.2867571192
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.0178007641
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.7369461424
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.4106797704
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.9636090585
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.485179906
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.0067507535
+                      }
+                    ]
                   }
                 ]
               },
@@ -16146,7 +16146,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16183,7 +16183,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16216,80 +16216,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0223776
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.9067971825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.6913147676
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6913147676
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.6913147676
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4374946
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4374946
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4374946
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4374946
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0082934888
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.003685995
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -16329,6 +16255,80 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.9067971825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.6913147676
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6913147676
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.6913147676
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.4374946
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.4374946
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.4374946
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.4374946
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0082934888
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.003685995
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               },
@@ -16336,7 +16336,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16373,7 +16373,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16406,80 +16406,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 4.4977280251
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 32.770492187
-                      },
-                      {
-                        "year": 2020,
-                        "total": 35.390602761
-                      },
-                      {
-                        "year": 2025,
-                        "total": 36.3554471907
-                      },
-                      {
-                        "year": 2030,
-                        "total": 35.0546511281
-                      },
-                      {
-                        "year": 2035,
-                        "total": 34.6622876968
-                      },
-                      {
-                        "year": 2040,
-                        "total": 33.757016521
-                      },
-                      {
-                        "year": 2045,
-                        "total": 21.4674890977
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.0402292005
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.8641165348
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.2678333943
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.6014893719
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.8565495028
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.2483469811
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.5505150482
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.8975443083
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.2318022762
                       }
                     ]
                   },
@@ -16519,6 +16445,80 @@ export default {
                         "total": 16.8410539572
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 32.770492187
+                      },
+                      {
+                        "year": 2020,
+                        "total": 35.390602761
+                      },
+                      {
+                        "year": 2025,
+                        "total": 36.3554471907
+                      },
+                      {
+                        "year": 2030,
+                        "total": 35.0546511281
+                      },
+                      {
+                        "year": 2035,
+                        "total": 34.6622876968
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.757016521
+                      },
+                      {
+                        "year": 2045,
+                        "total": 21.4674890977
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.0402292005
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.8641165348
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.2678333943
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.6014893719
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.8565495028
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.2483469811
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.5505150482
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.8975443083
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.2318022762
+                      }
+                    ]
                   }
                 ]
               },
@@ -16526,7 +16526,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16563,7 +16563,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16596,80 +16596,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.4871886424
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 65.2394617636
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.5623810319
-                      },
-                      {
-                        "year": 2025,
-                        "total": 47.9768671516
-                      },
-                      {
-                        "year": 2030,
-                        "total": 34.3835155586
-                      },
-                      {
-                        "year": 2035,
-                        "total": 29.0916237569
-                      },
-                      {
-                        "year": 2040,
-                        "total": 21.3325801098
-                      },
-                      {
-                        "year": 2045,
-                        "total": 15.7341791541
-                      },
-                      {
-                        "year": 2050,
-                        "total": 15.7817576964
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 12.801693296
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.895706727
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.8898288703
-                      },
-                      {
-                        "year": 2030,
-                        "total": 13.4388404429
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.3750844157
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.344539642
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2309438635
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.262705975
                       }
                     ]
                   },
@@ -16709,6 +16635,80 @@ export default {
                         "total": 149.4863821025
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 65.2394617636
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.5623810319
+                      },
+                      {
+                        "year": 2025,
+                        "total": 47.9768671516
+                      },
+                      {
+                        "year": 2030,
+                        "total": 34.3835155586
+                      },
+                      {
+                        "year": 2035,
+                        "total": 29.0916237569
+                      },
+                      {
+                        "year": 2040,
+                        "total": 21.3325801098
+                      },
+                      {
+                        "year": 2045,
+                        "total": 15.7341791541
+                      },
+                      {
+                        "year": 2050,
+                        "total": 15.7817576964
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12.801693296
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.895706727
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.8898288703
+                      },
+                      {
+                        "year": 2030,
+                        "total": 13.4388404429
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.3750844157
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.344539642
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2309438635
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.262705975
+                      }
+                    ]
                   }
                 ]
               }
@@ -16721,7 +16721,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16763,7 +16763,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16800,7 +16800,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16833,43 +16833,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 144.9693579484
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 48.9333801086
-                      },
-                      {
-                        "year": 2020,
-                        "total": 119.2715832666
-                      },
-                      {
-                        "year": 2025,
-                        "total": 169.8682317812
-                      },
-                      {
-                        "year": 2030,
-                        "total": 220.4502975848
-                      },
-                      {
-                        "year": 2035,
-                        "total": 252.0206169883
-                      },
-                      {
-                        "year": 2040,
-                        "total": 270.937417703
-                      },
-                      {
-                        "year": 2045,
-                        "total": 322.1092445219
-                      },
-                      {
-                        "year": 2050,
-                        "total": 315.9014086823
                       }
                     ]
                   },
@@ -16909,6 +16872,43 @@ export default {
                         "total": 4790.6891166615
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 48.9333801086
+                      },
+                      {
+                        "year": 2020,
+                        "total": 119.2715832666
+                      },
+                      {
+                        "year": 2025,
+                        "total": 169.8682317812
+                      },
+                      {
+                        "year": 2030,
+                        "total": 220.4502975848
+                      },
+                      {
+                        "year": 2035,
+                        "total": 252.0206169883
+                      },
+                      {
+                        "year": 2040,
+                        "total": 270.937417703
+                      },
+                      {
+                        "year": 2045,
+                        "total": 322.1092445219
+                      },
+                      {
+                        "year": 2050,
+                        "total": 315.9014086823
+                      }
+                    ]
                   }
                 ]
               },
@@ -16916,7 +16916,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16953,7 +16953,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16990,7 +16990,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_IRON",
+                    "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17032,7 +17032,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17069,7 +17069,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17102,80 +17102,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.312418009
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.5632910943
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.0688033683
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.122495651
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7.122495651
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.4143447265
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8.3446914492
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.304349301
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7050687872
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.0249353083
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.2236048692
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.3116681143
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.3787190167
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.4907519594
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.704856494
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.5423118014
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.7812057529
                       }
                     ]
                   },
@@ -17215,6 +17141,80 @@ export default {
                         "total": 6.5972564831
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.5632910943
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.0688033683
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7.122495651
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7.122495651
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.4143447265
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.3446914492
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.304349301
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7050687872
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.0249353083
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.2236048692
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.3116681143
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.3787190167
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.4907519594
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1.704856494
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.5423118014
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.7812057529
+                      }
+                    ]
                   }
                 ]
               },
@@ -17222,7 +17222,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_ALU",
+                    "indicatorGroup": "Aluminium",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17259,7 +17259,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_CEMENT",
+                    "indicatorGroup": "Cement",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17292,80 +17292,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.5423231664
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_IRON",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.2989432347
-                      },
-                      {
-                        "year": 2020,
-                        "total": 71.2749448943
-                      },
-                      {
-                        "year": 2025,
-                        "total": 72.4180622051
-                      },
-                      {
-                        "year": 2030,
-                        "total": 72.4271600013
-                      },
-                      {
-                        "year": 2035,
-                        "total": 72.6254576067
-                      },
-                      {
-                        "year": 2040,
-                        "total": 67.0161322198
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.8347058843
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.8921795432
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_MINING",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.8047958309
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.1522417602
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.1522417602
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.1522417602
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.1521134185
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.5195063676
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.1113564688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9.1154522896
                       }
                     ]
                   },
@@ -17403,6 +17329,80 @@ export default {
                       {
                         "year": 2050,
                         "total": 97.8763641872
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Iron and steel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.2989432347
+                      },
+                      {
+                        "year": 2020,
+                        "total": 71.2749448943
+                      },
+                      {
+                        "year": 2025,
+                        "total": 72.4180622051
+                      },
+                      {
+                        "year": 2030,
+                        "total": 72.4271600013
+                      },
+                      {
+                        "year": 2035,
+                        "total": 72.6254576067
+                      },
+                      {
+                        "year": 2040,
+                        "total": 67.0161322198
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.8347058843
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12.8921795432
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Mining",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.8047958309
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.1522417602
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.1522417602
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.1522417602
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.1521134185
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.5195063676
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.1113564688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 9.1154522896
                       }
                     ]
                   }

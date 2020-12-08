@@ -201,43 +201,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOFCR",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.9487286102
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4449937542
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0195475603
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.5250442565
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0555197868
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "BIOTRD",
                     "indicatorGroupValues": [
                       {
@@ -271,43 +234,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 29.10041045
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOWOO",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 169.7392357586
-                      },
-                      {
-                        "year": 2020,
-                        "total": 281.8663134121
-                      },
-                      {
-                        "year": 2025,
-                        "total": 293.8260583727
-                      },
-                      {
-                        "year": 2030,
-                        "total": 305.7858033332
-                      },
-                      {
-                        "year": 2035,
-                        "total": 334.8387413568
-                      },
-                      {
-                        "year": 2040,
-                        "total": 335.0811408306
-                      },
-                      {
-                        "year": 2045,
-                        "total": 347.8267326748
-                      },
-                      {
-                        "year": 2050,
-                        "total": 389.3146621929
                       }
                     ]
                   },
@@ -386,6 +312,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Food crops",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.9487286102
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4449937542
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0195475603
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.5250442565
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0555197868
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -419,6 +382,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 28.46
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 169.7392357586
+                      },
+                      {
+                        "year": 2020,
+                        "total": 281.8663134121
+                      },
+                      {
+                        "year": 2025,
+                        "total": 293.8260583727
+                      },
+                      {
+                        "year": 2030,
+                        "total": 305.7858033332
+                      },
+                      {
+                        "year": 2035,
+                        "total": 334.8387413568
+                      },
+                      {
+                        "year": 2040,
+                        "total": 335.0811408306
+                      },
+                      {
+                        "year": 2045,
+                        "total": 347.8267326748
+                      },
+                      {
+                        "year": 2050,
+                        "total": 389.3146621929
                       }
                     ]
                   }
@@ -929,43 +929,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOFCR",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.3722501619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0864844122
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.0864844122
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.0502813895
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.9341587316
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.3430803303
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.7475637079
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5.6591281867
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "BIOISW",
                     "indicatorGroupValues": [
                       {
@@ -1036,43 +999,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 23.7001368167
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOWOO",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 255.4373996197
-                      },
-                      {
-                        "year": 2020,
-                        "total": 332.2314618042
-                      },
-                      {
-                        "year": 2025,
-                        "total": 371.5999707608
-                      },
-                      {
-                        "year": 2030,
-                        "total": 398.8931446859
-                      },
-                      {
-                        "year": 2035,
-                        "total": 454.1406298074
-                      },
-                      {
-                        "year": 2040,
-                        "total": 441.0208305683
-                      },
-                      {
-                        "year": 2045,
-                        "total": 455.3016913926
-                      },
-                      {
-                        "year": 2050,
-                        "total": 474.2322517741
                       }
                     ]
                   },
@@ -1188,6 +1114,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Food crops",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.3722501619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0864844122
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.0864844122
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.0502813895
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.9341587316
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.3430803303
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.7475637079
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5.6591281867
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -1221,6 +1184,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 28.46
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 255.4373996197
+                      },
+                      {
+                        "year": 2020,
+                        "total": 332.2314618042
+                      },
+                      {
+                        "year": 2025,
+                        "total": 371.5999707608
+                      },
+                      {
+                        "year": 2030,
+                        "total": 398.8931446859
+                      },
+                      {
+                        "year": 2035,
+                        "total": 454.1406298074
+                      },
+                      {
+                        "year": 2040,
+                        "total": 441.0208305683
+                      },
+                      {
+                        "year": 2045,
+                        "total": 455.3016913926
+                      },
+                      {
+                        "year": 2050,
+                        "total": 474.2322517741
                       }
                     ]
                   }
@@ -1541,7 +1541,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "SUPBGA",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1578,7 +1578,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPELC",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1620,7 +1620,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "BIOADD",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1653,117 +1653,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.9338061919
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOBSL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0091013421
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.5876013421
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.9376790485
-                      },
-                      {
-                        "year": 2030,
-                        "total": 76.0091802466
-                      },
-                      {
-                        "year": 2035,
-                        "total": 131.0578229787
-                      },
-                      {
-                        "year": 2040,
-                        "total": 176.303805364
-                      },
-                      {
-                        "year": 2045,
-                        "total": 217.9227174257
-                      },
-                      {
-                        "year": 2050,
-                        "total": 210.2852154558
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOFCR",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.3722501619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0864844122
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.0864844122
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.0502813895
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.9341587316
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.3430803303
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.7475637079
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5.6591281867
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOWOO",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 13.9655286009
-                      },
-                      {
-                        "year": 2035,
-                        "total": 53.311329609
-                      },
-                      {
-                        "year": 2040,
-                        "total": 51.9074269764
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.5755679969
-                      },
-                      {
-                        "year": 2050,
-                        "total": 49.2437090173
                       }
                     ]
                   },
@@ -1805,6 +1694,154 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biomass",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0091013421
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8.5876013421
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.9376790485
+                      },
+                      {
+                        "year": 2030,
+                        "total": 76.0091802466
+                      },
+                      {
+                        "year": 2035,
+                        "total": 131.0578229787
+                      },
+                      {
+                        "year": 2040,
+                        "total": 176.303805364
+                      },
+                      {
+                        "year": 2045,
+                        "total": 217.9227174257
+                      },
+                      {
+                        "year": 2050,
+                        "total": 210.2852154558
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1485135854
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0244201102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.8015784922
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.8142044985
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7.1584972044
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.9963864986
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.7124509453
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.2723016923
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Food crops",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.3722501619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0864844122
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.0864844122
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.0502813895
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.9341587316
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.3430803303
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.7475637079
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5.6591281867
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.7309552711
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.4467596233
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.1302304381
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.1302304381
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.1302304381
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.1302304381
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.1302304381
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
@@ -1842,118 +1879,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPELC",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1350245847
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.216013778
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.2723508463
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.5367520179
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.334248565
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.313742137
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.3429986778
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.3331775014
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SYNHY0",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.7309552711
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.4467596233
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.1302304381
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.1302304381
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.1302304381
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.1302304381
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.1302304381
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "UPNELC",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0134890006
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.8084063322
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.5292276459
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.2774524806
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.8242486394
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.6826443616
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.3694522676
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11.9391241909
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "UPNSTM",
+                    "indicatorGroup": "Steam",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1988,6 +1914,43 @@ export default {
                         "total": 0.8149050666
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Wood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 13.9655286009
+                      },
+                      {
+                        "year": 2035,
+                        "total": 53.311329609
+                      },
+                      {
+                        "year": 2040,
+                        "total": 51.9074269764
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.5755679969
+                      },
+                      {
+                        "year": 2050,
+                        "total": 49.2437090173
+                      }
+                    ]
                   }
                 ]
               },
@@ -1995,7 +1958,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "SUPMOB2",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2037,7 +2000,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "SUPBGA",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2074,7 +2037,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPELC",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2111,7 +2074,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPWCH",
+                    "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2158,44 +2121,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "HETC",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 9.606e-06
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0613754967
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0613754967
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SNG2",
+                    "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2230,6 +2156,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Heat (Central)",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9.606e-06
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0613754967
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0613754967
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               },
@@ -2237,7 +2200,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "BIODST",
+                    "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2274,7 +2237,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOGSL",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2311,7 +2274,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOJTK",
+                    "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2348,7 +2311,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HET",
+                    "indicatorGroup": "Ethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.6892195372
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0463366624
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.0463366624
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.028235151
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.4701738221
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.6722085294
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.8737818539
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.8295640933
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2422,7 +2422,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OILLPG",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2459,44 +2459,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SYNETH",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.6892195372
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0463366624
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.0463366624
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.028235151
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.4701738221
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.6722085294
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.8737818539
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.8295640933
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SYNGAS",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2575,7 +2538,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETC",
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2612,7 +2575,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETD",
+                    "indicatorGroup": "Heat (Decentral)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2654,7 +2617,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "GSB2",
+                    "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2733,6 +2696,80 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.8082164469
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.1305674113
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.2860951222
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethane",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.5883819537
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.0209080133
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -2770,7 +2807,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "GSB2",
+                    "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2807,7 +2844,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETC",
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2844,7 +2881,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETD",
+                    "indicatorGroup": "Heat (Decentral)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2877,80 +2914,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.6165108785
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "KRB2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.8082164469
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.1305674113
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.2860951222
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SNG2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.5883819537
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.0209080133
                       }
                     ]
                   }
@@ -3360,23 +3323,23 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": 0.0004129722
                       },
                       {
                         "year": 2020,
-                        "total": 0.0
+                        "total": 2.4833569372
                       },
                       {
                         "year": 2025,
-                        "total": 0.6698534414
+                        "total": 2.4833569372
                       },
                       {
                         "year": 2030,
-                        "total": 0.0
+                        "total": 2.482943965
                       },
                       {
                         "year": 2035,
@@ -3392,12 +3355,12 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 182.6823559355
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3434,23 +3397,23 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0004129722
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": 2.4833569372
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": 2.4833569372
+                        "total": 0.6698534414
                       },
                       {
                         "year": 2030,
-                        "total": 2.482943965
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -3466,7 +3429,7 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 182.6823559355
+                        "total": 0.0
                       }
                     ]
                   }
@@ -3476,81 +3439,44 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2766.9096064241
+                        "total": 405.5051249268
                       },
                       {
                         "year": 2020,
-                        "total": 2835.0073625959
+                        "total": 564.8927695162
                       },
                       {
                         "year": 2025,
-                        "total": 2908.8516189653
+                        "total": 703.2345835568
                       },
                       {
                         "year": 2030,
-                        "total": 3129.0821400254
+                        "total": 1381.0930560511
                       },
                       {
                         "year": 2035,
-                        "total": 3311.4144673532
+                        "total": 1842.9461521691
                       },
                       {
                         "year": 2040,
-                        "total": 3507.8542147939
+                        "total": 2087.5726110333
                       },
                       {
                         "year": 2045,
-                        "total": 3536.0694068924
+                        "total": 2237.853765386
                       },
                       {
                         "year": 2050,
-                        "total": 3543.1676253608
+                        "total": 2166.7923996904
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.9239882474
-                      },
-                      {
-                        "year": 2035,
-                        "total": 18.8326222075
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.3616513023
-                      },
-                      {
-                        "year": 2045,
-                        "total": 17.8800526917
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.66386909
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3587,39 +3513,39 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 405.5051249268
+                        "total": 2766.9096064241
                       },
                       {
                         "year": 2020,
-                        "total": 564.8927695162
+                        "total": 2835.0073625959
                       },
                       {
                         "year": 2025,
-                        "total": 703.2345835568
+                        "total": 2908.8516189653
                       },
                       {
                         "year": 2030,
-                        "total": 1381.0930560511
+                        "total": 3134.0061282727
                       },
                       {
                         "year": 2035,
-                        "total": 1842.9461521691
+                        "total": 3330.2470895607
                       },
                       {
                         "year": 2040,
-                        "total": 2087.5726110333
+                        "total": 3526.2158660961
                       },
                       {
                         "year": 2045,
-                        "total": 2237.853765386
+                        "total": 3553.9494595841
                       },
                       {
                         "year": 2050,
-                        "total": 2166.7923996904
+                        "total": 3561.8314944508
                       }
                     ]
                   }
@@ -3629,27 +3555,27 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.1379665791
+                        "total": 13.1160852538
                       },
                       {
                         "year": 2020,
-                        "total": 0.2114443821
+                        "total": 22.0257953073
                       },
                       {
                         "year": 2025,
-                        "total": 0.1722403052
+                        "total": 22.0257953073
                       },
                       {
                         "year": 2030,
-                        "total": 0.0937202064
+                        "total": 8.9097100535
                       },
                       {
                         "year": 2035,
-                        "total": 0.0202424033
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -3661,12 +3587,12 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 201.8475490701
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3703,27 +3629,27 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 13.1160852538
+                        "total": 0.1379665791
                       },
                       {
                         "year": 2020,
-                        "total": 22.0257953073
+                        "total": 0.2114443821
                       },
                       {
                         "year": 2025,
-                        "total": 22.0257953073
+                        "total": 0.1722403052
                       },
                       {
                         "year": 2030,
-                        "total": 8.9097100535
+                        "total": 0.0937202064
                       },
                       {
                         "year": 2035,
-                        "total": 0.0
+                        "total": 0.0202424033
                       },
                       {
                         "year": 2040,
@@ -3735,7 +3661,7 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 201.8475490701
+                        "total": 0.0
                       }
                     ]
                   }
@@ -3745,7 +3671,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3761,28 +3687,28 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 0.4768733044
+                        "total": 26.0916637452
                       },
                       {
                         "year": 2035,
-                        "total": 0.8274281266
+                        "total": 26.0916637452
                       },
                       {
                         "year": 2040,
-                        "total": 0.8274281266
+                        "total": 26.0916637452
                       },
                       {
                         "year": 2045,
-                        "total": 2.8770904642
+                        "total": 483.302811618
                       },
                       {
                         "year": 2050,
-                        "total": 8.0692147043
+                        "total": 873.6994646353
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3819,7 +3745,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3835,23 +3761,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 26.0916637452
+                        "total": 0.4768733044
                       },
                       {
                         "year": 2035,
-                        "total": 26.0916637452
+                        "total": 0.8274281266
                       },
                       {
                         "year": 2040,
-                        "total": 26.0916637452
+                        "total": 0.8274281266
                       },
                       {
                         "year": 2045,
-                        "total": 483.302811618
+                        "total": 2.8770904642
                       },
                       {
                         "year": 2050,
-                        "total": 873.6994646353
+                        "total": 8.0692147043
                       }
                     ]
                   }
@@ -4150,43 +4076,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOFCR",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.9489457723
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4449937542
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0195475603
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0557209171
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "BIOTRD",
                     "indicatorGroupValues": [
                       {
@@ -4220,43 +4109,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.5975020245
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOWOO",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 169.9822429846
-                      },
-                      {
-                        "year": 2020,
-                        "total": 281.8663134121
-                      },
-                      {
-                        "year": 2025,
-                        "total": 293.8260583727
-                      },
-                      {
-                        "year": 2030,
-                        "total": 305.7858033332
-                      },
-                      {
-                        "year": 2035,
-                        "total": 333.5383517015
-                      },
-                      {
-                        "year": 2040,
-                        "total": 351.3064526879
-                      },
-                      {
-                        "year": 2045,
-                        "total": 355.6726790888
-                      },
-                      {
-                        "year": 2050,
-                        "total": 389.3146621929
                       }
                     ]
                   },
@@ -4335,6 +4187,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Food crops",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.9489457723
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4449937542
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0195475603
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0557209171
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -4368,6 +4257,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 28.46
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 169.9822429846
+                      },
+                      {
+                        "year": 2020,
+                        "total": 281.8663134121
+                      },
+                      {
+                        "year": 2025,
+                        "total": 293.8260583727
+                      },
+                      {
+                        "year": 2030,
+                        "total": 305.7858033332
+                      },
+                      {
+                        "year": 2035,
+                        "total": 333.5383517015
+                      },
+                      {
+                        "year": 2040,
+                        "total": 351.3064526879
+                      },
+                      {
+                        "year": 2045,
+                        "total": 355.6726790888
+                      },
+                      {
+                        "year": 2050,
+                        "total": 389.3146621929
                       }
                     ]
                   }
@@ -4878,43 +4804,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOFCR",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.3721415808
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0864844122
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.0864844122
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.5252371329
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.9341587316
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.3430803303
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.7636953429
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5.8133075256
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "BIOISW",
                     "indicatorGroupValues": [
                       {
@@ -4985,43 +4874,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.1377846832
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOWOO",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 255.6804068457
-                      },
-                      {
-                        "year": 2020,
-                        "total": 332.2314618042
-                      },
-                      {
-                        "year": 2025,
-                        "total": 371.3003849708
-                      },
-                      {
-                        "year": 2030,
-                        "total": 398.8931446859
-                      },
-                      {
-                        "year": 2035,
-                        "total": 452.8402401522
-                      },
-                      {
-                        "year": 2040,
-                        "total": 459.167383627
-                      },
-                      {
-                        "year": 2045,
-                        "total": 459.5484004049
-                      },
-                      {
-                        "year": 2050,
-                        "total": 474.2322517741
                       }
                     ]
                   },
@@ -5137,6 +4989,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Food crops",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.3721415808
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0864844122
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.0864844122
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.5252371329
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.9341587316
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.3430803303
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.7636953429
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5.8133075256
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -5170,6 +5059,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 28.46
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 255.6804068457
+                      },
+                      {
+                        "year": 2020,
+                        "total": 332.2314618042
+                      },
+                      {
+                        "year": 2025,
+                        "total": 371.3003849708
+                      },
+                      {
+                        "year": 2030,
+                        "total": 398.8931446859
+                      },
+                      {
+                        "year": 2035,
+                        "total": 452.8402401522
+                      },
+                      {
+                        "year": 2040,
+                        "total": 459.167383627
+                      },
+                      {
+                        "year": 2045,
+                        "total": 459.5484004049
+                      },
+                      {
+                        "year": 2050,
+                        "total": 474.2322517741
                       }
                     ]
                   }
@@ -5490,7 +5416,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "SUPBGA",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5527,7 +5453,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPELC",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5569,7 +5495,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "BIOADD",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5602,117 +5528,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.9338061919
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOBSL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0480746001
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.6265746001
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.975716384
-                      },
-                      {
-                        "year": 2030,
-                        "total": 152.0925633189
-                      },
-                      {
-                        "year": 2035,
-                        "total": 125.4742858822
-                      },
-                      {
-                        "year": 2040,
-                        "total": 196.825560297
-                      },
-                      {
-                        "year": 2045,
-                        "total": 206.2984595456
-                      },
-                      {
-                        "year": 2050,
-                        "total": 201.6462058088
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOFCR",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.3721415808
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0864844122
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.0864844122
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.5252371329
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.9341587316
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.3430803303
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.7636953429
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5.8133075256
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOWOO",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.9614464569
-                      },
-                      {
-                        "year": 2035,
-                        "total": 51.5706771827
-                      },
-                      {
-                        "year": 2040,
-                        "total": 50.2126129591
-                      },
-                      {
-                        "year": 2045,
-                        "total": 48.9242401124
-                      },
-                      {
-                        "year": 2050,
-                        "total": 49.5588100153
                       }
                     ]
                   },
@@ -5754,6 +5569,154 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biomass",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0480746001
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8.6265746001
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.975716384
+                      },
+                      {
+                        "year": 2030,
+                        "total": 152.0925633189
+                      },
+                      {
+                        "year": 2035,
+                        "total": 125.4742858822
+                      },
+                      {
+                        "year": 2040,
+                        "total": 196.825560297
+                      },
+                      {
+                        "year": 2045,
+                        "total": 206.2984595456
+                      },
+                      {
+                        "year": 2050,
+                        "total": 201.6462058088
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1101463224
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.8676637398
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.8015784922
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.8915511074
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.9059830451
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.9395550353
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.8903641623
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12.5799110404
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Food crops",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.3721415808
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0864844122
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.0864844122
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.5252371329
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.9341587316
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.3430803303
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.7636953429
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5.8133075256
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.7309552711
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.4467596233
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.1302304381
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.1302304381
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.1302304381
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.1302304381
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.1302304381
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
@@ -5791,118 +5754,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPELC",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0966577561
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0592574076
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.2723508463
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.6201988039
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.3421816835
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.2900413291
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.2930465176
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.3351332528
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SYNHY0",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.7309552711
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.4467596233
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.1302304381
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.1302304381
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.1302304381
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.1302304381
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.1302304381
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "UPNELC",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0134885663
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.8084063322
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.5292276459
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.2713523036
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.5638013616
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.6495137062
-                      },
-                      {
-                        "year": 2045,
-                        "total": 11.5973176447
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11.2447777877
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "UPNSTM",
+                    "indicatorGroup": "Steam",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5937,6 +5789,43 @@ export default {
                         "total": 0.8149050666
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Wood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.9614464569
+                      },
+                      {
+                        "year": 2035,
+                        "total": 51.5706771827
+                      },
+                      {
+                        "year": 2040,
+                        "total": 50.2126129591
+                      },
+                      {
+                        "year": 2045,
+                        "total": 48.9242401124
+                      },
+                      {
+                        "year": 2050,
+                        "total": 49.5588100153
+                      }
+                    ]
                   }
                 ]
               },
@@ -5944,7 +5833,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "SUPMOB2",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5986,7 +5875,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "SUPBGA",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6023,7 +5912,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPELC",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6060,7 +5949,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPWCH",
+                    "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6107,44 +5996,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "HETC",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.803e-06
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.803e-06
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.803e-06
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.0374e-06
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SNG2",
+                    "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6179,6 +6031,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Heat (Central)",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.803e-06
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.803e-06
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.803e-06
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.0374e-06
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               },
@@ -6186,7 +6075,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "BIODST",
+                    "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6223,7 +6112,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOGSL",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6260,7 +6149,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOJTK",
+                    "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6297,7 +6186,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HET",
+                    "indicatorGroup": "Ethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.7024161544
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0595875701
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.0595875701
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.2789639305
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.4834247298
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.6750705613
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.8818476714
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.9066537628
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6371,7 +6297,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OILLPG",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6408,44 +6334,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SYNETH",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.7024161544
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0595875701
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.0595875701
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.2789639305
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.4834247298
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.6750705613
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.8818476714
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.9066537628
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SYNGAS",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6524,7 +6413,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETC",
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6561,7 +6450,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETD",
+                    "indicatorGroup": "Heat (Decentral)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6603,7 +6492,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "GSB2",
+                    "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6682,6 +6571,80 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.555177038
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.2059697393
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.2860951222
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethane",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.3380183306
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3380183306
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.3380183306
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.0386438093
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.0386438093
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -6719,7 +6682,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "GSB2",
+                    "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6756,7 +6719,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETC",
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6793,7 +6756,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETD",
+                    "indicatorGroup": "Heat (Decentral)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6826,80 +6789,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.5499251506
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "KRB2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 6.555177038
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.2059697393
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.2860951222
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SNG2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.3380183306
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3380183306
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.3380183306
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.0386438093
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.0386438093
                       }
                     ]
                   }
@@ -7309,23 +7198,23 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": 0.0002064861
                       },
                       {
                         "year": 2020,
-                        "total": 0.0
+                        "total": 0.0002064861
                       },
                       {
                         "year": 2025,
-                        "total": 5.24198e-05
+                        "total": 0.0002064861
                       },
                       {
                         "year": 2030,
-                        "total": 1.02927e-05
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -7333,20 +7222,20 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": 163.9654608332
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 401.9667411691
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 497.2597601126
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7383,23 +7272,23 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0002064861
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": 0.0002064861
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": 0.0002064861
+                        "total": 5.24198e-05
                       },
                       {
                         "year": 2030,
-                        "total": 0.0
+                        "total": 1.02927e-05
                       },
                       {
                         "year": 2035,
@@ -7407,15 +7296,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 163.9654608332
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": 401.9667411691
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": 497.2597601126
+                        "total": 0.0
                       }
                     ]
                   }
@@ -7425,81 +7314,44 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2774.440512037
+                        "total": 404.7243582627
                       },
                       {
                         "year": 2020,
-                        "total": 2835.042458884
+                        "total": 562.2485740397
                       },
                       {
                         "year": 2025,
-                        "total": 2897.2017243825
+                        "total": 699.6819314803
                       },
                       {
                         "year": 2030,
-                        "total": 3122.7406678616
+                        "total": 1389.8649416585
                       },
                       {
                         "year": 2035,
-                        "total": 3309.8671838592
+                        "total": 1807.9900096207
                       },
                       {
                         "year": 2040,
-                        "total": 3508.8534842307
+                        "total": 2181.0446561738
                       },
                       {
                         "year": 2045,
-                        "total": 3541.7099028796
+                        "total": 2177.5684168025
                       },
                       {
                         "year": 2050,
-                        "total": 3567.2226727963
+                        "total": 2135.6227944611
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.3328753094
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.0420402492
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.7761007421
-                      },
-                      {
-                        "year": 2045,
-                        "total": 17.2978248843
-                      },
-                      {
-                        "year": 2050,
-                        "total": 19.8213855108
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7536,39 +7388,39 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 404.7243582627
+                        "total": 2774.440512037
                       },
                       {
                         "year": 2020,
-                        "total": 562.2485740397
+                        "total": 2835.042458884
                       },
                       {
                         "year": 2025,
-                        "total": 699.6819314803
+                        "total": 2897.2017243825
                       },
                       {
                         "year": 2030,
-                        "total": 1389.8649416585
+                        "total": 3129.0735431711
                       },
                       {
                         "year": 2035,
-                        "total": 1807.9900096207
+                        "total": 3342.9092241084
                       },
                       {
                         "year": 2040,
-                        "total": 2181.0446561738
+                        "total": 3526.6295849729
                       },
                       {
                         "year": 2045,
-                        "total": 2177.5684168025
+                        "total": 3559.0077277639
                       },
                       {
                         "year": 2050,
-                        "total": 2135.6227944611
+                        "total": 3587.0440583071
                       }
                     ]
                   }
@@ -7578,27 +7430,27 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.1377427431
+                        "total": 13.0948058073
                       },
                       {
                         "year": 2020,
-                        "total": 0.207025072
+                        "total": 21.4957845648
                       },
                       {
                         "year": 2025,
-                        "total": 0.1742323322
+                        "total": 21.4957845648
                       },
                       {
                         "year": 2030,
-                        "total": 0.0883689209
+                        "total": 8.4009787575
                       },
                       {
                         "year": 2035,
-                        "total": 0.019086592
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -7606,16 +7458,16 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 1.110780995
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 234.0315975409
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7652,27 +7504,27 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 13.0948058073
+                        "total": 0.1377427431
                       },
                       {
                         "year": 2020,
-                        "total": 21.4957845648
+                        "total": 0.207025072
                       },
                       {
                         "year": 2025,
-                        "total": 21.4957845648
+                        "total": 0.1742323322
                       },
                       {
                         "year": 2030,
-                        "total": 8.4009787575
+                        "total": 0.0883689209
                       },
                       {
                         "year": 2035,
-                        "total": 0.0
+                        "total": 0.019086592
                       },
                       {
                         "year": 2040,
@@ -7680,11 +7532,11 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 1.110780995
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": 234.0315975409
+                        "total": 0.0
                       }
                     ]
                   }
@@ -7694,7 +7546,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7702,36 +7554,36 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 0.1287844907
+                        "total": 0.4376531987
                       },
                       {
                         "year": 2025,
-                        "total": 0.1180524498
+                        "total": 0.4376531987
                       },
                       {
                         "year": 2030,
-                        "total": 1.0014971591
+                        "total": 49.36167323
                       },
                       {
                         "year": 2035,
-                        "total": 1.5514959351
+                        "total": 48.9240200313
                       },
                       {
                         "year": 2040,
-                        "total": 1.93145292
+                        "total": 68.5580572898
                       },
                       {
                         "year": 2045,
-                        "total": 3.9262012798
+                        "total": 495.6204828092
                       },
                       {
                         "year": 2050,
-                        "total": 8.074845798
+                        "total": 829.4193002841
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7768,7 +7620,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7776,31 +7628,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 0.4376531987
+                        "total": 0.1287844907
                       },
                       {
                         "year": 2025,
-                        "total": 0.4376531987
+                        "total": 0.1180524498
                       },
                       {
                         "year": 2030,
-                        "total": 49.36167323
+                        "total": 1.0014971591
                       },
                       {
                         "year": 2035,
-                        "total": 48.9240200313
+                        "total": 1.5514959351
                       },
                       {
                         "year": 2040,
-                        "total": 68.5580572898
+                        "total": 1.93145292
                       },
                       {
                         "year": 2045,
-                        "total": 495.6204828092
+                        "total": 3.9262012798
                       },
                       {
                         "year": 2050,
-                        "total": 829.4193002841
+                        "total": 8.074845798
                       }
                     ]
                   }
@@ -8099,43 +7951,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOFCR",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.4749365409
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.2224968771
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0097737802
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0278632429
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "BIOTRD",
                     "indicatorGroupValues": [
                       {
@@ -8169,43 +7984,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 19.227976001
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOWOO",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 85.4642422822
-                      },
-                      {
-                        "year": 2020,
-                        "total": 140.9331567061
-                      },
-                      {
-                        "year": 2025,
-                        "total": 146.9130291863
-                      },
-                      {
-                        "year": 2030,
-                        "total": 152.8929016666
-                      },
-                      {
-                        "year": 2035,
-                        "total": 168.5384835013
-                      },
-                      {
-                        "year": 2040,
-                        "total": 177.184065336
-                      },
-                      {
-                        "year": 2045,
-                        "total": 178.0621529246
-                      },
-                      {
-                        "year": 2050,
-                        "total": 194.6573310964
                       }
                     ]
                   },
@@ -8284,6 +8062,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Food crops",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.4749365409
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2224968771
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0097737802
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0278632429
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -8317,6 +8132,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.23
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 85.4642422822
+                      },
+                      {
+                        "year": 2020,
+                        "total": 140.9331567061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 146.9130291863
+                      },
+                      {
+                        "year": 2030,
+                        "total": 152.8929016666
+                      },
+                      {
+                        "year": 2035,
+                        "total": 168.5384835013
+                      },
+                      {
+                        "year": 2040,
+                        "total": 177.184065336
+                      },
+                      {
+                        "year": 2045,
+                        "total": 178.0621529246
+                      },
+                      {
+                        "year": 2050,
+                        "total": 194.6573310964
                       }
                     ]
                   }
@@ -8827,43 +8679,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOFCR",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.6858389631
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0432422061
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.0432422061
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.2626185665
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.4670793658
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.6715401652
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.8820709868
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.975998711
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "BIOISW",
                     "indicatorGroupValues": [
                       {
@@ -8934,43 +8749,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 15.5
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOWOO",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 128.3281730539
-                      },
-                      {
-                        "year": 2020,
-                        "total": 166.1157309021
-                      },
-                      {
-                        "year": 2025,
-                        "total": 186.3953094272
-                      },
-                      {
-                        "year": 2030,
-                        "total": 199.4465723429
-                      },
-                      {
-                        "year": 2035,
-                        "total": 228.1894277266
-                      },
-                      {
-                        "year": 2040,
-                        "total": 229.5836918135
-                      },
-                      {
-                        "year": 2045,
-                        "total": 233.4565021026
-                      },
-                      {
-                        "year": 2050,
-                        "total": 237.116125887
                       }
                     ]
                   },
@@ -9086,6 +8864,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Food crops",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.6858389631
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0432422061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.0432422061
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.2626185665
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.4670793658
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.6715401652
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.8820709868
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.975998711
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -9119,6 +8934,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.23
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 128.3281730539
+                      },
+                      {
+                        "year": 2020,
+                        "total": 166.1157309021
+                      },
+                      {
+                        "year": 2025,
+                        "total": 186.3953094272
+                      },
+                      {
+                        "year": 2030,
+                        "total": 199.4465723429
+                      },
+                      {
+                        "year": 2035,
+                        "total": 228.1894277266
+                      },
+                      {
+                        "year": 2040,
+                        "total": 229.5836918135
+                      },
+                      {
+                        "year": 2045,
+                        "total": 233.4565021026
+                      },
+                      {
+                        "year": 2050,
+                        "total": 237.116125887
                       }
                     ]
                   }
@@ -9439,7 +9291,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "SUPBGA",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9476,7 +9328,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPELC",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9518,7 +9370,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "BIOADD",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9551,117 +9403,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 16.466903096
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOBSL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.28925
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.9643981352
-                      },
-                      {
-                        "year": 2030,
-                        "total": 38.0002580163
-                      },
-                      {
-                        "year": 2035,
-                        "total": 61.1944556467
-                      },
-                      {
-                        "year": 2040,
-                        "total": 93.2123131909
-                      },
-                      {
-                        "year": 2045,
-                        "total": 100.4056413622
-                      },
-                      {
-                        "year": 2050,
-                        "total": 99.9389147716
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOFCR",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.6858389631
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0432422061
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.0432422061
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.2626185665
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.4670793658
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.6715401652
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.8820709868
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.975998711
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "BIOWOO",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7.6087289696
-                      },
-                      {
-                        "year": 2035,
-                        "total": 24.3935406739
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.7511602227
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.1417446176
-                      },
-                      {
-                        "year": 2050,
-                        "total": 22.5323290126
                       }
                     ]
                   },
@@ -9703,6 +9444,154 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biomass",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.28925
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.9643981352
+                      },
+                      {
+                        "year": 2030,
+                        "total": 38.0002580163
+                      },
+                      {
+                        "year": 2035,
+                        "total": 61.1944556467
+                      },
+                      {
+                        "year": 2040,
+                        "total": 93.2123131909
+                      },
+                      {
+                        "year": 2045,
+                        "total": 100.4056413622
+                      },
+                      {
+                        "year": 2050,
+                        "total": 99.9389147716
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0358888196
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.9333486298
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.4007892461
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.9171241861
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.3564936276
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.0554867598
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.2496730357
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.1191639098
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Food crops",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.6858389631
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0432422061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.0432422061
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.2626185665
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.4670793658
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.6715401652
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.8820709868
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.975998711
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.3654776355
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.7233798116
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.0651152191
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.0651152191
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.0651152191
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.0651152191
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5.0651152191
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
@@ -9740,118 +9629,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPELC",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0291454637
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0291454637
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.1361754231
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.2814480344
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.6450556226
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.6144362346
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.6257265658
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.6231034274
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SYNHY0",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.3654776355
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.7233798116
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.0651152191
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.0651152191
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.0651152191
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.0651152191
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5.0651152191
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "UPNELC",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0067433559
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9042031661
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.2646138229
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.6356761518
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.711438005
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.4410505253
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.62394647
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5.4960604824
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "UPNSTM",
+                    "indicatorGroup": "Steam",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9886,6 +9664,43 @@ export default {
                         "total": 0.4074525333
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Wood",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7.6087289696
+                      },
+                      {
+                        "year": 2035,
+                        "total": 24.3935406739
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.7511602227
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.1417446176
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22.5323290126
+                      }
+                    ]
                   }
                 ]
               },
@@ -9893,7 +9708,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "SUPMOB2",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9935,7 +9750,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "SUPBGA",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9972,7 +9787,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPELC",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10009,7 +9824,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SUPWCH",
+                    "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10056,7 +9871,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "HETC",
+                    "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10093,7 +9908,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SNG2",
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10135,7 +9950,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "BIODST",
+                    "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10172,7 +9987,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOGSL",
+                    "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10209,7 +10024,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "BIOJTK",
+                    "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10246,7 +10061,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HET",
+                    "indicatorGroup": "Ethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.8429194815
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.021621103
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.021621103
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.1313092832
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.2335396829
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1.3357700826
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.4410354934
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.4879993555
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10320,7 +10172,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OILLPG",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10357,44 +10209,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "SYNETH",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.8429194815
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.021621103
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.021621103
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.1313092832
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.2335396829
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.3357700826
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.4410354934
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.4879993555
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SYNGAS",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10473,7 +10288,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETC",
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10510,7 +10325,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETD",
+                    "indicatorGroup": "Heat (Decentral)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10552,7 +10367,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "GSB2",
+                    "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10631,6 +10446,80 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.5200300424
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.5200300424
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1430475611
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethane",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -10668,7 +10557,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "GSB2",
+                    "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10705,7 +10594,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETC",
+                    "indicatorGroup": "Heat (Central)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10742,7 +10631,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "HETD",
+                    "indicatorGroup": "Heat (Decentral)",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10775,80 +10664,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.0493849568
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "KRB2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.5200300424
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.5200300424
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1430475611
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "SNG2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -11258,7 +11073,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11282,20 +11097,20 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": 79.4996254034
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 184.695230355
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 262.8003262913
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11332,7 +11147,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11356,15 +11171,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 79.4996254034
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": 184.695230355
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": 262.8003262913
+                        "total": 0.0
                       }
                     ]
                   }
@@ -11374,81 +11189,44 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1387.8838957076
+                        "total": 201.9295462969
                       },
                       {
                         "year": 2020,
-                        "total": 1417.5209924137
+                        "total": 280.6920442909
                       },
                       {
                         "year": 2025,
-                        "total": 1457.8205499108
+                        "total": 351.5117662702
                       },
                       {
                         "year": 2030,
-                        "total": 1564.5249882517
+                        "total": 691.1074762102
                       },
                       {
                         "year": 2035,
-                        "total": 1661.6997602196
+                        "total": 893.9492701161
                       },
                       {
                         "year": 2040,
-                        "total": 1760.8960384455
+                        "total": 1063.1294453861
                       },
                       {
                         "year": 2045,
-                        "total": 1780.1043804383
+                        "total": 1075.4479532271
                       },
                       {
                         "year": 2050,
-                        "total": 1793.3359774387
+                        "total": 1061.0924933783
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Flo",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.6826977406
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.1262887061
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8.4102507522
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.1833723737
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9.770189808
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11485,39 +11263,39 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 201.9295462969
+                        "total": 1387.8838957076
                       },
                       {
                         "year": 2020,
-                        "total": 280.6920442909
+                        "total": 1417.5209924137
                       },
                       {
                         "year": 2025,
-                        "total": 351.5117662702
+                        "total": 1457.8205499108
                       },
                       {
                         "year": 2030,
-                        "total": 691.1074762102
+                        "total": 1567.2076859923
                       },
                       {
                         "year": 2035,
-                        "total": 893.9492701161
+                        "total": 1681.8260489257
                       },
                       {
                         "year": 2040,
-                        "total": 1063.1294453861
+                        "total": 1769.3062891977
                       },
                       {
                         "year": 2045,
-                        "total": 1075.4479532271
+                        "total": 1788.287752812
                       },
                       {
                         "year": 2050,
-                        "total": 1061.0924933783
+                        "total": 1803.1061672467
                       }
                     ]
                   }
@@ -11527,27 +11305,27 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0690119596
+                        "total": 6.5607682022
                       },
                       {
                         "year": 2020,
-                        "total": 0.1045084361
+                        "total": 10.8649702969
                       },
                       {
                         "year": 2025,
-                        "total": 0.0882947452
+                        "total": 10.8649702969
                       },
                       {
                         "year": 2030,
-                        "total": 0.0452754025
+                        "total": 4.3042020947
                       },
                       {
                         "year": 2035,
-                        "total": 0.0097789259
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -11559,12 +11337,12 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 61.6632196663
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11601,27 +11379,27 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 6.5607682022
+                        "total": 0.0690119596
                       },
                       {
                         "year": 2020,
-                        "total": 10.8649702969
+                        "total": 0.1045084361
                       },
                       {
                         "year": 2025,
-                        "total": 10.8649702969
+                        "total": 0.0882947452
                       },
                       {
                         "year": 2030,
-                        "total": 4.3042020947
+                        "total": 0.0452754025
                       },
                       {
                         "year": 2035,
-                        "total": 0.0
+                        "total": 0.0097789259
                       },
                       {
                         "year": 2040,
@@ -11633,7 +11411,7 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 61.6632196663
+                        "total": 0.0
                       }
                     ]
                   }
@@ -11643,7 +11421,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cost_Act",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11659,28 +11437,28 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 0.4279353376
+                        "total": 23.4140700107
                       },
                       {
                         "year": 2035,
-                        "total": 0.7425153212
+                        "total": 23.4140700107
                       },
                       {
                         "year": 2040,
-                        "total": 0.7425153212
+                        "total": 23.4140700107
                       },
                       {
                         "year": 2045,
-                        "total": 0.7425153212
+                        "total": 229.2108832265
                       },
                       {
                         "year": 2050,
-                        "total": 3.8725388257
+                        "total": 491.197506164
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Fom",
+                    "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11717,7 +11495,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cost_Inv",
+                    "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11733,23 +11511,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 23.4140700107
+                        "total": 0.4279353376
                       },
                       {
                         "year": 2035,
-                        "total": 23.4140700107
+                        "total": 0.7425153212
                       },
                       {
                         "year": 2040,
-                        "total": 23.4140700107
+                        "total": 0.7425153212
                       },
                       {
                         "year": 2045,
-                        "total": 229.2108832265
+                        "total": 0.7425153212
                       },
                       {
                         "year": 2050,
-                        "total": 491.197506164
+                        "total": 3.8725388257
                       }
                     ]
                   }
