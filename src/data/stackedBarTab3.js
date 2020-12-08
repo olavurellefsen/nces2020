@@ -2829,7 +2829,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-BIO",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2866,7 +2866,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-COA",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2903,44 +2903,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4503.468
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2605.2264
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1951.614
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1951.614
-                      },
-                      {
-                        "year": 2035,
-                        "total": 749.3626342999
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2977,7 +2940,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-OTHER",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4503.468
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2605.2264
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1951.614
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1951.614
+                      },
+                      {
+                        "year": 2035,
+                        "total": 749.3626342999
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3014,7 +3014,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3051,7 +3051,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3088,7 +3088,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3130,44 +3130,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4863.2580833658
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4150.7895619705
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3909.8864013353
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2477.2103076779
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1646.7645465992
-                      },
-                      {
-                        "year": 2040,
-                        "total": 816.3187855204
-                      },
-                      {
-                        "year": 2045,
-                        "total": 408.3227247407
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.3266639611
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3204,7 +3167,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-NUC",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4863.2580833658
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4150.7895619705
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3909.8864013353
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2477.2103076779
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1646.7645465992
+                      },
+                      {
+                        "year": 2040,
+                        "total": 816.3187855204
+                      },
+                      {
+                        "year": 2045,
+                        "total": 408.3227247407
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.3266639611
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3241,7 +3241,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-OTHER",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3278,7 +3278,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3315,7 +3315,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLID",
+                    "indicatorGroup": "Solid fuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3352,7 +3352,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3389,7 +3389,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3431,7 +3431,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3468,7 +3468,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3510,7 +3510,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-BIO",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3547,44 +3547,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2449.9999999998
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2449.9999999998
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2449.9999999998
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1759.3939393938
-                      },
-                      {
-                        "year": 2035,
-                        "total": 899.3939393938
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3621,7 +3584,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2449.9999999998
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2449.9999999998
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2449.9999999998
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1759.3939393938
+                      },
+                      {
+                        "year": 2035,
+                        "total": 899.3939393938
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3658,7 +3658,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3695,7 +3695,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3737,7 +3737,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-BIO",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3774,7 +3774,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-COA",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3811,44 +3811,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1281.5187669947
-                      },
-                      {
-                        "year": 2020,
-                        "total": 965.2127399654
-                      },
-                      {
-                        "year": 2025,
-                        "total": 648.9067129362
-                      },
-                      {
-                        "year": 2030,
-                        "total": 328.5934357431
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.3744599293
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3885,7 +3848,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1281.5187669947
+                      },
+                      {
+                        "year": 2020,
+                        "total": 965.2127399654
+                      },
+                      {
+                        "year": 2025,
+                        "total": 648.9067129362
+                      },
+                      {
+                        "year": 2030,
+                        "total": 328.5934357431
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.3744599293
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3922,7 +3922,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3959,7 +3959,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4006,7 +4006,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4043,7 +4043,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4080,7 +4080,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4117,7 +4117,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4154,7 +4154,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4191,7 +4191,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4233,7 +4233,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4270,7 +4270,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4307,7 +4307,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4344,7 +4344,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4381,7 +4381,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4418,7 +4418,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4460,7 +4460,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_GEO",
+                    "indicatorGroup": "Geothermal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4502,7 +4502,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4539,7 +4539,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4576,7 +4576,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4613,7 +4613,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4650,7 +4650,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4687,7 +4687,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4729,7 +4729,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4766,7 +4766,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4803,7 +4803,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4840,7 +4840,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4877,7 +4877,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4914,7 +4914,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7784,7 +7784,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-BIO",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7821,7 +7821,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-COA",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7858,44 +7858,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4503.468
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2605.2264
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1951.614
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1951.614
-                      },
-                      {
-                        "year": 2035,
-                        "total": 749.3626342999
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7932,7 +7895,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-OTHER",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4503.468
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2605.2264
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1951.614
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1951.614
+                      },
+                      {
+                        "year": 2035,
+                        "total": 749.3626342999
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7969,7 +7969,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8006,7 +8006,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8043,7 +8043,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8085,44 +8085,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4863.2580833658
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4150.7895619705
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3909.8864013353
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2477.2103076779
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1646.7645465992
-                      },
-                      {
-                        "year": 2040,
-                        "total": 816.3187855204
-                      },
-                      {
-                        "year": 2045,
-                        "total": 408.3227247407
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.3266639611
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8159,7 +8122,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-NUC",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4863.2580833658
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4150.7895619705
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3909.8864013353
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2477.2103076779
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1646.7645465992
+                      },
+                      {
+                        "year": 2040,
+                        "total": 816.3187855204
+                      },
+                      {
+                        "year": 2045,
+                        "total": 408.3227247407
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.3266639611
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8196,7 +8196,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-OTHER",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8233,7 +8233,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8270,7 +8270,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLID",
+                    "indicatorGroup": "Solid fuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8307,7 +8307,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8344,7 +8344,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8386,7 +8386,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8423,7 +8423,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8465,7 +8465,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-BIO",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8502,44 +8502,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2449.9999999998
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2449.9999999998
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2449.9999999998
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1759.3939393938
-                      },
-                      {
-                        "year": 2035,
-                        "total": 899.3939393938
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8576,7 +8539,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2449.9999999998
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2449.9999999998
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2449.9999999998
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1759.3939393938
+                      },
+                      {
+                        "year": 2035,
+                        "total": 899.3939393938
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8613,7 +8613,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8650,7 +8650,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8692,7 +8692,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-BIO",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8729,7 +8729,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-COA",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8766,44 +8766,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1281.5187669947
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1616.3796213147
-                      },
-                      {
-                        "year": 2025,
-                        "total": 648.9067129362
-                      },
-                      {
-                        "year": 2030,
-                        "total": 328.5934357431
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.3744599293
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8840,7 +8803,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1281.5187669947
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1616.3796213147
+                      },
+                      {
+                        "year": 2025,
+                        "total": 648.9067129362
+                      },
+                      {
+                        "year": 2030,
+                        "total": 328.5934357431
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.3744599293
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8877,7 +8877,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8914,7 +8914,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8961,7 +8961,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8998,7 +8998,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9035,7 +9035,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9072,7 +9072,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9109,7 +9109,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9146,7 +9146,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9188,7 +9188,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9225,7 +9225,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9262,7 +9262,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9299,7 +9299,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9336,7 +9336,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9373,7 +9373,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9415,7 +9415,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_GEO",
+                    "indicatorGroup": "Geothermal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9457,7 +9457,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9494,7 +9494,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9531,7 +9531,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9568,7 +9568,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9605,7 +9605,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9642,7 +9642,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9684,7 +9684,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9721,7 +9721,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9758,7 +9758,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9795,7 +9795,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9832,7 +9832,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9869,7 +9869,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12739,7 +12739,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-BIO",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12776,7 +12776,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-COA",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12813,44 +12813,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2251.734
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1302.6132
-                      },
-                      {
-                        "year": 2025,
-                        "total": 975.807
-                      },
-                      {
-                        "year": 2030,
-                        "total": 975.807
-                      },
-                      {
-                        "year": 2035,
-                        "total": 374.6813171499
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12887,7 +12850,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-OTHER",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2251.734
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1302.6132
+                      },
+                      {
+                        "year": 2025,
+                        "total": 975.807
+                      },
+                      {
+                        "year": 2030,
+                        "total": 975.807
+                      },
+                      {
+                        "year": 2035,
+                        "total": 374.6813171499
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12924,7 +12924,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12961,7 +12961,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12998,7 +12998,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13040,44 +13040,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2431.6290416829
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2075.3947809852
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1954.9432006676
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1238.605153839
-                      },
-                      {
-                        "year": 2035,
-                        "total": 823.3822732996
-                      },
-                      {
-                        "year": 2040,
-                        "total": 408.1593927602
-                      },
-                      {
-                        "year": 2045,
-                        "total": 204.1613623704
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1633319806
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13114,7 +13077,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-NUC",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2431.6290416829
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2075.3947809852
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1954.9432006676
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1238.605153839
+                      },
+                      {
+                        "year": 2035,
+                        "total": 823.3822732996
+                      },
+                      {
+                        "year": 2040,
+                        "total": 408.1593927602
+                      },
+                      {
+                        "year": 2045,
+                        "total": 204.1613623704
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1633319806
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13151,7 +13151,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-OTHER",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13188,7 +13188,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13225,7 +13225,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLID",
+                    "indicatorGroup": "Solid fuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13262,7 +13262,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13299,7 +13299,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13341,7 +13341,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13378,7 +13378,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13420,7 +13420,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-BIO",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13457,44 +13457,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1224.9999999999
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1224.9999999999
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1224.9999999999
-                      },
-                      {
-                        "year": 2030,
-                        "total": 879.6969696969
-                      },
-                      {
-                        "year": 2035,
-                        "total": 449.6969696969
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13531,7 +13494,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1224.9999999999
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1224.9999999999
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1224.9999999999
+                      },
+                      {
+                        "year": 2030,
+                        "total": 879.6969696969
+                      },
+                      {
+                        "year": 2035,
+                        "total": 449.6969696969
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13568,7 +13568,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13605,7 +13605,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13647,7 +13647,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP-BIO",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13684,7 +13684,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-COA",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13721,44 +13721,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-GAS",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 640.7593834974
-                      },
-                      {
-                        "year": 2020,
-                        "total": 482.6063699827
-                      },
-                      {
-                        "year": 2025,
-                        "total": 324.4533564681
-                      },
-                      {
-                        "year": 2030,
-                        "total": 164.2967178715
-                      },
-                      {
-                        "year": 2035,
-                        "total": 79.6872299646
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP-HYDRO",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13795,7 +13758,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-SOLAR",
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 640.7593834974
+                      },
+                      {
+                        "year": 2020,
+                        "total": 482.6063699827
+                      },
+                      {
+                        "year": 2025,
+                        "total": 324.4533564681
+                      },
+                      {
+                        "year": 2030,
+                        "total": 164.2967178715
+                      },
+                      {
+                        "year": 2035,
+                        "total": 79.6872299646
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13832,7 +13832,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WASTE",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13869,7 +13869,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP-WIND",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13916,7 +13916,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13953,7 +13953,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13990,7 +13990,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14027,7 +14027,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14064,7 +14064,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14101,7 +14101,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14143,7 +14143,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14180,7 +14180,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14217,7 +14217,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14254,7 +14254,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14291,7 +14291,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14328,7 +14328,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14370,7 +14370,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_GEO",
+                    "indicatorGroup": "Geothermal",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14412,7 +14412,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14449,7 +14449,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14486,7 +14486,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14523,7 +14523,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14560,7 +14560,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14597,7 +14597,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14639,7 +14639,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELC_CHP",
+                    "indicatorGroup": "CHP",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14676,7 +14676,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_HYD",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14713,7 +14713,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_PV",
+                    "indicatorGroup": "Solar PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14750,7 +14750,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_THERMAL",
+                    "indicatorGroup": "Thermal power",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14787,7 +14787,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WOF",
+                    "indicatorGroup": "Wind offshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14824,7 +14824,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "ELC_WON",
+                    "indicatorGroup": "Wind onshore",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

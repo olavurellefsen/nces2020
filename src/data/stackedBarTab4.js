@@ -1193,7 +1193,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_HOTH",
+                    "indicatorGroup": "Industrial boilers",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1499,43 +1499,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 941.47173432
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2294.9174282899
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4429.7701596072
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7471.8537582918
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8161.439891686
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10518.7781405629
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8296.2341539175
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6181.7734649828
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -1606,6 +1569,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 130.3180149125
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 941.47173432
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2294.9174282899
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4429.7701596072
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7471.8537582918
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8161.439891686
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10518.7781405629
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8296.2341539175
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6181.7734649828
                       }
                     ]
                   }
@@ -1736,7 +1736,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_HOTH",
+                    "indicatorGroup": "Industrial boilers",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1769,43 +1769,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 21.7664149507
-                      },
-                      {
-                        "year": 2020,
-                        "total": 19.7582383175
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.9881725139
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.2481195755
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.3447458896
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.4860937441
-                      },
-                      {
-                        "year": 2045,
-                        "total": 15.6851786138
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.8842634835
                       }
                     ]
                   },
@@ -1880,6 +1843,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 28.5675542576
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 21.7664149507
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.7582383175
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.9881725139
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.2481195755
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.3447458896
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.4860937441
+                      },
+                      {
+                        "year": 2045,
+                        "total": 15.6851786138
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.8842634835
                       }
                     ]
                   }
@@ -1963,43 +1963,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.1647238162
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.139210585
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1188
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -2070,6 +2033,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0072
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1647238162
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.139210585
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1188
                       }
                     ]
                   }
@@ -2153,43 +2153,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 32.7254738759
-                      },
-                      {
-                        "year": 2020,
-                        "total": 34.3957610122
-                      },
-                      {
-                        "year": 2025,
-                        "total": 33.4339751813
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.5078874395
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.70681022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 33.8778258655
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.8144339426
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34.0468333797
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -2260,6 +2223,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 13.8924761958
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 32.7254738759
+                      },
+                      {
+                        "year": 2020,
+                        "total": 34.3957610122
+                      },
+                      {
+                        "year": 2025,
+                        "total": 33.4339751813
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.5078874395
+                      },
+                      {
+                        "year": 2035,
+                        "total": 33.70681022
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.8778258655
+                      },
+                      {
+                        "year": 2045,
+                        "total": 33.8144339426
+                      },
+                      {
+                        "year": 2050,
+                        "total": 34.0468333797
                       }
                     ]
                   }
@@ -2343,43 +2343,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 387.2652868176
-                      },
-                      {
-                        "year": 2020,
-                        "total": 382.9523655862
-                      },
-                      {
-                        "year": 2025,
-                        "total": 377.6188084411
-                      },
-                      {
-                        "year": 2030,
-                        "total": 372.8481041197
-                      },
-                      {
-                        "year": 2035,
-                        "total": 366.8814426828
-                      },
-                      {
-                        "year": 2040,
-                        "total": 360.8516177856
-                      },
-                      {
-                        "year": 2045,
-                        "total": 354.0461861534
-                      },
-                      {
-                        "year": 2050,
-                        "total": 345.7215518881
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -2450,6 +2413,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.1825124739
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 387.2652868176
+                      },
+                      {
+                        "year": 2020,
+                        "total": 382.9523655862
+                      },
+                      {
+                        "year": 2025,
+                        "total": 377.6188084411
+                      },
+                      {
+                        "year": 2030,
+                        "total": 372.8481041197
+                      },
+                      {
+                        "year": 2035,
+                        "total": 366.8814426828
+                      },
+                      {
+                        "year": 2040,
+                        "total": 360.8516177856
+                      },
+                      {
+                        "year": 2045,
+                        "total": 354.0461861534
+                      },
+                      {
+                        "year": 2050,
+                        "total": 345.7215518881
                       }
                     ]
                   }
@@ -2580,43 +2580,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 537.5132863937
-                      },
-                      {
-                        "year": 2020,
-                        "total": 531.1858762282
-                      },
-                      {
-                        "year": 2025,
-                        "total": 509.5791232532
-                      },
-                      {
-                        "year": 2030,
-                        "total": 481.4605501211
-                      },
-                      {
-                        "year": 2035,
-                        "total": 437.993835212
-                      },
-                      {
-                        "year": 2040,
-                        "total": 401.3779349461
-                      },
-                      {
-                        "year": 2045,
-                        "total": 364.9091686758
-                      },
-                      {
-                        "year": 2050,
-                        "total": 347.9984902601
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -2687,6 +2650,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.013501507
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 537.5132863937
+                      },
+                      {
+                        "year": 2020,
+                        "total": 531.1858762282
+                      },
+                      {
+                        "year": 2025,
+                        "total": 509.5791232532
+                      },
+                      {
+                        "year": 2030,
+                        "total": 481.4605501211
+                      },
+                      {
+                        "year": 2035,
+                        "total": 437.993835212
+                      },
+                      {
+                        "year": 2040,
+                        "total": 401.3779349461
+                      },
+                      {
+                        "year": 2045,
+                        "total": 364.9091686758
+                      },
+                      {
+                        "year": 2050,
+                        "total": 347.9984902601
                       }
                     ]
                   }
@@ -2770,43 +2770,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0459238162
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.020410585
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -2861,6 +2824,43 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.00737199
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0459238162
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.020410585
                       },
                       {
                         "year": 2035,
@@ -2960,43 +2960,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 33.2560877793
-                      },
-                      {
-                        "year": 2020,
-                        "total": 34.4466025005
-                      },
-                      {
-                        "year": 2025,
-                        "total": 33.4692221839
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.5443328624
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.7464809956
-                      },
-                      {
-                        "year": 2040,
-                        "total": 33.9202695048
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.6508950352
-                      },
-                      {
-                        "year": 2050,
-                        "total": 33.6821079145
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -3067,6 +3030,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 12.4636045524
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 33.2560877793
+                      },
+                      {
+                        "year": 2020,
+                        "total": 34.4466025005
+                      },
+                      {
+                        "year": 2025,
+                        "total": 33.4692221839
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.5443328624
+                      },
+                      {
+                        "year": 2035,
+                        "total": 33.7464809956
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.9202695048
+                      },
+                      {
+                        "year": 2045,
+                        "total": 33.6508950352
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33.6821079145
                       }
                     ]
                   }
@@ -3150,43 +3150,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 439.5429383223
-                      },
-                      {
-                        "year": 2020,
-                        "total": 411.667764702
-                      },
-                      {
-                        "year": 2025,
-                        "total": 387.4262472863
-                      },
-                      {
-                        "year": 2030,
-                        "total": 363.4399869808
-                      },
-                      {
-                        "year": 2035,
-                        "total": 340.228478882
-                      },
-                      {
-                        "year": 2040,
-                        "total": 326.2686850787
-                      },
-                      {
-                        "year": 2045,
-                        "total": 313.3729271089
-                      },
-                      {
-                        "year": 2050,
-                        "total": 298.9727642049
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -3257,6 +3220,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 26.5519886179
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 439.5429383223
+                      },
+                      {
+                        "year": 2020,
+                        "total": 411.667764702
+                      },
+                      {
+                        "year": 2025,
+                        "total": 387.4262472863
+                      },
+                      {
+                        "year": 2030,
+                        "total": 363.4399869808
+                      },
+                      {
+                        "year": 2035,
+                        "total": 340.228478882
+                      },
+                      {
+                        "year": 2040,
+                        "total": 326.2686850787
+                      },
+                      {
+                        "year": 2045,
+                        "total": 313.3729271089
+                      },
+                      {
+                        "year": 2050,
+                        "total": 298.9727642049
                       }
                     ]
                   }
@@ -3387,43 +3387,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 58.8158531945
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2161.9992145913
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5395.8783787267
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6797.2152940023
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7843.2854305713
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8941.830106432
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10094.9058623676
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9581.6810869583
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -3457,6 +3420,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 630.9301658517
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 58.8158531945
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2161.9992145913
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5395.8783787267
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6797.2152940023
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7843.2854305713
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8941.830106432
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10094.9058623676
+                      },
+                      {
+                        "year": 2050,
+                        "total": 9581.6810869583
                       }
                     ]
                   }
@@ -3656,43 +3656,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0293253717
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.5113838497
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.5113838497
-                      },
-                      {
-                        "year": 2030,
-                        "total": 13.5113838497
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.5113838497
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.4267677944
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.5018660609
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1943162193
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -3763,6 +3726,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.5618318371
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0293253717
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.5113838497
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.5113838497
+                      },
+                      {
+                        "year": 2030,
+                        "total": 13.5113838497
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.5113838497
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.4267677944
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.5018660609
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1943162193
                       }
                     ]
                   }
@@ -3846,43 +3846,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 132.7115970936
-                      },
-                      {
-                        "year": 2020,
-                        "total": 330.7781788864
-                      },
-                      {
-                        "year": 2025,
-                        "total": 332.5524548193
-                      },
-                      {
-                        "year": 2030,
-                        "total": 332.5524548193
-                      },
-                      {
-                        "year": 2035,
-                        "total": 332.5524548193
-                      },
-                      {
-                        "year": 2040,
-                        "total": 162.1760962315
-                      },
-                      {
-                        "year": 2045,
-                        "total": 197.5270043074
-                      },
-                      {
-                        "year": 2050,
-                        "total": 195.7527283744
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -3953,6 +3916,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.2466515812
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 132.7115970936
+                      },
+                      {
+                        "year": 2020,
+                        "total": 330.7781788864
+                      },
+                      {
+                        "year": 2025,
+                        "total": 332.5524548193
+                      },
+                      {
+                        "year": 2030,
+                        "total": 332.5524548193
+                      },
+                      {
+                        "year": 2035,
+                        "total": 332.5524548193
+                      },
+                      {
+                        "year": 2040,
+                        "total": 162.1760962315
+                      },
+                      {
+                        "year": 2045,
+                        "total": 197.5270043074
+                      },
+                      {
+                        "year": 2050,
+                        "total": 195.7527283744
                       }
                     ]
                   }
@@ -7918,7 +7918,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_HOTH",
+                    "indicatorGroup": "Industrial boilers",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8224,43 +8224,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 941.47173432
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1600.5931552384
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2205.0422502362
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3274.0887048567
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5474.1624359874
-                      },
-                      {
-                        "year": 2040,
-                        "total": 6389.4261614445
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8386.3878798989
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6295.778157953
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -8331,6 +8294,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 130.2277132627
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 941.47173432
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1600.5931552384
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2205.0422502362
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3274.0887048567
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5474.1624359874
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6389.4261614445
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8386.3878798989
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6295.778157953
                       }
                     ]
                   }
@@ -8461,7 +8461,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_HOTH",
+                    "indicatorGroup": "Industrial boilers",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8494,43 +8494,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 21.7664149507
-                      },
-                      {
-                        "year": 2020,
-                        "total": 19.7582383175
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.9881725139
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.2481195755
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.3447458896
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.4860937441
-                      },
-                      {
-                        "year": 2045,
-                        "total": 15.6851786138
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.8842634835
                       }
                     ]
                   },
@@ -8605,6 +8568,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 28.5675542576
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 21.7664149507
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.7582383175
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.9881725139
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.2481195755
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.3447458896
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.4860937441
+                      },
+                      {
+                        "year": 2045,
+                        "total": 15.6851786138
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.8842634835
                       }
                     ]
                   }
@@ -8688,43 +8688,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.1647238162
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.139210585
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1188
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1188
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -8795,6 +8758,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0072
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1647238162
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.139210585
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1188
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1188
                       }
                     ]
                   }
@@ -8878,43 +8878,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 32.7254738759
-                      },
-                      {
-                        "year": 2020,
-                        "total": 34.3957610122
-                      },
-                      {
-                        "year": 2025,
-                        "total": 33.4339751813
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.5078874395
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.70681022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 33.8778258655
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.8144339426
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34.0468333797
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -8985,6 +8948,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 13.8924761958
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 32.7254738759
+                      },
+                      {
+                        "year": 2020,
+                        "total": 34.3957610122
+                      },
+                      {
+                        "year": 2025,
+                        "total": 33.4339751813
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.5078874395
+                      },
+                      {
+                        "year": 2035,
+                        "total": 33.70681022
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.8778258655
+                      },
+                      {
+                        "year": 2045,
+                        "total": 33.8144339426
+                      },
+                      {
+                        "year": 2050,
+                        "total": 34.0468333797
                       }
                     ]
                   }
@@ -9068,43 +9068,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 387.2652868176
-                      },
-                      {
-                        "year": 2020,
-                        "total": 382.9523655862
-                      },
-                      {
-                        "year": 2025,
-                        "total": 377.6188084411
-                      },
-                      {
-                        "year": 2030,
-                        "total": 372.8481041197
-                      },
-                      {
-                        "year": 2035,
-                        "total": 366.8814426828
-                      },
-                      {
-                        "year": 2040,
-                        "total": 360.8516177856
-                      },
-                      {
-                        "year": 2045,
-                        "total": 354.0461861534
-                      },
-                      {
-                        "year": 2050,
-                        "total": 345.7215518881
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -9175,6 +9138,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.1825124739
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 387.2652868176
+                      },
+                      {
+                        "year": 2020,
+                        "total": 382.9523655862
+                      },
+                      {
+                        "year": 2025,
+                        "total": 377.6188084411
+                      },
+                      {
+                        "year": 2030,
+                        "total": 372.8481041197
+                      },
+                      {
+                        "year": 2035,
+                        "total": 366.8814426828
+                      },
+                      {
+                        "year": 2040,
+                        "total": 360.8516177856
+                      },
+                      {
+                        "year": 2045,
+                        "total": 354.0461861534
+                      },
+                      {
+                        "year": 2050,
+                        "total": 345.7215518881
                       }
                     ]
                   }
@@ -9305,43 +9305,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 537.5132863937
-                      },
-                      {
-                        "year": 2020,
-                        "total": 531.1854224081
-                      },
-                      {
-                        "year": 2025,
-                        "total": 509.5791301233
-                      },
-                      {
-                        "year": 2030,
-                        "total": 481.3728413001
-                      },
-                      {
-                        "year": 2035,
-                        "total": 437.8502217109
-                      },
-                      {
-                        "year": 2040,
-                        "total": 401.3413962066
-                      },
-                      {
-                        "year": 2045,
-                        "total": 364.8731163132
-                      },
-                      {
-                        "year": 2050,
-                        "total": 347.9628357608
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -9412,6 +9375,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.013501507
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 537.5132863937
+                      },
+                      {
+                        "year": 2020,
+                        "total": 531.1854224081
+                      },
+                      {
+                        "year": 2025,
+                        "total": 509.5791301233
+                      },
+                      {
+                        "year": 2030,
+                        "total": 481.3728413001
+                      },
+                      {
+                        "year": 2035,
+                        "total": 437.8502217109
+                      },
+                      {
+                        "year": 2040,
+                        "total": 401.3413962066
+                      },
+                      {
+                        "year": 2045,
+                        "total": 364.8731163132
+                      },
+                      {
+                        "year": 2050,
+                        "total": 347.9628357608
                       }
                     ]
                   }
@@ -9495,43 +9495,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0459238162
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.020410585
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -9586,6 +9549,43 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.00737199
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0459238162
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.020410585
                       },
                       {
                         "year": 2035,
@@ -9685,43 +9685,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 33.2560877793
-                      },
-                      {
-                        "year": 2020,
-                        "total": 34.4466025005
-                      },
-                      {
-                        "year": 2025,
-                        "total": 33.4692221839
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.5443328624
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.7464809956
-                      },
-                      {
-                        "year": 2040,
-                        "total": 33.9202695048
-                      },
-                      {
-                        "year": 2045,
-                        "total": 41.4486411584
-                      },
-                      {
-                        "year": 2050,
-                        "total": 33.6821079145
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -9792,6 +9755,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 12.4636045524
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 33.2560877793
+                      },
+                      {
+                        "year": 2020,
+                        "total": 34.4466025005
+                      },
+                      {
+                        "year": 2025,
+                        "total": 33.4692221839
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.5443328624
+                      },
+                      {
+                        "year": 2035,
+                        "total": 33.7464809956
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.9202695048
+                      },
+                      {
+                        "year": 2045,
+                        "total": 41.4486411584
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33.6821079145
                       }
                     ]
                   }
@@ -9875,43 +9875,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 516.9274734524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 419.7541249628
-                      },
-                      {
-                        "year": 2025,
-                        "total": 395.5127129175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 371.5264782554
-                      },
-                      {
-                        "year": 2035,
-                        "total": 345.1931071368
-                      },
-                      {
-                        "year": 2040,
-                        "total": 333.9098337089
-                      },
-                      {
-                        "year": 2045,
-                        "total": 313.3729271089
-                      },
-                      {
-                        "year": 2050,
-                        "total": 298.9727642049
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -9982,6 +9945,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 53.0242719063
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 516.9274734524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 419.7541249628
+                      },
+                      {
+                        "year": 2025,
+                        "total": 395.5127129175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 371.5264782554
+                      },
+                      {
+                        "year": 2035,
+                        "total": 345.1931071368
+                      },
+                      {
+                        "year": 2040,
+                        "total": 333.9098337089
+                      },
+                      {
+                        "year": 2045,
+                        "total": 313.3729271089
+                      },
+                      {
+                        "year": 2050,
+                        "total": 298.9727642049
                       }
                     ]
                   }
@@ -10112,43 +10112,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 58.8158531945
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2161.9993518492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5395.8785162215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6798.5373458287
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7843.0791427025
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8941.678860681
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10094.7544355499
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9581.5296601406
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -10182,6 +10145,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 631.3664916081
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 58.8158531945
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2161.9993518492
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5395.8785162215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6798.5373458287
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7843.0791427025
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8941.678860681
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10094.7544355499
+                      },
+                      {
+                        "year": 2050,
+                        "total": 9581.5296601406
                       }
                     ]
                   }
@@ -10381,43 +10381,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0293253717
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.5113838497
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.5113838497
-                      },
-                      {
-                        "year": 2030,
-                        "total": 13.5113838497
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.5113838497
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.4267677944
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.5018660609
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.194484623
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -10488,6 +10451,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.5651256592
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0293253717
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.5113838497
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.5113838497
+                      },
+                      {
+                        "year": 2030,
+                        "total": 13.5113838497
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.5113838497
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.4267677944
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.5018660609
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.194484623
                       }
                     ]
                   }
@@ -10571,43 +10571,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 132.6597340576
-                      },
-                      {
-                        "year": 2020,
-                        "total": 651.234170982
-                      },
-                      {
-                        "year": 2025,
-                        "total": 653.008446915
-                      },
-                      {
-                        "year": 2030,
-                        "total": 653.008446915
-                      },
-                      {
-                        "year": 2035,
-                        "total": 653.008446915
-                      },
-                      {
-                        "year": 2040,
-                        "total": 477.3438001928
-                      },
-                      {
-                        "year": 2045,
-                        "total": 197.5270043074
-                      },
-                      {
-                        "year": 2050,
-                        "total": 195.7527283744
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -10678,6 +10641,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 36.4435602533
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 132.6597340576
+                      },
+                      {
+                        "year": 2020,
+                        "total": 651.234170982
+                      },
+                      {
+                        "year": 2025,
+                        "total": 653.008446915
+                      },
+                      {
+                        "year": 2030,
+                        "total": 653.008446915
+                      },
+                      {
+                        "year": 2035,
+                        "total": 653.008446915
+                      },
+                      {
+                        "year": 2040,
+                        "total": 477.3438001928
+                      },
+                      {
+                        "year": 2045,
+                        "total": 197.5270043074
+                      },
+                      {
+                        "year": 2050,
+                        "total": 195.7527283744
                       }
                     ]
                   }
@@ -14643,7 +14643,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_HOTH",
+                    "indicatorGroup": "Industrial boilers",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14949,43 +14949,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 470.73586716
-                      },
-                      {
-                        "year": 2020,
-                        "total": 666.1238823604
-                      },
-                      {
-                        "year": 2025,
-                        "total": 968.0701558455
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1502.888674415
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2662.1473216379
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3060.5403854634
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3973.4799030033
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2789.1883116562
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -15056,6 +15019,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.9863865386
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 470.73586716
+                      },
+                      {
+                        "year": 2020,
+                        "total": 666.1238823604
+                      },
+                      {
+                        "year": 2025,
+                        "total": 968.0701558455
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1502.888674415
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2662.1473216379
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3060.5403854634
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3973.4799030033
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2789.1883116562
                       }
                     ]
                   }
@@ -15186,7 +15186,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_HOTH",
+                    "indicatorGroup": "Industrial boilers",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15219,43 +15219,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.8832074753
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.8791191588
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.494086257
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.1240597878
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.6723729448
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8.2430468721
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.8425893069
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.4421317418
                       }
                     ]
                   },
@@ -15330,6 +15293,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.2837771288
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.8832074753
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.8791191588
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.494086257
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.1240597878
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.6723729448
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.2430468721
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.8425893069
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.4421317418
                       }
                     ]
                   }
@@ -15413,43 +15413,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0612
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0612
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0841619081
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0714052925
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0612
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0612
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0612
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0612
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -15520,6 +15483,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0036
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0612
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0612
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0841619081
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0714052925
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0612
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0612
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0612
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0612
                       }
                     ]
                   }
@@ -15603,43 +15603,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.362736938
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.1978805061
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7169875906
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7539437198
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.85340511
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.9389129328
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.9072169713
-                      },
-                      {
-                        "year": 2050,
-                        "total": 17.0234166898
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -15710,6 +15673,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 6.9462380979
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.362736938
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.1978805061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7169875906
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7539437198
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.85340511
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.9389129328
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.9072169713
+                      },
+                      {
+                        "year": 2050,
+                        "total": 17.0234166898
                       }
                     ]
                   }
@@ -15793,43 +15793,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 193.6326434088
-                      },
-                      {
-                        "year": 2020,
-                        "total": 191.4761827931
-                      },
-                      {
-                        "year": 2025,
-                        "total": 188.8094042206
-                      },
-                      {
-                        "year": 2030,
-                        "total": 186.4240520599
-                      },
-                      {
-                        "year": 2035,
-                        "total": 183.4407213414
-                      },
-                      {
-                        "year": 2040,
-                        "total": 180.4258088928
-                      },
-                      {
-                        "year": 2045,
-                        "total": 177.0230930767
-                      },
-                      {
-                        "year": 2050,
-                        "total": 172.8607759441
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -15900,6 +15863,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 15.091256237
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 193.6326434088
+                      },
+                      {
+                        "year": 2020,
+                        "total": 191.4761827931
+                      },
+                      {
+                        "year": 2025,
+                        "total": 188.8094042206
+                      },
+                      {
+                        "year": 2030,
+                        "total": 186.4240520599
+                      },
+                      {
+                        "year": 2035,
+                        "total": 183.4407213414
+                      },
+                      {
+                        "year": 2040,
+                        "total": 180.4258088928
+                      },
+                      {
+                        "year": 2045,
+                        "total": 177.0230930767
+                      },
+                      {
+                        "year": 2050,
+                        "total": 172.8607759441
                       }
                     ]
                   }
@@ -16030,43 +16030,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 268.7566694844
-                      },
-                      {
-                        "year": 2020,
-                        "total": 265.5927077268
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.7895616266
-                      },
-                      {
-                        "year": 2030,
-                        "total": 240.6663328105
-                      },
-                      {
-                        "year": 2035,
-                        "total": 218.8758908099
-                      },
-                      {
-                        "year": 2040,
-                        "total": 200.6524696402
-                      },
-                      {
-                        "year": 2045,
-                        "total": 182.4185319753
-                      },
-                      {
-                        "year": 2050,
-                        "total": 173.9635906307
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -16137,6 +16100,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.0067507535
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 268.7566694844
+                      },
+                      {
+                        "year": 2020,
+                        "total": 265.5927077268
+                      },
+                      {
+                        "year": 2025,
+                        "total": 254.7895616266
+                      },
+                      {
+                        "year": 2030,
+                        "total": 240.6663328105
+                      },
+                      {
+                        "year": 2035,
+                        "total": 218.8758908099
+                      },
+                      {
+                        "year": 2040,
+                        "total": 200.6524696402
+                      },
+                      {
+                        "year": 2045,
+                        "total": 182.4185319753
+                      },
+                      {
+                        "year": 2050,
+                        "total": 173.9635906307
                       }
                     ]
                   }
@@ -16220,43 +16220,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0229619081
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0102052925
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -16311,6 +16274,43 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.003685995
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0229619081
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0102052925
                       },
                       {
                         "year": 2035,
@@ -16410,43 +16410,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.6280438896
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.2233012502
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7346110919
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7721664312
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.8732404978
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.9601347524
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.8254475176
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.8410539572
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -16517,6 +16480,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 6.2318022762
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.6280438896
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2233012502
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7346110919
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7721664312
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.8732404978
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.9601347524
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.8254475176
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.8410539572
                       }
                     ]
                   }
@@ -16600,43 +16600,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 219.7714691612
-                      },
-                      {
-                        "year": 2020,
-                        "total": 210.1551493248
-                      },
-                      {
-                        "year": 2025,
-                        "total": 198.0344433022
-                      },
-                      {
-                        "year": 2030,
-                        "total": 186.0413349655
-                      },
-                      {
-                        "year": 2035,
-                        "total": 172.7385041093
-                      },
-                      {
-                        "year": 2040,
-                        "total": 167.2183643119
-                      },
-                      {
-                        "year": 2045,
-                        "total": 156.6864635545
-                      },
-                      {
-                        "year": 2050,
-                        "total": 149.4863821025
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -16707,6 +16670,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 13.262705975
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 219.7714691612
+                      },
+                      {
+                        "year": 2020,
+                        "total": 210.1551493248
+                      },
+                      {
+                        "year": 2025,
+                        "total": 198.0344433022
+                      },
+                      {
+                        "year": 2030,
+                        "total": 186.0413349655
+                      },
+                      {
+                        "year": 2035,
+                        "total": 172.7385041093
+                      },
+                      {
+                        "year": 2040,
+                        "total": 167.2183643119
+                      },
+                      {
+                        "year": 2045,
+                        "total": 156.6864635545
+                      },
+                      {
+                        "year": 2050,
+                        "total": 149.4863821025
                       }
                     ]
                   }
@@ -16837,43 +16837,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 29.423252841
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1081.0085679179
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2697.9481499855
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3399.5803713254
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3921.6272002236
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4470.7636263983
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5047.3015043661
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4790.6891166615
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -16907,6 +16870,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 315.9014086823
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 29.423252841
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1081.0085679179
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2697.9481499855
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3399.5803713254
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3921.6272002236
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4470.7636263983
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5047.3015043661
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4790.6891166615
                       }
                     ]
                   }
@@ -17106,43 +17106,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.5136198283
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6.754052327
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.754052327
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.754052327
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.754052327
-                      },
-                      {
-                        "year": 2040,
-                        "total": 6.7116903214
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.2498016058
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.5972564831
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -17213,6 +17176,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.7812057529
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6.5136198283
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6.754052327
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6.754052327
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.754052327
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.754052327
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.7116903214
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.2498016058
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.5972564831
                       }
                     ]
                   }
@@ -17296,43 +17296,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_PP",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.3193540114
-                      },
-                      {
-                        "year": 2020,
-                        "total": 335.8517074991
-                      },
-                      {
-                        "year": 2025,
-                        "total": 336.7388454656
-                      },
-                      {
-                        "year": 2030,
-                        "total": 336.7388454656
-                      },
-                      {
-                        "year": 2035,
-                        "total": 336.7388454656
-                      },
-                      {
-                        "year": 2040,
-                        "total": 249.4050071161
-                      },
-                      {
-                        "year": 2045,
-                        "total": 98.7635021537
-                      },
-                      {
-                        "year": 2050,
-                        "total": 97.8763641872
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Iron and steel",
                     "indicatorGroupValues": [
                       {
@@ -17403,6 +17366,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 9.1154522896
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Pulp and paper",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.3193540114
+                      },
+                      {
+                        "year": 2020,
+                        "total": 335.8517074991
+                      },
+                      {
+                        "year": 2025,
+                        "total": 336.7388454656
+                      },
+                      {
+                        "year": 2030,
+                        "total": 336.7388454656
+                      },
+                      {
+                        "year": 2035,
+                        "total": 336.7388454656
+                      },
+                      {
+                        "year": 2040,
+                        "total": 249.4050071161
+                      },
+                      {
+                        "year": 2045,
+                        "total": 98.7635021537
+                      },
+                      {
+                        "year": 2050,
+                        "total": 97.8763641872
                       }
                     ]
                   }

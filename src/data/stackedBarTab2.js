@@ -2970,6 +2970,43 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7615
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7.7615
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.8092162005
+                      },
+                      {
+                        "year": 2040,
+                        "total": 32.1876468934
+                      },
+                      {
+                        "year": 2045,
+                        "total": 51.5223000524
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.7073323759
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
@@ -3116,43 +3153,6 @@ export default {
                         "total": 33.4478366117
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Refrigeration",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7615
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7.7615
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.8092162005
-                      },
-                      {
-                        "year": 2040,
-                        "total": 32.1876468934
-                      },
-                      {
-                        "year": 2045,
-                        "total": 51.5223000524
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.7073323759
-                      }
-                    ]
                   }
                 ]
               },
@@ -3201,6 +3201,43 @@ export default {
               {
                 "region": "SE",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.8082164469
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.1305674113
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.2860951222
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
@@ -3272,43 +3309,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Refrigeration",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.8082164469
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.1305674113
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.2860951222
                       }
                     ]
                   }
@@ -6845,6 +6845,43 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7.6121950906
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.293985502
+                      },
+                      {
+                        "year": 2045,
+                        "total": 48.2812048656
+                      },
+                      {
+                        "year": 2050,
+                        "total": 51.679156638
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
@@ -6991,43 +7028,6 @@ export default {
                         "total": 30.2232512674
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Refrigeration",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.6121950906
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.293985502
-                      },
-                      {
-                        "year": 2045,
-                        "total": 48.2812048656
-                      },
-                      {
-                        "year": 2050,
-                        "total": 51.679156638
-                      }
-                    ]
                   }
                 ]
               },
@@ -7076,6 +7076,43 @@ export default {
               {
                 "region": "SE",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.555177038
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.2059697393
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.2860951222
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
@@ -7147,43 +7184,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Refrigeration",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 6.555177038
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.2059697393
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.2860951222
                       }
                     ]
                   }
@@ -10720,6 +10720,43 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.88075
+                      },
+                      {
+                        "year": 2040,
+                        "total": 21.1631162881
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.4803488237
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.12260813
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
@@ -10866,43 +10903,6 @@ export default {
                         "total": 14.2392306003
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Refrigeration",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.88075
-                      },
-                      {
-                        "year": 2040,
-                        "total": 21.1631162881
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.4803488237
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.12260813
-                      }
-                    ]
                   }
                 ]
               },
@@ -10951,6 +10951,43 @@ export default {
               {
                 "region": "SE",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.5200300424
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.5200300424
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1430475611
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
@@ -11022,43 +11059,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Refrigeration",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.5200300424
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.5200300424
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1430475611
                       }
                     ]
                   }

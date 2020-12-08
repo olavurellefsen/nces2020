@@ -2723,7 +2723,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2765,7 +2765,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2807,7 +2807,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2849,7 +2849,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2891,7 +2891,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4189,7 +4189,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4226,7 +4226,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4259,43 +4259,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.7192944042
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_TRADE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 33.5072459643
-                      },
-                      {
-                        "year": 2020,
-                        "total": 31.7345209513
-                      },
-                      {
-                        "year": 2025,
-                        "total": 32.8310696967
-                      },
-                      {
-                        "year": 2030,
-                        "total": 32.9975226018
-                      },
-                      {
-                        "year": 2035,
-                        "total": 31.6769435672
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.4817373384
-                      },
-                      {
-                        "year": 2045,
-                        "total": 29.3824683478
-                      },
-                      {
-                        "year": 2050,
-                        "total": 27.7975762844
                       }
                     ]
                   },
@@ -4333,6 +4296,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 193.368947148
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 33.5072459643
+                      },
+                      {
+                        "year": 2020,
+                        "total": 31.7345209513
+                      },
+                      {
+                        "year": 2025,
+                        "total": 32.8310696967
+                      },
+                      {
+                        "year": 2030,
+                        "total": 32.9975226018
+                      },
+                      {
+                        "year": 2035,
+                        "total": 31.6769435672
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.4817373384
+                      },
+                      {
+                        "year": 2045,
+                        "total": 29.3824683478
+                      },
+                      {
+                        "year": 2050,
+                        "total": 27.7975762844
                       }
                     ]
                   }
@@ -4490,7 +4490,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4527,7 +4527,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4564,7 +4564,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_OOTH",
+                    "indicatorGroup": "Other industries",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4828,7 +4828,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5092,7 +5092,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5356,7 +5356,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5625,7 +5625,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5662,7 +5662,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5695,43 +5695,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1894370779
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_TRADE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.1876486823
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.2103614199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.8653751184
-                      },
-                      {
-                        "year": 2030,
-                        "total": 21.3802342702
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.2448119362
-                      },
-                      {
-                        "year": 2040,
-                        "total": 19.8792908466
-                      },
-                      {
-                        "year": 2045,
-                        "total": 15.8355924435
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.7720835719
                       }
                     ]
                   },
@@ -5769,6 +5732,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 1006.5281532705
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.1876486823
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.2103614199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.8653751184
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21.3802342702
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20.2448119362
+                      },
+                      {
+                        "year": 2040,
+                        "total": 19.8792908466
+                      },
+                      {
+                        "year": 2045,
+                        "total": 15.8355924435
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.7720835719
                       }
                     ]
                   }
@@ -5852,7 +5852,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_OOTH",
+                    "indicatorGroup": "Other industries",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6232,7 +6232,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6496,7 +6496,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6728,7 +6728,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6765,7 +6765,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6918,7 +6918,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6955,7 +6955,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6992,7 +6992,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_OOTH",
+                    "indicatorGroup": "Other industries",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7182,7 +7182,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7372,7 +7372,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7562,7 +7562,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10363,7 +10363,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10405,7 +10405,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10447,7 +10447,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10489,7 +10489,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10531,7 +10531,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11829,7 +11829,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11866,7 +11866,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11899,43 +11899,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.0475295654
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_TRADE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 33.5174482772
-                      },
-                      {
-                        "year": 2020,
-                        "total": 31.7797431923
-                      },
-                      {
-                        "year": 2025,
-                        "total": 32.0149202132
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.5786227478
-                      },
-                      {
-                        "year": 2035,
-                        "total": 29.1599964621
-                      },
-                      {
-                        "year": 2040,
-                        "total": 27.6436309858
-                      },
-                      {
-                        "year": 2045,
-                        "total": 27.0367233531
-                      },
-                      {
-                        "year": 2050,
-                        "total": 22.1068446664
                       }
                     ]
                   },
@@ -11973,6 +11936,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 250.3138020996
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 33.5174482772
+                      },
+                      {
+                        "year": 2020,
+                        "total": 31.7797431923
+                      },
+                      {
+                        "year": 2025,
+                        "total": 32.0149202132
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.5786227478
+                      },
+                      {
+                        "year": 2035,
+                        "total": 29.1599964621
+                      },
+                      {
+                        "year": 2040,
+                        "total": 27.6436309858
+                      },
+                      {
+                        "year": 2045,
+                        "total": 27.0367233531
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22.1068446664
                       }
                     ]
                   }
@@ -12130,7 +12130,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12167,7 +12167,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12204,7 +12204,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_OOTH",
+                    "indicatorGroup": "Other industries",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12468,7 +12468,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12732,7 +12732,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12996,7 +12996,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13265,7 +13265,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13302,7 +13302,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13335,43 +13335,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 4.7236000582
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_TRADE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.9205102379
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.1925435905
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.6187574759
-                      },
-                      {
-                        "year": 2030,
-                        "total": 28.9758630525
-                      },
-                      {
-                        "year": 2035,
-                        "total": 27.7203460311
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.9651012212
-                      },
-                      {
-                        "year": 2045,
-                        "total": 22.45056573
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34.1410582021
                       }
                     ]
                   },
@@ -13409,6 +13372,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2227.5279835186
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.9205102379
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.1925435905
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.6187574759
+                      },
+                      {
+                        "year": 2030,
+                        "total": 28.9758630525
+                      },
+                      {
+                        "year": 2035,
+                        "total": 27.7203460311
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.9651012212
+                      },
+                      {
+                        "year": 2045,
+                        "total": 22.45056573
+                      },
+                      {
+                        "year": 2050,
+                        "total": 34.1410582021
                       }
                     ]
                   }
@@ -13492,7 +13492,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_OOTH",
+                    "indicatorGroup": "Other industries",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13872,7 +13872,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14136,7 +14136,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14368,7 +14368,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14405,7 +14405,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14558,7 +14558,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14595,7 +14595,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14632,7 +14632,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_OOTH",
+                    "indicatorGroup": "Other industries",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14822,7 +14822,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15012,7 +15012,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15202,7 +15202,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18003,7 +18003,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18045,7 +18045,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18087,7 +18087,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18129,7 +18129,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18171,7 +18171,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "IND_DEMANDS",
+                    "indicatorGroup": "Other industrial demand",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19469,7 +19469,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19506,7 +19506,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19539,43 +19539,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.3925738481
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_TRADE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.6646396713
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.855046025
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.1735316809
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.1349030452
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.3753242705
-                      },
-                      {
-                        "year": 2040,
-                        "total": 12.6634090479
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.3914073586
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11.0440039619
                       }
                     ]
                   },
@@ -19613,6 +19576,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 86.1560901886
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.6646396713
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.855046025
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.1735316809
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.1349030452
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.3753242705
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.6634090479
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.3914073586
+                      },
+                      {
+                        "year": 2050,
+                        "total": 11.0440039619
                       }
                     ]
                   }
@@ -19770,7 +19770,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19807,7 +19807,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19844,7 +19844,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_OOTH",
+                    "indicatorGroup": "Other industries",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20108,7 +20108,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20372,7 +20372,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20636,7 +20636,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20905,7 +20905,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20942,7 +20942,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20975,43 +20975,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.7978543567
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "IND_TRADE",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.7919502447
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6.0965128765
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.8500239063
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.0654113947
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.3578816723
-                      },
-                      {
-                        "year": 2040,
-                        "total": 15.8718106483
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.800116398
-                      },
-                      {
-                        "year": 2050,
-                        "total": 15.4217656697
                       }
                     ]
                   },
@@ -21049,6 +21012,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 632.7282798643
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.7919502447
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6.0965128765
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7.8500239063
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.0654113947
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.3578816723
+                      },
+                      {
+                        "year": 2040,
+                        "total": 15.8718106483
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.800116398
+                      },
+                      {
+                        "year": 2050,
+                        "total": 15.4217656697
                       }
                     ]
                   }
@@ -21132,7 +21132,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_OOTH",
+                    "indicatorGroup": "Other industries",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21512,7 +21512,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21776,7 +21776,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22008,7 +22008,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22045,7 +22045,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22198,7 +22198,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22235,7 +22235,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MOTOR",
+                    "indicatorGroup": "Motors",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22272,7 +22272,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_OOTH",
+                    "indicatorGroup": "Other industries",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22462,7 +22462,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22652,7 +22652,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22842,7 +22842,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IND_MACHINERY",
+                    "indicatorGroup": "Machinery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
