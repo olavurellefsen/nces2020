@@ -65,7 +65,7 @@
     "tab2": "Supply",
     "tab3": "Power & DH",
     "tab4": "Heavy industry",
-    "tab5": "Other",
+    "tab5": "Other sectors",
     "tab6": "Households",
     "tab7": "Transport",
     "mobile": {
@@ -73,7 +73,7 @@
       "tab2": "Supply",
       "tab3": "Power & DH",
       "tab4": "Heavy industry",
-      "tab5": "Other",
+      "tab5": "Other sectors",
       "tab6": "Households",
       "tab7": "Transport"
     }
