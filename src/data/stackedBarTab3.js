@@ -5,7 +5,7 @@ export default {
         "scenario": "CNS",
         "indicators": [
           {
-            "indicator": "District heat production",
+            "indicator": "District heat production (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -23,27 +23,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 72.4352801652
+                        "total": 137.882639941
                       },
                       {
                         "year": 2030,
-                        "total": 70.7239677423
+                        "total": 132.7667607124
                       },
                       {
                         "year": 2035,
-                        "total": 77.6483689784
+                        "total": 143.352003717
                       },
                       {
                         "year": 2040,
-                        "total": 84.5530070949
+                        "total": 152.8950924918
                       },
                       {
                         "year": 2045,
-                        "total": 81.3599631538
+                        "total": 149.7337903811
                       },
                       {
                         "year": 2050,
-                        "total": 86.1026096899
+                        "total": 151.6754175396
                       }
                     ]
                   },
@@ -52,35 +52,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 3.8138252674
+                        "total": 12.7908630274
                       },
                       {
                         "year": 2020,
-                        "total": 22.6514731886
+                        "total": 42.1320129865
                       },
                       {
                         "year": 2025,
-                        "total": 23.2402076438
+                        "total": 46.4589905103
                       },
                       {
                         "year": 2030,
-                        "total": 54.7500372136
+                        "total": 107.3677177928
                       },
                       {
                         "year": 2035,
-                        "total": 60.1464400662
+                        "total": 118.8028402725
                       },
                       {
                         "year": 2040,
-                        "total": 91.7545725446
+                        "total": 184.6337998969
                       },
                       {
                         "year": 2045,
-                        "total": 122.1414551393
+                        "total": 247.058559304
                       },
                       {
                         "year": 2050,
-                        "total": 128.4420822573
+                        "total": 259.860277754
                       }
                     ]
                   },
@@ -89,15 +89,15 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 45.7936990418
+                        "total": 84.3815796525
                       },
                       {
                         "year": 2020,
-                        "total": 21.5263248662
+                        "total": 45.7454113831
                       },
                       {
                         "year": 2025,
-                        "total": 0.5652110365
+                        "total": 1.8351996565
                       },
                       {
                         "year": 2030,
@@ -126,11 +126,11 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 40.1909920968
+                        "total": 75.8107405683
                       },
                       {
                         "year": 2020,
-                        "total": 26.2472224069
+                        "total": 44.7505620786
                       },
                       {
                         "year": 2025,
@@ -163,35 +163,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": 75.1046581105
                       },
                       {
                         "year": 2020,
-                        "total": 0.0
+                        "total": 46.9573423043
                       },
                       {
                         "year": 2025,
-                        "total": 0.0
+                        "total": 148.2067096681
                       },
                       {
                         "year": 2030,
-                        "total": 0.0
+                        "total": 250.8046586549
                       },
                       {
                         "year": 2035,
-                        "total": 0.0
+                        "total": 305.1884364336
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": 385.4197953028
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 444.6856336604
                       },
                       {
                         "year": 2050,
-                        "total": 0.1593213755
+                        "total": 459.5927067437
                       }
                     ]
                   },
@@ -200,23 +200,23 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2.0315495859
+                        "total": 4.0630991718
                       },
                       {
                         "year": 2020,
-                        "total": 3.6613152863
+                        "total": 7.3226305726
                       },
                       {
                         "year": 2025,
-                        "total": 3.6613152863
+                        "total": 7.3226305726
                       },
                       {
                         "year": 2030,
-                        "total": 3.6576764793
+                        "total": 7.3153529587
                       },
                       {
                         "year": 2035,
-                        "total": 2.0761442001
+                        "total": 4.1522884002
                       },
                       {
                         "year": 2040,
@@ -237,35 +237,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 21.4601642186
+                        "total": 42.7717730025
                       },
                       {
                         "year": 2020,
-                        "total": 19.4483813137
+                        "total": 38.2642569664
                       },
                       {
                         "year": 2025,
-                        "total": 17.633490634
+                        "total": 36.2379866077
                       },
                       {
                         "year": 2030,
-                        "total": 20.2312265882
+                        "total": 40.4934263877
                       },
                       {
                         "year": 2035,
-                        "total": 23.8934317117
+                        "total": 47.7871067273
                       },
                       {
                         "year": 2040,
-                        "total": 23.9391729882
+                        "total": 47.8909029141
                       },
                       {
                         "year": 2045,
-                        "total": 23.9402293146
+                        "total": 47.8932839754
                       },
                       {
                         "year": 2050,
-                        "total": 23.9446813095
+                        "total": 47.8976900746
                       }
                     ]
                   }
@@ -279,35 +279,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4.0151455933
+                        "total": 8.0302911866
                       },
                       {
                         "year": 2020,
-                        "total": 3.8460357284
+                        "total": 8.1677843032
                       },
                       {
                         "year": 2025,
-                        "total": 13.4169359054
+                        "total": 26.8840005939
                       },
                       {
                         "year": 2030,
-                        "total": 14.1379147698
+                        "total": 28.3259583228
                       },
                       {
                         "year": 2035,
-                        "total": 21.2269761052
+                        "total": 43.4086277694
                       },
                       {
                         "year": 2040,
-                        "total": 19.5379764822
+                        "total": 40.0310953448
                       },
                       {
                         "year": 2045,
-                        "total": 18.8617526346
+                        "total": 38.6782873487
                       },
                       {
                         "year": 2050,
-                        "total": 7.3472238778
+                        "total": 15.4657873153
                       }
                     ]
                   },
@@ -316,35 +316,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 19.4178084814
+                        "total": 38.8356169628
                       },
                       {
                         "year": 2020,
-                        "total": 17.5650984439
+                        "total": 35.1127726945
                       },
                       {
                         "year": 2025,
-                        "total": 2.8997106118
+                        "total": 5.7559771061
                       },
                       {
                         "year": 2030,
-                        "total": 2.3088660909
+                        "total": 4.620114726
                       },
                       {
                         "year": 2035,
-                        "total": 1.5156178928
+                        "total": 3.1844775298
                       },
                       {
                         "year": 2040,
-                        "total": 1.2335462639
+                        "total": 2.6278150078
                       },
                       {
                         "year": 2045,
-                        "total": 1.0026353374
+                        "total": 2.1659523351
                       },
                       {
                         "year": 2050,
-                        "total": 0.5138097978
+                        "total": 1.071748639
                       }
                     ]
                   },
@@ -353,35 +353,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.1427473239
+                        "total": 16.3922731512
                       },
                       {
                         "year": 2020,
-                        "total": 12.9199701032
+                        "total": 25.9280039232
                       },
                       {
                         "year": 2025,
-                        "total": 5.8472131969
+                        "total": 11.6141877105
                       },
                       {
                         "year": 2030,
-                        "total": 6.8985460285
+                        "total": 13.7855664909
                       },
                       {
                         "year": 2035,
-                        "total": 4.2622310073
+                        "total": 8.5057972921
                       },
                       {
                         "year": 2040,
-                        "total": 3.7761782449
+                        "total": 7.6446699728
                       },
                       {
                         "year": 2045,
-                        "total": 3.2744177097
+                        "total": 6.7355268662
                       },
                       {
                         "year": 2050,
-                        "total": 4.4251835694
+                        "total": 9.044155096
                       }
                     ]
                   },
@@ -402,23 +402,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 1.155492931
+                        "total": 2.7307740864
                       },
                       {
                         "year": 2035,
-                        "total": 1.155492931
+                        "total": 2.7307740864
                       },
                       {
                         "year": 2040,
-                        "total": 4.8735787939
+                        "total": 9.8557866468
                       },
                       {
                         "year": 2045,
-                        "total": 5.3682515155
+                        "total": 10.6295606382
                       },
                       {
                         "year": 2050,
-                        "total": 15.0488601348
+                        "total": 29.3435513021
                       }
                     ]
                   },
@@ -427,35 +427,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 87.4591859857
+                        "total": 175.6044103674
                       },
                       {
                         "year": 2020,
-                        "total": 90.3846052218
+                        "total": 180.3775811759
                       },
                       {
                         "year": 2025,
-                        "total": 95.8049530895
+                        "total": 191.4830059247
                       },
                       {
                         "year": 2030,
-                        "total": 82.3716849276
+                        "total": 164.2902086021
                       },
                       {
                         "year": 2035,
-                        "total": 76.6672357236
+                        "total": 151.586889715
                       },
                       {
                         "year": 2040,
-                        "total": 66.31534014
+                        "total": 131.8487981616
                       },
                       {
                         "year": 2045,
-                        "total": 58.5493388088
+                        "total": 116.865004953
                       },
                       {
                         "year": 2050,
-                        "total": 63.5587890472
+                        "total": 127.6572681614
                       }
                     ]
                   },
@@ -464,35 +464,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.1089267243
+                        "total": 16.2178534486
                       },
                       {
                         "year": 2020,
-                        "total": 11.7879282707
+                        "total": 23.3968611233
                       },
                       {
                         "year": 2025,
-                        "total": 10.693965651
+                        "total": 21.4217798491
                       },
                       {
                         "year": 2030,
-                        "total": 10.1868342913
+                        "total": 20.3736685825
                       },
                       {
                         "year": 2035,
-                        "total": 11.0438935947
+                        "total": 22.0877871893
                       },
                       {
                         "year": 2040,
-                        "total": 11.0781436819
+                        "total": 22.2410668632
                       },
                       {
                         "year": 2045,
-                        "total": 9.8423468066
+                        "total": 19.6944636722
                       },
                       {
                         "year": 2050,
-                        "total": 7.4448988176
+                        "total": 14.8959610659
                       }
                     ]
                   }
@@ -534,7 +534,44 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 7.7355235738
+                        "total": 8.1310323334
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 15.5794717814
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.6446018618
+                      },
+                      {
+                        "year": 2025,
+                        "total": 15.2793143562
+                      },
+                      {
+                        "year": 2030,
+                        "total": 23.9673474731
+                      },
+                      {
+                        "year": 2035,
+                        "total": 27.2222688036
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.4581397191
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32.5406197579
+                      },
+                      {
+                        "year": 2050,
+                        "total": 34.5581924292
                       }
                     ]
                   },
@@ -543,35 +580,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 11.2024205294
+                        "total": 22.4048410588
                       },
                       {
                         "year": 2020,
-                        "total": 11.2349855696
+                        "total": 22.4699711392
                       },
                       {
                         "year": 2025,
-                        "total": 11.0527632638
+                        "total": 22.1046836336
                       },
                       {
                         "year": 2030,
-                        "total": 11.9838048516
+                        "total": 23.9673474731
                       },
                       {
                         "year": 2035,
-                        "total": 13.6121476345
+                        "total": 27.2222688036
                       },
                       {
                         "year": 2040,
-                        "total": 13.2280107106
+                        "total": 26.4581397191
                       },
                       {
                         "year": 2045,
-                        "total": 13.237228177
+                        "total": 26.4758734291
                       },
                       {
                         "year": 2050,
-                        "total": 13.227545675
+                        "total": 26.4271600957
                       }
                     ]
                   }
@@ -585,35 +622,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 134.1431805723
+                        "total": 212.6077310711
                       },
                       {
                         "year": 2020,
-                        "total": 123.5955981618
+                        "total": 234.578421416
                       },
                       {
                         "year": 2025,
-                        "total": 131.3776941776
+                        "total": 246.9466770594
                       },
                       {
                         "year": 2030,
-                        "total": 79.8370422987
+                        "total": 144.813714072
                       },
                       {
                         "year": 2035,
-                        "total": 86.5565513508
+                        "total": 153.410270004
                       },
                       {
                         "year": 2040,
-                        "total": 71.3150175194
+                        "total": 130.3211083817
                       },
                       {
                         "year": 2045,
-                        "total": 65.9415577001
+                        "total": 123.4989303985
                       },
                       {
                         "year": 2050,
-                        "total": 63.6026850594
+                        "total": 121.4666493483
                       }
                     ]
                   },
@@ -622,35 +659,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": 0.0640175752
                       },
                       {
                         "year": 2020,
-                        "total": 0.0
+                        "total": 0.059890786
                       },
                       {
                         "year": 2025,
-                        "total": 0.150515131
+                        "total": 1.1963906489
                       },
                       {
                         "year": 2030,
-                        "total": 57.7292836575
+                        "total": 114.7921471053
                       },
                       {
                         "year": 2035,
-                        "total": 54.7975883695
+                        "total": 104.9751316366
                       },
                       {
                         "year": 2040,
-                        "total": 84.9414345343
+                        "total": 168.5978892937
                       },
                       {
                         "year": 2045,
-                        "total": 109.4791241214
+                        "total": 216.0451438285
                       },
                       {
                         "year": 2050,
-                        "total": 114.9393325004
+                        "total": 241.3331532277
                       }
                     ]
                   },
@@ -659,7 +696,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4.5211623216
+                        "total": 9.0423246432
                       },
                       {
                         "year": 2020,
@@ -696,7 +733,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 25.5171827874
+                        "total": 91.3843348254
                       },
                       {
                         "year": 2020,
@@ -733,35 +770,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4.2123823748
+                        "total": 309.1925660814
                       },
                       {
                         "year": 2020,
-                        "total": 0.0054206962
+                        "total": 235.121312478
                       },
                       {
                         "year": 2025,
-                        "total": 0.0064139116
+                        "total": 250.806784555
                       },
                       {
                         "year": 2030,
-                        "total": 0.0038933211
+                        "total": 272.7123898426
                       },
                       {
                         "year": 2035,
-                        "total": 0.0
+                        "total": 338.5036980483
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": 414.7023070848
                       },
                       {
                         "year": 2045,
-                        "total": 0.0059652069
+                        "total": 455.3334214137
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 478.5815743213
                       }
                     ]
                   },
@@ -770,35 +807,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 42.5582295488
+                        "total": 85.1302888866
                       },
                       {
                         "year": 2020,
-                        "total": 48.966432718
+                        "total": 97.9272992336
                       },
                       {
                         "year": 2025,
-                        "total": 49.2507526441
+                        "total": 98.4042760087
                       },
                       {
                         "year": 2030,
-                        "total": 49.6765603055
+                        "total": 99.594588272
                       },
                       {
                         "year": 2035,
-                        "total": 55.289157082
+                        "total": 110.5821617879
                       },
                       {
                         "year": 2040,
-                        "total": 57.888763387
+                        "total": 115.7833094093
                       },
                       {
                         "year": 2045,
-                        "total": 57.8888090127
+                        "total": 115.7833819798
                       },
                       {
                         "year": 2050,
-                        "total": 57.8871987782
+                        "total": 115.7817717453
                       }
                     ]
                   }
@@ -807,506 +844,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal Prices - District Heat",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Heat (Central)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 21.0919852379
-                      },
-                      {
-                        "year": 2020,
-                        "total": 193.7541212477
-                      },
-                      {
-                        "year": 2025,
-                        "total": 289.9890756543
-                      },
-                      {
-                        "year": 2030,
-                        "total": 85.0070622506
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.3620253158
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4713884948
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4409102597
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.592006159
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heat (Decentral)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.0922077348
-                      },
-                      {
-                        "year": 2020,
-                        "total": 42.3227825401
-                      },
-                      {
-                        "year": 2025,
-                        "total": 62.6492290217
-                      },
-                      {
-                        "year": 2030,
-                        "total": 216.7076299816
-                      },
-                      {
-                        "year": 2035,
-                        "total": 92.0653039042
-                      },
-                      {
-                        "year": 2040,
-                        "total": 131.4858278339
-                      },
-                      {
-                        "year": 2045,
-                        "total": 97.5542356747
-                      },
-                      {
-                        "year": 2050,
-                        "total": 144.03133779
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 29.8266911257
-                      },
-                      {
-                        "year": 2020,
-                        "total": 126.0673938814
-                      },
-                      {
-                        "year": 2025,
-                        "total": 336.4632306373
-                      },
-                      {
-                        "year": 2030,
-                        "total": 241.5557524366
-                      },
-                      {
-                        "year": 2035,
-                        "total": 399.5894760962
-                      },
-                      {
-                        "year": 2040,
-                        "total": 459.7113126087
-                      },
-                      {
-                        "year": 2045,
-                        "total": 394.321027676
-                      },
-                      {
-                        "year": 2050,
-                        "total": 392.9556864656
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Heat (Central)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.6153701584
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.829981719
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.4696802237
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4749467049
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.3076850793
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.0761258805
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3076850793
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.3076850793
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heat (Decentral)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1567633797
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.8973898625
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.4396172181
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4396172181
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.3076850793
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.1691607139
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2455579504
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.2455579504
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Heat (Central)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 139.9038479141
-                      },
-                      {
-                        "year": 2020,
-                        "total": 132.9389705941
-                      },
-                      {
-                        "year": 2025,
-                        "total": 130.0377939505
-                      },
-                      {
-                        "year": 2030,
-                        "total": 110.2364876549
-                      },
-                      {
-                        "year": 2035,
-                        "total": 97.4784183998
-                      },
-                      {
-                        "year": 2040,
-                        "total": 101.1539481366
-                      },
-                      {
-                        "year": 2045,
-                        "total": 80.6335390581
-                      },
-                      {
-                        "year": 2050,
-                        "total": 33.9696759998
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heat (Decentral)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 191.8892295552
-                      },
-                      {
-                        "year": 2020,
-                        "total": 106.6897047639
-                      },
-                      {
-                        "year": 2025,
-                        "total": 103.2796114464
-                      },
-                      {
-                        "year": 2030,
-                        "total": 113.4053254201
-                      },
-                      {
-                        "year": 2035,
-                        "total": 132.671294762
-                      },
-                      {
-                        "year": 2040,
-                        "total": 162.4182176281
-                      },
-                      {
-                        "year": 2045,
-                        "total": 161.5687568907
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.4041117458
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Marginal Prices - Electricity ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 190.4014615885
-                      },
-                      {
-                        "year": 2020,
-                        "total": 399.9795497882
-                      },
-                      {
-                        "year": 2025,
-                        "total": 335.3014752719
-                      },
-                      {
-                        "year": 2030,
-                        "total": 375.5166521526
-                      },
-                      {
-                        "year": 2035,
-                        "total": 432.264470836
-                      },
-                      {
-                        "year": 2040,
-                        "total": 384.6955037834
-                      },
-                      {
-                        "year": 2045,
-                        "total": 347.6329108934
-                      },
-                      {
-                        "year": 2050,
-                        "total": 247.6274829845
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 36.7648269133
-                      },
-                      {
-                        "year": 2020,
-                        "total": 80.2898441927
-                      },
-                      {
-                        "year": 2025,
-                        "total": 413.3669817401
-                      },
-                      {
-                        "year": 2030,
-                        "total": 272.5455729358
-                      },
-                      {
-                        "year": 2035,
-                        "total": 415.257567651
-                      },
-                      {
-                        "year": 2040,
-                        "total": 460.2549018475
-                      },
-                      {
-                        "year": 2045,
-                        "total": 433.6784371601
-                      },
-                      {
-                        "year": 2050,
-                        "total": 524.4310857179
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "IS",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.2294e-06
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2294e-06
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 18.1135183474
-                      },
-                      {
-                        "year": 2020,
-                        "total": 75.9778267611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 78.3133804277
-                      },
-                      {
-                        "year": 2030,
-                        "total": 155.3460692158
-                      },
-                      {
-                        "year": 2035,
-                        "total": 182.924393524
-                      },
-                      {
-                        "year": 2040,
-                        "total": 180.2381900813
-                      },
-                      {
-                        "year": 2045,
-                        "total": 239.2355327404
-                      },
-                      {
-                        "year": 2050,
-                        "total": 198.8990956202
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 160.3780524701
-                      },
-                      {
-                        "year": 2020,
-                        "total": 96.5218995845
-                      },
-                      {
-                        "year": 2025,
-                        "total": 46.4144735923
-                      },
-                      {
-                        "year": 2030,
-                        "total": 154.8820311157
-                      },
-                      {
-                        "year": 2035,
-                        "total": 210.5158310794
-                      },
-                      {
-                        "year": 2040,
-                        "total": 239.4582473654
-                      },
-                      {
-                        "year": 2045,
-                        "total": 312.5922205974
-                      },
-                      {
-                        "year": 2050,
-                        "total": 236.4518718035
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power & Heat fuel consumption",
+            "indicator": "Power & Heat fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -1316,15 +854,15 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 141.7899866703
+                        "total": 322.9480614246
                       },
                       {
                         "year": 2020,
-                        "total": 44.3440313179
+                        "total": 92.4443727068
                       },
                       {
                         "year": 2025,
-                        "total": 1.1213820464
+                        "total": 3.9350151621
                       },
                       {
                         "year": 2030,
@@ -1361,27 +899,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 16.5997517045
+                        "total": 31.5981049865
                       },
                       {
                         "year": 2030,
-                        "total": 16.2075759409
+                        "total": 30.4257159966
                       },
                       {
                         "year": 2035,
-                        "total": 17.3277187003
+                        "total": 31.9490806907
                       },
                       {
                         "year": 2040,
-                        "total": 18.5847221091
+                        "total": 33.5463559514
                       },
                       {
                         "year": 2045,
-                        "total": 15.096064053
+                        "total": 27.9608568052
                       },
                       {
                         "year": 2050,
-                        "total": 15.8007279819
+                        "total": 27.7691532917
                       }
                     ]
                   },
@@ -1390,23 +928,23 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.052803
+                        "total": 0.105606
                       },
                       {
                         "year": 2020,
-                        "total": 0.052803
+                        "total": 0.105606
                       },
                       {
                         "year": 2025,
-                        "total": 0.052803
+                        "total": 0.105606
                       },
                       {
                         "year": 2030,
-                        "total": 0.052803
+                        "total": 0.105606
                       },
                       {
                         "year": 2035,
-                        "total": 0.0264015
+                        "total": 0.052803
                       },
                       {
                         "year": 2040,
@@ -1427,23 +965,23 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 57.5689324583
+                        "total": 122.5910524588
                       },
                       {
                         "year": 2020,
-                        "total": 31.0730763214
+                        "total": 57.6037314207
                       },
                       {
                         "year": 2025,
-                        "total": 1.001176929
+                        "total": 2.6895246755
                       },
                       {
                         "year": 2030,
-                        "total": 2.0020850246
+                        "total": 3.721705504
                       },
                       {
                         "year": 2035,
-                        "total": 0.3662024646
+                        "total": 0.750882959
                       },
                       {
                         "year": 2040,
@@ -1501,35 +1039,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.1363141414
+                        "total": 22.799352033
                       },
                       {
                         "year": 2020,
-                        "total": 36.1926244026
+                        "total": 69.3331512201
                       },
                       {
                         "year": 2025,
-                        "total": 99.4661049159
+                        "total": 193.6581218808
                       },
                       {
                         "year": 2030,
-                        "total": 141.9514409745
+                        "total": 276.6065066517
                       },
                       {
                         "year": 2035,
-                        "total": 168.7359198103
+                        "total": 326.4285097621
                       },
                       {
                         "year": 2040,
-                        "total": 216.5115359432
+                        "total": 421.8595868094
                       },
                       {
                         "year": 2045,
-                        "total": 261.8806817174
+                        "total": 516.6493880344
                       },
                       {
                         "year": 2050,
-                        "total": 277.8433825026
+                        "total": 546.1139208893
                       }
                     ]
                   },
@@ -1538,35 +1076,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 35.8193135488
+                        "total": 71.6386271094
                       },
                       {
                         "year": 2020,
-                        "total": 30.101043992
+                        "total": 60.2020879839
                       },
                       {
                         "year": 2025,
-                        "total": 30.101043992
+                        "total": 60.2020879839
                       },
                       {
                         "year": 2030,
-                        "total": 30.101043992
+                        "total": 60.2020879839
                       },
                       {
                         "year": 2035,
-                        "total": 30.101043992
+                        "total": 60.2020879839
                       },
                       {
                         "year": 2040,
-                        "total": 30.101043992
+                        "total": 60.2020879839
                       },
                       {
                         "year": 2045,
-                        "total": 30.101043992
+                        "total": 60.2020879839
                       },
                       {
                         "year": 2050,
-                        "total": 30.101043992
+                        "total": 60.2020879839
                       }
                     ]
                   },
@@ -1575,35 +1113,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 51.3077466737
+                        "total": 108.6171958455
                       },
                       {
                         "year": 2020,
-                        "total": 71.3710501421
+                        "total": 150.9065075171
                       },
                       {
                         "year": 2025,
-                        "total": 62.6204943812
+                        "total": 133.6791264782
                       },
                       {
                         "year": 2030,
-                        "total": 89.888798743
+                        "total": 179.9972678597
                       },
                       {
                         "year": 2035,
-                        "total": 222.183486003
+                        "total": 453.7223735838
                       },
                       {
                         "year": 2040,
-                        "total": 309.4182369068
+                        "total": 632.2220442781
                       },
                       {
                         "year": 2045,
-                        "total": 329.0238464816
+                        "total": 668.8062931384
                       },
                       {
                         "year": 2050,
-                        "total": 357.9660616978
+                        "total": 727.8293083696
                       }
                     ]
                   }
@@ -1617,35 +1155,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 60.0637070533
+                        "total": 121.3557951718
                       },
                       {
                         "year": 2020,
-                        "total": 101.983422663
+                        "total": 203.2988431624
                       },
                       {
                         "year": 2025,
-                        "total": 112.73496813
+                        "total": 225.7277664846
                       },
                       {
                         "year": 2030,
-                        "total": 94.9844750576
+                        "total": 190.9554132522
                       },
                       {
                         "year": 2035,
-                        "total": 98.9199232132
+                        "total": 195.7054442393
                       },
                       {
                         "year": 2040,
-                        "total": 83.2072628875
+                        "total": 166.3399541667
                       },
                       {
                         "year": 2045,
-                        "total": 73.2541647169
+                        "total": 146.5988224006
                       },
                       {
                         "year": 2050,
-                        "total": 94.2292820308
+                        "total": 189.9124660195
                       }
                     ]
                   },
@@ -1654,35 +1192,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 133.9903857781
+                        "total": 269.0032795349
                       },
                       {
                         "year": 2020,
-                        "total": 94.0141529462
+                        "total": 188.3315062534
                       },
                       {
                         "year": 2025,
-                        "total": 43.0502141233
+                        "total": 87.2546483969
                       },
                       {
                         "year": 2030,
-                        "total": 13.2188989218
+                        "total": 26.3210593484
                       },
                       {
                         "year": 2035,
-                        "total": 5.2972691344
+                        "total": 11.0713473651
                       },
                       {
                         "year": 2040,
-                        "total": 9.0740052785
+                        "total": 18.1079293969
                       },
                       {
                         "year": 2045,
-                        "total": 10.0925517358
+                        "total": 20.7730437351
                       },
                       {
                         "year": 2050,
-                        "total": 1.4989672976
+                        "total": 3.0713529589
                       }
                     ]
                   },
@@ -1691,35 +1229,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1.3055638119
+                        "total": 2.6112694932
                       },
                       {
                         "year": 2020,
-                        "total": 2.2251194801
+                        "total": 4.6457415084
                       },
                       {
                         "year": 2025,
-                        "total": 3.2761787661
+                        "total": 6.5529590776
                       },
                       {
                         "year": 2030,
-                        "total": 4.3541063572
+                        "total": 8.7088142598
                       },
                       {
                         "year": 2035,
-                        "total": 3.9664930514
+                        "total": 7.9444422095
                       },
                       {
                         "year": 2040,
-                        "total": 3.4501334361
+                        "total": 6.9114208781
                       },
                       {
                         "year": 2045,
-                        "total": 3.3338567484
+                        "total": 6.7457070216
                       },
                       {
                         "year": 2050,
-                        "total": 3.2617251097
+                        "total": 6.7450438269
                       }
                     ]
                   },
@@ -1736,27 +1274,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 5.3195545273
+                        "total": 10.6685490814
                       },
                       {
                         "year": 2030,
-                        "total": 5.2886268847
+                        "total": 10.6065226332
                       },
                       {
                         "year": 2035,
-                        "total": 10.3290325078
+                        "total": 21.2138820965
                       },
                       {
                         "year": 2040,
-                        "total": 10.2994364261
+                        "total": 21.1530973341
                       },
                       {
                         "year": 2045,
-                        "total": 10.2698403444
+                        "total": 21.0923125716
                       },
                       {
                         "year": 2050,
-                        "total": 4.0310381688
+                        "total": 8.5075758621
                       }
                     ]
                   },
@@ -1765,35 +1303,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 72.4557454072
+                        "total": 142.5067362789
                       },
                       {
                         "year": 2020,
-                        "total": 71.6599104616
+                        "total": 144.4343907412
                       },
                       {
                         "year": 2025,
-                        "total": 72.3662631595
+                        "total": 144.1943866411
                       },
                       {
                         "year": 2030,
-                        "total": 72.8416253581
+                        "total": 144.9463567913
                       },
                       {
                         "year": 2035,
-                        "total": 72.5026524422
+                        "total": 145.0858052024
                       },
                       {
                         "year": 2040,
-                        "total": 74.0918459918
+                        "total": 147.2625473071
                       },
                       {
                         "year": 2045,
-                        "total": 72.9485443771
+                        "total": 146.7480010294
                       },
                       {
                         "year": 2050,
-                        "total": 74.4998503452
+                        "total": 148.7328421529
                       }
                     ]
                   },
@@ -1802,35 +1340,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 37.7235924039
+                        "total": 75.4471848079
                       },
                       {
                         "year": 2020,
-                        "total": 42.0916077517
+                        "total": 84.1418210804
                       },
                       {
                         "year": 2025,
-                        "total": 5.4032265397
+                        "total": 10.6512953797
                       },
                       {
                         "year": 2030,
-                        "total": 3.768481046
+                        "total": 7.536962092
                       },
                       {
                         "year": 2035,
-                        "total": 2.8344883774
+                        "total": 5.9940644949
                       },
                       {
                         "year": 2040,
-                        "total": 2.0077724953
+                        "total": 4.2495863217
                       },
                       {
                         "year": 2045,
-                        "total": 1.40991713
+                        "total": 3.0551214698
                       },
                       {
                         "year": 2050,
-                        "total": 0.5430697834
+                        "total": 1.1327816318
                       }
                     ]
                   },
@@ -1839,35 +1377,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 253.6208504844
+                        "total": 507.2417009687
                       },
                       {
                         "year": 2020,
-                        "total": 284.2243577191
+                        "total": 568.4487154382
                       },
                       {
                         "year": 2025,
-                        "total": 364.9072165584
+                        "total": 729.8144331168
                       },
                       {
                         "year": 2030,
-                        "total": 442.6864290819
+                        "total": 885.3728581637
                       },
                       {
                         "year": 2035,
-                        "total": 414.0968338528
+                        "total": 828.1936677057
                       },
                       {
                         "year": 2040,
-                        "total": 386.6541759988
+                        "total": 773.3083519976
                       },
                       {
                         "year": 2045,
-                        "total": 332.479342923
+                        "total": 664.958685846
                       },
                       {
                         "year": 2050,
-                        "total": 275.7884555024
+                        "total": 551.5769110048
                       }
                     ]
                   },
@@ -1876,35 +1414,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 9.7827020406
+                        "total": 19.5660496685
                       },
                       {
                         "year": 2020,
-                        "total": 14.7520574395
+                        "total": 29.4821056796
                       },
                       {
                         "year": 2025,
-                        "total": 5.4406397322
+                        "total": 10.7086309777
                       },
                       {
                         "year": 2030,
-                        "total": 6.584625648
+                        "total": 13.1554639114
                       },
                       {
                         "year": 2035,
-                        "total": 2.1528567332
+                        "total": 4.1936159577
                       },
                       {
                         "year": 2040,
-                        "total": 1.611489636
+                        "total": 3.2228980297
                       },
                       {
                         "year": 2045,
-                        "total": 1.1961750072
+                        "total": 2.3920489482
                       },
                       {
                         "year": 2050,
-                        "total": 0.8378051422
+                        "total": 1.6741444351
                       }
                     ]
                   },
@@ -1913,35 +1451,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2.7095817814
+                        "total": 5.4190216933
                       },
                       {
                         "year": 2020,
-                        "total": 5.1048362482
+                        "total": 10.4898827949
                       },
                       {
                         "year": 2025,
-                        "total": 11.0012615872
+                        "total": 22.0232119307
                       },
                       {
                         "year": 2030,
-                        "total": 14.4210405076
+                        "total": 29.282729159
                       },
                       {
                         "year": 2035,
-                        "total": 34.8287589857
+                        "total": 72.8884660435
                       },
                       {
                         "year": 2040,
-                        "total": 55.3930151456
+                        "total": 111.3384870848
                       },
                       {
                         "year": 2045,
-                        "total": 62.7018135337
+                        "total": 125.7309826609
                       },
                       {
                         "year": 2050,
-                        "total": 78.5433591696
+                        "total": 156.7245604668
                       }
                     ]
                   },
@@ -1950,35 +1488,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 13.0387935944
+                        "total": 26.0775871888
                       },
                       {
                         "year": 2020,
-                        "total": 20.2942493541
+                        "total": 40.5659172893
                       },
                       {
                         "year": 2025,
-                        "total": 18.7785111555
+                        "total": 37.5752788689
                       },
                       {
                         "year": 2030,
-                        "total": 17.8515556628
+                        "total": 35.7031113256
                       },
                       {
                         "year": 2035,
-                        "total": 18.2411903895
+                        "total": 36.4823807789
                       },
                       {
                         "year": 2040,
-                        "total": 18.9528642164
+                        "total": 37.8699829286
                       },
                       {
                         "year": 2045,
-                        "total": 16.7726860437
+                        "total": 33.5617276347
                       },
                       {
                         "year": 2050,
-                        "total": 13.3124892445
+                        "total": 26.6353522116
                       }
                     ]
                   },
@@ -1987,35 +1525,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 12.5167473152
+                        "total": 25.0334946304
                       },
                       {
                         "year": 2020,
-                        "total": 26.3352006374
+                        "total": 53.0392878141
                       },
                       {
                         "year": 2025,
-                        "total": 49.8728967424
+                        "total": 98.8606634407
                       },
                       {
                         "year": 2030,
-                        "total": 49.8631617848
+                        "total": 98.8411935255
                       },
                       {
                         "year": 2035,
-                        "total": 53.4272429604
+                        "total": 104.9405483176
                       },
                       {
                         "year": 2040,
-                        "total": 54.0301189596
+                        "total": 108.4327715241
                       },
                       {
                         "year": 2045,
-                        "total": 71.8057310589
+                        "total": 143.6302249905
                       },
                       {
                         "year": 2050,
-                        "total": 76.0897155551
+                        "total": 152.1696097482
                       }
                     ]
                   }
@@ -2029,11 +1567,11 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 18.3451325085
+                        "total": 33.4354474186
                       },
                       {
                         "year": 2020,
-                        "total": 0.5556827586
+                        "total": 1.1113655172
                       },
                       {
                         "year": 2025,
@@ -2071,35 +1609,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 500.7848666075
+                        "total": 1016.5911014393
                       },
                       {
                         "year": 2020,
-                        "total": 502.3325155205
+                        "total": 1035.9335112148
                       },
                       {
                         "year": 2025,
-                        "total": 502.3325155205
+                        "total": 1035.9335112148
                       },
                       {
                         "year": 2030,
-                        "total": 502.3325155205
+                        "total": 1035.9335112148
                       },
                       {
                         "year": 2035,
-                        "total": 520.3535411332
+                        "total": 1063.9575813807
                       },
                       {
                         "year": 2040,
-                        "total": 524.848792364
+                        "total": 1052.453323932
                       },
                       {
                         "year": 2045,
-                        "total": 476.7790709096
+                        "total": 953.5581418193
                       },
                       {
                         "year": 2050,
-                        "total": 425.9536102512
+                        "total": 851.9072205025
                       }
                     ]
                   },
@@ -2124,19 +1662,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 0.0974590122
+                        "total": 0.1949180245
                       },
                       {
                         "year": 2040,
-                        "total": 0.124308
+                        "total": 0.248616
                       },
                       {
                         "year": 2045,
-                        "total": 7.2102659099
+                        "total": 7.3345739099
                       },
                       {
                         "year": 2050,
-                        "total": 9.1623767804
+                        "total": 9.748791235
                       }
                     ]
                   },
@@ -2145,35 +1683,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 16.7130770744
+                        "total": 33.4261541488
                       },
                       {
                         "year": 2020,
-                        "total": 16.7550063107
+                        "total": 33.5100126215
                       },
                       {
                         "year": 2025,
-                        "total": 16.7550063107
+                        "total": 33.5100126215
                       },
                       {
                         "year": 2030,
-                        "total": 16.7550063107
+                        "total": 33.5100126215
                       },
                       {
                         "year": 2035,
-                        "total": 16.7550063107
+                        "total": 33.5100126215
                       },
                       {
                         "year": 2040,
-                        "total": 16.7550063107
+                        "total": 33.5100126215
                       },
                       {
                         "year": 2045,
-                        "total": 16.7550063107
+                        "total": 33.5100126215
                       },
                       {
                         "year": 2050,
-                        "total": 16.7550063107
+                        "total": 33.5100126215
                       }
                     ]
                   },
@@ -2182,35 +1720,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 11.5899
+                        "total": 23.1798
                       },
                       {
                         "year": 2020,
-                        "total": 11.5228976471
+                        "total": 23.0457952941
                       },
                       {
                         "year": 2025,
-                        "total": 9.5053823529
+                        "total": 19.0107647059
                       },
                       {
                         "year": 2030,
-                        "total": 7.0955966098
+                        "total": 14.1911932195
                       },
                       {
                         "year": 2035,
-                        "total": 1.0399371423
+                        "total": 8.9552305385
                       },
                       {
                         "year": 2040,
-                        "total": 20.2779784048
+                        "total": 42.4070296857
                       },
                       {
                         "year": 2045,
-                        "total": 64.1279982087
+                        "total": 164.588343933
                       },
                       {
                         "year": 2050,
-                        "total": 185.0595818742
+                        "total": 404.108160298
                       }
                     ]
                   }
@@ -2224,23 +1762,23 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 17.8519662439
+                        "total": 35.7039324878
                       },
                       {
                         "year": 2020,
-                        "total": 13.9602376027
+                        "total": 27.9204752055
                       },
                       {
                         "year": 2025,
-                        "total": 10.0685089616
+                        "total": 20.1370179231
                       },
                       {
                         "year": 2030,
-                        "total": 5.3161400317
+                        "total": 10.6322800634
                       },
                       {
                         "year": 2035,
-                        "total": 1.9458643206
+                        "total": 3.8917286412
                       },
                       {
                         "year": 2040,
@@ -2261,7 +1799,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 31.5065219126
+                        "total": 61.2318370248
                       },
                       {
                         "year": 2020,
@@ -2269,15 +1807,15 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 0.0
+                        "total": 0.2245803748
                       },
                       {
                         "year": 2030,
-                        "total": 0.0
+                        "total": 0.1185777085
                       },
                       {
                         "year": 2035,
-                        "total": 0.9114339675
+                        "total": 1.8228679349
                       },
                       {
                         "year": 2040,
@@ -2298,35 +1836,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 40.9000119271
+                        "total": 65.8794010165
                       },
                       {
                         "year": 2020,
-                        "total": 37.3220011855
+                        "total": 69.8984812003
                       },
                       {
                         "year": 2025,
-                        "total": 39.8453815579
+                        "total": 73.7970605632
                       },
                       {
                         "year": 2030,
-                        "total": 23.0062206113
+                        "total": 40.1856452136
                       },
                       {
                         "year": 2035,
-                        "total": 24.7853658087
+                        "total": 42.0218920676
                       },
                       {
                         "year": 2040,
-                        "total": 14.8267909245
+                        "total": 28.1186481856
                       },
                       {
                         "year": 2045,
-                        "total": 12.3510443344
+                        "total": 22.8491891517
                       },
                       {
                         "year": 2050,
-                        "total": 11.8062935221
+                        "total": 22.2812832129
                       }
                     ]
                   },
@@ -2335,35 +1873,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 239.43991824
+                        "total": 478.87983648
                       },
                       {
                         "year": 2020,
-                        "total": 239.43991824
+                        "total": 478.87983648
                       },
                       {
                         "year": 2025,
-                        "total": 239.43991824
+                        "total": 478.87983648
                       },
                       {
                         "year": 2030,
-                        "total": 239.43991824
+                        "total": 478.87983648
                       },
                       {
                         "year": 2035,
-                        "total": 239.43991824
+                        "total": 478.87983648
                       },
                       {
                         "year": 2040,
-                        "total": 239.43991824
+                        "total": 478.87983648
                       },
                       {
                         "year": 2045,
-                        "total": 239.43991824
+                        "total": 478.87983648
                       },
                       {
                         "year": 2050,
-                        "total": 239.1974624105
+                        "total": 478.394924821
                       }
                     ]
                   },
@@ -2372,7 +1910,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 25.9760843493
+                        "total": 95.2298175838
                       },
                       {
                         "year": 2020,
@@ -2409,35 +1947,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 99.4847705208
+                        "total": 159.2727396277
                       },
                       {
                         "year": 2020,
-                        "total": 91.2168849612
+                        "total": 174.6244254765
                       },
                       {
                         "year": 2025,
-                        "total": 95.3386569729
+                        "total": 181.8397328357
                       },
                       {
                         "year": 2030,
-                        "total": 126.341223155
+                        "total": 242.8562037788
                       },
                       {
                         "year": 2035,
-                        "total": 137.9765266014
+                        "total": 259.0133413619
                       },
                       {
                         "year": 2040,
-                        "total": 173.0332236873
+                        "total": 333.9442176724
                       },
                       {
                         "year": 2045,
-                        "total": 202.051761361
+                        "total": 394.1372821764
                       },
                       {
                         "year": 2050,
-                        "total": 209.6585897656
+                        "total": 428.2677109926
                       }
                     ]
                   },
@@ -2446,35 +1984,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 63.387
+                        "total": 126.774
                       },
                       {
                         "year": 2020,
-                        "total": 72.9
+                        "total": 145.8
                       },
                       {
                         "year": 2025,
-                        "total": 72.9
+                        "total": 145.8
                       },
                       {
                         "year": 2030,
-                        "total": 72.9
+                        "total": 145.8
                       },
                       {
                         "year": 2035,
-                        "total": 72.9
+                        "total": 145.8
                       },
                       {
                         "year": 2040,
-                        "total": 72.9
+                        "total": 145.8
                       },
                       {
                         "year": 2045,
-                        "total": 72.9
+                        "total": 145.8
                       },
                       {
                         "year": 2050,
-                        "total": 72.9
+                        "total": 145.8
                       }
                     ]
                   },
@@ -2483,35 +2021,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 51.3954863065
+                        "total": 102.7909726131
                       },
                       {
                         "year": 2020,
-                        "total": 52.411579163
+                        "total": 128.4265650214
                       },
                       {
                         "year": 2025,
-                        "total": 54.257884405
+                        "total": 145.3399656326
                       },
                       {
                         "year": 2030,
-                        "total": 79.3244551506
+                        "total": 209.5729560999
                       },
                       {
                         "year": 2035,
-                        "total": 195.0051652702
+                        "total": 446.6039309917
                       },
                       {
                         "year": 2040,
-                        "total": 295.9172904592
+                        "total": 641.1820025913
                       },
                       {
                         "year": 2045,
-                        "total": 348.5283001994
+                        "total": 719.078999356
                       },
                       {
                         "year": 2050,
-                        "total": 377.8900495766
+                        "total": 778.2915698064
                       }
                     ]
                   }
@@ -2520,7 +2058,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade",
+            "indicator": "Power Trade (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -2530,7 +2068,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.5806797825
+                        "total": 9.9365557296
                       },
                       {
                         "year": 2020,
@@ -2546,19 +2084,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 83.2472196311
+                        "total": 165.6488960478
                       },
                       {
                         "year": 2040,
-                        "total": 114.9927375344
+                        "total": 232.517221331
                       },
                       {
                         "year": 2045,
-                        "total": 123.6018788962
+                        "total": 248.1129854458
                       },
                       {
                         "year": 2050,
-                        "total": 125.5739911841
+                        "total": 252.7868744096
                       }
                     ]
                   },
@@ -2587,15 +2125,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 16.51104
+                        "total": 33.02208
                       },
                       {
                         "year": 2045,
-                        "total": 16.51104
+                        "total": 33.02208
                       },
                       {
                         "year": 2050,
-                        "total": 16.51104
+                        "total": 33.02208
                       }
                     ]
                   },
@@ -2620,19 +2158,56 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 22.3023048657
+                        "total": 44.4565816423
                       },
                       {
                         "year": 2040,
-                        "total": 41.94288
+                        "total": 83.88576
                       },
                       {
                         "year": 2045,
-                        "total": 41.94288
+                        "total": 83.88576
                       },
                       {
                         "year": 2050,
-                        "total": 41.94288
+                        "total": 83.88576
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "IMPELC-DKUK",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.0960051166
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.0647529993
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2641,23 +2216,23 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -12.8476493694
+                        "total": -48.3891005039
                       },
                       {
                         "year": 2020,
-                        "total": -24.3073013216
+                        "total": -65.8321526171
                       },
                       {
                         "year": 2025,
-                        "total": -47.7199543536
+                        "total": -99.5255531273
                       },
                       {
                         "year": 2030,
-                        "total": -39.0995937561
+                        "total": -77.8124064441
                       },
                       {
                         "year": 2035,
-                        "total": -7.6309618249
+                        "total": -14.6310139682
                       },
                       {
                         "year": 2040,
@@ -2682,15 +2257,15 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": -3.338496
+                        "total": -7.1418422484
                       },
                       {
                         "year": 2025,
-                        "total": -13.495509393
+                        "total": -32.8737426019
                       },
                       {
                         "year": 2030,
-                        "total": -6.8219775074
+                        "total": -15.7830080007
                       },
                       {
                         "year": 2035,
@@ -2716,39 +2291,39 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "X-ELC-RUS-FIN",
+                    "indicatorGroup": "Export RU-FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -13.436084592
+                        "total": 26.872169184
                       },
                       {
                         "year": 2020,
-                        "total": -17.7695658
+                        "total": 35.5391316
                       },
                       {
                         "year": 2025,
-                        "total": -5.2847829
+                        "total": 24.9695658
                       },
                       {
                         "year": 2030,
-                        "total": 0.5121216
+                        "total": 27.7757568
                       },
                       {
                         "year": 2035,
-                        "total": 0.5121216
+                        "total": 27.7757568
                       },
                       {
                         "year": 2040,
-                        "total": 0.5121216
+                        "total": 27.7757568
                       },
                       {
                         "year": 2045,
-                        "total": 0.5121216
+                        "total": 27.7757568
                       },
                       {
                         "year": 2050,
-                        "total": 0.5121216
+                        "total": 27.7757568
                       }
                     ]
                   }
@@ -2766,31 +2341,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 32.348569699
+                        "total": 63.0081238659
                       },
                       {
                         "year": 2025,
-                        "total": 33.02208
+                        "total": 66.04416
                       },
                       {
                         "year": 2030,
-                        "total": 32.7609443899
+                        "total": 65.7148866006
                       },
                       {
                         "year": 2035,
-                        "total": 33.02208
+                        "total": 66.04416
                       },
                       {
                         "year": 2040,
-                        "total": 33.02208
+                        "total": 66.04416
                       },
                       {
                         "year": 2045,
-                        "total": 33.02208
+                        "total": 66.04416
                       },
                       {
                         "year": 2050,
-                        "total": 33.3397506029
+                        "total": 67.5548047931
                       }
                     ]
                   },
@@ -2799,35 +2374,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 20.309184
+                        "total": 36.071784
                       },
                       {
                         "year": 2020,
-                        "total": 33.02208
+                        "total": 66.04416
                       },
                       {
                         "year": 2025,
-                        "total": 28.3437169697
+                        "total": 54.2630374424
                       },
                       {
                         "year": 2030,
-                        "total": 25.5523612041
+                        "total": 43.8413748704
                       },
                       {
                         "year": 2035,
-                        "total": 45.388983382
+                        "total": 91.1097381833
                       },
                       {
                         "year": 2040,
-                        "total": 59.321808
+                        "total": 117.5629857868
                       },
                       {
                         "year": 2045,
-                        "total": 71.7501143533
+                        "total": 144.2217863533
                       },
                       {
                         "year": 2050,
-                        "total": 85.621536
+                        "total": 171.243072
                       }
                     ]
                   },
@@ -2840,31 +2415,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 39.97728
+                        "total": 76.17456
                       },
                       {
                         "year": 2025,
-                        "total": 32.5816782235
+                        "total": 63.3096607149
                       },
                       {
                         "year": 2030,
-                        "total": 28.773187221
+                        "total": 58.0665181964
                       },
                       {
                         "year": 2035,
-                        "total": 46.938528
+                        "total": 93.877056
                       },
                       {
                         "year": 2040,
-                        "total": 71.095847563
+                        "total": 144.1594829154
                       },
                       {
                         "year": 2045,
-                        "total": 88.848971761
+                        "total": 177.3126701433
                       },
                       {
                         "year": 2050,
-                        "total": 109.0893312
+                        "total": 218.1786624
                       }
                     ]
                   },
@@ -2877,15 +2452,15 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": -11.12832
+                        "total": -22.25664
                       },
                       {
                         "year": 2025,
-                        "total": -11.12832
+                        "total": -22.25664
                       },
                       {
                         "year": 2030,
-                        "total": -11.12832
+                        "total": -22.25664
                       },
                       {
                         "year": 2035,
@@ -2910,23 +2485,23 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": -4.6204956314
                       },
                       {
                         "year": 2020,
-                        "total": -11.12832
+                        "total": -22.25664
                       },
                       {
                         "year": 2025,
-                        "total": -11.12832
+                        "total": -22.25664
                       },
                       {
                         "year": 2030,
-                        "total": -11.12832
+                        "total": -22.25664
                       },
                       {
                         "year": 2035,
-                        "total": -11.12832
+                        "total": -22.25664
                       },
                       {
                         "year": 2040,
@@ -2947,35 +2522,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -0.19116
+                        "total": -1.13436
                       },
                       {
                         "year": 2020,
-                        "total": -0.39852
+                        "total": -1.25532
                       },
                       {
                         "year": 2025,
-                        "total": -0.37152
+                        "total": -1.19862
                       },
                       {
                         "year": 2030,
-                        "total": -0.19116
+                        "total": -0.36234
                       },
                       {
                         "year": 2035,
-                        "total": -0.59976
+                        "total": -1.19952
                       },
                       {
                         "year": 2040,
-                        "total": -0.59976
+                        "total": -1.2651504755
                       },
                       {
                         "year": 2045,
-                        "total": -0.65556
+                        "total": -1.3099861017
                       },
                       {
                         "year": 2050,
-                        "total": -0.6705883636
+                        "total": -1.2406483636
                       }
                     ]
                   },
@@ -2992,11 +2567,11 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": -11.12832
+                        "total": -22.25664
                       },
                       {
                         "year": 2030,
-                        "total": -11.12832
+                        "total": -22.25664
                       },
                       {
                         "year": 2035,
@@ -3042,19 +2617,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 24.266498397
+                        "total": 47.0127986969
                       },
                       {
                         "year": 2040,
-                        "total": 30.66336
+                        "total": 61.32672
                       },
                       {
                         "year": 2045,
-                        "total": 30.66336
+                        "total": 61.32672
                       },
                       {
                         "year": 2050,
-                        "total": 30.66336
+                        "total": 61.32672
                       }
                     ]
                   },
@@ -3083,15 +2658,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 8.0729741613
+                        "total": 11.5112401825
                       },
                       {
                         "year": 2045,
-                        "total": 11.0287999433
+                        "total": 20.3721689154
                       },
                       {
                         "year": 2050,
-                        "total": 10.7429098299
+                        "total": 23.0905779667
                       }
                     ]
                   },
@@ -3120,15 +2695,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 14.5136584674
+                        "total": 22.3505584223
                       },
                       {
                         "year": 2045,
-                        "total": 33.8366451294
+                        "total": 58.0266454784
                       },
                       {
                         "year": 2050,
-                        "total": 46.6707713022
+                        "total": 99.9260347075
                       }
                     ]
                   },
@@ -3137,27 +2712,27 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -4.2746941617
+                        "total": -8.5493883234
                       },
                       {
                         "year": 2020,
-                        "total": -3.8467100344
+                        "total": -8.1214041962
                       },
                       {
                         "year": 2025,
-                        "total": -18.013104
+                        "total": -36.438012
                       },
                       {
                         "year": 2030,
-                        "total": -24.2651702981
+                        "total": -57.315643816
                       },
                       {
                         "year": 2035,
-                        "total": -10.33344
+                        "total": -20.66688
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": -2.0761348682
                       },
                       {
                         "year": 2045,
@@ -3178,31 +2753,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": -5.6040019676
+                        "total": -11.5541060426
                       },
                       {
                         "year": 2025,
-                        "total": -18.6509240221
+                        "total": -39.6223640221
                       },
                       {
                         "year": 2030,
-                        "total": -16.9977325539
+                        "total": -37.7538697055
                       },
                       {
                         "year": 2035,
-                        "total": -15.0745533624
+                        "total": -31.4607330459
                       },
                       {
                         "year": 2040,
-                        "total": -3.8451040131
+                        "total": -9.5447640667
                       },
                       {
                         "year": 2045,
-                        "total": -1.2776409229
+                        "total": -2.6612324612
                       },
                       {
                         "year": 2050,
-                        "total": -0.6820067667
+                        "total": -0.9365300759
                       }
                     ]
                   },
@@ -3211,31 +2786,31 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -3.670029104
+                        "total": -9.0161138664
                       },
                       {
                         "year": 2020,
-                        "total": -4.8242922428
+                        "total": -10.1703770051
                       },
                       {
                         "year": 2025,
-                        "total": -14.6124
+                        "total": -32.58792
                       },
                       {
                         "year": 2030,
-                        "total": -14.256
+                        "total": -30.898422015
                       },
                       {
                         "year": 2035,
-                        "total": -14.2824168318
+                        "total": -35.9882064634
                       },
                       {
                         "year": 2040,
-                        "total": -1.0370982376
+                        "total": -3.2329317216
                       },
                       {
                         "year": 2045,
-                        "total": -0.5487424667
+                        "total": -1.3345430669
                       },
                       {
                         "year": 2050,
@@ -3248,156 +2823,304 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade Nordic",
+            "indicator": "Power capacity (MW)",
             "regions": [
               {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TB_ELCC_DKE_DKW_01",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.34815744
+                        "total": 2456.46
                       },
                       {
                         "year": 2020,
-                        "total": 0.2972965605
+                        "total": 2916.46
                       },
                       {
                         "year": 2025,
-                        "total": 0.0975688299
+                        "total": 2865.3
                       },
                       {
                         "year": 2030,
-                        "total": 0.1220409619
+                        "total": 3547.6175270762
                       },
                       {
                         "year": 2035,
-                        "total": 0.0355962032
+                        "total": 2619.4731529157
                       },
                       {
                         "year": 2040,
-                        "total": 0.1521310249
+                        "total": 1598.1211003027
                       },
                       {
                         "year": 2045,
-                        "total": 0.1311755489
+                        "total": 2079.4441972695
                       },
                       {
                         "year": 2050,
-                        "total": 0.1588311585
+                        "total": 2150.1698479743
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "TB_ELCC_DKE_SE4_01",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 11.798834823
+                        "total": 4337.0
                       },
                       {
                         "year": 2020,
-                        "total": 12.9825622417
+                        "total": 3760.0
                       },
                       {
                         "year": 2025,
-                        "total": 7.4801178403
+                        "total": 3018.0
                       },
                       {
                         "year": 2030,
-                        "total": 7.4194669383
+                        "total": 2270.0
                       },
                       {
                         "year": 2035,
-                        "total": 3.5219503675
+                        "total": 1493.5034548188
                       },
                       {
                         "year": 2040,
-                        "total": -8.0124387894
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": -0.5795664223
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": 8.623583911
+                        "total": 0.0
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "TB_ELCC_DKW_NO1_01",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -30.9545690655
+                        "total": 17.2
                       },
                       {
                         "year": 2020,
-                        "total": -17.3867069992
+                        "total": 17.2
                       },
                       {
                         "year": 2025,
-                        "total": -19.0868454268
+                        "total": 17.2
                       },
                       {
                         "year": 2030,
-                        "total": -14.6987784123
+                        "total": 17.2
                       },
                       {
                         "year": 2035,
-                        "total": -14.44405163
+                        "total": 8.6
                       },
                       {
                         "year": 2040,
-                        "total": 0.6558052572
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": 12.2951518377
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": 12.3460882771
+                        "total": 0.0
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "TB_ELCC_DKW_SE3_01",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 14.9335486902
+                        "total": 4503.468
                       },
                       {
                         "year": 2020,
-                        "total": 8.3631673469
+                        "total": 2605.2264
                       },
                       {
                         "year": 2025,
-                        "total": 5.5154938776
+                        "total": 1951.614
                       },
                       {
                         "year": 2030,
-                        "total": 5.286126853
+                        "total": 1951.614
                       },
                       {
                         "year": 2035,
-                        "total": -0.942969668
+                        "total": 749.3626342999
                       },
                       {
                         "year": 2040,
-                        "total": 3.078918129
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": 6.551666413
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": 7.6794445128
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2090.72
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1296.12
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1287.12
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1287.12
+                      },
+                      {
+                        "year": 2035,
+                        "total": 330.1544761788
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2577.200012
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2577.200012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5077.200012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10863.2449091424
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18806.649133378
+                      },
+                      {
+                        "year": 2040,
+                        "total": 22650.5853681022
+                      },
+                      {
+                        "year": 2045,
+                        "total": 27470.8090908963
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30273.7189689329
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 682.5966761284
+                      },
+                      {
+                        "year": 2020,
+                        "total": 587.6167075873
+                      },
+                      {
+                        "year": 2025,
+                        "total": 455.2033673891
+                      },
+                      {
+                        "year": 2030,
+                        "total": 382.1135630586
+                      },
+                      {
+                        "year": 2035,
+                        "total": 449.8739937729
+                      },
+                      {
+                        "year": 2040,
+                        "total": 344.266047416
+                      },
+                      {
+                        "year": 2045,
+                        "total": 332.1308253608
+                      },
+                      {
+                        "year": 2050,
+                        "total": 298.8666904615
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10933.2782103274
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13575.4718863727
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11236.4130534088
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14658.1925234929
+                      },
+                      {
+                        "year": 2035,
+                        "total": 31438.6347913155
+                      },
+                      {
+                        "year": 2040,
+                        "total": 41395.5603586395
+                      },
+                      {
+                        "year": 2045,
+                        "total": 43629.9800043951
+                      },
+                      {
+                        "year": 2050,
+                        "total": 47167.260226459
                       }
                     ]
                   }
@@ -3407,1396 +3130,298 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "X+ELC-SE3-FIN",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": 6478.6327837142
                       },
                       {
                         "year": 2020,
-                        "total": 0.0
+                        "total": 6788.5235949986
                       },
                       {
                         "year": 2025,
-                        "total": 0.0
+                        "total": 6662.139746575
                       },
                       {
                         "year": 2030,
-                        "total": -4.2066701003
+                        "total": 6676.7655023482
                       },
                       {
                         "year": 2035,
-                        "total": -16.6361907868
+                        "total": 6695.291124536
                       },
                       {
                         "year": 2040,
-                        "total": -13.2520140446
+                        "total": 6699.9478830919
                       },
                       {
                         "year": 2045,
-                        "total": -19.3089047722
+                        "total": 6716.0813347263
                       },
                       {
                         "year": 2050,
-                        "total": -18.271419861
+                        "total": 6721.9798936269
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "X-ELC-NO2-FIN",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -3.058992
+                        "total": 4863.2580833658
                       },
                       {
                         "year": 2020,
-                        "total": -3.058992
+                        "total": 4150.7895619705
                       },
                       {
                         "year": 2025,
-                        "total": -3.058992
+                        "total": 3909.8864013353
                       },
                       {
                         "year": 2030,
-                        "total": -3.058992
+                        "total": 2477.2103076779
                       },
                       {
                         "year": 2035,
-                        "total": -2.444349681
+                        "total": 1646.7645465992
                       },
                       {
                         "year": 2040,
-                        "total": -2.292498
+                        "total": 816.3187855204
                       },
                       {
                         "year": 2045,
-                        "total": -2.0979954692
+                        "total": 408.3227247407
                       },
                       {
                         "year": 2050,
-                        "total": -2.236626
+                        "total": 0.3266639611
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "X-ELC-SE1-FIN",
+                    "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -33.995808
+                        "total": 5501.5485714286
                       },
                       {
                         "year": 2020,
-                        "total": -14.9818854878
+                        "total": 6800.0
                       },
                       {
                         "year": 2025,
-                        "total": -33.9795309976
+                        "total": 8780.0
                       },
                       {
                         "year": 2030,
-                        "total": -33.995808
+                        "total": 10780.0
                       },
                       {
                         "year": 2035,
-                        "total": -29.7395281004
+                        "total": 10275.0
                       },
                       {
                         "year": 2040,
-                        "total": -30.2935520459
+                        "total": 9770.0
                       },
                       {
                         "year": 2045,
-                        "total": -29.873609817
+                        "total": 8375.0
                       },
                       {
                         "year": 2050,
-                        "total": -27.5544435908
+                        "total": 6980.0
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "X-ELC-SE3-FIN",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -11.5696928309
+                        "total": 1293.4199607309
                       },
                       {
                         "year": 2020,
-                        "total": -0.9206809879
+                        "total": 562.5927285239
                       },
                       {
                         "year": 2025,
-                        "total": -6.2312011225
+                        "total": 638.5525193642
                       },
                       {
                         "year": 2030,
-                        "total": -17.6592965408
+                        "total": 1390.1408151122
                       },
                       {
                         "year": 2035,
-                        "total": -20.8723627629
+                        "total": 1837.9832443407
                       },
                       {
                         "year": 2040,
-                        "total": -27.6793703268
+                        "total": 4715.2057293228
                       },
                       {
                         "year": 2045,
-                        "total": -30.5229535693
+                        "total": 7992.5433090711
                       },
                       {
                         "year": 2050,
-                        "total": -33.977859919
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TB_ELCC_DKW_NO1_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 31.5862949648
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.7445405185
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.6361545617
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15.2411139765
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.7491309729
-                      },
-                      {
-                        "year": 2040,
-                        "total": -0.5025569099
-                      },
-                      {
-                        "year": 2045,
-                        "total": -12.0100971591
-                      },
-                      {
-                        "year": 2050,
-                        "total": -12.069252425
+                        "total": 8812.1954901716
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "TB_ELCC_NO1_NO2_01",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": 88.29
                       },
                       {
                         "year": 2020,
-                        "total": 0.1267180117
+                        "total": 246.0
                       },
                       {
                         "year": 2025,
-                        "total": 0.1878499065
+                        "total": 258.7
                       },
                       {
                         "year": 2030,
-                        "total": 0.2837628186
+                        "total": 296.3702391603
                       },
                       {
                         "year": 2035,
-                        "total": 0.7995666759
+                        "total": 6868.6467248957
                       },
                       {
                         "year": 2040,
-                        "total": 0.7732894494
+                        "total": 12416.8621618835
                       },
                       {
                         "year": 2045,
-                        "total": 0.7935496039
+                        "total": 15282.9673778049
                       },
                       {
                         "year": 2050,
-                        "total": 0.7079732942
+                        "total": 19639.1269316853
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "TB_ELCC_NO1_SE3_01",
+                    "indicatorGroup": "Solid fuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 67.416244898
+                        "total": 6851.441740745
                       },
                       {
                         "year": 2020,
-                        "total": 66.6277956463
+                        "total": 7599.6514626773
                       },
                       {
                         "year": 2025,
-                        "total": 62.5302742005
+                        "total": 6632.3660538512
                       },
                       {
                         "year": 2030,
-                        "total": 54.1918016265
+                        "total": 5906.3395140793
                       },
                       {
                         "year": 2035,
-                        "total": 21.6779980583
+                        "total": 6200.3173879882
                       },
                       {
                         "year": 2040,
-                        "total": 1.9253864698
+                        "total": 5788.488457293
                       },
                       {
                         "year": 2045,
-                        "total": -11.6749533701
+                        "total": 5687.5826154572
                       },
                       {
                         "year": 2050,
-                        "total": -10.9791212497
+                        "total": 7499.2004811013
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "TB_ELCC_NO2_SE1_01",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 19.1694186067
+                        "total": 365.7142857143
                       },
                       {
                         "year": 2020,
-                        "total": 9.1148558008
+                        "total": 430.0
                       },
                       {
                         "year": 2025,
-                        "total": 17.3350524867
+                        "total": 430.0
                       },
                       {
                         "year": 2030,
-                        "total": 13.8920944569
+                        "total": 430.0
                       },
                       {
                         "year": 2035,
-                        "total": 5.4038366232
+                        "total": 430.0
                       },
                       {
                         "year": 2040,
-                        "total": 2.7737267233
+                        "total": 430.0
                       },
                       {
                         "year": 2045,
-                        "total": -3.6617675783
+                        "total": 400.8870298487
                       },
                       {
                         "year": 2050,
-                        "total": -7.483645986
+                        "total": 407.6161718913
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "TB_ELCC_NO2_SE2_01",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 47.7989501089
+                        "total": 3039.3564932473
                       },
                       {
                         "year": 2020,
-                        "total": 47.7989501089
+                        "total": 5547.749230009
                       },
                       {
                         "year": 2025,
-                        "total": 47.7989501089
+                        "total": 10672.7572700904
                       },
                       {
                         "year": 2030,
-                        "total": 47.7989501089
+                        "total": 10667.9001837256
                       },
                       {
                         "year": 2035,
-                        "total": 35.2101455647
+                        "total": 11393.999369913
                       },
                       {
                         "year": 2040,
-                        "total": 16.8306754519
+                        "total": 11676.5595424079
                       },
                       {
                         "year": 2045,
-                        "total": 3.0869942095
+                        "total": 14722.5602517724
                       },
                       {
                         "year": 2050,
-                        "total": -0.0614118546
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X-ELC-NO2-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.1536
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1536
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1536
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1536
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.5199481248
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.3634
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.162881927
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3058
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TB_ELCC_DKE_SE4_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -11.5628581265
-                      },
-                      {
-                        "year": 2020,
-                        "total": -12.7229109969
-                      },
-                      {
-                        "year": 2025,
-                        "total": -7.3305154835
-                      },
-                      {
-                        "year": 2030,
-                        "total": -7.2710775996
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.3510146853
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8.2458618541
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.8061577799
-                      },
-                      {
-                        "year": 2050,
-                        "total": -8.3329131249
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_DKW_SE3_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -14.6348777164
-                      },
-                      {
-                        "year": 2020,
-                        "total": -8.195904
-                      },
-                      {
-                        "year": 2025,
-                        "total": -5.405184
-                      },
-                      {
-                        "year": 2030,
-                        "total": -5.1711360157
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.199899289
-                      },
-                      {
-                        "year": 2040,
-                        "total": -2.7778170528
-                      },
-                      {
-                        "year": 2045,
-                        "total": -6.1689202005
-                      },
-                      {
-                        "year": 2050,
-                        "total": -7.2900258074
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO1_SE3_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -66.06792
-                      },
-                      {
-                        "year": 2020,
-                        "total": -65.2952397334
-                      },
-                      {
-                        "year": 2025,
-                        "total": -61.2796687165
-                      },
-                      {
-                        "year": 2030,
-                        "total": -53.107965594
-                      },
-                      {
-                        "year": 2035,
-                        "total": -21.1499897924
-                      },
-                      {
-                        "year": 2040,
-                        "total": -1.1573125475
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.4362714256
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11.6916978766
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO2_SE1_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -18.7860302346
-                      },
-                      {
-                        "year": 2020,
-                        "total": -8.9325586848
-                      },
-                      {
-                        "year": 2025,
-                        "total": -16.988351437
-                      },
-                      {
-                        "year": 2030,
-                        "total": -13.6142525677
-                      },
-                      {
-                        "year": 2035,
-                        "total": -5.2957598907
-                      },
-                      {
-                        "year": 2040,
-                        "total": -2.633682529
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.8983634405
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.6815091903
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO2_SE2_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -46.8429711068
-                      },
-                      {
-                        "year": 2020,
-                        "total": -46.8429711068
-                      },
-                      {
-                        "year": 2025,
-                        "total": -46.8429711068
-                      },
-                      {
-                        "year": 2030,
-                        "total": -46.8429711068
-                      },
-                      {
-                        "year": 2035,
-                        "total": -34.5059426534
-                      },
-                      {
-                        "year": 2040,
-                        "total": -16.4940619429
-                      },
-                      {
-                        "year": 2045,
-                        "total": -2.9704645432
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1518846319
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_SE1_SE2_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.4613371891
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.5915406841
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.279152655
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0973469145
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.1032738917
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0547355425
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2057434741
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.2925391966
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_SE2_SE3_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.5815596137
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.6176059214
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.3362382727
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0568447814
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.0093611828
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.1307552
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1256004959
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.1824135242
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_SE3_SE4_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.113295156
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.934449609
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3726396488
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4093763922
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.5501194751
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.2946630478
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1763629957
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.3170361203
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X+ELC-SE3-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.2925205106
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.9757048845
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.5224633108
-                      },
-                      {
-                        "year": 2045,
-                        "total": 19.7135824572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.6661263888
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X-ELC-SE1-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 34.6896
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.2876382528
-                      },
-                      {
-                        "year": 2025,
-                        "total": 34.6729908139
-                      },
-                      {
-                        "year": 2030,
-                        "total": 34.6896
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.3464572453
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.9117878019
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.4832753235
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.1167791743
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X-ELC-SE3-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.8058090111
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9394703958
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.3583684924
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.0196903477
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.2983293499
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.2452255921
-                      },
-                      {
-                        "year": 2045,
-                        "total": 31.1563675956
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34.7205930306
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power capacity",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "PP Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1964.01
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1566.71
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1562.21
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1558.6017954064
-                      },
-                      {
-                        "year": 2035,
-                        "total": 619.6122380894
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP bioenergy",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 359.33
-                      },
-                      {
-                        "year": 2020,
-                        "total": 616.81
-                      },
-                      {
-                        "year": 2025,
-                        "total": 500.83
-                      },
-                      {
-                        "year": 2030,
-                        "total": 849.2120309233
-                      },
-                      {
-                        "year": 2035,
-                        "total": 830.5745521575
-                      },
-                      {
-                        "year": 2040,
-                        "total": 759.2076673061
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1010.6387798022
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1062.7722515643
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2186.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1897.5
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1526.5
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1152.5
-                      },
-                      {
-                        "year": 2035,
-                        "total": 750.531510576
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP hydro",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.6
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.6
-                      },
-                      {
-                        "year": 2025,
-                        "total": 8.6
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.6
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.3
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP nat.gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2251.734
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1364.1132
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1037.307
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1037.307
-                      },
-                      {
-                        "year": 2035,
-                        "total": 436.1813171499
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1288.600006
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1288.600006
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2538.600006
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5233.4746172789
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9413.2265849763
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11311.1295702196
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13683.8399469335
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14764.0931008792
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 352.1983380642
-                      },
-                      {
-                        "year": 2020,
-                        "total": 309.1577804963
-                      },
-                      {
-                        "year": 2025,
-                        "total": 245.8486547802
-                      },
-                      {
-                        "year": 2030,
-                        "total": 201.8478746026
-                      },
-                      {
-                        "year": 2035,
-                        "total": 226.9018647577
-                      },
-                      {
-                        "year": 2040,
-                        "total": 171.8369875544
-                      },
-                      {
-                        "year": 2045,
-                        "total": 162.3048542188
-                      },
-                      {
-                        "year": 2050,
-                        "total": 145.3039954021
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP wind",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5192.258002
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6414.48201
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5232.73401
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7305.7612233858
-                      },
-                      {
-                        "year": 2035,
-                        "total": 15444.035783506
-                      },
-                      {
-                        "year": 2040,
-                        "total": 20309.4441178262
-                      },
-                      {
-                        "year": 2045,
-                        "total": 21515.2011844769
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23255.6264803151
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "PP Nuclear",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2750.7742857143
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3400.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4390.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5390.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5137.5
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4885.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4187.5
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3490.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 647.4612919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 282.0476757965
-                      },
-                      {
-                        "year": 2025,
-                        "total": 318.8686042763
-                      },
-                      {
-                        "year": 2030,
-                        "total": 693.7495570403
-                      },
-                      {
-                        "year": 2035,
-                        "total": 915.817719269
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2358.5053648867
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4001.3788987016
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4417.0459559287
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP hydro",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3239.4565680796
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3394.2430262502
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3329.6801165287
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3336.9979532986
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3346.260580974
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3348.2958389658
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3358.7476843404
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3359.6027513687
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP nat.gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2431.6290416829
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2075.3947809852
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1954.9432006676
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1238.605153839
-                      },
-                      {
-                        "year": 2035,
-                        "total": 823.3822732996
-                      },
-                      {
-                        "year": 2040,
-                        "total": 408.1593927602
-                      },
-                      {
-                        "year": 2045,
-                        "total": 204.1613623704
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1633319806
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.145
-                      },
-                      {
-                        "year": 2020,
-                        "total": 123.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 129.35
-                      },
-                      {
-                        "year": 2030,
-                        "total": 148.1851195802
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3232.4643044573
-                      },
-                      {
-                        "year": 2040,
-                        "total": 6201.0900380975
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7635.1572154222
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9809.6814808306
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP solid fuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3425.3066111697
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3799.8257313386
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3298.6524168887
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2931.6376188302
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3075.6980309259
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2863.7610278213
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2816.9021062901
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3712.3672574221
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571428571
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 200.3244183326
-                      },
-                      {
-                        "year": 2050,
-                        "total": 203.731593643
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP wind",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1519.6782466236
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2754.3223253006
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5387.4591842902
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5385.0306411078
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5806.5254681689
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5823.367534206
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7361.2801258862
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7722.0
+                        "total": 15444.0
                       }
                     ]
                   }
@@ -4806,101 +3431,64 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP Others",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 80.558
+                        "total": 3970.882
                       },
                       {
                         "year": 2020,
-                        "total": 80.558
+                        "total": 3970.882
                       },
                       {
                         "year": 2025,
-                        "total": 80.558
+                        "total": 3970.882
                       },
                       {
                         "year": 2030,
-                        "total": 80.558
+                        "total": 3970.882
                       },
                       {
                         "year": 2035,
-                        "total": 80.558
+                        "total": 3970.882
                       },
                       {
                         "year": 2040,
-                        "total": 80.558
+                        "total": 3970.882
                       },
                       {
                         "year": 2045,
-                        "total": 40.279
+                        "total": 3970.882
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 3970.882
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP hydro",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1985.441
+                        "total": 6.06
                       },
                       {
                         "year": 2020,
-                        "total": 1985.441
+                        "total": 6.06
                       },
                       {
                         "year": 2025,
-                        "total": 1985.441
+                        "total": 6.06
                       },
                       {
                         "year": 2030,
-                        "total": 1985.441
+                        "total": 6.06
                       },
                       {
                         "year": 2035,
-                        "total": 1985.441
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1985.441
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1985.441
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1985.441
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP wind",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.03
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.03
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.03
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.03
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.6544424568
+                        "total": 1.3088849137
                       },
                       {
                         "year": 2040,
@@ -4922,7 +3510,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP bioenergy",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4954,69 +3542,69 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 64.0062794149
+                        "total": 67.2788496472
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP hydro",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 32012.0868603853
+                        "total": 64649.1689966868
                       },
                       {
                         "year": 2020,
-                        "total": 32076.480013189
+                        "total": 65453.9501959741
                       },
                       {
                         "year": 2025,
-                        "total": 32076.480013189
+                        "total": 65453.9501959741
                       },
                       {
                         "year": 2030,
-                        "total": 30176.4800131891
+                        "total": 61653.9501959742
                       },
                       {
                         "year": 2035,
-                        "total": 29026.2822753362
+                        "total": 59140.0782760844
                       },
                       {
                         "year": 2040,
-                        "total": 27317.9862126342
+                        "total": 54783.7248495304
                       },
                       {
                         "year": 2045,
-                        "total": 24582.2279601371
+                        "total": 49164.4559202743
                       },
                       {
                         "year": 2050,
-                        "total": 21698.7172833779
+                        "total": 43397.4345667557
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP nat.gas",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1224.9999999999
+                        "total": 2449.9999999998
                       },
                       {
                         "year": 2020,
-                        "total": 1224.9999999999
+                        "total": 2449.9999999998
                       },
                       {
                         "year": 2025,
-                        "total": 1224.9999999999
+                        "total": 2449.9999999998
                       },
                       {
                         "year": 2030,
-                        "total": 879.6969696969
+                        "total": 1759.3939393938
                       },
                       {
                         "year": 2035,
-                        "total": 449.6969696969
+                        "total": 899.3939393938
                       },
                       {
                         "year": 2040,
@@ -5033,7 +3621,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP solar",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5053,93 +3641,93 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 23.5203717144
+                        "total": 47.0407434289
                       },
                       {
                         "year": 2040,
-                        "total": 30.0
+                        "total": 60.0
                       },
                       {
                         "year": 2045,
-                        "total": 30.0
+                        "total": 60.0
                       },
                       {
                         "year": 2050,
-                        "total": 30.0
+                        "total": 60.0
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP waste",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 108.5757202196
+                        "total": 217.1514404391
                       },
                       {
                         "year": 2020,
-                        "total": 108.8984172979
+                        "total": 217.7968345958
                       },
                       {
                         "year": 2025,
-                        "total": 127.9188957299
+                        "total": 255.9147828887
                       },
                       {
                         "year": 2030,
-                        "total": 104.1000585198
+                        "total": 208.2828684896
                       },
                       {
                         "year": 2035,
-                        "total": 93.3007341777
+                        "total": 186.7408824078
                       },
                       {
                         "year": 2040,
-                        "total": 101.3418603614
+                        "total": 202.7326203061
                       },
                       {
                         "year": 2045,
-                        "total": 110.9187893973
+                        "total": 209.9018788684
                       },
                       {
                         "year": 2050,
-                        "total": 95.9982019339
+                        "total": 192.4107640509
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP wind",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1292.9387827058
+                        "total": 2585.8775654115
                       },
                       {
                         "year": 2020,
-                        "total": 1283.9387827058
+                        "total": 2567.8775654115
                       },
                       {
                         "year": 2025,
-                        "total": 1012.9387827058
+                        "total": 2025.8775654115
                       },
                       {
                         "year": 2030,
-                        "total": 731.8388407406
+                        "total": 1463.6776814812
                       },
                       {
                         "year": 2035,
-                        "total": 107.1222987916
+                        "total": 902.0037446986
                       },
                       {
                         "year": 2040,
-                        "total": 2015.8438862384
+                        "total": 4221.158571553
                       },
                       {
                         "year": 2045,
-                        "total": 5195.0800048971
+                        "total": 13237.1657470837
                       },
                       {
                         "year": 2050,
-                        "total": 14519.4423297284
+                        "total": 31378.4077903993
                       }
                     ]
                   }
@@ -5149,138 +3737,64 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP Nuclear",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 9528.0
+                        "total": 6216.641452518
                       },
                       {
                         "year": 2020,
-                        "total": 9528.0
+                        "total": 4984.0172143415
                       },
                       {
                         "year": 2025,
-                        "total": 6812.0063754181
+                        "total": 3751.3929761649
                       },
                       {
                         "year": 2030,
-                        "total": 6812.0063754181
+                        "total": 3088.5858469729
                       },
                       {
                         "year": 2035,
-                        "total": 6310.1068143813
+                        "total": 1886.3736874877
                       },
                       {
                         "year": 2040,
-                        "total": 5808.2072533445
+                        "total": 1411.9943316036
                       },
                       {
                         "year": 2045,
-                        "total": 3094.6036266723
+                        "total": 1798.7196958956
                       },
                       {
                         "year": 2050,
-                        "total": 300.7758268854
+                        "total": 2008.7096877638
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP Others",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 3.2565354908
+                        "total": 531.3032481217
                       },
                       {
                         "year": 2020,
-                        "total": 2.6904609958
+                        "total": 412.6711640102
                       },
                       {
                         "year": 2025,
-                        "total": 2.1243865007
+                        "total": 294.0390798988
                       },
                       {
                         "year": 2030,
-                        "total": 1.2219222259
+                        "total": 169.203038565
                       },
                       {
                         "year": 2035,
-                        "total": 0.3044421452
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP bioenergy",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3108.320726259
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2492.0086071707
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1875.6964880825
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1547.9794001509
-                      },
-                      {
-                        "year": 2035,
-                        "total": 947.8889080342
-                      },
-                      {
-                        "year": 2040,
-                        "total": 719.7931680901
-                      },
-                      {
-                        "year": 2045,
-                        "total": 916.9572181009
-                      },
-                      {
-                        "year": 2050,
-                        "total": 962.8854292544
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 265.6516240608
-                      },
-                      {
-                        "year": 2020,
-                        "total": 206.3355820051
-                      },
-                      {
-                        "year": 2025,
-                        "total": 147.0195399494
-                      },
-                      {
-                        "year": 2030,
-                        "total": 84.6015192825
-                      },
-                      {
-                        "year": 2035,
-                        "total": 34.0104988484
+                        "total": 68.0209976968
                       },
                       {
                         "year": 2040,
@@ -5297,64 +3811,64 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP hydro",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 16155.0
+                        "total": 32310.0
                       },
                       {
                         "year": 2020,
-                        "total": 16155.0
+                        "total": 32310.0
                       },
                       {
                         "year": 2025,
-                        "total": 16155.0
+                        "total": 32310.0
                       },
                       {
                         "year": 2030,
-                        "total": 16155.0
+                        "total": 32310.0
                       },
                       {
                         "year": 2035,
-                        "total": 16155.0
+                        "total": 32310.0
                       },
                       {
                         "year": 2040,
-                        "total": 16155.0
+                        "total": 32310.0
                       },
                       {
                         "year": 2045,
-                        "total": 16155.0
+                        "total": 32310.0
                       },
                       {
                         "year": 2050,
-                        "total": 16138.6420767682
+                        "total": 32277.2841535363
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP nat.gas",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 640.7593834974
+                        "total": 1281.5187669947
                       },
                       {
                         "year": 2020,
-                        "total": 482.6063699827
+                        "total": 965.2127399654
                       },
                       {
                         "year": 2025,
-                        "total": 324.4533564681
+                        "total": 648.9067129362
                       },
                       {
                         "year": 2030,
-                        "total": 164.2967178715
+                        "total": 328.5934357431
                       },
                       {
                         "year": 2035,
-                        "total": 79.6872299646
+                        "total": 159.3744599293
                       },
                       {
                         "year": 2040,
@@ -5371,113 +3885,1068 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP solar",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 79.0
+                        "total": 158.0
                       },
                       {
                         "year": 2020,
-                        "total": 79.0
+                        "total": 158.0
                       },
                       {
                         "year": 2025,
-                        "total": 79.0
+                        "total": 158.0
                       },
                       {
                         "year": 2030,
-                        "total": 79.0
+                        "total": 158.0
                       },
                       {
                         "year": 2035,
-                        "total": 2985.261391016
+                        "total": 6132.5933155515
                       },
                       {
                         "year": 2040,
-                        "total": 4449.9847886536
+                        "total": 8944.6183960419
                       },
                       {
                         "year": 2045,
-                        "total": 5235.0828995566
+                        "total": 10470.1657991132
                       },
                       {
                         "year": 2050,
-                        "total": 5952.3809523809
+                        "total": 11904.7619047619
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP waste",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1025.356105133
+                        "total": 2050.712210266
                       },
                       {
                         "year": 2020,
-                        "total": 915.3419057569
+                        "total": 1830.6838115139
                       },
                       {
                         "year": 2025,
-                        "total": 807.6726976949
+                        "total": 1614.9187079729
                       },
                       {
                         "year": 2030,
-                        "total": 663.5622580642
+                        "total": 1326.6659066055
                       },
                       {
                         "year": 2035,
-                        "total": 336.1169832179
+                        "total": 674.4182743373
                       },
                       {
                         "year": 2040,
-                        "total": 343.7048399892
+                        "total": 688.0427478376
                       },
                       {
                         "year": 2045,
-                        "total": 344.4846279196
+                        "total": 689.2830491337
                       },
                       {
                         "year": 2050,
-                        "total": 342.8214630397
+                        "total": 685.7015803566
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP wind",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 5420.0
+                        "total": 10840.0
                       },
                       {
                         "year": 2020,
-                        "total": 5359.2662523733
+                        "total": 12799.9616666021
                       },
                       {
                         "year": 2025,
-                        "total": 5369.3041582898
+                        "total": 13981.2270933501
                       },
                       {
                         "year": 2030,
-                        "total": 7289.289007733
+                        "total": 19046.4070674483
                       },
                       {
                         "year": 2035,
-                        "total": 15724.6966077555
+                        "total": 36068.2440669081
                       },
                       {
                         "year": 2040,
-                        "total": 22261.4530360022
+                        "total": 48622.4825173822
                       },
                       {
                         "year": 2045,
-                        "total": 25904.3559909485
+                        "total": 53800.1919899248
                       },
                       {
                         "year": 2050,
-                        "total": 27766.6215107319
+                        "total": 57374.1796502668
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Power production (PJ)",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 149.645204593
+                      },
+                      {
+                        "year": 2020,
+                        "total": 63.2725041168
+                      },
+                      {
+                        "year": 2025,
+                        "total": 27.5249616892
+                      },
+                      {
+                        "year": 2030,
+                        "total": 36.4071698532
+                      },
+                      {
+                        "year": 2035,
+                        "total": 36.4186230047
+                      },
+                      {
+                        "year": 2040,
+                        "total": 52.2266263397
+                      },
+                      {
+                        "year": 2045,
+                        "total": 66.838061361
+                      },
+                      {
+                        "year": 2050,
+                        "total": 69.6978380586
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.105606
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.105606
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.105606
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.105606
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9.2779200432
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.2779200432
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.6154200432
+                      },
+                      {
+                        "year": 2030,
+                        "total": 40.6477472266
+                      },
+                      {
+                        "year": 2035,
+                        "total": 71.8038852049
+                      },
+                      {
+                        "year": 2040,
+                        "total": 86.7875101833
+                      },
+                      {
+                        "year": 2045,
+                        "total": 106.2169693611
+                      },
+                      {
+                        "year": 2050,
+                        "total": 118.4299065901
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.59666112
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 36.772092
+                      },
+                      {
+                        "year": 2020,
+                        "total": 79.7149211125
+                      },
+                      {
+                        "year": 2025,
+                        "total": 79.5673747347
+                      },
+                      {
+                        "year": 2030,
+                        "total": 63.3487372879
+                      },
+                      {
+                        "year": 2035,
+                        "total": 286.130658017
+                      },
+                      {
+                        "year": 2040,
+                        "total": 454.5331845104
+                      },
+                      {
+                        "year": 2045,
+                        "total": 486.3295727079
+                      },
+                      {
+                        "year": 2050,
+                        "total": 540.3868257771
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 71.8451038455
+                      },
+                      {
+                        "year": 2020,
+                        "total": 71.1915864046
+                      },
+                      {
+                        "year": 2025,
+                        "total": 54.1117517435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 116.6485305718
+                      },
+                      {
+                        "year": 2035,
+                        "total": 167.5917155668
+                      },
+                      {
+                        "year": 2040,
+                        "total": 177.6888597676
+                      },
+                      {
+                        "year": 2045,
+                        "total": 182.4767204305
+                      },
+                      {
+                        "year": 2050,
+                        "total": 187.4424825925
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 84.3881494787
+                      },
+                      {
+                        "year": 2020,
+                        "total": 85.0592842197
+                      },
+                      {
+                        "year": 2025,
+                        "total": 46.7711754874
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.3039425369
+                      },
+                      {
+                        "year": 2035,
+                        "total": 38.831651198
+                      },
+                      {
+                        "year": 2040,
+                        "total": 41.7036079928
+                      },
+                      {
+                        "year": 2045,
+                        "total": 37.242413669
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33.9446421598
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 104.9798243035
+                      },
+                      {
+                        "year": 2020,
+                        "total": 105.0009041096
+                      },
+                      {
+                        "year": 2025,
+                        "total": 104.1808916945
+                      },
+                      {
+                        "year": 2030,
+                        "total": 104.6130860945
+                      },
+                      {
+                        "year": 2035,
+                        "total": 104.9479843745
+                      },
+                      {
+                        "year": 2040,
+                        "total": 105.2828826545
+                      },
+                      {
+                        "year": 2045,
+                        "total": 105.6177809345
+                      },
+                      {
+                        "year": 2050,
+                        "total": 105.9526792145
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.00273
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0093441471
+                      },
+                      {
+                        "year": 2035,
+                        "total": 31.9365053174
+                      },
+                      {
+                        "year": 2040,
+                        "total": 63.7438538444
+                      },
+                      {
+                        "year": 2045,
+                        "total": 63.7722657175
+                      },
+                      {
+                        "year": 2050,
+                        "total": 64.8935878161
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 202.4929906807
+                      },
+                      {
+                        "year": 2020,
+                        "total": 237.9954391746
+                      },
+                      {
+                        "year": 2025,
+                        "total": 267.4844470974
+                      },
+                      {
+                        "year": 2030,
+                        "total": 312.6153980888
+                      },
+                      {
+                        "year": 2035,
+                        "total": 294.1897135581
+                      },
+                      {
+                        "year": 2040,
+                        "total": 276.5744534925
+                      },
+                      {
+                        "year": 2045,
+                        "total": 240.7271177248
+                      },
+                      {
+                        "year": 2050,
+                        "total": 201.705984
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.2400888337
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2400888337
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.2400888337
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.183008355
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0420787203
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.9254708225
+                      },
+                      {
+                        "year": 2045,
+                        "total": 37.9708186183
+                      },
+                      {
+                        "year": 2050,
+                        "total": 44.256316466
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 24.7934057967
+                      },
+                      {
+                        "year": 2020,
+                        "total": 52.7991989804
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.620574607
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.6581851705
+                      },
+                      {
+                        "year": 2035,
+                        "total": 104.8984695974
+                      },
+                      {
+                        "year": 2040,
+                        "total": 103.5073007016
+                      },
+                      {
+                        "year": 2045,
+                        "total": 105.6594063722
+                      },
+                      {
+                        "year": 2050,
+                        "total": 107.9132932822
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Geothermal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.4478720003
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2808
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0049179831
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0244570072
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.7432992887
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.8704538795
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.6444026656
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.1096444962
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.1541943002
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.2720142677
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1016.5911014393
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1035.9335112148
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1035.9335112148
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1035.9335112148
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1063.9575813807
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1052.453323932
+                      },
+                      {
+                        "year": 2045,
+                        "total": 953.5581418193
+                      },
+                      {
+                        "year": 2050,
+                        "total": 851.9072205025
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.1949180245
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.248616
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.248616
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.248616
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.06119296
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.06119296
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.06119296
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.2848666649
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 93.2297090144
+                      },
+                      {
+                        "year": 2050,
+                        "total": 252.8237631128
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.1798
+                      },
+                      {
+                        "year": 2020,
+                        "total": 23.0457952941
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.0107647059
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.1911932195
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.9552305385
+                      },
+                      {
+                        "year": 2040,
+                        "total": 42.4070296857
+                      },
+                      {
+                        "year": 2045,
+                        "total": 71.3586349186
+                      },
+                      {
+                        "year": 2050,
+                        "total": 151.2843971853
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 36.0667614099
+                      },
+                      {
+                        "year": 2020,
+                        "total": 23.6211533138
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23.1690965033
+                      },
+                      {
+                        "year": 2030,
+                        "total": 50.1579407638
+                      },
+                      {
+                        "year": 2035,
+                        "total": 43.4627943112
+                      },
+                      {
+                        "year": 2040,
+                        "total": 60.1540978742
+                      },
+                      {
+                        "year": 2045,
+                        "total": 71.2729131845
+                      },
+                      {
+                        "year": 2050,
+                        "total": 77.1995391078
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2020,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2025,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2030,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2035,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2040,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2045,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2050,
+                        "total": 478.394924821
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.5688
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.5688
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.5688
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.5688
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.7119846671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 34.7545328719
+                      },
+                      {
+                        "year": 2045,
+                        "total": 41.0576360808
+                      },
+                      {
+                        "year": 2050,
+                        "total": 47.1123376495
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 54.679482
+                      },
+                      {
+                        "year": 2020,
+                        "total": 31.6432052329
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23.0128469647
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12.1507084574
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.960063538
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.7430349379
+                      },
+                      {
+                        "year": 2040,
+                        "total": 247.0662604057
+                      },
+                      {
+                        "year": 2045,
+                        "total": 298.9142281936
+                      },
+                      {
+                        "year": 2050,
+                        "total": 346.6747355932
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 102.7909726131
+                      },
+                      {
+                        "year": 2020,
+                        "total": 128.4265650214
+                      },
+                      {
+                        "year": 2025,
+                        "total": 145.3399656326
+                      },
+                      {
+                        "year": 2030,
+                        "total": 209.5729560999
+                      },
+                      {
+                        "year": 2035,
+                        "total": 344.8608960538
+                      },
+                      {
+                        "year": 2040,
+                        "total": 394.1157421856
+                      },
+                      {
+                        "year": 2045,
+                        "total": 420.1647711624
+                      },
+                      {
+                        "year": 2050,
+                        "total": 431.6168342132
                       }
                     ]
                   }
@@ -5491,7 +4960,7 @@ export default {
         "scenario": "CNS_Bio",
         "indicators": [
           {
-            "indicator": "District heat production",
+            "indicator": "District heat production (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -5509,27 +4978,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 76.8862540227
+                        "total": 130.1026398519
                       },
                       {
                         "year": 2030,
-                        "total": 86.8759886394
+                        "total": 142.0487379492
                       },
                       {
                         "year": 2035,
-                        "total": 83.4583513982
+                        "total": 138.2877041609
                       },
                       {
                         "year": 2040,
-                        "total": 84.9968899321
+                        "total": 138.172115792
                       },
                       {
                         "year": 2045,
-                        "total": 91.7808100315
+                        "total": 149.5335853336
                       },
                       {
                         "year": 2050,
-                        "total": 70.4185633417
+                        "total": 117.7913406702
                       }
                     ]
                   },
@@ -5538,35 +5007,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 3.784524197
+                        "total": 12.761561957
                       },
                       {
                         "year": 2020,
-                        "total": 23.0319394953
+                        "total": 42.5902077609
                       },
                       {
                         "year": 2025,
-                        "total": 20.1123993353
+                        "total": 39.1732249656
                       },
                       {
                         "year": 2030,
-                        "total": 37.2349251573
+                        "total": 68.84728286
                       },
                       {
                         "year": 2035,
-                        "total": 40.7122455149
+                        "total": 79.1314841103
                       },
                       {
                         "year": 2040,
-                        "total": 42.35661241
+                        "total": 76.3960330211
                       },
                       {
                         "year": 2045,
-                        "total": 38.1670965683
+                        "total": 71.2251661244
                       },
                       {
                         "year": 2050,
-                        "total": 36.7086825971
+                        "total": 65.7614678191
                       }
                     ]
                   },
@@ -5575,15 +5044,15 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 45.8219482687
+                        "total": 83.4975357429
                       },
                       {
                         "year": 2020,
-                        "total": 21.4098511645
+                        "total": 44.7754382339
                       },
                       {
                         "year": 2025,
-                        "total": 1.8289772455
+                        "total": 3.1104207694
                       },
                       {
                         "year": 2030,
@@ -5612,11 +5081,11 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 40.1892039629
+                        "total": 77.1837508259
                       },
                       {
                         "year": 2020,
-                        "total": 24.8524341211
+                        "total": 44.8571787598
                       },
                       {
                         "year": 2025,
@@ -5649,35 +5118,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": 76.4776683586
                       },
                       {
                         "year": 2020,
-                        "total": 0.5614722388
+                        "total": 47.5857816765
                       },
                       {
                         "year": 2025,
-                        "total": 0.0
+                        "total": 226.2939220194
                       },
                       {
                         "year": 2030,
-                        "total": 0.0
+                        "total": 228.9738131932
                       },
                       {
                         "year": 2035,
-                        "total": 0.0
+                        "total": 265.1194642834
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": 262.5220698462
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 268.712672491
                       },
                       {
                         "year": 2050,
-                        "total": 1.8172333569
+                        "total": 234.7173446471
                       }
                     ]
                   },
@@ -5686,23 +5155,23 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2.0315495859
+                        "total": 4.0630991718
                       },
                       {
                         "year": 2020,
-                        "total": 3.6613152863
+                        "total": 7.3226305726
                       },
                       {
                         "year": 2025,
-                        "total": 3.6613152863
+                        "total": 7.3226305726
                       },
                       {
                         "year": 2030,
-                        "total": 3.6576764793
+                        "total": 7.3153529587
                       },
                       {
                         "year": 2035,
-                        "total": 2.0761442001
+                        "total": 4.1522884002
                       },
                       {
                         "year": 2040,
@@ -5723,35 +5192,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 21.4601642186
+                        "total": 42.7717729931
                       },
                       {
                         "year": 2020,
-                        "total": 19.3779121008
+                        "total": 38.2926169092
                       },
                       {
                         "year": 2025,
-                        "total": 17.5580200281
+                        "total": 36.1525500059
                       },
                       {
                         "year": 2030,
-                        "total": 20.2418887685
+                        "total": 63.1002823845
                       },
                       {
                         "year": 2035,
-                        "total": 23.9663319155
+                        "total": 47.946640412
                       },
                       {
                         "year": 2040,
-                        "total": 23.97604657
+                        "total": 47.953921033
                       },
                       {
                         "year": 2045,
-                        "total": 23.97604657
+                        "total": 47.953921033
                       },
                       {
                         "year": 2050,
-                        "total": 23.9765918424
+                        "total": 47.9544663055
                       }
                     ]
                   }
@@ -5765,35 +5234,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4.0151455933
+                        "total": 8.0302911866
                       },
                       {
                         "year": 2020,
-                        "total": 3.8466586668
+                        "total": 8.1684072417
                       },
                       {
                         "year": 2025,
-                        "total": 12.5017816003
+                        "total": 26.1652675839
                       },
                       {
                         "year": 2030,
-                        "total": 13.2204872449
+                        "total": 27.5939124291
                       },
                       {
                         "year": 2035,
-                        "total": 20.9060658429
+                        "total": 43.3734255749
                       },
                       {
                         "year": 2040,
-                        "total": 19.2193691184
+                        "total": 40.0000321259
                       },
                       {
                         "year": 2045,
-                        "total": 18.5408326197
+                        "total": 38.2986559294
                       },
                       {
                         "year": 2050,
-                        "total": 7.6440820362
+                        "total": 15.0899614495
                       }
                     ]
                   },
@@ -5802,35 +5271,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 19.4178084814
+                        "total": 38.8356169628
                       },
                       {
                         "year": 2020,
-                        "total": 17.5636751071
+                        "total": 35.112090867
                       },
                       {
                         "year": 2025,
-                        "total": 2.8207991983
+                        "total": 5.6021983736
                       },
                       {
                         "year": 2030,
-                        "total": 2.1601129924
+                        "total": 4.4462956382
                       },
                       {
                         "year": 2035,
-                        "total": 1.9220826521
+                        "total": 3.802544856
                       },
                       {
                         "year": 2040,
-                        "total": 1.2305242583
+                        "total": 2.4517675689
                       },
                       {
                         "year": 2045,
-                        "total": 1.0486309466
+                        "total": 2.0986396111
                       },
                       {
                         "year": 2050,
-                        "total": 0.6291916948
+                        "total": 1.1515177509
                       }
                     ]
                   },
@@ -5839,35 +5308,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.1427473239
+                        "total": 16.4193049329
                       },
                       {
                         "year": 2020,
-                        "total": 12.9308297573
+                        "total": 25.9662495004
                       },
                       {
                         "year": 2025,
-                        "total": 5.7163068757
+                        "total": 11.4280585195
                       },
                       {
                         "year": 2030,
-                        "total": 7.0426184682
+                        "total": 13.9485401087
                       },
                       {
                         "year": 2035,
-                        "total": 3.8671958867
+                        "total": 7.7312784215
                       },
                       {
                         "year": 2040,
-                        "total": 3.5616510355
+                        "total": 7.1403099146
                       },
                       {
                         "year": 2045,
-                        "total": 3.3101363489
+                        "total": 6.7377086097
                       },
                       {
                         "year": 2050,
-                        "total": 4.4675258111
+                        "total": 9.0574425844
                       }
                     ]
                   },
@@ -5888,23 +5357,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 1.1806744772
+                        "total": 2.0929375606
                       },
                       {
                         "year": 2035,
-                        "total": 1.1806744772
+                        "total": 2.4563742313
                       },
                       {
                         "year": 2040,
-                        "total": 5.6682682977
+                        "total": 12.0276306803
                       },
                       {
                         "year": 2045,
-                        "total": 6.4034346178
+                        "total": 13.2753808273
                       },
                       {
                         "year": 2050,
-                        "total": 13.7181420487
+                        "total": 33.7675929688
                       }
                     ]
                   },
@@ -5913,35 +5382,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 87.4289153152
+                        "total": 175.7688755582
                       },
                       {
                         "year": 2020,
-                        "total": 90.5669890944
+                        "total": 180.5853819443
                       },
                       {
                         "year": 2025,
-                        "total": 97.2191583541
+                        "total": 193.248738408
                       },
                       {
                         "year": 2030,
-                        "total": 83.2135412996
+                        "total": 165.5039810344
                       },
                       {
                         "year": 2035,
-                        "total": 76.8536899215
+                        "total": 151.0410044852
                       },
                       {
                         "year": 2040,
-                        "total": 62.4216950746
+                        "total": 125.4356336734
                       },
                       {
                         "year": 2045,
-                        "total": 59.4883159744
+                        "total": 118.7584647419
                       },
                       {
                         "year": 2050,
-                        "total": 64.690661781
+                        "total": 124.347327559
                       }
                     ]
                   },
@@ -5950,35 +5419,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.1089267243
+                        "total": 16.2178534486
                       },
                       {
                         "year": 2020,
-                        "total": 11.6712308533
+                        "total": 23.3039130165
                       },
                       {
                         "year": 2025,
-                        "total": 10.9058234606
+                        "total": 21.8162505094
                       },
                       {
                         "year": 2030,
-                        "total": 10.1868342913
+                        "total": 20.3736685825
                       },
                       {
                         "year": 2035,
-                        "total": 11.0438935947
+                        "total": 22.2084622319
                       },
                       {
                         "year": 2040,
-                        "total": 11.1714214948
+                        "total": 22.4153385183
                       },
                       {
                         "year": 2045,
-                        "total": 9.8385643407
+                        "total": 19.681956434
                       },
                       {
                         "year": 2050,
-                        "total": 7.4776480223
+                        "total": 16.4303626043
                       }
                     ]
                   }
@@ -6020,7 +5489,44 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 3.7106182934
+                        "total": 4.1061270531
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 15.5794717814
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.6446018618
+                      },
+                      {
+                        "year": 2025,
+                        "total": 15.2700315647
+                      },
+                      {
+                        "year": 2030,
+                        "total": 23.967456517
+                      },
+                      {
+                        "year": 2035,
+                        "total": 27.222873186
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.4573135495
+                      },
+                      {
+                        "year": 2045,
+                        "total": 29.3844963962
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.5424218994
                       }
                     ]
                   },
@@ -6029,35 +5535,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 11.2024205294
+                        "total": 22.4048410588
                       },
                       {
                         "year": 2020,
-                        "total": 11.2349855696
+                        "total": 22.4699711392
                       },
                       {
                         "year": 2025,
-                        "total": 11.0434804723
+                        "total": 22.0954008422
                       },
                       {
                         "year": 2030,
-                        "total": 11.9839138956
+                        "total": 23.967456517
                       },
                       {
                         "year": 2035,
-                        "total": 13.6127520169
+                        "total": 27.222873186
                       },
                       {
                         "year": 2040,
-                        "total": 13.2271845409
+                        "total": 26.4573135495
                       },
                       {
                         "year": 2045,
-                        "total": 13.2366804257
+                        "total": 33.1022376279
                       },
                       {
                         "year": 2050,
-                        "total": 13.2366804257
+                        "total": 26.4362948464
                       }
                     ]
                   }
@@ -6071,35 +5577,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 132.9247129756
+                        "total": 248.2738426694
                       },
                       {
                         "year": 2020,
-                        "total": 123.5702658948
+                        "total": 316.1045661794
                       },
                       {
                         "year": 2025,
-                        "total": 129.5559537377
+                        "total": 243.7647860998
                       },
                       {
                         "year": 2030,
-                        "total": 93.4490139222
+                        "total": 310.6453171356
                       },
                       {
                         "year": 2035,
-                        "total": 86.5004264699
+                        "total": 159.2172546199
                       },
                       {
                         "year": 2040,
-                        "total": 76.4540742796
+                        "total": 138.6954212063
                       },
                       {
                         "year": 2045,
-                        "total": 69.8218648197
+                        "total": 127.111891741
                       },
                       {
                         "year": 2050,
-                        "total": 67.3143627692
+                        "total": 147.9960915147
                       }
                     ]
                   },
@@ -6108,35 +5614,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": 0.0612580466
                       },
                       {
                         "year": 2020,
-                        "total": 0.0055782541
+                        "total": 0.0564488628
                       },
                       {
                         "year": 2025,
-                        "total": 0.1531278536
+                        "total": 1.3399145737
                       },
                       {
                         "year": 2030,
-                        "total": 40.2115087024
+                        "total": 77.4241208358
                       },
                       {
                         "year": 2035,
-                        "total": 45.3955786543
+                        "total": 83.3687699474
                       },
                       {
                         "year": 2040,
-                        "total": 67.5697942895
+                        "total": 124.7625097225
                       },
                       {
                         "year": 2045,
-                        "total": 111.9385366711
+                        "total": 219.0358228293
                       },
                       {
                         "year": 2050,
-                        "total": 122.4816978829
+                        "total": 245.7666320218
                       }
                     ]
                   },
@@ -6145,7 +5651,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4.5211623216
+                        "total": 9.0423246432
                       },
                       {
                         "year": 2020,
@@ -6182,7 +5688,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 26.6860055782
+                        "total": 97.5101961974
                       },
                       {
                         "year": 2020,
@@ -6219,35 +5725,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4.2054393899
+                        "total": 403.6806718614
                       },
                       {
                         "year": 2020,
-                        "total": 0.0
+                        "total": 260.8076823965
                       },
                       {
                         "year": 2025,
-                        "total": 0.0065630819
+                        "total": 247.8740406971
                       },
                       {
                         "year": 2030,
-                        "total": 0.0040424914
+                        "total": 288.4192812857
                       },
                       {
                         "year": 2035,
-                        "total": 0.0
+                        "total": 322.8717914559
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": 453.6326566219
                       },
                       {
                         "year": 2045,
-                        "total": 0.0051359959
+                        "total": 495.0950139222
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 516.4987487245
                       }
                     ]
                   },
@@ -6256,35 +5762,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 42.553962113
+                        "total": 85.1260214509
                       },
                       {
                         "year": 2020,
-                        "total": 48.9807908404
+                        "total": 97.9537748433
                       },
                       {
                         "year": 2025,
-                        "total": 49.2684184019
+                        "total": 98.4232186499
                       },
                       {
                         "year": 2030,
-                        "total": 49.9105768973
+                        "total": 102.8475046453
                       },
                       {
                         "year": 2035,
-                        "total": 55.2961094208
+                        "total": 201.7536908403
                       },
                       {
                         "year": 2040,
-                        "total": 57.888761707
+                        "total": 115.7822143435
                       },
                       {
                         "year": 2045,
-                        "total": 57.888807898
+                        "total": 115.7823156554
                       },
                       {
                         "year": 2050,
-                        "total": 57.8872212967
+                        "total": 115.7807290541
                       }
                     ]
                   }
@@ -6293,506 +5799,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal Prices - District Heat",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Heat (Central)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.5748414044
-                      },
-                      {
-                        "year": 2020,
-                        "total": 165.724906996
-                      },
-                      {
-                        "year": 2025,
-                        "total": 234.2233089772
-                      },
-                      {
-                        "year": 2030,
-                        "total": 140.3699297664
-                      },
-                      {
-                        "year": 2035,
-                        "total": 96.0353199653
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.4748383835
-                      },
-                      {
-                        "year": 2045,
-                        "total": 64.5869182935
-                      },
-                      {
-                        "year": 2050,
-                        "total": 123.4610680327
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heat (Decentral)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.7341772897
-                      },
-                      {
-                        "year": 2020,
-                        "total": 35.9994807841
-                      },
-                      {
-                        "year": 2025,
-                        "total": 60.1743182875
-                      },
-                      {
-                        "year": 2030,
-                        "total": 192.740366249
-                      },
-                      {
-                        "year": 2035,
-                        "total": 110.6556108242
-                      },
-                      {
-                        "year": 2040,
-                        "total": 134.8794740405
-                      },
-                      {
-                        "year": 2045,
-                        "total": 90.3110556723
-                      },
-                      {
-                        "year": 2050,
-                        "total": 131.8624738522
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.6488822584
-                      },
-                      {
-                        "year": 2020,
-                        "total": 132.6049943531
-                      },
-                      {
-                        "year": 2025,
-                        "total": 368.8183734069
-                      },
-                      {
-                        "year": 2030,
-                        "total": 209.1396939354
-                      },
-                      {
-                        "year": 2035,
-                        "total": 401.0834148618
-                      },
-                      {
-                        "year": 2040,
-                        "total": 488.7447124099
-                      },
-                      {
-                        "year": 2045,
-                        "total": 387.1281842879
-                      },
-                      {
-                        "year": 2050,
-                        "total": 376.8971476133
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Heat (Central)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.3076850792
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.7351166652
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.4696802237
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.3076850793
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.3076850793
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.8682648656
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3076850793
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.3076850793
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heat (Decentral)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1740810942
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4636878919
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.4396172181
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.5516866612
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.3076850793
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.0032705613
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2455579504
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.2455579504
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Heat (Central)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 150.4846505083
-                      },
-                      {
-                        "year": 2020,
-                        "total": 121.9059303878
-                      },
-                      {
-                        "year": 2025,
-                        "total": 111.7981947817
-                      },
-                      {
-                        "year": 2030,
-                        "total": 113.4809069793
-                      },
-                      {
-                        "year": 2035,
-                        "total": 103.7183026221
-                      },
-                      {
-                        "year": 2040,
-                        "total": 117.436447485
-                      },
-                      {
-                        "year": 2045,
-                        "total": 78.130671366
-                      },
-                      {
-                        "year": 2050,
-                        "total": 38.8575257039
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heat (Decentral)",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 194.6652496667
-                      },
-                      {
-                        "year": 2020,
-                        "total": 109.6129640549
-                      },
-                      {
-                        "year": 2025,
-                        "total": 104.8989349312
-                      },
-                      {
-                        "year": 2030,
-                        "total": 120.650918735
-                      },
-                      {
-                        "year": 2035,
-                        "total": 124.706489925
-                      },
-                      {
-                        "year": 2040,
-                        "total": 153.8431103292
-                      },
-                      {
-                        "year": 2045,
-                        "total": 171.5922225278
-                      },
-                      {
-                        "year": 2050,
-                        "total": 127.2385974477
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Marginal Prices - Electricity ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 223.521794212
-                      },
-                      {
-                        "year": 2020,
-                        "total": 370.529459029
-                      },
-                      {
-                        "year": 2025,
-                        "total": 354.1789394291
-                      },
-                      {
-                        "year": 2030,
-                        "total": 367.4987399376
-                      },
-                      {
-                        "year": 2035,
-                        "total": 416.4073897483
-                      },
-                      {
-                        "year": 2040,
-                        "total": 397.2100902059
-                      },
-                      {
-                        "year": 2045,
-                        "total": 395.3542212639
-                      },
-                      {
-                        "year": 2050,
-                        "total": 305.2053929649
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 64.126494341
-                      },
-                      {
-                        "year": 2020,
-                        "total": 138.6161775202
-                      },
-                      {
-                        "year": 2025,
-                        "total": 461.684383183
-                      },
-                      {
-                        "year": 2030,
-                        "total": 233.5170751027
-                      },
-                      {
-                        "year": 2035,
-                        "total": 391.3898121993
-                      },
-                      {
-                        "year": 2040,
-                        "total": 484.1567524439
-                      },
-                      {
-                        "year": 2045,
-                        "total": 453.5077781543
-                      },
-                      {
-                        "year": 2050,
-                        "total": 525.6728222681
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "IS",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.2294e-06
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2294e-06
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 18.0038695681
-                      },
-                      {
-                        "year": 2020,
-                        "total": 85.4660393288
-                      },
-                      {
-                        "year": 2025,
-                        "total": 78.1266790056
-                      },
-                      {
-                        "year": 2030,
-                        "total": 157.9182718939
-                      },
-                      {
-                        "year": 2035,
-                        "total": 213.4145090885
-                      },
-                      {
-                        "year": 2040,
-                        "total": 165.5692717899
-                      },
-                      {
-                        "year": 2045,
-                        "total": 237.8197537767
-                      },
-                      {
-                        "year": 2050,
-                        "total": 243.0957938892
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 200.7730408997
-                      },
-                      {
-                        "year": 2020,
-                        "total": 106.5312202561
-                      },
-                      {
-                        "year": 2025,
-                        "total": 46.4895052302
-                      },
-                      {
-                        "year": 2030,
-                        "total": 146.2607105802
-                      },
-                      {
-                        "year": 2035,
-                        "total": 194.5065113107
-                      },
-                      {
-                        "year": 2040,
-                        "total": 240.4705128985
-                      },
-                      {
-                        "year": 2045,
-                        "total": 298.9559282691
-                      },
-                      {
-                        "year": 2050,
-                        "total": 239.1558459458
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power & Heat fuel consumption",
+            "indicator": "Power & Heat fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -6802,15 +5809,15 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 141.7368481402
+                        "total": 324.5677666143
                       },
                       {
                         "year": 2020,
-                        "total": 44.0717348719
+                        "total": 90.2657852244
                       },
                       {
                         "year": 2025,
-                        "total": 3.628701695
+                        "total": 6.3045482431
                       },
                       {
                         "year": 2030,
@@ -6847,27 +5854,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 17.6197665469
+                        "total": 29.8151882994
                       },
                       {
                         "year": 2030,
-                        "total": 19.9090807299
+                        "total": 32.55283578
                       },
                       {
                         "year": 2035,
-                        "total": 18.5047040872
+                        "total": 30.6678954919
                       },
                       {
                         "year": 2040,
-                        "total": 18.7647457246
+                        "total": 30.4624290968
                       },
                       {
                         "year": 2045,
-                        "total": 17.8094296592
+                        "total": 28.9886202299
                       },
                       {
                         "year": 2050,
-                        "total": 14.6211987658
+                        "total": 24.6529341574
                       }
                     ]
                   },
@@ -6876,23 +5883,23 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.052803
+                        "total": 0.105606
                       },
                       {
                         "year": 2020,
-                        "total": 0.052803
+                        "total": 0.105606
                       },
                       {
                         "year": 2025,
-                        "total": 0.052803
+                        "total": 0.105606
                       },
                       {
                         "year": 2030,
-                        "total": 0.052803
+                        "total": 0.105606
                       },
                       {
                         "year": 2035,
-                        "total": 0.0264015
+                        "total": 0.052803
                       },
                       {
                         "year": 2040,
@@ -6913,23 +5920,23 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 56.8826860995
+                        "total": 194.2212775247
                       },
                       {
                         "year": 2020,
-                        "total": 29.4310802739
+                        "total": 57.2449802762
                       },
                       {
                         "year": 2025,
-                        "total": 1.0825567525
+                        "total": 2.8021772319
                       },
                       {
                         "year": 2030,
-                        "total": 1.7196204794
+                        "total": 3.4392409588
                       },
                       {
                         "year": 2035,
-                        "total": 0.0
+                        "total": 0.0562161108
                       },
                       {
                         "year": 2040,
@@ -6987,35 +5994,4990 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.1269367537
+                        "total": 23.0851823606
                       },
                       {
                         "year": 2020,
-                        "total": 36.5640137259
+                        "total": 69.7889621211
                       },
                       {
                         "year": 2025,
-                        "total": 98.6099805191
+                        "total": 177.8114206956
                       },
                       {
                         "year": 2030,
-                        "total": 134.266095211
+                        "total": 239.8797585759
                       },
                       {
                         "year": 2035,
-                        "total": 150.5913214565
+                        "total": 278.0820996827
                       },
                       {
                         "year": 2040,
-                        "total": 160.1336422402
+                        "total": 289.1417101269
                       },
                       {
                         "year": 2045,
-                        "total": 174.1080323639
+                        "total": 317.6715968676
                       },
                       {
                         "year": 2050,
-                        "total": 165.9046598914
+                        "total": 307.5376753842
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 71.6386270977
+                      },
+                      {
+                        "year": 2020,
+                        "total": 60.2020879839
+                      },
+                      {
+                        "year": 2025,
+                        "total": 60.2020879839
+                      },
+                      {
+                        "year": 2030,
+                        "total": 93.2694374105
+                      },
+                      {
+                        "year": 2035,
+                        "total": 60.2020879839
+                      },
+                      {
+                        "year": 2040,
+                        "total": 60.2020879839
+                      },
+                      {
+                        "year": 2045,
+                        "total": 60.2020879839
+                      },
+                      {
+                        "year": 2050,
+                        "total": 60.2020879839
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.6171958455
+                      },
+                      {
+                        "year": 2020,
+                        "total": 150.9065075171
+                      },
+                      {
+                        "year": 2025,
+                        "total": 135.5691204635
+                      },
+                      {
+                        "year": 2030,
+                        "total": 192.5044320082
+                      },
+                      {
+                        "year": 2035,
+                        "total": 452.2311232517
+                      },
+                      {
+                        "year": 2040,
+                        "total": 687.6013488288
+                      },
+                      {
+                        "year": 2045,
+                        "total": 770.4799961321
+                      },
+                      {
+                        "year": 2050,
+                        "total": 859.7615244144
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 121.1156277729
+                      },
+                      {
+                        "year": 2020,
+                        "total": 200.609096409
+                      },
+                      {
+                        "year": 2025,
+                        "total": 228.6645824465
+                      },
+                      {
+                        "year": 2030,
+                        "total": 190.7728610512
+                      },
+                      {
+                        "year": 2035,
+                        "total": 191.6341246302
+                      },
+                      {
+                        "year": 2040,
+                        "total": 154.833799066
+                      },
+                      {
+                        "year": 2045,
+                        "total": 146.5710916725
+                      },
+                      {
+                        "year": 2050,
+                        "total": 183.1541213724
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 466.9133133554
+                      },
+                      {
+                        "year": 2020,
+                        "total": 191.0942672366
+                      },
+                      {
+                        "year": 2025,
+                        "total": 66.7790298155
+                      },
+                      {
+                        "year": 2030,
+                        "total": 24.0537201642
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.3944935728
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.8744073752
+                      },
+                      {
+                        "year": 2045,
+                        "total": 21.0849196337
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.7485846695
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.6113004982
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.645936274
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6.5550182053
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.7060132386
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7.9428673306
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.9288473825
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.7869309726
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.554200539
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.2313415689
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.1718570249
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1933871956
+                      },
+                      {
+                        "year": 2040,
+                        "total": 21.1326611578
+                      },
+                      {
+                        "year": 2045,
+                        "total": 20.8725614379
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8.3207761032
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 142.6487999323
+                      },
+                      {
+                        "year": 2020,
+                        "total": 143.2766242138
+                      },
+                      {
+                        "year": 2025,
+                        "total": 144.525357112
+                      },
+                      {
+                        "year": 2030,
+                        "total": 143.4024839082
+                      },
+                      {
+                        "year": 2035,
+                        "total": 145.3258312194
+                      },
+                      {
+                        "year": 2040,
+                        "total": 145.9405705459
+                      },
+                      {
+                        "year": 2045,
+                        "total": 145.2962558912
+                      },
+                      {
+                        "year": 2050,
+                        "total": 148.0905668094
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 75.4471848079
+                      },
+                      {
+                        "year": 2020,
+                        "total": 84.1403955139
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.1020851339
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7.536962092
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.8254251204
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.9658972467
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9032943644
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.2170933645
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Nuclear",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 507.2417009687
+                      },
+                      {
+                        "year": 2020,
+                        "total": 568.4487154382
+                      },
+                      {
+                        "year": 2025,
+                        "total": 729.8144331168
+                      },
+                      {
+                        "year": 2030,
+                        "total": 885.3728581637
+                      },
+                      {
+                        "year": 2035,
+                        "total": 828.1936677057
+                      },
+                      {
+                        "year": 2040,
+                        "total": 773.3083519976
+                      },
+                      {
+                        "year": 2045,
+                        "total": 664.958685846
+                      },
+                      {
+                        "year": 2050,
+                        "total": 551.5769110048
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.5660496685
+                      },
+                      {
+                        "year": 2020,
+                        "total": 29.4946837628
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.4750718819
+                      },
+                      {
+                        "year": 2030,
+                        "total": 13.1475850775
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.0918431968
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.2233156524
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.4084963527
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.6704575675
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.4189906883
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.4903109677
+                      },
+                      {
+                        "year": 2025,
+                        "total": 21.730693884
+                      },
+                      {
+                        "year": 2030,
+                        "total": 28.3413799476
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.4135263678
+                      },
+                      {
+                        "year": 2040,
+                        "total": 113.5852206521
+                      },
+                      {
+                        "year": 2045,
+                        "total": 128.1059644787
+                      },
+                      {
+                        "year": 2050,
+                        "total": 160.5647371246
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 26.0775871888
+                      },
+                      {
+                        "year": 2020,
+                        "total": 40.6523089671
+                      },
+                      {
+                        "year": 2025,
+                        "total": 37.8895638291
+                      },
+                      {
+                        "year": 2030,
+                        "total": 35.7031113256
+                      },
+                      {
+                        "year": 2035,
+                        "total": 36.5519036541
+                      },
+                      {
+                        "year": 2040,
+                        "total": 38.1435388788
+                      },
+                      {
+                        "year": 2045,
+                        "total": 33.5407899183
+                      },
+                      {
+                        "year": 2050,
+                        "total": 29.2179165087
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.0334946304
+                      },
+                      {
+                        "year": 2020,
+                        "total": 53.0162139159
+                      },
+                      {
+                        "year": 2025,
+                        "total": 102.981949756
+                      },
+                      {
+                        "year": 2030,
+                        "total": 102.9624798407
+                      },
+                      {
+                        "year": 2035,
+                        "total": 106.7754200194
+                      },
+                      {
+                        "year": 2040,
+                        "total": 113.1179847285
+                      },
+                      {
+                        "year": 2045,
+                        "total": 143.5308868125
+                      },
+                      {
+                        "year": 2050,
+                        "total": 154.2647192712
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 33.4354474186
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.1113655172
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1016.5911014393
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1035.9335112148
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1035.9335112148
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1035.9335112148
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1063.9575813807
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1052.453323932
+                      },
+                      {
+                        "year": 2045,
+                        "total": 953.5581418193
+                      },
+                      {
+                        "year": 2050,
+                        "total": 851.9072205025
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.1949180245
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.248616
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.6476470799
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5.046152763
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 33.4261541488
+                      },
+                      {
+                        "year": 2020,
+                        "total": 33.5100126215
+                      },
+                      {
+                        "year": 2025,
+                        "total": 33.5100126215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.5100126215
+                      },
+                      {
+                        "year": 2035,
+                        "total": 33.5100126215
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.5100126215
+                      },
+                      {
+                        "year": 2045,
+                        "total": 33.5100126215
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33.5100126215
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.1798
+                      },
+                      {
+                        "year": 2020,
+                        "total": 23.0457952941
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.0107647059
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.1911932195
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.364195436
+                      },
+                      {
+                        "year": 2040,
+                        "total": 78.673707457
+                      },
+                      {
+                        "year": 2045,
+                        "total": 223.2757042294
+                      },
+                      {
+                        "year": 2050,
+                        "total": 455.4654979599
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 35.7039324878
+                      },
+                      {
+                        "year": 2020,
+                        "total": 39.1624383391
+                      },
+                      {
+                        "year": 2025,
+                        "total": 20.1370179231
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12.8336155059
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.8917286412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 61.2244889946
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.230305829
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.8228679349
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.8083100365
+                      },
+                      {
+                        "year": 2020,
+                        "total": 69.8044263699
+                      },
+                      {
+                        "year": 2025,
+                        "total": 72.701798033
+                      },
+                      {
+                        "year": 2030,
+                        "total": 48.5782019152
+                      },
+                      {
+                        "year": 2035,
+                        "total": 43.8946015477
+                      },
+                      {
+                        "year": 2040,
+                        "total": 29.8393781653
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.4880084741
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22.9778266353
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2020,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2025,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2030,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2035,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2040,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2045,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2050,
+                        "total": 478.394924821
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 101.5108323751
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 154.0920916615
+                      },
+                      {
+                        "year": 2020,
+                        "total": 174.8586892857
+                      },
+                      {
+                        "year": 2025,
+                        "total": 180.0969772572
+                      },
+                      {
+                        "year": 2030,
+                        "total": 217.0186099009
+                      },
+                      {
+                        "year": 2035,
+                        "total": 235.1127272885
+                      },
+                      {
+                        "year": 2040,
+                        "total": 289.3070944951
+                      },
+                      {
+                        "year": 2045,
+                        "total": 400.6873915681
+                      },
+                      {
+                        "year": 2050,
+                        "total": 436.4736317056
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 126.774
+                      },
+                      {
+                        "year": 2020,
+                        "total": 145.8
+                      },
+                      {
+                        "year": 2025,
+                        "total": 145.8
+                      },
+                      {
+                        "year": 2030,
+                        "total": 154.0657394416
+                      },
+                      {
+                        "year": 2035,
+                        "total": 145.8
+                      },
+                      {
+                        "year": 2040,
+                        "total": 145.8
+                      },
+                      {
+                        "year": 2045,
+                        "total": 145.8
+                      },
+                      {
+                        "year": 2050,
+                        "total": 145.8
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 102.7909726131
+                      },
+                      {
+                        "year": 2020,
+                        "total": 131.9167790871
+                      },
+                      {
+                        "year": 2025,
+                        "total": 149.7916989318
+                      },
+                      {
+                        "year": 2030,
+                        "total": 217.3507763391
+                      },
+                      {
+                        "year": 2035,
+                        "total": 451.1506141223
+                      },
+                      {
+                        "year": 2040,
+                        "total": 644.1457675322
+                      },
+                      {
+                        "year": 2045,
+                        "total": 718.8523443889
+                      },
+                      {
+                        "year": 2050,
+                        "total": 777.4002120565
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Power Trade (PJ)",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Export DK-DE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9.96566733
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6.3577370999
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0760323421
+                      },
+                      {
+                        "year": 2035,
+                        "total": 156.2809366443
+                      },
+                      {
+                        "year": 2040,
+                        "total": 229.3350250184
+                      },
+                      {
+                        "year": 2045,
+                        "total": 233.7317817899
+                      },
+                      {
+                        "year": 2050,
+                        "total": 242.1707129723
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-NL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 32.862036089
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32.9557950847
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33.02208
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-UK",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 29.1447707432
+                      },
+                      {
+                        "year": 2040,
+                        "total": 83.88576
+                      },
+                      {
+                        "year": 2045,
+                        "total": 83.88576
+                      },
+                      {
+                        "year": 2050,
+                        "total": 167.77152
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "IMPELC-DKUK",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 14.5772325825
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.1115793364
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import DK-DE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -47.5330060425
+                      },
+                      {
+                        "year": 2020,
+                        "total": -67.514422094
+                      },
+                      {
+                        "year": 2025,
+                        "total": -101.709188375
+                      },
+                      {
+                        "year": 2030,
+                        "total": -87.8139106761
+                      },
+                      {
+                        "year": 2035,
+                        "total": -13.3917956362
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import DK-NL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -7.2851587762
+                      },
+                      {
+                        "year": 2025,
+                        "total": -32.4713787958
+                      },
+                      {
+                        "year": 2030,
+                        "total": -16.7349039805
+                      },
+                      {
+                        "year": 2035,
+                        "total": -0.8296833017
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Export RU-FI",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 26.872169184
+                      },
+                      {
+                        "year": 2020,
+                        "total": 35.5391316
+                      },
+                      {
+                        "year": 2025,
+                        "total": 24.9695658
+                      },
+                      {
+                        "year": 2030,
+                        "total": 27.7757568
+                      },
+                      {
+                        "year": 2035,
+                        "total": 27.7757568
+                      },
+                      {
+                        "year": 2040,
+                        "total": 27.7757568
+                      },
+                      {
+                        "year": 2045,
+                        "total": 27.7757568
+                      },
+                      {
+                        "year": 2050,
+                        "total": 27.7757568
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Export NO-DE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 63.0081238659
+                      },
+                      {
+                        "year": 2025,
+                        "total": 66.04416
+                      },
+                      {
+                        "year": 2030,
+                        "total": 65.6856703314
+                      },
+                      {
+                        "year": 2035,
+                        "total": 66.04416
+                      },
+                      {
+                        "year": 2040,
+                        "total": 66.04416
+                      },
+                      {
+                        "year": 2045,
+                        "total": 66.04416
+                      },
+                      {
+                        "year": 2050,
+                        "total": 73.458
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export NO-NL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 36.071784
+                      },
+                      {
+                        "year": 2020,
+                        "total": 66.04416
+                      },
+                      {
+                        "year": 2025,
+                        "total": 54.9087450327
+                      },
+                      {
+                        "year": 2030,
+                        "total": 39.8637698187
+                      },
+                      {
+                        "year": 2035,
+                        "total": 179.7599840116
+                      },
+                      {
+                        "year": 2040,
+                        "total": 117.9772621865
+                      },
+                      {
+                        "year": 2045,
+                        "total": 144.4873893465
+                      },
+                      {
+                        "year": 2050,
+                        "total": 171.243072
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export NO-UK",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 76.17456
+                      },
+                      {
+                        "year": 2025,
+                        "total": 126.6210567095
+                      },
+                      {
+                        "year": 2030,
+                        "total": 54.3886768114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 93.877056
+                      },
+                      {
+                        "year": 2040,
+                        "total": 145.245196662
+                      },
+                      {
+                        "year": 2045,
+                        "total": 183.542656788
+                      },
+                      {
+                        "year": 2050,
+                        "total": 218.1786624
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import NO-DE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -22.25664
+                      },
+                      {
+                        "year": 2025,
+                        "total": -22.25664
+                      },
+                      {
+                        "year": 2030,
+                        "total": -22.25664
+                      },
+                      {
+                        "year": 2035,
+                        "total": -7.3256572842
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import NO-NL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -4.6186526019
+                      },
+                      {
+                        "year": 2020,
+                        "total": -22.25664
+                      },
+                      {
+                        "year": 2025,
+                        "total": -22.25664
+                      },
+                      {
+                        "year": 2030,
+                        "total": -22.25664
+                      },
+                      {
+                        "year": 2035,
+                        "total": -18.6596648132
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import NO-RU",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -1.13436
+                      },
+                      {
+                        "year": 2020,
+                        "total": -1.33902
+                      },
+                      {
+                        "year": 2025,
+                        "total": -1.19862
+                      },
+                      {
+                        "year": 2030,
+                        "total": -0.36234
+                      },
+                      {
+                        "year": 2035,
+                        "total": -1.25892
+                      },
+                      {
+                        "year": 2040,
+                        "total": -1.28232
+                      },
+                      {
+                        "year": 2045,
+                        "total": -1.3705921788
+                      },
+                      {
+                        "year": 2050,
+                        "total": -1.18026
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import NO-UK",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": -22.25664
+                      },
+                      {
+                        "year": 2030,
+                        "total": -22.25664
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Export SE-DE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 44.6502783117
+                      },
+                      {
+                        "year": 2040,
+                        "total": 61.32672
+                      },
+                      {
+                        "year": 2045,
+                        "total": 61.32672
+                      },
+                      {
+                        "year": 2050,
+                        "total": 61.32672
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export SE-LT",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.0077918335
+                      },
+                      {
+                        "year": 2045,
+                        "total": 21.4561168253
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22.7728057365
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export SE-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.185907763
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.540654338
+                      },
+                      {
+                        "year": 2045,
+                        "total": 52.8752709934
+                      },
+                      {
+                        "year": 2050,
+                        "total": 100.2550934177
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import SE-DE",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -8.5493883234
+                      },
+                      {
+                        "year": 2020,
+                        "total": -8.327357976
+                      },
+                      {
+                        "year": 2025,
+                        "total": -36.438012
+                      },
+                      {
+                        "year": 2030,
+                        "total": -64.2681297088
+                      },
+                      {
+                        "year": 2035,
+                        "total": -20.9670950155
+                      },
+                      {
+                        "year": 2040,
+                        "total": -0.4332597436
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import SE-LT",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -11.7078599856
+                      },
+                      {
+                        "year": 2025,
+                        "total": -41.2704898656
+                      },
+                      {
+                        "year": 2030,
+                        "total": -37.83024
+                      },
+                      {
+                        "year": 2035,
+                        "total": -31.3799092384
+                      },
+                      {
+                        "year": 2040,
+                        "total": -10.8634385777
+                      },
+                      {
+                        "year": 2045,
+                        "total": -2.4354982935
+                      },
+                      {
+                        "year": 2050,
+                        "total": -1.3011583927
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import SE-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -9.0161785899
+                      },
+                      {
+                        "year": 2020,
+                        "total": -10.1703770051
+                      },
+                      {
+                        "year": 2025,
+                        "total": -32.58792
+                      },
+                      {
+                        "year": 2030,
+                        "total": -30.6741071013
+                      },
+                      {
+                        "year": 2035,
+                        "total": -84.6050702072
+                      },
+                      {
+                        "year": 2040,
+                        "total": -9.128116531
+                      },
+                      {
+                        "year": 2045,
+                        "total": -2.0641242516
+                      },
+                      {
+                        "year": 2050,
+                        "total": -0.324
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Power capacity (MW)",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biomass",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2456.46
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2916.46
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2865.3
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3290.0418563151
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2290.937948768
+                      },
+                      {
+                        "year": 2040,
+                        "total": 790.352304411
+                      },
+                      {
+                        "year": 2045,
+                        "total": 755.152304411
+                      },
+                      {
+                        "year": 2050,
+                        "total": 719.952304411
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Col",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4337.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3760.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3018.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2270.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1493.5034548188
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 17.2
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.2
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.2
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.6
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4503.468
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2605.2264
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1951.614
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1951.614
+                      },
+                      {
+                        "year": 2035,
+                        "total": 749.3626342999
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2090.72
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1296.12
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1287.12
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1287.12
+                      },
+                      {
+                        "year": 2035,
+                        "total": 330.1544761788
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2577.200012
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2577.200012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5077.200012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11037.7935746384
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19334.6590647285
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23825.4730657386
+                      },
+                      {
+                        "year": 2045,
+                        "total": 29156.7879742974
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33408.1074386107
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 682.5966761284
+                      },
+                      {
+                        "year": 2020,
+                        "total": 585.2388625308
+                      },
+                      {
+                        "year": 2025,
+                        "total": 448.8141480293
+                      },
+                      {
+                        "year": 2030,
+                        "total": 379.5246271864
+                      },
+                      {
+                        "year": 2035,
+                        "total": 464.6230944111
+                      },
+                      {
+                        "year": 2040,
+                        "total": 358.8284262165
+                      },
+                      {
+                        "year": 2045,
+                        "total": 346.4072198268
+                      },
+                      {
+                        "year": 2050,
+                        "total": 309.0319343283
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10933.2782103274
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13575.4718863727
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11405.1414253359
+                      },
+                      {
+                        "year": 2030,
+                        "total": 15724.2111943749
+                      },
+                      {
+                        "year": 2035,
+                        "total": 31464.5402077797
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44538.2597161184
+                      },
+                      {
+                        "year": 2045,
+                        "total": 49438.9067474524
+                      },
+                      {
+                        "year": 2050,
+                        "total": 54561.2649850822
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6479.1995421794
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6788.4689391902
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6659.3636831302
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6676.5032263805
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6692.5204779634
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6696.5905364116
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6717.1664216197
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6719.2055027374
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4863.2580833658
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4150.7895619705
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3909.8864013353
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2477.2103076779
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1646.7645465992
+                      },
+                      {
+                        "year": 2040,
+                        "total": 816.3187855204
+                      },
+                      {
+                        "year": 2045,
+                        "total": 408.3227247407
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.3266639611
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Nuclear",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5501.5485714286
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6800.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8780.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10780.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10275.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9770.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8375.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6980.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1291.8511705061
+                      },
+                      {
+                        "year": 2020,
+                        "total": 561.0239382991
+                      },
+                      {
+                        "year": 2025,
+                        "total": 639.8708276172
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1389.1983036837
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2020.4289116308
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4926.9094311526
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7941.7367697148
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8968.8194684873
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 88.29
+                      },
+                      {
+                        "year": 2020,
+                        "total": 246.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 258.7
+                      },
+                      {
+                        "year": 2030,
+                        "total": 296.3702391603
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7171.7257342955
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12439.5585256038
+                      },
+                      {
+                        "year": 2045,
+                        "total": 15262.4010175575
+                      },
+                      {
+                        "year": 2050,
+                        "total": 19566.2805680044
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solid fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6851.441740745
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7599.6514626773
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6598.9460958419
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5932.9053058075
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6177.1307512714
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5733.5706728079
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5678.4088772559
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7339.3816749648
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 365.7142857143
+                      },
+                      {
+                        "year": 2020,
+                        "total": 430.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 430.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 430.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 430.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 430.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 400.58210448
+                      },
+                      {
+                        "year": 2050,
+                        "total": 445.7020734878
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3039.3564932473
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5545.3032337773
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11151.5853824093
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11146.7282960445
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11613.0509363378
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12103.8526094012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14722.5602517724
+                      },
+                      {
+                        "year": 2050,
+                        "total": 15593.4944439259
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3970.882
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3970.882
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3970.882
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3970.882
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3970.882
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3970.882
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3970.882
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3970.882
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6.06
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6.06
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6.06
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.06
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.3088849137
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biomass",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 24.0714402963
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33.9754527231
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 64649.1689966868
+                      },
+                      {
+                        "year": 2020,
+                        "total": 65453.9501959741
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65453.9501959741
+                      },
+                      {
+                        "year": 2030,
+                        "total": 61653.9501959742
+                      },
+                      {
+                        "year": 2035,
+                        "total": 59140.0782760844
+                      },
+                      {
+                        "year": 2040,
+                        "total": 54783.7248495304
+                      },
+                      {
+                        "year": 2045,
+                        "total": 49164.4559202743
+                      },
+                      {
+                        "year": 2050,
+                        "total": 43397.4345667557
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2449.9999999998
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2449.9999999998
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2449.9999999998
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1759.3939393938
+                      },
+                      {
+                        "year": 2035,
+                        "total": 899.3939393938
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 47.0407434289
+                      },
+                      {
+                        "year": 2040,
+                        "total": 60.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 60.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 60.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 217.1514404391
+                      },
+                      {
+                        "year": 2020,
+                        "total": 217.7968345958
+                      },
+                      {
+                        "year": 2025,
+                        "total": 280.3454040965
+                      },
+                      {
+                        "year": 2030,
+                        "total": 208.2484576985
+                      },
+                      {
+                        "year": 2035,
+                        "total": 186.6921741974
+                      },
+                      {
+                        "year": 2040,
+                        "total": 202.7114868986
+                      },
+                      {
+                        "year": 2045,
+                        "total": 214.6391930379
+                      },
+                      {
+                        "year": 2050,
+                        "total": 193.0802028354
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2585.8775654115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2567.8775654115
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2025.8775654115
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1463.6776814812
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1943.2386357799
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7647.9879050095
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18177.7875899857
+                      },
+                      {
+                        "year": 2050,
+                        "total": 36020.736135121
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biomass",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6216.641452518
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8291.551676893
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4731.3999887246
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2777.0392981339
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1488.9991655776
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1105.7291693925
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1816.898687312
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2039.3569156541
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Col",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 531.3032481217
+                      },
+                      {
+                        "year": 2020,
+                        "total": 412.6711640102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 294.0390798988
+                      },
+                      {
+                        "year": 2030,
+                        "total": 169.203038565
+                      },
+                      {
+                        "year": 2035,
+                        "total": 68.0209976968
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 32310.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32310.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 32310.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 32310.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 32310.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 32310.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32310.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 32277.2841535363
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1281.5187669947
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1616.3796213147
+                      },
+                      {
+                        "year": 2025,
+                        "total": 648.9067129362
+                      },
+                      {
+                        "year": 2030,
+                        "total": 328.5934357431
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.3744599293
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 158.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 158.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 158.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 158.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5464.4831586914
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8899.9695773072
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10470.1657991132
+                      },
+                      {
+                        "year": 2050,
+                        "total": 11904.7619047619
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2050.712210266
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1830.6838115139
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1614.9782581727
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1326.7299119819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 674.0662037036
+                      },
+                      {
+                        "year": 2040,
+                        "total": 687.7997745752
+                      },
+                      {
+                        "year": 2045,
+                        "total": 689.5312950401
+                      },
+                      {
+                        "year": 2050,
+                        "total": 685.8802689955
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10840.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13107.7406847388
+                      },
+                      {
+                        "year": 2025,
+                        "total": 14373.7961673515
+                      },
+                      {
+                        "year": 2030,
+                        "total": 19727.6989661053
+                      },
+                      {
+                        "year": 2035,
+                        "total": 36460.0739228183
+                      },
+                      {
+                        "year": 2040,
+                        "total": 48881.7173341448
+                      },
+                      {
+                        "year": 2045,
+                        "total": 53791.7368615941
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57298.4487499412
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Power production (PJ)",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 149.1383899041
+                      },
+                      {
+                        "year": 2020,
+                        "total": 86.6877810738
+                      },
+                      {
+                        "year": 2025,
+                        "total": 26.7025944437
+                      },
+                      {
+                        "year": 2030,
+                        "total": 27.416645555
+                      },
+                      {
+                        "year": 2035,
+                        "total": 26.9905940209
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.3716938384
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.1573397363
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8752120841
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.105606
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.105606
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.105606
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.105606
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9.2779200432
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.2779200432
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.6154200432
+                      },
+                      {
+                        "year": 2030,
+                        "total": 41.2990719822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 73.8128647054
+                      },
+                      {
+                        "year": 2040,
+                        "total": 92.1720535789
+                      },
+                      {
+                        "year": 2045,
+                        "total": 113.9082246082
+                      },
+                      {
+                        "year": 2050,
+                        "total": 134.3220678322
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.59666112
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 36.772092
+                      },
+                      {
+                        "year": 2020,
+                        "total": 79.7149211125
+                      },
+                      {
+                        "year": 2025,
+                        "total": 79.5673747347
+                      },
+                      {
+                        "year": 2030,
+                        "total": 63.3487372879
+                      },
+                      {
+                        "year": 2035,
+                        "total": 281.3001921073
+                      },
+                      {
+                        "year": 2040,
+                        "total": 510.0525021684
+                      },
+                      {
+                        "year": 2045,
+                        "total": 587.9759185163
+                      },
+                      {
+                        "year": 2050,
+                        "total": 672.4517177275
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 127.5244865796
+                      },
+                      {
+                        "year": 2020,
+                        "total": 71.1915864046
+                      },
+                      {
+                        "year": 2025,
+                        "total": 56.0017457288
+                      },
+                      {
+                        "year": 2030,
+                        "total": 158.6254816752
+                      },
+                      {
+                        "year": 2035,
+                        "total": 170.9309311443
+                      },
+                      {
+                        "year": 2040,
+                        "total": 177.5488466604
+                      },
+                      {
+                        "year": 2045,
+                        "total": 182.5040776158
+                      },
+                      {
+                        "year": 2050,
+                        "total": 339.0427486561
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 84.3688398047
+                      },
+                      {
+                        "year": 2020,
+                        "total": 85.1968279503
+                      },
+                      {
+                        "year": 2025,
+                        "total": 46.0797099577
+                      },
+                      {
+                        "year": 2030,
+                        "total": 28.4983513809
+                      },
+                      {
+                        "year": 2035,
+                        "total": 35.4257416706
+                      },
+                      {
+                        "year": 2040,
+                        "total": 38.1160389899
+                      },
+                      {
+                        "year": 2045,
+                        "total": 35.7028958218
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33.8557704295
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 104.9798243035
+                      },
+                      {
+                        "year": 2020,
+                        "total": 105.0009041096
+                      },
+                      {
+                        "year": 2025,
+                        "total": 104.1417138256
+                      },
+                      {
+                        "year": 2030,
+                        "total": 104.5739082256
+                      },
+                      {
+                        "year": 2035,
+                        "total": 104.9088065056
+                      },
+                      {
+                        "year": 2040,
+                        "total": 105.2437047856
+                      },
+                      {
+                        "year": 2045,
+                        "total": 105.5786030656
+                      },
+                      {
+                        "year": 2050,
+                        "total": 105.9135013456
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.00273
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0093441471
+                      },
+                      {
+                        "year": 2035,
+                        "total": 33.7447967243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 63.8489258382
+                      },
+                      {
+                        "year": 2045,
+                        "total": 63.8773377114
+                      },
+                      {
+                        "year": 2050,
+                        "total": 64.9268814322
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 202.3510094098
+                      },
+                      {
+                        "year": 2020,
+                        "total": 237.9577314992
+                      },
+                      {
+                        "year": 2025,
+                        "total": 260.5889745249
+                      },
+                      {
+                        "year": 2030,
+                        "total": 312.6871044955
+                      },
+                      {
+                        "year": 2035,
+                        "total": 294.1897135581
+                      },
+                      {
+                        "year": 2040,
+                        "total": 276.6167306331
+                      },
+                      {
+                        "year": 2045,
+                        "total": 240.7102836509
+                      },
+                      {
+                        "year": 2050,
+                        "total": 201.705984
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.2400888337
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2400888337
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.2400888337
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.183008355
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0420787203
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9.7175292481
+                      },
+                      {
+                        "year": 2045,
+                        "total": 37.9067652773
+                      },
+                      {
+                        "year": 2050,
+                        "total": 46.2922436823
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 24.7934057967
+                      },
+                      {
+                        "year": 2020,
+                        "total": 52.7761250822
+                      },
+                      {
+                        "year": 2025,
+                        "total": 102.7418609222
+                      },
+                      {
+                        "year": 2030,
+                        "total": 102.7794714857
+                      },
+                      {
+                        "year": 2035,
+                        "total": 106.7333412992
+                      },
+                      {
+                        "year": 2040,
+                        "total": 103.4004554803
+                      },
+                      {
+                        "year": 2045,
+                        "total": 105.6241215352
+                      },
+                      {
+                        "year": 2050,
+                        "total": 107.9724755888
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Geothermal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.4478720003
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2808
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.4050836994
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0244570072
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.7405144513
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.8693961531
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.6429165999
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.1089845496
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.3205684465
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.3072641031
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1016.5911014393
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1035.9335112148
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1035.9335112148
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1035.9335112148
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1063.9575813807
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1052.453323932
+                      },
+                      {
+                        "year": 2045,
+                        "total": 953.5581418193
+                      },
+                      {
+                        "year": 2050,
+                        "total": 851.9072205025
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.1949180245
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.248616
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.248616
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.248616
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.06119296
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.06119296
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.06119296
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.2848666649
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 115.4148679479
+                      },
+                      {
+                        "year": 2050,
+                        "total": 260.6797670189
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.1798
+                      },
+                      {
+                        "year": 2020,
+                        "total": 23.0457952941
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.0107647059
+                      },
+                      {
+                        "year": 2030,
+                        "total": 22.9970908278
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.364195436
+                      },
+                      {
+                        "year": 2040,
+                        "total": 78.673707457
+                      },
+                      {
+                        "year": 2045,
+                        "total": 107.8608362815
+                      },
+                      {
+                        "year": 2050,
+                        "total": 194.785730941
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 38.2481230808
+                      },
+                      {
+                        "year": 2020,
+                        "total": 23.6024150366
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23.1982200846
+                      },
+                      {
+                        "year": 2030,
+                        "total": 44.0106469378
+                      },
+                      {
+                        "year": 2035,
+                        "total": 47.3947886068
+                      },
+                      {
+                        "year": 2040,
+                        "total": 49.8681229906
+                      },
+                      {
+                        "year": 2045,
+                        "total": 113.5852467037
+                      },
+                      {
+                        "year": 2050,
+                        "total": 121.2159558912
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2020,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2025,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2030,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2035,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2040,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2045,
+                        "total": 478.87983648
+                      },
+                      {
+                        "year": 2050,
+                        "total": 478.394924821
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.5688
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.5688
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.5688
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.5688
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1239931635
+                      },
+                      {
+                        "year": 2040,
+                        "total": 34.6804215377
+                      },
+                      {
+                        "year": 2045,
+                        "total": 41.1401769146
+                      },
+                      {
+                        "year": 2050,
+                        "total": 47.2008743896
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 54.679482
+                      },
+                      {
+                        "year": 2020,
+                        "total": 31.6432052329
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.8219536462
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12.2456773598
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.960063538
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 102.1760331604
+                      },
+                      {
+                        "year": 2040,
+                        "total": 247.3788194897
+                      },
+                      {
+                        "year": 2045,
+                        "total": 298.9042640028
+                      },
+                      {
+                        "year": 2050,
+                        "total": 346.6647714024
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 111.7699198796
+                      },
+                      {
+                        "year": 2020,
+                        "total": 165.4691346762
+                      },
+                      {
+                        "year": 2025,
+                        "total": 149.7916989318
+                      },
+                      {
+                        "year": 2030,
+                        "total": 217.3507763391
+                      },
+                      {
+                        "year": 2035,
+                        "total": 348.9745809619
+                      },
+                      {
+                        "year": 2040,
+                        "total": 453.3024857237
+                      },
+                      {
+                        "year": 2045,
+                        "total": 419.9480803861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 524.9499181269
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNS_CCS_Bio",
+        "indicators": [
+          {
+            "indicator": "District heat production (PJ)",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Ambient",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 51.4293138972
+                      },
+                      {
+                        "year": 2030,
+                        "total": 53.2400566911
+                      },
+                      {
+                        "year": 2035,
+                        "total": 53.1649476487
+                      },
+                      {
+                        "year": 2040,
+                        "total": 52.0873745958
+                      },
+                      {
+                        "year": 2045,
+                        "total": 56.3332721389
+                      },
+                      {
+                        "year": 2050,
+                        "total": 48.2527372508
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bioenergy",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.97703776
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.4533184888
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.6631726852
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.37253925
+                      },
+                      {
+                        "year": 2035,
+                        "total": 36.3134546977
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.2433818215
+                      },
+                      {
+                        "year": 2045,
+                        "total": 31.3108739428
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.3883471602
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 37.6755874741
+                      },
+                      {
+                        "year": 2020,
+                        "total": 23.3741129775
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.8774090966
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 37.4597705086
+                      },
+                      {
+                        "year": 2020,
+                        "total": 20.5801263664
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 37.106729275
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.9488808834
+                      },
+                      {
+                        "year": 2025,
+                        "total": 55.1675635385
+                      },
+                      {
+                        "year": 2030,
+                        "total": 92.8965411078
+                      },
+                      {
+                        "year": 2035,
+                        "total": 113.293732357
+                      },
+                      {
+                        "year": 2040,
+                        "total": 109.3082339384
+                      },
+                      {
+                        "year": 2045,
+                        "total": 111.6215726362
+                      },
+                      {
+                        "year": 2050,
+                        "total": 102.0433550579
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.0315495859
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.6613152863
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.6613152863
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.6576764793
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.0761442001
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 21.3116087745
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.9182986271
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5953170002
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.2681507745
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.9807229707
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.977477521
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.9774265545
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.977477521
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Ambient",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0151455933
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.3217485749
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.9784503151
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.6883895156
+                      },
+                      {
+                        "year": 2035,
+                        "total": 22.4022908098
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20.7155940853
+                      },
+                      {
+                        "year": 2045,
+                        "total": 19.4665974367
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.1568766423
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.4178084814
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.5484154197
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.7822107303
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.2916580953
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.469530226
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1.2875950327
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.1261178448
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.8053754773
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.276557609
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.0351885602
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7121663531
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.8759984219
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.2297862495
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.4839154285
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.3613106927
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.069463544
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.9682631842
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.2006761603
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.437226843
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.756850444
+                      },
+                      {
+                        "year": 2050,
+                        "total": 20.6176054405
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solid fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 88.339960243
+                      },
+                      {
+                        "year": 2020,
+                        "total": 90.017855246
+                      },
+                      {
+                        "year": 2025,
+                        "total": 95.7555384289
+                      },
+                      {
+                        "year": 2030,
+                        "total": 81.9841655115
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.3076669021
+                      },
+                      {
+                        "year": 2040,
+                        "total": 62.6349430768
+                      },
+                      {
+                        "year": 2045,
+                        "total": 59.4842047697
+                      },
+                      {
+                        "year": 2050,
+                        "total": 59.0285602548
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089267243
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.6338583703
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.910690195
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.1868342913
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.1722833871
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.2356423339
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.8433920933
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8.9522360709
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bioenergy",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.7897358907
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.8223009309
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7.6392357311
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9835426215
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6101211691
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2301290085
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2386452521
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1996144207
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024205294
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.2349855696
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.0519203698
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9835426215
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6101211691
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2301290085
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2386452521
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1996144207
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Ambient",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 71.0615933148
+                      },
+                      {
+                        "year": 2020,
+                        "total": 111.0549274807
+                      },
+                      {
+                        "year": 2025,
+                        "total": 114.6222898134
+                      },
+                      {
+                        "year": 2030,
+                        "total": 78.1151611281
+                      },
+                      {
+                        "year": 2035,
+                        "total": 72.7765242331
+                      },
+                      {
+                        "year": 2040,
+                        "total": 63.3434596203
+                      },
+                      {
+                        "year": 2045,
+                        "total": 58.2359696942
+                      },
+                      {
+                        "year": 2050,
+                        "total": 58.0513051657
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Bioenergy",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0633457292
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0546100245
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.2473830436
+                      },
+                      {
+                        "year": 2030,
+                        "total": 37.7795377563
+                      },
+                      {
+                        "year": 2035,
+                        "total": 38.4265448425
+                      },
+                      {
+                        "year": 2040,
+                        "total": 54.4271127273
+                      },
+                      {
+                        "year": 2045,
+                        "total": 105.3715774089
+                      },
+                      {
+                        "year": 2050,
+                        "total": 115.9583274468
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.5211623216
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 72.0079427919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 143.9263927072
+                      },
+                      {
+                        "year": 2020,
+                        "total": 111.36470465
+                      },
+                      {
+                        "year": 2025,
+                        "total": 116.6531763357
+                      },
+                      {
+                        "year": 2030,
+                        "total": 122.659928172
+                      },
+                      {
+                        "year": 2035,
+                        "total": 150.8756992929
+                      },
+                      {
+                        "year": 2040,
+                        "total": 175.6640884535
+                      },
+                      {
+                        "year": 2045,
+                        "total": 221.5011258316
+                      },
+                      {
+                        "year": 2050,
+                        "total": 231.9032113409
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 42.5720593379
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9587948448
+                      },
+                      {
+                        "year": 2025,
+                        "total": 49.1543990388
+                      },
+                      {
+                        "year": 2030,
+                        "total": 49.8759390216
+                      },
+                      {
+                        "year": 2035,
+                        "total": 55.2510935241
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8935161059
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8935787284
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8935787284
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Power & Heat fuel consumption (PJ)",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 183.3579302283
+                      },
+                      {
+                        "year": 2020,
+                        "total": 46.1258741775
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.8802611986
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.7858844348
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12.200846325
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.7892214762
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.4513846941
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.8377189053
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.2172987963
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0264015
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 65.1584556455
+                      },
+                      {
+                        "year": 2020,
+                        "total": 28.4561422351
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.7196204794
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.7196204794
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.056162166
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 15.0171799014
+                      },
+                      {
+                        "year": 2020,
+                        "total": 33.0790711935
+                      },
+                      {
+                        "year": 2025,
+                        "total": 77.308374258
+                      },
+                      {
+                        "year": 2030,
+                        "total": 102.6039617753
+                      },
+                      {
+                        "year": 2035,
+                        "total": 123.8253774534
+                      },
+                      {
+                        "year": 2040,
+                        "total": 127.5127860699
+                      },
+                      {
+                        "year": 2045,
+                        "total": 140.6619323909
+                      },
+                      {
+                        "year": 2050,
+                        "total": 141.4182665099
                       }
                     ]
                   },
@@ -7032,7 +10994,7 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 30.101043992
+                        "total": 30.1010439907
                       },
                       {
                         "year": 2030,
@@ -7061,35 +11023,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 51.3077466737
+                        "total": 57.3094491718
                       },
                       {
                         "year": 2020,
-                        "total": 71.3710501421
+                        "total": 79.535457375
                       },
                       {
                         "year": 2025,
-                        "total": 62.6204943812
+                        "total": 72.9486260823
                       },
                       {
                         "year": 2030,
-                        "total": 95.6278592421
+                        "total": 96.8765727661
                       },
                       {
                         "year": 2035,
-                        "total": 217.671687229
+                        "total": 234.7508758417
                       },
                       {
                         "year": 2040,
-                        "total": 332.6205880797
+                        "total": 354.7178160605
                       },
                       {
                         "year": 2045,
-                        "total": 376.2616271992
+                        "total": 393.4950282025
                       },
                       {
                         "year": 2050,
-                        "total": 420.0200319291
+                        "total": 441.4276417504
                       }
                     ]
                   }
@@ -7103,35 +11065,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 59.5765759682
+                        "total": 61.5390518047
                       },
                       {
                         "year": 2020,
-                        "total": 100.5526032134
+                        "total": 100.0589734227
                       },
                       {
                         "year": 2025,
-                        "total": 114.9961707724
+                        "total": 113.6461371002
                       },
                       {
                         "year": 2030,
-                        "total": 95.3249007435
+                        "total": 95.3182388566
                       },
                       {
                         "year": 2035,
-                        "total": 97.9589119382
+                        "total": 93.8396898838
                       },
                       {
                         "year": 2040,
-                        "total": 76.9507181656
+                        "total": 77.1237277759
                       },
                       {
                         "year": 2045,
-                        "total": 73.3051806526
+                        "total": 73.1841759277
                       },
                       {
                         "year": 2050,
-                        "total": 95.9462748103
+                        "total": 85.519075899
                       }
                     ]
                   },
@@ -7140,7 +11102,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 133.9903857781
+                        "total": 135.0128937568
                       },
                       {
                         "year": 2020,
@@ -7148,27 +11110,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 33.5095751488
+                        "total": 32.9579382117
                       },
                       {
                         "year": 2030,
-                        "total": 11.9797484001
+                        "total": 11.9411813307
                       },
                       {
                         "year": 2035,
-                        "total": 4.2923513893
+                        "total": 5.0680617234
                       },
                       {
                         "year": 2040,
-                        "total": 7.9983636033
+                        "total": 9.0477080316
                       },
                       {
                         "year": 2045,
-                        "total": 10.2201944194
+                        "total": 10.7406431909
                       },
                       {
                         "year": 2050,
-                        "total": 1.1471790183
+                        "total": 1.6304757828
                       }
                     ]
                   },
@@ -7177,35 +11139,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1.3055638119
+                        "total": 1.3057366572
                       },
                       {
                         "year": 2020,
-                        "total": 2.2253142458
+                        "total": 2.4206220282
                       },
                       {
                         "year": 2025,
-                        "total": 3.2713272572
+                        "total": 3.2874705201
                       },
                       {
                         "year": 2030,
-                        "total": 4.3490807565
+                        "total": 4.3607120541
                       },
                       {
                         "year": 2035,
-                        "total": 3.9626421283
+                        "total": 3.9793985131
                       },
                       {
                         "year": 2040,
-                        "total": 3.4469805232
+                        "total": 3.4764765758
                       },
                       {
                         "year": 2045,
-                        "total": 3.3659074378
+                        "total": 3.4283705
                       },
                       {
                         "year": 2050,
-                        "total": 3.5111692879
+                        "total": 3.0328556027
                       }
                     ]
                   },
@@ -7222,27 +11184,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 4.7734746295
+                        "total": 5.6428416741
                       },
                       {
                         "year": 2030,
-                        "total": 4.74572187
+                        "total": 5.6100344551
                       },
                       {
                         "year": 2035,
-                        "total": 10.1421968823
+                        "total": 11.0133068481
                       },
                       {
                         "year": 2040,
-                        "total": 10.1131361462
+                        "total": 10.9817500949
                       },
                       {
                         "year": 2045,
-                        "total": 10.0840754102
+                        "total": 10.6199044599
                       },
                       {
                         "year": 2050,
-                        "total": 4.2371811864
+                        "total": 3.9139122003
                       }
                     ]
                   },
@@ -7251,35 +11213,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 72.646213724
+                        "total": 68.561770432
                       },
                       {
                         "year": 2020,
-                        "total": 70.0118539425
+                        "total": 73.1423021032
                       },
                       {
                         "year": 2025,
-                        "total": 72.4795982231
+                        "total": 72.0274066492
                       },
                       {
                         "year": 2030,
-                        "total": 71.5986076071
+                        "total": 71.8531738572
                       },
                       {
                         "year": 2035,
-                        "total": 72.5725776046
+                        "total": 72.2107747379
                       },
                       {
                         "year": 2040,
-                        "total": 73.0624742236
+                        "total": 72.4413377753
                       },
                       {
                         "year": 2045,
-                        "total": 72.3927766762
+                        "total": 72.3373913651
                       },
                       {
                         "year": 2050,
-                        "total": 74.6483096687
+                        "total": 73.5062284256
                       }
                     ]
                   },
@@ -7292,11 +11254,11 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 42.0886318359
+                        "total": 42.0517629666
                       },
                       {
                         "year": 2025,
-                        "total": 5.1213998134
+                        "total": 4.9835837341
                       },
                       {
                         "year": 2030,
@@ -7304,19 +11266,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 3.2876471593
+                        "total": 2.7381281764
                       },
                       {
                         "year": 2040,
-                        "total": 2.0032835363
+                        "total": 2.0331050234
                       },
                       {
                         "year": 2045,
-                        "total": 1.4572747172
+                        "total": 1.5266695675
                       },
                       {
                         "year": 2050,
-                        "total": 0.6650223465
+                        "total": 0.851239287
                       }
                     ]
                   },
@@ -7362,35 +11324,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 9.7827020406
+                        "total": 9.7833476279
                       },
                       {
                         "year": 2020,
-                        "total": 14.7641727585
+                        "total": 14.7302530595
                       },
                       {
                         "year": 2025,
-                        "total": 5.2473686346
+                        "total": 5.2281694319
                       },
                       {
                         "year": 2030,
-                        "total": 6.5829752507
+                        "total": 6.537489862
                       },
                       {
                         "year": 2035,
-                        "total": 2.0391941001
+                        "total": 2.5138583613
                       },
                       {
                         "year": 2040,
-                        "total": 1.611489636
+                        "total": 1.6118396625
                       },
                       {
                         "year": 2045,
-                        "total": 1.2043392
+                        "total": 1.2058764332
                       },
                       {
                         "year": 2050,
-                        "total": 0.8366468146
+                        "total": 0.8338136631
                       }
                     ]
                   },
@@ -7399,35 +11361,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2.7095817814
+                        "total": 2.7094089361
                       },
                       {
                         "year": 2020,
-                        "total": 5.105264421
+                        "total": 5.3850465466
                       },
                       {
                         "year": 2025,
-                        "total": 10.6258806877
+                        "total": 11.234802793
                       },
                       {
                         "year": 2030,
-                        "total": 14.0655671433
+                        "total": 14.4628779363
                       },
                       {
                         "year": 2035,
-                        "total": 35.9354940146
+                        "total": 38.5608135047
                       },
                       {
                         "year": 2040,
-                        "total": 56.0919873846
+                        "total": 57.5910316206
                       },
                       {
                         "year": 2045,
-                        "total": 63.5348379582
+                        "total": 64.2863816367
                       },
                       {
                         "year": 2050,
-                        "total": 77.1323245468
+                        "total": 83.9467240798
                       }
                     ]
                   },
@@ -7440,7 +11402,7 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 20.3505641373
+                        "total": 20.3032344165
                       },
                       {
                         "year": 2025,
@@ -7452,19 +11414,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 18.2411903895
+                        "total": 18.3204834732
                       },
                       {
                         "year": 2040,
-                        "total": 19.0796079775
+                        "total": 19.0639309013
                       },
                       {
                         "year": 2045,
-                        "total": 16.7663540145
+                        "total": 16.7744359038
                       },
                       {
                         "year": 2050,
-                        "total": 13.3676097099
+                        "total": 15.8495014129
                       }
                     ]
                   },
@@ -7477,31 +11439,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 26.2073324985
+                        "total": 26.7998672181
                       },
                       {
                         "year": 2025,
-                        "total": 51.6056643196
+                        "total": 51.3226717248
                       },
                       {
                         "year": 2030,
-                        "total": 51.595929362
+                        "total": 51.3129367672
                       },
                       {
                         "year": 2035,
-                        "total": 53.3900329289
+                        "total": 53.3867507673
                       },
                       {
                         "year": 2040,
-                        "total": 56.2804202214
+                        "total": 57.2509676245
                       },
                       {
                         "year": 2045,
-                        "total": 71.7640037957
+                        "total": 71.7615227638
                       },
                       {
                         "year": 2050,
-                        "total": 76.0903998904
+                        "total": 78.8774049121
                       }
                     ]
                   }
@@ -7515,7 +11477,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 18.3451325085
+                        "total": 15.0903149101
                       },
                       {
                         "year": 2020,
@@ -7557,27 +11519,27 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 500.7848666075
+                        "total": 515.8062348318
                       },
                       {
                         "year": 2020,
-                        "total": 502.3325155205
+                        "total": 533.6009956943
                       },
                       {
                         "year": 2025,
-                        "total": 502.3325155205
+                        "total": 533.6009956943
                       },
                       {
                         "year": 2030,
-                        "total": 502.3325155205
+                        "total": 533.6009956943
                       },
                       {
                         "year": 2035,
-                        "total": 520.3535411332
+                        "total": 543.6040402474
                       },
                       {
                         "year": 2040,
-                        "total": 524.848792364
+                        "total": 527.6045315681
                       },
                       {
                         "year": 2045,
@@ -7618,11 +11580,11 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 3.5233390799
+                        "total": 0.124308
                       },
                       {
                         "year": 2050,
-                        "total": 4.4597383085
+                        "total": 0.124308
                       }
                     ]
                   },
@@ -7684,19 +11646,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 1.0399371423
+                        "total": 18.3242582937
                       },
                       {
                         "year": 2040,
-                        "total": 20.2779784048
+                        "total": 57.8935030237
                       },
                       {
                         "year": 2045,
-                        "total": 75.3953262191
+                        "total": 144.1607875729
                       },
                       {
                         "year": 2050,
-                        "total": 190.7469387074
+                        "total": 260.6628715025
                       }
                     ]
                   }
@@ -7747,7 +11709,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 31.4991738825
+                        "total": 29.7253151121
                       },
                       {
                         "year": 2020,
@@ -7759,7 +11721,7 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 0.0
+                        "total": 0.1641809832
                       },
                       {
                         "year": 2035,
@@ -7784,35 +11746,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 40.551878328
+                        "total": 22.8642584654
                       },
                       {
                         "year": 2020,
-                        "total": 37.390053437
+                        "total": 32.335316009
                       },
                       {
                         "year": 2025,
-                        "total": 39.3538557723
+                        "total": 33.4176271078
                       },
                       {
                         "year": 2030,
-                        "total": 27.5082332791
+                        "total": 21.1421508548
                       },
                       {
                         "year": 2035,
-                        "total": 24.8973050297
+                        "total": 18.982813946
                       },
                       {
                         "year": 2040,
-                        "total": 15.7998996401
+                        "total": 14.2382771806
                       },
                       {
                         "year": 2045,
-                        "total": 13.0567605212
+                        "total": 10.6602942426
                       },
                       {
                         "year": 2050,
-                        "total": 12.507817017
+                        "total": 10.5309796779
                       }
                     ]
                   },
@@ -7858,7 +11820,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 27.2453785947
+                        "total": 75.3758548182
                       },
                       {
                         "year": 2020,
@@ -7895,35 +11857,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 98.6144365232
+                        "total": 54.4994315061
                       },
                       {
                         "year": 2020,
-                        "total": 91.1239286748
+                        "total": 83.7152199129
                       },
                       {
                         "year": 2025,
-                        "total": 94.0113581415
+                        "total": 86.4826333788
                       },
                       {
                         "year": 2030,
-                        "total": 114.9838294039
+                        "total": 103.129455871
                       },
                       {
                         "year": 2035,
-                        "total": 124.8670478925
+                        "total": 110.8523923933
                       },
                       {
                         "year": 2040,
-                        "total": 156.9814128306
+                        "total": 129.9977073179
                       },
                       {
                         "year": 2045,
-                        "total": 208.156293528
+                        "total": 191.2317025138
                       },
                       {
                         "year": 2050,
-                        "total": 221.5443639421
+                        "total": 206.5731020039
                       }
                     ]
                   },
@@ -7973,31 +11935,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 52.411579163
+                        "total": 79.2782546697
                       },
                       {
                         "year": 2025,
-                        "total": 54.257884405
+                        "total": 95.2443481137
                       },
                       {
                         "year": 2030,
-                        "total": 79.3244551506
+                        "total": 137.9674023356
                       },
                       {
                         "year": 2035,
-                        "total": 195.4381634927
+                        "total": 255.7170453346
                       },
                       {
                         "year": 2040,
-                        "total": 298.3923609961
+                        "total": 345.7580012411
                       },
                       {
                         "year": 2045,
-                        "total": 348.3974326468
+                        "total": 370.4551800808
                       },
                       {
                         "year": 2050,
-                        "total": 376.9660006722
+                        "total": 400.4261256218
                       }
                     ]
                   }
@@ -8006,7 +11968,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade",
+            "indicator": "Power Trade (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -8016,11 +11978,11 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.6097913829
+                        "total": 1.3558759471
                       },
                       {
                         "year": 2020,
-                        "total": 6.3577370999
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
@@ -8028,23 +11990,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 0.0760323421
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": 75.9995417947
+                        "total": 80.3781762484
                       },
                       {
                         "year": 2040,
-                        "total": 114.1176013382
+                        "total": 115.9806067255
                       },
                       {
                         "year": 2045,
-                        "total": 114.5577571789
+                        "total": 119.6188208982
                       },
                       {
                         "year": 2050,
-                        "total": 119.8988993106
+                        "total": 124.1229722013
                       }
                     ]
                   },
@@ -8073,11 +12035,11 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 16.350996089
+                        "total": 16.51104
                       },
                       {
                         "year": 2045,
-                        "total": 16.4447550847
+                        "total": 16.51104
                       },
                       {
                         "year": 2050,
@@ -8106,7 +12068,7 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 15.3381815434
+                        "total": 14.2086557251
                       },
                       {
                         "year": 2040,
@@ -8123,27 +12085,64 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "IMPELC-DKUK",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 14.5113619163
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.2972426907
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Import DK-DE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -11.9915549081
+                        "total": -35.5414511345
                       },
                       {
                         "year": 2020,
-                        "total": -25.7576795178
+                        "total": -41.7488271335
                       },
                       {
                         "year": 2025,
-                        "total": -49.3998884046
+                        "total": -52.3755010705
                       },
                       {
                         "year": 2030,
-                        "total": -44.9922792002
+                        "total": -42.8735718315
                       },
                       {
                         "year": 2035,
-                        "total": -7.5940969102
+                        "total": -5.6809081372
                       },
                       {
                         "year": 2040,
@@ -8168,19 +12167,19 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": -3.338496
+                        "total": -3.9448605527
                       },
                       {
                         "year": 2025,
-                        "total": -13.4811525248
+                        "total": -18.9543890581
                       },
                       {
                         "year": 2030,
-                        "total": -7.0246655182
+                        "total": -9.9515184603
                       },
                       {
                         "year": 2035,
-                        "total": -0.8296833017
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -8202,39 +12201,39 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "X-ELC-RUS-FIN",
+                    "indicatorGroup": "Export RU-FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -13.436084592
+                        "total": 13.436084592
                       },
                       {
                         "year": 2020,
-                        "total": -17.7695658
+                        "total": 17.7695658
                       },
                       {
                         "year": 2025,
-                        "total": -5.2847829
+                        "total": 12.4847829
                       },
                       {
                         "year": 2030,
-                        "total": 0.5121216
+                        "total": 13.8878784
                       },
                       {
                         "year": 2035,
-                        "total": 0.5121216
+                        "total": 13.8878784
                       },
                       {
                         "year": 2040,
-                        "total": 0.5121216
+                        "total": 13.8878784
                       },
                       {
                         "year": 2045,
-                        "total": 0.5121216
+                        "total": 13.8878784
                       },
                       {
                         "year": 2050,
-                        "total": 0.5121216
+                        "total": 13.8878784
                       }
                     ]
                   }
@@ -8252,7 +12251,7 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 32.348569699
+                        "total": 30.6595541668
                       },
                       {
                         "year": 2025,
@@ -8260,7 +12259,7 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 32.755771969
+                        "total": 32.929947554
                       },
                       {
                         "year": 2035,
@@ -8276,7 +12275,7 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 33.75288
+                        "total": 38.11752
                       }
                     ]
                   },
@@ -8285,7 +12284,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 20.309184
+                        "total": 15.7626
                       },
                       {
                         "year": 2020,
@@ -8293,23 +12292,23 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 28.3436259911
+                        "total": 26.7874042615
                       },
                       {
                         "year": 2030,
-                        "total": 25.4649300294
+                        "total": 14.3068965707
                       },
                       {
                         "year": 2035,
-                        "total": 45.3753186025
+                        "total": 44.6854729293
                       },
                       {
                         "year": 2040,
-                        "total": 59.321808
+                        "total": 58.5574760983
                       },
                       {
                         "year": 2045,
-                        "total": 72.0157173465
+                        "total": 72.471672
                       },
                       {
                         "year": 2050,
@@ -8326,15 +12325,15 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 39.97728
+                        "total": 36.19728
                       },
                       {
                         "year": 2025,
-                        "total": 32.5816336885
+                        "total": 30.7288937161
                       },
                       {
                         "year": 2030,
-                        "total": 28.7044299217
+                        "total": 25.7599906308
                       },
                       {
                         "year": 2035,
@@ -8342,11 +12341,11 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 70.9284463641
+                        "total": 74.296534002
                       },
                       {
                         "year": 2045,
-                        "total": 91.571066388
+                        "total": 91.9715904
                       },
                       {
                         "year": 2050,
@@ -8375,7 +12374,7 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": -7.3256572842
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -8396,7 +12395,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.0
+                        "total": -4.6256982354
                       },
                       {
                         "year": 2020,
@@ -8412,7 +12411,7 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": -11.12832
+                        "total": -7.8708493922
                       },
                       {
                         "year": 2040,
@@ -8433,35 +12432,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -0.19116
+                        "total": -0.9432
                       },
                       {
                         "year": 2020,
-                        "total": -0.42552
+                        "total": -0.9135
                       },
                       {
                         "year": 2025,
-                        "total": -0.37152
+                        "total": -0.8271
                       },
                       {
                         "year": 2030,
-                        "total": -0.19116
+                        "total": -0.17118
                       },
                       {
                         "year": 2035,
-                        "total": -0.59976
+                        "total": -0.65916
                       },
                       {
                         "year": 2040,
-                        "total": -0.59976
+                        "total": -0.68256
                       },
                       {
                         "year": 2045,
-                        "total": -0.71136
+                        "total": -0.6750610242
                       },
                       {
                         "year": 2050,
-                        "total": -0.67284
+                        "total": -0.5338286425
                       }
                     ]
                   },
@@ -8528,7 +12527,7 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 23.2427807098
+                        "total": 22.0329293836
                       },
                       {
                         "year": 2040,
@@ -8569,15 +12568,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 9.3537918335
+                        "total": 3.6285950437
                       },
                       {
                         "year": 2045,
-                        "total": 11.00736
+                        "total": 9.512248856
                       },
                       {
                         "year": 2050,
-                        "total": 11.1549380754
+                        "total": 11.3347732755
                       }
                     ]
                   },
@@ -8586,7 +12585,7 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2.185907763
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
@@ -8606,15 +12605,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 11.963733151
+                        "total": 4.3990762386
                       },
                       {
                         "year": 2045,
-                        "total": 32.0305999476
+                        "total": 20.5144985809
                       },
                       {
                         "year": 2050,
-                        "total": 48.5227172851
+                        "total": 48.6772356183
                       }
                     ]
                   },
@@ -8627,23 +12626,23 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": -4.0526638143
+                        "total": -4.2746941617
                       },
                       {
                         "year": 2025,
-                        "total": -18.013104
+                        "total": -18.424908
                       },
                       {
                         "year": 2030,
-                        "total": -29.0256911159
+                        "total": -35.3843922937
                       },
                       {
                         "year": 2035,
-                        "total": -10.33344
+                        "total": -10.7052290535
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": -0.728372436
                       },
                       {
                         "year": 2045,
@@ -8664,31 +12663,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": -5.7577559106
+                        "total": -5.950104075
                       },
                       {
                         "year": 2025,
-                        "total": -20.2990498656
+                        "total": -20.97144
                       },
                       {
                         "year": 2030,
-                        "total": -17.0478
+                        "total": -20.78244
                       },
                       {
                         "year": 2035,
-                        "total": -15.0307326658
+                        "total": -16.2338721588
                       },
                       {
                         "year": 2040,
-                        "total": -4.5896195704
+                        "total": -6.2840978492
                       },
                       {
                         "year": 2045,
-                        "total": -1.1556521781
+                        "total": -1.9692668521
                       },
                       {
                         "year": 2050,
-                        "total": -0.6146319289
+                        "total": -0.7188683658
                       }
                     ]
                   },
@@ -8697,35 +12696,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": -3.6700938275
+                        "total": -5.3460847624
                       },
                       {
                         "year": 2020,
-                        "total": -4.8242922428
+                        "total": -5.3460847624
                       },
                       {
                         "year": 2025,
-                        "total": -14.6124
+                        "total": -17.97552
                       },
                       {
                         "year": 2030,
-                        "total": -14.256
+                        "total": -16.3827118936
                       },
                       {
                         "year": 2035,
-                        "total": -14.5055180123
+                        "total": -27.9737508908
                       },
                       {
                         "year": 2040,
-                        "total": -2.3766298038
+                        "total": -7.1849962066
                       },
                       {
                         "year": 2045,
-                        "total": -0.8425265825
+                        "total": -1.4016932584
                       },
                       {
                         "year": 2050,
-                        "total": -0.324
+                        "total": 0.0
                       }
                     ]
                   }
@@ -8734,983 +12733,70 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade Nordic",
+            "indicator": "Power capacity (MW)",
             "regions": [
               {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TB_ELCC_DKE_DKW_01",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 0.34815744
+                        "total": 1228.23
                       },
                       {
                         "year": 2020,
-                        "total": 0.3049700527
+                        "total": 1458.23
                       },
                       {
                         "year": 2025,
-                        "total": 0.1037240436
+                        "total": 1432.65
                       },
                       {
                         "year": 2030,
-                        "total": 0.1282741125
+                        "total": 1613.4199489518
                       },
                       {
                         "year": 2035,
-                        "total": 0.0482118037
+                        "total": 1105.1622399632
                       },
                       {
                         "year": 2040,
-                        "total": 0.1779155051
+                        "total": 354.8694177847
                       },
                       {
                         "year": 2045,
-                        "total": 0.1789782963
+                        "total": 337.2694177847
                       },
                       {
                         "year": 2050,
-                        "total": 0.1954941533
+                        "total": 319.6694177847
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "TB_ELCC_DKE_SE4_01",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 10.9533105062
+                        "total": 2168.5
                       },
                       {
                         "year": 2020,
-                        "total": 14.6244688375
+                        "total": 1880.0
                       },
                       {
                         "year": 2025,
-                        "total": 6.8910054564
+                        "total": 1509.0
                       },
                       {
                         "year": 2030,
-                        "total": 6.7556203278
+                        "total": 1135.0
                       },
                       {
                         "year": 2035,
-                        "total": 3.9846837381
-                      },
-                      {
-                        "year": 2040,
-                        "total": -13.2302346126
-                      },
-                      {
-                        "year": 2045,
-                        "total": -6.6883765861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2287038295
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_DKW_NO1_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -30.9562212205
-                      },
-                      {
-                        "year": 2020,
-                        "total": -17.1064129885
-                      },
-                      {
-                        "year": 2025,
-                        "total": -19.0858447439
-                      },
-                      {
-                        "year": 2030,
-                        "total": -14.7338533408
-                      },
-                      {
-                        "year": 2035,
-                        "total": -13.3481284495
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.8679304351
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.0224403372
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.6615060676
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_DKW_SE3_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 14.501639647
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.1155901845
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.5154938776
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.238006436
-                      },
-                      {
-                        "year": 2035,
-                        "total": -1.6202346022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.7759899003
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6.8560139248
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9.9196946274
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "X+ELC-SE3-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": -4.5915368268
-                      },
-                      {
-                        "year": 2035,
-                        "total": -18.1417737736
-                      },
-                      {
-                        "year": 2040,
-                        "total": -15.7708496902
-                      },
-                      {
-                        "year": 2045,
-                        "total": -16.3147986093
-                      },
-                      {
-                        "year": 2050,
-                        "total": -19.6723485864
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X-ELC-NO2-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -3.058992
-                      },
-                      {
-                        "year": 2020,
-                        "total": -3.058992
-                      },
-                      {
-                        "year": 2025,
-                        "total": -3.058992
-                      },
-                      {
-                        "year": 2030,
-                        "total": -3.058992
-                      },
-                      {
-                        "year": 2035,
-                        "total": -2.344878
-                      },
-                      {
-                        "year": 2040,
-                        "total": -2.292498
-                      },
-                      {
-                        "year": 2045,
-                        "total": -2.1029166215
-                      },
-                      {
-                        "year": 2050,
-                        "total": -2.3392108517
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X-ELC-SE1-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -33.995808
-                      },
-                      {
-                        "year": 2020,
-                        "total": -14.984558692
-                      },
-                      {
-                        "year": 2025,
-                        "total": -33.8968836523
-                      },
-                      {
-                        "year": 2030,
-                        "total": -33.995808
-                      },
-                      {
-                        "year": 2035,
-                        "total": -29.726290088
-                      },
-                      {
-                        "year": 2040,
-                        "total": -30.1722510351
-                      },
-                      {
-                        "year": 2045,
-                        "total": -29.8120661219
-                      },
-                      {
-                        "year": 2050,
-                        "total": -27.3576068899
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X-ELC-SE3-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -11.7457414876
-                      },
-                      {
-                        "year": 2020,
-                        "total": -0.9180077837
-                      },
-                      {
-                        "year": 2025,
-                        "total": -6.437216753
-                      },
-                      {
-                        "year": 2030,
-                        "total": -14.9282338242
-                      },
-                      {
-                        "year": 2035,
-                        "total": -19.23518464
-                      },
-                      {
-                        "year": 2040,
-                        "total": -24.8213615635
-                      },
-                      {
-                        "year": 2045,
-                        "total": -31.8295572082
-                      },
-                      {
-                        "year": 2050,
-                        "total": -32.6740357486
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TB_ELCC_DKW_NO1_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 31.5879808373
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.4586160615
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.6351726454
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15.2774876466
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6393138044
-                      },
-                      {
-                        "year": 2040,
-                        "total": -1.7140676489
-                      },
-                      {
-                        "year": 2045,
-                        "total": -6.8265207928
-                      },
-                      {
-                        "year": 2050,
-                        "total": -10.4094687404
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO1_NO2_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1267180117
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.1878556206
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.2805918912
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.7777059157
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.7731845358
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.7786685262
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.6891529364
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO1_SE3_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 67.416244898
-                      },
-                      {
-                        "year": 2020,
-                        "total": 66.862793813
-                      },
-                      {
-                        "year": 2025,
-                        "total": 62.5301597881
-                      },
-                      {
-                        "year": 2030,
-                        "total": 54.101369431
-                      },
-                      {
-                        "year": 2035,
-                        "total": 22.5972457551
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.5896462131
-                      },
-                      {
-                        "year": 2045,
-                        "total": -10.3923088761
-                      },
-                      {
-                        "year": 2050,
-                        "total": -9.6507696566
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO2_SE1_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 19.1694722211
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.1921872711
-                      },
-                      {
-                        "year": 2025,
-                        "total": 17.3353652369
-                      },
-                      {
-                        "year": 2030,
-                        "total": 13.9501520431
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.3946349673
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.7463001232
-                      },
-                      {
-                        "year": 2045,
-                        "total": -3.3443841631
-                      },
-                      {
-                        "year": 2050,
-                        "total": -7.7816250038
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO2_SE2_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 47.7972106222
-                      },
-                      {
-                        "year": 2020,
-                        "total": 47.7972106222
-                      },
-                      {
-                        "year": 2025,
-                        "total": 47.7972106222
-                      },
-                      {
-                        "year": 2030,
-                        "total": 47.7972106222
-                      },
-                      {
-                        "year": 2035,
-                        "total": 34.5965595751
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.8594304418
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.3347426598
-                      },
-                      {
-                        "year": 2050,
-                        "total": -0.5865578714
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X-ELC-NO2-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.1536
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1536
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1536
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1536
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.4174
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.3634
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.1679552799
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.4115575791
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TB_ELCC_DKE_SE4_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -10.734244296
-                      },
-                      {
-                        "year": 2020,
-                        "total": -14.3319794607
-                      },
-                      {
-                        "year": 2025,
-                        "total": -6.7531853472
-                      },
-                      {
-                        "year": 2030,
-                        "total": -6.6205079213
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.8296653492
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.5206428704
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6.9164191646
-                      },
-                      {
-                        "year": 2050,
-                        "total": -3.8955754186
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_DKW_SE3_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -14.2116068541
-                      },
-                      {
-                        "year": 2020,
-                        "total": -8.9332783808
-                      },
-                      {
-                        "year": 2025,
-                        "total": -5.405184
-                      },
-                      {
-                        "year": 2030,
-                        "total": -5.1220335494
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.8909859565
-                      },
-                      {
-                        "year": 2040,
-                        "total": -3.4325573711
-                      },
-                      {
-                        "year": 2045,
-                        "total": -6.4104903795
-                      },
-                      {
-                        "year": 2050,
-                        "total": -9.4480459315
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO1_SE3_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -66.06792
-                      },
-                      {
-                        "year": 2020,
-                        "total": -65.5255379367
-                      },
-                      {
-                        "year": 2025,
-                        "total": -61.2795565923
-                      },
-                      {
-                        "year": 2030,
-                        "total": -53.0193420424
-                      },
-                      {
-                        "year": 2035,
-                        "total": -22.0980350252
-                      },
-                      {
-                        "year": 2040,
-                        "total": -1.8365102553
-                      },
-                      {
-                        "year": 2045,
-                        "total": 11.1146560623
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.3689145888
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO2_SE1_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -18.7860827766
-                      },
-                      {
-                        "year": 2020,
-                        "total": -9.0083435257
-                      },
-                      {
-                        "year": 2025,
-                        "total": -16.9886579322
-                      },
-                      {
-                        "year": 2030,
-                        "total": -13.6711490022
-                      },
-                      {
-                        "year": 2035,
-                        "total": -5.286742268
-                      },
-                      {
-                        "year": 2040,
-                        "total": -2.6056962023
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.5732101406
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.9761230499
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_NO2_SE2_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -46.8412664097
-                      },
-                      {
-                        "year": 2020,
-                        "total": -46.8412664097
-                      },
-                      {
-                        "year": 2025,
-                        "total": -46.8412664097
-                      },
-                      {
-                        "year": 2030,
-                        "total": -46.8412664097
-                      },
-                      {
-                        "year": 2035,
-                        "total": -33.9046283836
-                      },
-                      {
-                        "year": 2040,
-                        "total": -16.522241833
-                      },
-                      {
-                        "year": 2045,
-                        "total": -3.2133589588
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.6832820248
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_SE1_SE2_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.4613170592
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.5889041668
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.279371151
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0971754615
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.1057988568
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0883250175
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2149084979
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.2782567122
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_SE2_SE3_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.5818477446
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.6080545967
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.3362666926
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0668800579
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.013227721
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.1523992853
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1083178148
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.1264706499
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TB_ELCC_SE3_SE4_01",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.1303267451
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9165361118
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3314432756
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.3499203308
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.520220489
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.2744745005
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1889267651
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.3195693942
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X+ELC-SE3-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.68524166
-                      },
-                      {
-                        "year": 2035,
-                        "total": 18.5248388542
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.0951146217
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.6581441352
-                      },
-                      {
-                        "year": 2050,
-                        "total": 20.0949181494
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X-ELC-SE1-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 34.6896
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.2903660123
-                      },
-                      {
-                        "year": 2025,
-                        "total": 34.5886567881
-                      },
-                      {
-                        "year": 2030,
-                        "total": 34.6896
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.3329490694
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.7880112603
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.4204756346
-                      },
-                      {
-                        "year": 2050,
-                        "total": 27.9159253978
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "X-ELC-SE3-FIN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.9854504976
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9367426364
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.5685885235
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15.2328916573
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.6424141447
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.3279199627
-                      },
-                      {
-                        "year": 2045,
-                        "total": 32.4899969468
-                      },
-                      {
-                        "year": 2050,
-                        "total": 33.3774965054
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power capacity",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "PP Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1964.01
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1566.71
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1562.21
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1558.6017954064
-                      },
-                      {
-                        "year": 2035,
-                        "total": 619.6122380894
+                        "total": 746.7517274094
                       },
                       {
                         "year": 2040,
@@ -9727,81 +12813,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP bioenergy",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 359.33
-                      },
-                      {
-                        "year": 2020,
-                        "total": 616.81
-                      },
-                      {
-                        "year": 2025,
-                        "total": 500.83
-                      },
-                      {
-                        "year": 2030,
-                        "total": 734.5432396018
-                      },
-                      {
-                        "year": 2035,
-                        "total": 684.3156502401
-                      },
-                      {
-                        "year": 2040,
-                        "total": 387.1980580112
-                      },
-                      {
-                        "year": 2045,
-                        "total": 387.1980580112
-                      },
-                      {
-                        "year": 2050,
-                        "total": 387.1980580112
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2186.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1897.5
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1526.5
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1152.5
-                      },
-                      {
-                        "year": 2035,
-                        "total": 750.531510576
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP hydro",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9838,7 +12850,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP nat.gas",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9846,19 +12858,19 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 1364.1132
+                        "total": 1302.6132
                       },
                       {
                         "year": 2025,
-                        "total": 1037.307
+                        "total": 975.807
                       },
                       {
                         "year": 2030,
-                        "total": 1037.307
+                        "total": 975.807
                       },
                       {
                         "year": 2035,
-                        "total": 436.1813171499
+                        "total": 374.6813171499
                       },
                       {
                         "year": 2040,
@@ -9875,7 +12887,44 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP solar",
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1045.36
+                      },
+                      {
+                        "year": 2020,
+                        "total": 648.06
+                      },
+                      {
+                        "year": 2025,
+                        "total": 643.56
+                      },
+                      {
+                        "year": 2030,
+                        "total": 643.56
+                      },
+                      {
+                        "year": 2035,
+                        "total": 165.0772380894
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9891,97 +12940,97 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 5238.4887053265
+                        "total": 5789.4838745451
                       },
                       {
                         "year": 2035,
-                        "total": 9427.8260356145
+                        "total": 9932.7863350451
                       },
                       {
                         "year": 2040,
-                        "total": 11513.3705327559
+                        "total": 12372.8350720097
                       },
                       {
                         "year": 2045,
-                        "total": 14247.8652438425
+                        "total": 14953.1687338344
                       },
                       {
                         "year": 2050,
-                        "total": 16234.6472442813
+                        "total": 17134.4525945913
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP waste",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 352.1983380642
+                        "total": 341.2983380642
                       },
                       {
                         "year": 2020,
-                        "total": 307.3011057051
+                        "total": 288.8314761309
                       },
                       {
                         "year": 2025,
-                        "total": 241.5497893989
+                        "total": 218.175561602
                       },
                       {
                         "year": 2030,
-                        "total": 200.5679759279
+                        "total": 189.8799927684
                       },
                       {
                         "year": 2035,
-                        "total": 234.3446048127
+                        "total": 232.5059313268
                       },
                       {
                         "year": 2040,
-                        "total": 179.0930057716
+                        "total": 179.6085972295
                       },
                       {
                         "year": 2045,
-                        "total": 169.100728137
+                        "total": 177.1859491691
                       },
                       {
                         "year": 2050,
-                        "total": 147.9520444432
+                        "total": 160.9418636979
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP wind",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 5192.258002
+                        "total": 5741.0202083274
                       },
                       {
                         "year": 2020,
-                        "total": 6414.48201
+                        "total": 7160.9898763727
                       },
                       {
                         "year": 2025,
-                        "total": 5232.73401
+                        "total": 6172.4074153359
                       },
                       {
                         "year": 2030,
-                        "total": 7794.1752772921
+                        "total": 7930.0359170827
                       },
                       {
                         "year": 2035,
-                        "total": 15241.1388427349
+                        "total": 16234.3570916556
                       },
                       {
                         "year": 2040,
-                        "total": 21621.6292248581
+                        "total": 22901.3721658914
                       },
                       {
                         "year": 2045,
-                        "total": 24222.405437182
+                        "total": 25176.0524008038
                       },
                       {
                         "year": 2050,
-                        "total": 26704.3179201138
+                        "total": 27960.9115498301
                       }
                     ]
                   }
@@ -9991,109 +13040,35 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP Nuclear",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2750.7742857143
+                        "total": 3239.0144406091
                       },
                       {
                         "year": 2020,
-                        "total": 3400.0
+                        "total": 3394.4457213048
                       },
                       {
                         "year": 2025,
-                        "total": 4390.0
+                        "total": 3329.6794313868
                       },
                       {
                         "year": 2030,
-                        "total": 5390.0
+                        "total": 3339.0130075432
                       },
                       {
                         "year": 2035,
-                        "total": 5137.5
+                        "total": 3346.2568799638
                       },
                       {
                         "year": 2040,
-                        "total": 4885.0
+                        "total": 3348.2940861671
                       },
                       {
                         "year": 2045,
-                        "total": 4187.5
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3490.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 646.1090567557
-                      },
-                      {
-                        "year": 2020,
-                        "total": 280.6954406522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 320.0271041235
-                      },
-                      {
-                        "year": 2030,
-                        "total": 691.5849827986
-                      },
-                      {
-                        "year": 2035,
-                        "total": 990.8089316206
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2442.2872156455
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3981.8927610288
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4349.0176202995
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP hydro",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3239.7677003876
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3394.0048015832
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3329.6838174159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3336.9899321809
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3346.260580974
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3348.2964169955
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3357.6322750956
+                        "total": 3359.534146524
                       },
                       {
                         "year": 2050,
@@ -10102,7 +13077,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP nat.gas",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10139,7 +13114,81 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP solar",
+                    "indicatorGroup": "Nuclear",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2750.7742857143
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3400.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4390.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5390.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5137.5
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4885.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4187.5
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3490.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 645.7421137503
+                      },
+                      {
+                        "year": 2020,
+                        "total": 280.3284976468
+                      },
+                      {
+                        "year": 2025,
+                        "total": 319.8437234937
+                      },
+                      {
+                        "year": 2030,
+                        "total": 699.347403605
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1097.3465866946
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2495.8509182697
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3927.8543329652
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4671.2056336356
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10159,32 +13208,32 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 3435.6860791418
+                        "total": 3767.0423499532
                       },
                       {
                         "year": 2040,
-                        "total": 6211.1404034498
+                        "total": 6236.1818746313
                       },
                       {
                         "year": 2045,
-                        "total": 7624.4741669792
+                        "total": 7628.5480701027
                       },
                       {
                         "year": 2050,
-                        "total": 9776.7620953563
+                        "total": 9802.6649427049
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP solid fuels",
+                    "indicatorGroup": "Solid fuels",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 3425.3066111697
+                        "total": 3426.1351295753
                       },
                       {
                         "year": 2020,
-                        "total": 3799.8257313386
+                        "total": 3799.8257313387
                       },
                       {
                         "year": 2025,
@@ -10192,28 +13241,28 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 2957.310804532
+                        "total": 2982.1941028316
                       },
                       {
                         "year": 2035,
-                        "total": 3079.8278138273
+                        "total": 3105.8154088359
                       },
                       {
                         "year": 2040,
-                        "total": 2843.0797275472
+                        "total": 2902.3021662296
                       },
                       {
                         "year": 2045,
-                        "total": 2826.3370250191
+                        "total": 2867.2871571717
                       },
                       {
                         "year": 2050,
-                        "total": 3802.7592163306
+                        "total": 3474.4749176151
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP waste",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10241,16 +13290,16 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 200.2322021477
+                        "total": 200.3499023323
                       },
                       {
                         "year": 2050,
-                        "total": 204.5444727735
+                        "total": 241.14572343
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP wind",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10258,15 +13307,15 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 2740.7673991707
+                        "total": 2803.5802657962
                       },
                       {
                         "year": 2025,
-                        "total": 5588.5594863958
+                        "total": 5556.7795066032
                       },
                       {
                         "year": 2030,
-                        "total": 5586.1309432134
+                        "total": 5554.3509634208
                       },
                       {
                         "year": 2035,
@@ -10274,7 +13323,7 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 6027.6766356733
+                        "total": 6112.9401419514
                       },
                       {
                         "year": 2045,
@@ -10282,7 +13331,7 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 7722.0
+                        "total": 7922.0
                       }
                     ]
                   }
@@ -10292,44 +13341,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 80.558
-                      },
-                      {
-                        "year": 2020,
-                        "total": 80.558
-                      },
-                      {
-                        "year": 2025,
-                        "total": 80.558
-                      },
-                      {
-                        "year": 2030,
-                        "total": 80.558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 80.558
-                      },
-                      {
-                        "year": 2040,
-                        "total": 80.558
-                      },
-                      {
-                        "year": 2045,
-                        "total": 40.279
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP hydro",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10366,7 +13378,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP wind",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10408,7 +13420,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP bioenergy",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10436,40 +13448,40 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 24.0714402963
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": 30.7028824908
+                        "total": 0.0
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP hydro",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 32012.0868603853
+                        "total": 32637.0821363014
                       },
                       {
                         "year": 2020,
-                        "total": 32076.480013189
+                        "total": 33377.4701827851
                       },
                       {
                         "year": 2025,
-                        "total": 32076.480013189
+                        "total": 33377.4701827851
                       },
                       {
                         "year": 2030,
-                        "total": 30176.4800131891
+                        "total": 31477.4701827851
                       },
                       {
                         "year": 2035,
-                        "total": 29026.2822753362
+                        "total": 30113.7960007483
                       },
                       {
                         "year": 2040,
-                        "total": 27317.9862126342
+                        "total": 27465.7386368963
                       },
                       {
                         "year": 2045,
@@ -10482,7 +13494,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP nat.gas",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10519,7 +13531,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP solar",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10556,7 +13568,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP waste",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10568,32 +13580,32 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 127.8868801462
+                        "total": 127.9958871588
                       },
                       {
                         "year": 2030,
-                        "total": 104.0656477286
+                        "total": 104.1828099698
                       },
                       {
                         "year": 2035,
-                        "total": 93.2520259673
+                        "total": 93.4401482301
                       },
                       {
                         "year": 2040,
-                        "total": 101.3207269539
+                        "total": 101.3907599447
                       },
                       {
                         "year": 2045,
-                        "total": 115.6561035667
+                        "total": 98.9830894711
                       },
                       {
                         "year": 2050,
-                        "total": 96.6676407184
+                        "total": 96.412562117
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP wind",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10613,19 +13625,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 107.1222987916
+                        "total": 1836.1163369882
                       },
                       {
                         "year": 2040,
-                        "total": 2015.8438862384
+                        "total": 5584.7972581665
                       },
                       {
                         "year": 2045,
-                        "total": 5956.4911618
+                        "total": 11919.8586239893
                       },
                       {
                         "year": 2050,
-                        "total": 14921.9698533873
+                        "total": 20678.2971639395
                       }
                     ]
                   }
@@ -10635,81 +13647,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "PP Nuclear",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 9528.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9528.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6812.0063754181
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6812.0063754181
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6310.1068143813
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5808.2072533445
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3094.6036266723
-                      },
-                      {
-                        "year": 2050,
-                        "total": 300.7758268854
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.2565354908
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.6904609958
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.1243865007
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.2219222259
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.3044421452
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "PP bioenergy",
+                    "indicatorGroup": "Biomass",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10725,28 +13663,28 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 1403.0315387935
+                        "total": 1378.9778998024
                       },
                       {
                         "year": 2035,
-                        "total": 763.0093536836
+                        "total": 732.3291765805
                       },
                       {
                         "year": 2040,
-                        "total": 569.4669636876
+                        "total": 519.3051608292
                       },
                       {
                         "year": 2045,
-                        "total": 930.7403352636
+                        "total": 871.8792673374
                       },
                       {
                         "year": 2050,
-                        "total": 1019.2566125746
+                        "total": 959.4775371318
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP coal",
+                    "indicatorGroup": "Col",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10783,7 +13721,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP hydro",
+                    "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10820,7 +13758,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP nat.gas",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10857,7 +13795,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP solar",
+                    "indicatorGroup": "Soler PV",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10877,7 +13815,7 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 2479.2217676754
+                        "total": 2985.261391016
                       },
                       {
                         "year": 2040,
@@ -10894,7 +13832,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "PP waste",
+                    "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10906,32 +13844,32 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 807.6726329043
+                        "total": 807.3022768619
                       },
                       {
                         "year": 2030,
-                        "total": 663.5621884264
+                        "total": 663.164124642
                       },
                       {
                         "year": 2035,
-                        "total": 336.1168832789
+                        "total": 337.9690896295
                       },
                       {
                         "year": 2040,
-                        "total": 343.7047973391
+                        "total": 344.1437778395
                       },
                       {
                         "year": 2045,
-                        "total": 344.4942482576
+                        "total": 345.2140594079
                       },
                       {
                         "year": 2050,
-                        "total": 342.8211411005
+                        "total": 343.2394889268
                       }
                     ]
                   },
                   {
-                    "indicatorGroup": "PP wind",
+                    "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10939,31 +13877,986 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 5359.2662523733
+                        "total": 7728.4616233319
                       },
                       {
                         "year": 2025,
-                        "total": 5369.3041582898
+                        "total": 8978.9658703467
                       },
                       {
                         "year": 2030,
-                        "total": 7289.289007733
+                        "total": 12432.8966286909
                       },
                       {
                         "year": 2035,
-                        "total": 15750.2196388486
+                        "total": 20709.8542839698
                       },
                       {
                         "year": 2040,
-                        "total": 22465.045336192
+                        "total": 26416.6719979528
                       },
                       {
                         "year": 2045,
-                        "total": 25895.9008626177
+                        "total": 27895.8359989764
                       },
                       {
                         "year": 2050,
-                        "total": 27690.8906104063
+                        "total": 29607.5581395349
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Power production (PJ)",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 86.4957062429
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32.3341295378
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.9889107774
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12.8149683532
+                      },
+                      {
+                        "year": 2035,
+                        "total": 12.7233024438
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.0204014482
+                      },
+                      {
+                        "year": 2045,
+                        "total": 11.5665456482
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.8802190813
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.052803
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0264015
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.6389600216
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.6389600216
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.3077100216
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21.6762516349
+                      },
+                      {
+                        "year": 2035,
+                        "total": 37.9232599898
+                      },
+                      {
+                        "year": 2040,
+                        "total": 48.035731497
+                      },
+                      {
+                        "year": 2045,
+                        "total": 58.5832274716
+                      },
+                      {
+                        "year": 2050,
+                        "total": 68.7751274974
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.59666112
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 18.386046
+                      },
+                      {
+                        "year": 2020,
+                        "total": 39.8574605563
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.7836873674
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.674368644
+                      },
+                      {
+                        "year": 2035,
+                        "total": 149.4235389735
+                      },
+                      {
+                        "year": 2040,
+                        "total": 265.9688987425
+                      },
+                      {
+                        "year": 2045,
+                        "total": 302.1757538791
+                      },
+                      {
+                        "year": 2050,
+                        "total": 347.7030318127
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 38.9234031718
+                      },
+                      {
+                        "year": 2020,
+                        "total": 39.6779968188
+                      },
+                      {
+                        "year": 2025,
+                        "total": 33.1649387149
+                      },
+                      {
+                        "year": 2030,
+                        "total": 65.2022041221
+                      },
+                      {
+                        "year": 2035,
+                        "total": 85.3273368682
+                      },
+                      {
+                        "year": 2040,
+                        "total": 88.748917318
+                      },
+                      {
+                        "year": 2045,
+                        "total": 91.3192743234
+                      },
+                      {
+                        "year": 2050,
+                        "total": 93.7246099377
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 42.437076875
+                      },
+                      {
+                        "year": 2020,
+                        "total": 42.7223445851
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23.328805805
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.67987568
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.5950895819
+                      },
+                      {
+                        "year": 2040,
+                        "total": 19.4219058903
+                      },
+                      {
+                        "year": 2045,
+                        "total": 17.9738538174
+                      },
+                      {
+                        "year": 2050,
+                        "total": 17.8500449235
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 52.4899121517
+                      },
+                      {
+                        "year": 2020,
+                        "total": 52.5004520548
+                      },
+                      {
+                        "year": 2025,
+                        "total": 52.0708569128
+                      },
+                      {
+                        "year": 2030,
+                        "total": 52.2869541128
+                      },
+                      {
+                        "year": 2035,
+                        "total": 52.4544032528
+                      },
+                      {
+                        "year": 2040,
+                        "total": 52.6218523928
+                      },
+                      {
+                        "year": 2045,
+                        "total": 52.7893015328
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.9567506728
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.001365
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0046720735
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.9430485324
+                      },
+                      {
+                        "year": 2040,
+                        "total": 32.0000304212
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32.0142363577
+                      },
+                      {
+                        "year": 2050,
+                        "total": 32.5576483731
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 101.2862870831
+                      },
+                      {
+                        "year": 2020,
+                        "total": 118.9630533607
+                      },
+                      {
+                        "year": 2025,
+                        "total": 130.0779471314
+                      },
+                      {
+                        "year": 2030,
+                        "total": 156.3816826955
+                      },
+                      {
+                        "year": 2035,
+                        "total": 147.0948567791
+                      },
+                      {
+                        "year": 2040,
+                        "total": 138.2715702894
+                      },
+                      {
+                        "year": 2045,
+                        "total": 120.3391651461
+                      },
+                      {
+                        "year": 2050,
+                        "total": 100.852992
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1200444169
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.1200444169
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1200444169
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0915041775
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0210393601
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.5430300509
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.9442363631
+                      },
+                      {
+                        "year": 2050,
+                        "total": 24.8964282364
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12.3967028984
+                      },
+                      {
+                        "year": 2020,
+                        "total": 26.6798228012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 51.2026273079
+                      },
+                      {
+                        "year": 2030,
+                        "total": 51.2214325897
+                      },
+                      {
+                        "year": 2035,
+                        "total": 53.3657114072
+                      },
+                      {
+                        "year": 2040,
+                        "total": 51.7079375736
+                      },
+                      {
+                        "year": 2045,
+                        "total": 52.8172864007
+                      },
+                      {
+                        "year": 2050,
+                        "total": 53.9809766758
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "IS",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Geothermal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.8127513955
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.1404
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.0024589915
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0122285036
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.3715232103
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.4364987558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.824321932
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.0555869768
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9814444808
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.6870404951
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 515.8062348318
+                      },
+                      {
+                        "year": 2020,
+                        "total": 533.6009956943
+                      },
+                      {
+                        "year": 2025,
+                        "total": 533.6009956943
+                      },
+                      {
+                        "year": 2030,
+                        "total": 533.6009956943
+                      },
+                      {
+                        "year": 2035,
+                        "total": 543.6040402474
+                      },
+                      {
+                        "year": 2040,
+                        "total": 527.6045315681
+                      },
+                      {
+                        "year": 2045,
+                        "total": 476.7790709096
+                      },
+                      {
+                        "year": 2050,
+                        "total": 425.9536102512
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0974590122
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.124308
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.124308
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.124308
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.03059648
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.03059648
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.03059648
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.6424333325
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 66.5150915884
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.8825999568
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.5899
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.5228976471
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.5053823529
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7.0955966098
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.3242582937
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8935030237
+                      },
+                      {
+                        "year": 2045,
+                        "total": 77.6456959845
+                      },
+                      {
+                        "year": 2050,
+                        "total": 113.7802715457
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CHP",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.1859268967
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8167104256
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.7361114364
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.315464563
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.4151851001
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.0499373123
+                      },
+                      {
+                        "year": 2045,
+                        "total": 34.993339568
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.4795887006
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydro",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 239.43991824
+                      },
+                      {
+                        "year": 2020,
+                        "total": 239.43991824
+                      },
+                      {
+                        "year": 2025,
+                        "total": 239.43991824
+                      },
+                      {
+                        "year": 2030,
+                        "total": 239.43991824
+                      },
+                      {
+                        "year": 2035,
+                        "total": 239.43991824
+                      },
+                      {
+                        "year": 2040,
+                        "total": 239.43991824
+                      },
+                      {
+                        "year": 2045,
+                        "total": 239.43991824
+                      },
+                      {
+                        "year": 2050,
+                        "total": 239.1974624105
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar PV",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.2844
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2844
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.2844
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.2844
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.5420941242
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.3007093205
+                      },
+                      {
+                        "year": 2045,
+                        "total": 20.5414692648
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.5688200491
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Thermal power",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 27.339741
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.8216026164
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.4109768231
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.1645125383
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.980031769
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind offshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 57.1166566802
+                      },
+                      {
+                        "year": 2040,
+                        "total": 128.0411740928
+                      },
+                      {
+                        "year": 2045,
+                        "total": 149.3134004379
+                      },
+                      {
+                        "year": 2050,
+                        "total": 175.2448169284
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Wind onshore",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 51.3954863065
+                      },
+                      {
+                        "year": 2020,
+                        "total": 79.2782546697
+                      },
+                      {
+                        "year": 2025,
+                        "total": 95.2443481137
+                      },
+                      {
+                        "year": 2030,
+                        "total": 137.9674023356
+                      },
+                      {
+                        "year": 2035,
+                        "total": 198.6003886545
+                      },
+                      {
+                        "year": 2040,
+                        "total": 217.7168271482
+                      },
+                      {
+                        "year": 2045,
+                        "total": 221.1417796429
+                      },
+                      {
+                        "year": 2050,
+                        "total": 225.1813086934
                       }
                     ]
                   }

@@ -1,9 +1,9 @@
 export default 
  	 [ 
-		"Freight transport demand",
-		"Fuel consumption cars",
-		"Fuel consumption transport",
-		"Passenger transport demand",
-		"Transport CO2 emissioner",
-		"Transport System Cost",
+		"Freight transport demand (mill.tkm)",
+		"Fuel consumption cars (PJ)",
+		"Fuel consumption transport (PJ)",
+		"Passenger transport demand (mill.pkm)",
+		"Transport CO2 emissioner (PJ)",
+		"Transport System Cost (MEUR15)",
 	 ]
