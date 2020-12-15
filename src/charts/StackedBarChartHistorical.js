@@ -1,5 +1,5 @@
 import React from 'react'
-import PropTypes from 'prop-types'
+//import PropTypes from 'prop-types'
 import styled from 'styled-components'
 //import { useTranslation } from 'react-i18next'
 import {
@@ -15,7 +15,7 @@ import {
 } from 'victory'
 
 import {createAccumulatedHistoricalData} from './Tools'
-import {colors, colors2} from './chartColors'
+import {colors} from './chartColors'
 import periods from './../data/historicalyears'
 
 
@@ -39,7 +39,6 @@ const StackedBarChartHistorical = ({
 
   const accumulatedData = dataScenario1[0]
   const legends = dataScenario1[1]
-  console.log("*****************accu: ", accumulatedData)
   let gutter, rowGutter
   if (
     !process.env.NODE_ENV ||

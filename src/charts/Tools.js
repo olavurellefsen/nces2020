@@ -78,13 +78,12 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
 // }
 
 function createAccumulatedHistoricalData(data, chartName, selectedCountries) {
-  console.log("about to go historical")
+  //console.log("about to go historical")
   let accumulatedHistoricalData = {}
   let totalHistoricalYearValues = {}
   historicalYears.forEach(year => {
     totalHistoricalYearValues[year] = 0
 })
-console.log("selected regions: ", selectedCountries)
 let selectedDataRegions = [] 
   mapRegionToDataRegions.forEach((mapRegion) => {
       if(selectedCountries.includes(mapRegion.path_id)) {
@@ -93,69 +92,35 @@ let selectedDataRegions = []
       })
     }
   })
-console.log("selectedDataRegions", selectedDataRegions)
 
 data.data.nces_eleproduction.forEach((item, i)=>{ 
-  //if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
-    //console.log("item: ", item)
-    console.log("region sel: ", selectedDataRegions.includes(item.nces_country.name))
-    console.log("coun name: ", item.nces_country.name)
   if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
-    //console.log("year: ", item.year)
-    //console.log("index: ", historicalYears.indexOf(item.year))
     if(Object.keys(accumulatedHistoricalData).includes(item.nces_fuel_type.fuel_type)) {
-      //accumulatedHistoricalData[item.nces_fuel_type.fuel_type].push({"year": item.year, "value": item.value})
-      //console.log("accumulatedHistoricalData: ", accumulatedHistoricalData)
       if (accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)]) {
-        if(accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)].total == NaN)
-          console.log("bad item: ", item)
-        if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
-        console.log("accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)].value: ", accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)].value)
+      
+        //if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
+          //console.log("accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)].value: ", accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)].value)
         accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)].total += item.value
       } else {
-        if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
-        console.log("new year item: ", item)
         accumulatedHistoricalData[item.nces_fuel_type.fuel_type].push({"year": item.year, "total": item.value})
       }
-      
-      //console.log("accumulatedHistoricalData: ", accumulatedHistoricalData)
   } else {
-    //console.log("item value: ", item.value)
     accumulatedHistoricalData[item.nces_fuel_type.fuel_type] = []
     accumulatedHistoricalData[item.nces_fuel_type.fuel_type].push({"year": item.year, "total": item.value})
-    if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
-    console.log("new entry: ", accumulatedHistoricalData)
+    //if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
+    //console.log("new entry: ", accumulatedHistoricalData)
   }
   }
-  
-  //accumulatedHistoricalData[indicatorGroup.indicatorGroup][index].total += percentage ? value.total/selectedCountries.length : value.total
-  //totalHistoricalYearValues[value.year] += percentage ? value.total/selectedCountries.length : value.total
-  //if(Object.entries(stackBar))
-  //if (fuelTypes.indexOf(item.nces_fuel_type.fuel_type) === -1)
-  //  fuelTypes.push(item.nces_fuel_type.fuel_type)
 })
-console.log("accumulatedHistoricalData: ", accumulatedHistoricalData)
-console.log("totalHistoricalYearValues: ", totalHistoricalYearValues)
+//console.log("accumulatedHistoricalData: ", accumulatedHistoricalData)
+//console.log("totalHistoricalYearValues: ", totalHistoricalYearValues)
 
 let fuelTypes = []
 data.data.nces_eleproduction.forEach((item)=>{
   if (fuelTypes.indexOf(item.nces_fuel_type.fuel_type) === -1)
     fuelTypes.push(item.nces_fuel_type.fuel_type)
 })
-/* fuelTypes.forEach((fuelType)=>{
-  data.data.nces_eleproduction.filter((item)=>{
-    //console.log("item: ", item)
-    return item.nces_fuel_type.fuel_type === fuelType && item.nces_country.name === "Sweden"
-  }).forEach((element)=>{
-    accumulatedHistoricalData.push(element)
-  })
-}) */
-  console.log("fuel types: ", fuelTypes)
-  console.log("data: ", data)
-  console.log("chartName: ", chartName)
-  console.log("selectedContries: ", selectedCountries)
-  console.log("accumulatedHistoricalData: ", accumulatedHistoricalData)
-  console.log("totalHistoricalYearValues: ", totalHistoricalYearValues)
+
   return [accumulatedHistoricalData, fuelTypes]
 }
 

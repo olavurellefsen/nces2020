@@ -10,6 +10,7 @@ import MapContainer from "../map/MapContainer";
 
 const MenuLayout = styled.div`
   display: none;
+  background: #385988;
   ${breakpoint("mobile", "desktop")`
     display: flex;  
     min-height: 100vh;
@@ -17,7 +18,7 @@ const MenuLayout = styled.div`
     flex-shrink: 0;
     width: 80px;
     color: white;
-    background: rgb(50, 50, 50);
+    background: #385988;
     visibility: visible;
   `}
 `;
