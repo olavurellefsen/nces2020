@@ -10,13 +10,12 @@ import MapContainer from "../map/MapContainer";
 
 const MenuLayout = styled.div`
   display: none;
-  background: #385988;
   ${breakpoint("desktop")`
     display: flex;
     flex-direction: column;
     width: 220px;
     color: white;
-    background: #385988;
+    background: rgb(50, 50, 50);
     visibility: visible;
     overflow: visible;
   `}
@@ -144,6 +143,7 @@ const Header = styled.h1`
 function ScenarioSelectionMenu(props) {
   const { t } = useTranslation();
   const location = useLocation()
+  console.log("___******************location: ", location)
   // const toggleLanguage = e => {
   //   e.preventDefault();
   //   if (language === "en") {
@@ -244,6 +244,9 @@ function ScenarioSelectionMenu(props) {
             </ExternalLink>
           </CopyrightItem>
           <CopyrightItem>
+            <ExternalLink href="https://energymodelling.club/">
+              <AppLogo src="./images/emc.png" alt="Energy Modelling Club" maxWidth="75px" data-tip="Energy Modelling Club"/>
+            </ExternalLink>
             <ExternalLink href="https://energymodellinglab.com/">
               <AppLogo src="./images/eml.png" alt="Energy Modelling Lab" maxWidth="75px" data-tip="Energy Modelling Lab"/>
             </ExternalLink>

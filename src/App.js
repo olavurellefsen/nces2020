@@ -31,7 +31,7 @@ const LeftColumn = styled.div`
   height: 100%;
   display: flex;
   flex-direction: column;
-  background: #385988;
+  background: rgb(50,50,50);
 `
 const RightColumn = styled.div`
   height: 100%;
