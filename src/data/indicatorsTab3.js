@@ -1,10 +1,8 @@
 export default 
  	 [ 
-		"District heat production",
-		"Marginal Prices - District Heat",
-		"Marginal Prices - Electricity ",
-		"Power & Heat fuel consumption",
-		"Power Trade",
-		"Power Trade Nordic",
-		"Power capacity",
+		"District heat production (PJ)",
+		"Power & Heat fuel consumption (PJ)",
+		"Power Trade (PJ)",
+		"Power capacity (MW)",
+		"Power production (PJ)",
 	 ]

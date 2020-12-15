@@ -32,7 +32,7 @@ const Charts = props => {
                 selectedScenario2={selectedScenario2}
                 selectedCountries={selectedCountries}
                 combinedChart={false}
-                label="PJ"
+                label=" "
                 minY={0}
                 maxY={1500}
                 stackedBar={stackedBar}
@@ -54,7 +54,7 @@ const Charts = props => {
                 selectedScenario2={selectedScenario2}
                 selectedCountries={selectedCountries}
                 combinedChart={false}
-                label="PJ"
+                label=" "
                 minY={-1}
                 maxY={1}
                 stackedBar={stackedBar}
