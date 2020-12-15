@@ -69,6 +69,7 @@ const StackedBarChart = props => {
  const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
   const accumulatedDataScenario1 = dataScenario1[0]
+  console.log("accu_______*****:  ", accumulatedDataScenario1)
   const accumulatedDataScenario2 = scenario2 ? dataScenario2[0] : undefined
   const totalYearValuesScenario1 = dataScenario1[1]
   const totalYearValuesScenario2 = scenario2 ? dataScenario2[1] : undefined

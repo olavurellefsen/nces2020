@@ -68,6 +68,7 @@
     "tab5": "Other",
     "tab6": "Households",
     "tab7": "Transport",
+    "tab8": "Historical Data",
     "mobile": {
       "tab1": "Main results",
       "tab2": "Supply",
@@ -75,7 +76,8 @@
       "tab4": "Heavy industry",
       "tab5": "Other",
       "tab6": "Households",
-      "tab7": "Transport"
+      "tab7": "Transport",
+      "tab8": "Historical"
     }
   },
   "welcome-text": {
