@@ -35,7 +35,7 @@ const StackedBarChart = props => {
   const chartName = props.chartName
   //const chartTitle = t('chartTitle.' + props.chartTitle)
   const chartTitle = props.chartTitle
-  const combinedChart = props.combinedChart
+  const combinedChart = false //props.combinedChart
 
   let gutter, rowGutter
   if (
@@ -69,16 +69,33 @@ const StackedBarChart = props => {
  const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
   const accumulatedDataScenario1 = dataScenario1[0]
-  console.log("accu_______*****:  ", accumulatedDataScenario1)
+  //console.log("accu_______*****:  ", accumulatedDataScenario1)
   const accumulatedDataScenario2 = scenario2 ? dataScenario2[0] : undefined
   const totalYearValuesScenario1 = dataScenario1[1]
   const totalYearValuesScenario2 = scenario2 ? dataScenario2[1] : undefined
   let maxY = -Infinity
   Object.keys(totalYearValuesScenario1).forEach(year => {
+    //if(chartName==="Cement fuel consumption (PJ)")
+      //console.log("maxY: ", maxY)
     maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year],
       scenario2 ? totalYearValuesScenario2[year] : -Infinity))
   })
-  
+  let t = 1
+  let i = 0
+  let range = [2,4,10]
+  while(t < maxY) {
+    //console.log("i: ", i)
+    //console.log("i%3: ", i%3)
+    //console.log("i/3: ", Math.floor(i/3))
+    t = range[i%3]*Math.pow(range[2], Math.floor(i/3))
+    i++
+    //console.log("temp t: ", t)
+  }
+  /* console.log("-*-*-*-*-")
+  console.log("temp t: ", t)
+  console.log("chartName: ", chartName)
+  console.log("maxY", maxY) */
+  maxY = t
   let legends = new Set()
   
   stackedBar.data.scenarios
@@ -91,6 +108,7 @@ const StackedBarChart = props => {
   
   return (
     <div>
+    <div>{chartTitle}</div>
       <VictoryChart
         domainPadding={20}
         width={380}
@@ -99,7 +117,7 @@ const StackedBarChart = props => {
         theme={VictoryTheme.material}
         // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated
       >
-        <ChartHeader x={90} y={24} text={chartTitle} />
+        {/* <ChartHeader x={90} y={0} text={chartTitle} /> */}
         <VictoryAxis key={0} tickValues={periods} tickFormat={periods} />
         <VictoryAxis
           dependentAxis
@@ -140,7 +158,7 @@ const StackedBarChart = props => {
         )}
         <VictoryLegend
           x={90}
-          y={50}
+          y={0}
           orientation="horizontal"
           gutter={gutter}
           rowGutter={rowGutter}

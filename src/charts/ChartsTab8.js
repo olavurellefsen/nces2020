@@ -12,6 +12,9 @@ const HistoricalCharts = props => {
         <Welcome closeWelcome={props.closeWelcome} />
       )}
       <Flex>
+        {/* {HistoricalData.data.map((indicator)=>{
+          console.log("H indicator: ", indicator)
+        })} */}
         <StackedBarChartHistorical
           stackedBar={HistoricalData}
           selectedCountries={props.selectedCountries}

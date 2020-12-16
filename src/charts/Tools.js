@@ -26,6 +26,8 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
     //console.log("data: ", data)
     //console.log("scenario: ", scenario)
     let ind = scen.indicators.find(o => o.indicator === chartName)
+        //console.log("ind: ", ind)
+        //console.log("chartName: ", chartName)
         ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
               if (!accumulatedData[indicatorGroup.indicatorGroup]) {
@@ -121,7 +123,7 @@ data.data.nces_eleproduction.forEach((item)=>{
     fuelTypes.push(item.nces_fuel_type.fuel_type)
 })
 
-  return [accumulatedHistoricalData, fuelTypes]
+  return [accumulatedHistoricalData,fuelTypes]
 }
 
 export { createAccumulatedData, createAccumulatedHistoricalData }

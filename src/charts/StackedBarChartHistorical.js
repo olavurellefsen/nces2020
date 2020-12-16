@@ -16,10 +16,7 @@ import {
 
 import {createAccumulatedHistoricalData} from './Tools'
 import {colors} from './chartColors'
-import periods from './../data/historicalyears'
-
-
-
+//import periods from './../data/historicalyears'
 
 const StackedBarChartHistorical = ({
   chartName = "nces_eleproduction",
@@ -32,12 +29,12 @@ const StackedBarChartHistorical = ({
   selectedCountries = [],
   combinedChart = false,
   maxY2 = 100,
-  minY2 = 0,
 }) => {
   const dataScenario1 = createAccumulatedHistoricalData(stackedBar, chartName, selectedCountries)
   
 
   const accumulatedData = dataScenario1[0]
+  //const totalYearValuesScenario1 = dataScenario1[1]
   const legends = dataScenario1[1]
   let gutter, rowGutter
   if (
@@ -52,9 +49,17 @@ const StackedBarChartHistorical = ({
     rowGutter = -5
   }
 
-  let maxY = 1000
+  let maxY = -Infinity
+  /* Object.keys(totalYearValuesScenario1).forEach(year => {
+    //if(chartName==="Cement fuel consumption (PJ)")
+      console.log("maxY: ", maxY)
+    maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year],
+      scenario2 ? totalYearValuesScenario2[year] : -Infinity))
+  }) */
+  maxY = 600000
   return (
     <div>
+    <div>{chartName}</div>
       <VictoryChart
         domainPadding={20}
         width={380}
@@ -63,8 +68,8 @@ const StackedBarChartHistorical = ({
         theme={VictoryTheme.material}
         // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated
       >
-        <ChartHeader x={90} y={24} text={chartName} />
-        <VictoryAxis key={0} tickValues={periods} tickFormat={periods} />
+        {/* <ChartHeader x={90} y={24} text={chartName} /> */}
+        <VictoryAxis key={0} tickValues={[1990, 1995, 2000, 2005, 2010, 2015]} tickFormat={[1990, 1995, 2000, 2005, 2010, 2015]} />
         <VictoryAxis
           dependentAxis
           axisLabelComponent={<VictoryLabel dx={120} />}
@@ -104,7 +109,7 @@ const StackedBarChartHistorical = ({
         )}
         <VictoryLegend
           x={90}
-          y={50}
+          y={0}
           orientation="horizontal"
           gutter={gutter}
           rowGutter={rowGutter}
