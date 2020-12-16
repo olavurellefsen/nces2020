@@ -1,6 +1,6 @@
 import React from 'react'
 //import PropTypes from 'prop-types'
-import styled from 'styled-components'
+//import styled from 'styled-components'
 //import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
@@ -164,12 +164,12 @@ const StackedBarChartHistorical = ({
   )
 }
 
-const ChartHeader = styled(VictoryLabel)`
+/* const ChartHeader = styled(VictoryLabel)`
   text-anchor: start;
   fill: #000000;
   font-family: inherit;
   font-size: 18px;
   font-weight: bold;
-`
+` */
 
 export default StackedBarChartHistorical
