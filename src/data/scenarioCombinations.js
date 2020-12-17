@@ -151,13 +151,13 @@ export default {
 				"CNS": { 
 					"opt0": false,
 					"opt1": true,
-					"opt2": true,
+					"opt2": false,
 					"opt3": false,
 					}, 
 				"CNS_copy": { 
 					"opt0": false,
 					"opt1": true,
-					"opt2": true,
+					"opt2": false,
 					"opt3": false,
 					}, 
 			} 
