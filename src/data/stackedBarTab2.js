@@ -5180,43 +5180,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "BGACO2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.5455531978
-                      },
-                      {
-                        "year": 2020,
-                        "total": 188.3644255825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 155.9260970984
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -13524,43 +13487,6 @@ export default {
               {
                 "region": "DK",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "BGACO2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.5455531978
-                      },
-                      {
-                        "year": 2020,
-                        "total": 188.3644255825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 188.3644255825
-                      },
-                      {
-                        "year": 2030,
-                        "total": 169.9044201347
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
