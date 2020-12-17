@@ -1615,7 +1615,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline TRA",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1726,7 +1726,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquid petrol gas TRA",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1990,7 +1990,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline TRA",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2064,7 +2064,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Hydrogen (TRA)",
+                    "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2138,6 +2138,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "LPG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0454545455
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0454545455
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0454545455
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0454545455
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Light fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -2171,43 +2208,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.1897801288
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Liquid petrol gas TRA",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0454545455
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0454545455
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0454545455
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0454545455
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -2476,7 +2476,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline TRA",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2587,7 +2587,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquid petrol gas TRA",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2888,7 +2888,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline TRA",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4490,7 +4490,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel cars",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4564,7 +4564,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas cars",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4601,7 +4601,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline cars",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4680,7 +4680,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel cars",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4754,7 +4754,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas cars",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4791,7 +4791,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline cars",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4870,7 +4870,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel cars",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4944,7 +4944,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas cars",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4981,7 +4981,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline cars",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5060,7 +5060,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel cars",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5134,7 +5134,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas cars",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5171,7 +5171,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline cars",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6316,7 +6316,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel Truck",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6353,7 +6353,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas Truck",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6432,7 +6432,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel Truck",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6506,7 +6506,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas Truck",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6543,7 +6543,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline Truck",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6617,7 +6617,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Hydrogen Truck",
+                    "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6659,7 +6659,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel Truck",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6733,7 +6733,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas Truck",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6812,7 +6812,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel Truck",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6849,7 +6849,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas Truck",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9085,7 +9085,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline TRA",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9196,7 +9196,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquid petrol gas TRA",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9460,7 +9460,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline TRA",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9534,7 +9534,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Hydrogen (TRA)",
+                    "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9608,6 +9608,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "LPG",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0454545455
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0454545455
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0454545455
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0454545455
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Light fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -9641,43 +9678,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.1897801288
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Liquid petrol gas TRA",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0454545455
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0454545455
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0454545455
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0454545455
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9946,7 +9946,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline TRA",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10057,7 +10057,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquid petrol gas TRA",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10358,7 +10358,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline TRA",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11960,7 +11960,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel cars",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12034,7 +12034,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas cars",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12071,7 +12071,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline cars",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12150,7 +12150,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel cars",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12224,7 +12224,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas cars",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12261,7 +12261,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline cars",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12340,7 +12340,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel cars",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12414,7 +12414,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas cars",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12451,7 +12451,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline cars",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12530,7 +12530,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel cars",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12604,7 +12604,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas cars",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12641,7 +12641,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline cars",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13786,7 +13786,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel Truck",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13823,7 +13823,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas Truck",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13902,7 +13902,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel Truck",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13976,7 +13976,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas Truck",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14013,7 +14013,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gasoline Truck",
+                    "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14087,7 +14087,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Hydrogen Truck",
+                    "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14129,7 +14129,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel Truck",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14203,7 +14203,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas Truck",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14282,7 +14282,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesel Truck",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14319,7 +14319,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Gas Truck",
+                    "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

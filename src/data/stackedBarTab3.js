@@ -1393,7 +1393,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity (Central)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1435,7 +1435,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity (Central)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1477,7 +1477,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity (Central)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1519,7 +1519,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity (Central)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2923,43 +2923,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IMPELC-DKUK",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": -15.0007753042
-                      },
-                      {
-                        "year": 2030,
-                        "total": -11.12832
-                      },
-                      {
-                        "year": 2035,
-                        "total": -11.12832
-                      },
-                      {
-                        "year": 2040,
-                        "total": -8.7565527274
-                      },
-                      {
-                        "year": 2045,
-                        "total": -7.8657962161
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Import DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -3030,6 +2993,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -5.56416
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import DK-Uk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": -15.0007753042
+                      },
+                      {
+                        "year": 2030,
+                        "total": -11.12832
+                      },
+                      {
+                        "year": 2035,
+                        "total": -11.12832
+                      },
+                      {
+                        "year": 2040,
+                        "total": -8.7565527274
+                      },
+                      {
+                        "year": 2045,
+                        "total": -7.8657962161
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -3577,56 +3577,19 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELCCO2",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 23410.3364795806
+                        "total": 24735.6510808879
                       },
                       {
                         "year": 2020,
-                        "total": 7636.907829307
+                        "total": 8750.6464570093
                       },
                       {
                         "year": 2025,
-                        "total": 672.1068498275
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "ELCCO2W",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1325.3146013073
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1113.7386277023
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1113.7386277023
+                        "total": 1785.8454775298
                       },
                       {
                         "year": 2030,
@@ -3656,76 +3619,39 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELCCO2N",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 15698.9748758809
+                        "total": 16499.5350266714
                       },
                       {
                         "year": 2020,
-                        "total": 12390.2667814211
+                        "total": 13336.8024042563
                       },
                       {
                         "year": 2025,
-                        "total": 6428.1707629968
+                        "total": 7398.4614189186
                       },
                       {
                         "year": 2030,
-                        "total": 2252.4088221537
+                        "total": 3246.4953039765
                       },
                       {
                         "year": 2035,
-                        "total": 1203.1385741503
+                        "total": 2197.1060455517
                       },
                       {
                         "year": 2040,
-                        "total": 1116.7450824843
+                        "total": 2110.5935434643
                       },
                       {
                         "year": 2045,
-                        "total": 1032.8902112894
+                        "total": 1937.6278525808
                       },
                       {
                         "year": 2050,
-                        "total": 811.3248365428
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "ELCCO2W",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 800.5601507905
-                      },
-                      {
-                        "year": 2020,
-                        "total": 946.5356228352
-                      },
-                      {
-                        "year": 2025,
-                        "total": 970.2906559218
-                      },
-                      {
-                        "year": 2030,
-                        "total": 994.0864818228
-                      },
-                      {
-                        "year": 2035,
-                        "total": 993.9674714014
-                      },
-                      {
-                        "year": 2040,
-                        "total": 993.84846098
-                      },
-                      {
-                        "year": 2045,
-                        "total": 904.7376412914
-                      },
-                      {
-                        "year": 2050,
-                        "total": 660.4510512724
+                        "total": 1471.7758878152
                       }
                     ]
                   }
@@ -3735,48 +3661,11 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELCCO2",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 1.8515917005
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "ELCCO2W",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 618.3838517535
+                        "total": 620.235443454
                       },
                       {
                         "year": 2020,
@@ -3814,48 +3703,11 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELCCO2",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 4723.091227348
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 86.2216533213
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "ELCCO2W",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2345.319
+                        "total": 7068.4102273481
                       },
                       {
                         "year": 2020,
@@ -3871,7 +3723,7 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 2697.3
+                        "total": 2783.5216533213
                       },
                       {
                         "year": 2040,
@@ -6457,7 +6309,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity (Central)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6499,7 +6351,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity (Central)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6541,7 +6393,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity (Central)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6583,7 +6435,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity (Central)",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7987,43 +7839,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "IMPELC-DKUK",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": -14.5658806716
-                      },
-                      {
-                        "year": 2030,
-                        "total": -11.12832
-                      },
-                      {
-                        "year": 2035,
-                        "total": -11.12832
-                      },
-                      {
-                        "year": 2040,
-                        "total": -9.7148994591
-                      },
-                      {
-                        "year": 2045,
-                        "total": -8.578198223
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Import DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -8094,6 +7909,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -5.56416
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Import DK-Uk",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": -14.5658806716
+                      },
+                      {
+                        "year": 2030,
+                        "total": -11.12832
+                      },
+                      {
+                        "year": 2035,
+                        "total": -11.12832
+                      },
+                      {
+                        "year": 2040,
+                        "total": -9.7148994591
+                      },
+                      {
+                        "year": 2045,
+                        "total": -8.578198223
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -8641,56 +8493,19 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELCCO2",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 23531.9495356719
+                        "total": 24857.2641369792
                       },
                       {
                         "year": 2020,
-                        "total": 7590.2521150585
+                        "total": 8703.9907427608
                       },
                       {
                         "year": 2025,
-                        "total": 384.2069781116
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "ELCCO2W",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1325.3146013073
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1113.7386277023
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1113.7386277023
+                        "total": 1497.9456058139
                       },
                       {
                         "year": 2030,
@@ -8720,76 +8535,39 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELCCO2N",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 15698.9669446605
+                        "total": 16499.527095451
                       },
                       {
                         "year": 2020,
-                        "total": 12385.9252221846
+                        "total": 13332.4608450198
                       },
                       {
                         "year": 2025,
-                        "total": 6764.5268530571
+                        "total": 7734.8175089789
                       },
                       {
                         "year": 2030,
-                        "total": 2329.7322132992
+                        "total": 3323.8186951219
                       },
                       {
                         "year": 2035,
-                        "total": 1322.1697348186
+                        "total": 2316.13720622
                       },
                       {
                         "year": 2040,
-                        "total": 1225.9114104007
+                        "total": 2219.7598713807
                       },
                       {
                         "year": 2045,
-                        "total": 1070.757865732
+                        "total": 1975.4336459472
                       },
                       {
                         "year": 2050,
-                        "total": 861.4279874637
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "ELCCO2W",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 800.5601507905
-                      },
-                      {
-                        "year": 2020,
-                        "total": 946.5356228352
-                      },
-                      {
-                        "year": 2025,
-                        "total": 970.2906559218
-                      },
-                      {
-                        "year": 2030,
-                        "total": 994.0864818228
-                      },
-                      {
-                        "year": 2035,
-                        "total": 993.9674714014
-                      },
-                      {
-                        "year": 2040,
-                        "total": 993.84846098
-                      },
-                      {
-                        "year": 2045,
-                        "total": 904.6757802152
-                      },
-                      {
-                        "year": 2050,
-                        "total": 660.759765173
+                        "total": 1522.1877526367
                       }
                     ]
                   }
@@ -8799,48 +8577,11 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELCCO2",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 2.2028278189
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "ELCCO2W",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 618.3838517535
+                        "total": 620.5866795724
                       },
                       {
                         "year": 2020,
@@ -8878,48 +8619,11 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "ELCCO2",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 5068.5148314935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 86.2216533213
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "ELCCO2W",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2345.319
+                        "total": 7413.8338314935
                       },
                       {
                         "year": 2020,
@@ -8935,7 +8639,7 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 2697.3
+                        "total": 2783.5216533213
                       },
                       {
                         "year": 2040,

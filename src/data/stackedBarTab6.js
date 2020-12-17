@@ -949,7 +949,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Residential PV",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -991,7 +991,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Residential PV",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1803,7 +1803,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Straw RES",
+                    "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1919,7 +1919,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas (RES)",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2141,7 +2141,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquified Petroleum Gases (RES)",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3308,7 +3308,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Straw RES",
+                    "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3424,7 +3424,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas (RES)",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3646,7 +3646,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquified Petroleum Gases (RES)",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5497,7 +5497,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Residential PV",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5539,7 +5539,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Residential PV",
+                    "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6351,7 +6351,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Straw RES",
+                    "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6467,7 +6467,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas (RES)",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6689,7 +6689,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquified Petroleum Gases (RES)",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7856,7 +7856,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Straw RES",
+                    "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7972,7 +7972,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas (RES)",
+                    "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8194,7 +8194,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Liquified Petroleum Gases (RES)",
+                    "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
