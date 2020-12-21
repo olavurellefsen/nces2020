@@ -4805,7 +4805,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power production - supply (PJ)",
+            "indicator": "Power production - supply (TWh)",
             "regions": [
               {
                 "region": "DK",
