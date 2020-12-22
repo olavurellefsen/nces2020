@@ -9,6 +9,6 @@ export default
 		"Number of trucks (1000 Trucks)",
 		"Passenger transport demand (mill.pkm)",
 		"Shipping fuel consumption (PJ)",
-		"Transport CO2 emissioner (PJ)",
+		"Transport CO2 emissions (kt)",
 		"Transport System Cost (MEUR15)",
 	 ]

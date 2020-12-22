@@ -6538,6 +6538,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.7365907813
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7688324615
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.3719294884
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.0968951276
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7.3277068228
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.4914619241
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.6247606071
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.7580592901
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -6575,155 +6612,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TRADSBL1",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 9.4429819925
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.4840895808
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.3909129838
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.6985038718
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.2936087887
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0853133118
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.423126651
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL3",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2847428807
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8957031928
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.9752646048
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL4",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.3277068228
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.4914619241
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.6247606071
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.7580592901
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRANGBL4",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6918,6 +6807,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.1673322315
+                      },
+                      {
+                        "year": 2020,
+                        "total": 38.5034006075
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.0625078049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 39.7440666732
+                      },
+                      {
+                        "year": 2035,
+                        "total": 32.1778621548
+                      },
+                      {
+                        "year": 2040,
+                        "total": 32.8938695897
+                      },
+                      {
+                        "year": 2045,
+                        "total": 33.6932395411
+                      },
+                      {
+                        "year": 2050,
+                        "total": 34.5154702259
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
@@ -6992,155 +6918,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TRADSBL1",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 28.5430675752
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.174166805
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.4023316235
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.5568932295
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0928573237
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 12.6242646563
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4507848391
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.7467016177
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.1998218851
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL3",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8784489634
-                      },
-                      {
-                        "year": 2025,
-                        "total": 28.9134745636
-                      },
-                      {
-                        "year": 2030,
-                        "total": 29.9873515585
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.770909953
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL4",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 31.3140948782
-                      },
-                      {
-                        "year": 2040,
-                        "total": 32.8938695897
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.6932395411
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34.5154702259
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRANGBL4",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7182,6 +6960,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.2688663245
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1098818264
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.824684172
+                      },
+                      {
+                        "year": 2030,
+                        "total": 15.4554600905
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7.3782736277
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.5743342345
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.7914041265
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8.0084740185
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -7219,155 +7034,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TRADSBL1",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.8637332805
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.1188070643
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.7291812147
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.339555365
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.405133044
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.6752605293
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.684291745
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.657076815
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL3",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3158142327
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.4112112123
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.4588279104
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL4",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.3782736277
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.5743342345
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.7914041265
-                      },
-                      {
-                        "year": 2050,
-                        "total": 8.0084740185
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRANGBL4",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7408,7 +7075,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissioner (PJ)",
+            "indicator": "Transport CO2 emissions (kt)",
             "regions": [
               {
                 "region": "DK",
@@ -15180,6 +14847,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.7365907813
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7688324615
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.3719294884
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.0968951276
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7.3277068228
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.4914619241
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.6247606071
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.7580592901
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -15217,155 +14921,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TRADSBL1",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 9.4429819925
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.4840895808
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.3909129838
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.6985038718
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.2936087887
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0853133118
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.423126651
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL3",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2847428807
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8957031928
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.9752646048
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL4",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.3277068228
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.4914619241
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.6247606071
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.7580592901
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRANGBL4",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15560,6 +15116,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.1673322315
+                      },
+                      {
+                        "year": 2020,
+                        "total": 38.5034006075
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.0625078049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 39.7440666732
+                      },
+                      {
+                        "year": 2035,
+                        "total": 32.1778621548
+                      },
+                      {
+                        "year": 2040,
+                        "total": 32.8938695897
+                      },
+                      {
+                        "year": 2045,
+                        "total": 33.6932395411
+                      },
+                      {
+                        "year": 2050,
+                        "total": 34.5154702259
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
@@ -15634,155 +15227,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TRADSBL1",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 28.5430675752
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.174166805
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.4023316235
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.5568932295
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0928573237
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 12.6242646563
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4507848391
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.7467016177
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.1998218851
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL3",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8784489634
-                      },
-                      {
-                        "year": 2025,
-                        "total": 28.9134745636
-                      },
-                      {
-                        "year": 2030,
-                        "total": 29.9873515585
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.770909953
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL4",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 31.3140948782
-                      },
-                      {
-                        "year": 2040,
-                        "total": 32.8938695897
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.6932395411
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34.5154702259
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRANGBL4",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15824,6 +15269,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.2688663245
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.0537855753
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.7303736359
+                      },
+                      {
+                        "year": 2030,
+                        "total": 15.4301856335
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.1034017345
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.5743342345
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.7914041265
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8.0084740185
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -15861,155 +15343,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TRADSBL1",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.8637332805
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.8006823739
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.6439881974
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.2424542753
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.7251281068
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.405133044
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.7695506001
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.5552161389
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.6089453605
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL3",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6.4835526014
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.5311692995
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.5787859977
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRADSBL4",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.3782736277
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.5743342345
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.7914041265
-                      },
-                      {
-                        "year": 2050,
-                        "total": 8.0084740185
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRANGBL4",
+                    "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16050,7 +15384,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissioner (PJ)",
+            "indicator": "Transport CO2 emissions (kt)",
             "regions": [
               {
                 "region": "DK",
