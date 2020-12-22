@@ -50,12 +50,12 @@ export default {
 			optionsAvailable: { 
 				"CNN": { 
 					"opt0": false,
-					"opt1": false,
+					"opt1": true,
 					"opt2": false,
 					}, 
 				"CNN_copy": { 
 					"opt0": false,
-					"opt1": false,
+					"opt1": true,
 					"opt2": false,
 					}, 
 			} 

@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS",
+        "scenario": "CNN",
         "indicators": [
           {
             "indicator": "Cement fuel consumption (PJ)",
@@ -6021,7 +6021,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNN_Bio",
         "indicators": [
           {
             "indicator": "Cement fuel consumption (PJ)",

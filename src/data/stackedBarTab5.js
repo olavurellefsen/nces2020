@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS",
+        "scenario": "CNN",
         "indicators": [
           {
             "indicator": "Agriculture fuel consumption (PJ)",
@@ -8384,7 +8384,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNN_Bio",
         "indicators": [
           {
             "indicator": "Agriculture fuel consumption (PJ)",

@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS",
+        "scenario": "CNN",
         "indicators": [
           {
             "indicator": "District heat production (PJ)",
@@ -5942,7 +5942,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNN_Bio",
         "indicators": [
           {
             "indicator": "District heat production (PJ)",

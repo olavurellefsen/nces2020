@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNS",
+        "scenario": "CNN",
         "indicators": [
           {
             "indicator": "Annual system costs (MEUR15)",
@@ -1648,7 +1648,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNS_Bio",
+        "scenario": "CNN_Bio",
         "indicators": [
           {
             "indicator": "Annual system costs (MEUR15)",
