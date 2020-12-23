@@ -6575,7 +6575,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6844,7 +6844,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6997,7 +6997,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14921,7 +14921,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15190,7 +15190,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15343,7 +15343,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23267,7 +23267,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23536,7 +23536,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23689,7 +23689,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31613,7 +31613,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31882,7 +31882,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -32035,7 +32035,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Diesl",
+                    "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
