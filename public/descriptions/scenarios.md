@@ -29,10 +29,14 @@ In this storyline, politicians and citizens adopt additional energy and material
 
 On this homapage you can chose a scenario storyline and look at detailed modelling results on sectors level. But as future is uncertain and the technical details in the model only as good as we can predict today, it is important to show the impact of changing some of the central assumptions, the one that really makes a difference to the results. These sensitivities can be turned on and off for each of the storyllines and they can be combined as well.
 
-### Restriction on Bioenergy Import
+### Carbon Capture and Storage - icon: barral
+Without negative emissions the targets of the Nordic countries cannot be reached. But one critical part of the carbon capture and storage solutions are the storage. Where to store it and at what cost. In this sensitivity there are less optimism around finding places to store CO2 and the costs of storage are assumed to be three times higher than else assumed.
+
+### Restriction on Bioenergy Import - icon: leaf
 To represent the limited global bioenergy potential, partly due to sustainability demands, an import bound on bioenergy to the Nordic countries is introduced. With the biofuel import bound, the bioenergy use in the Nordics is restricted to the domestic biomass supply potentials from 2040 onwards. Without the import bound, biomass and biofuels can be imported from the rest of the world at an assumed market price. 
 
-### Carbon Capture and Storage (CCS)
+### Yet to be decided
+xxxxxxxxx
 
-CCS technologies imply that CO2 can be captured from point sources, such as electricity generation and industrial processes, transported and stored permanently in storage sites, such as underground geological formations instead of being emitted. CCS could potentially be a future key technology for CO2 mitigation but so for the deployment is limited. To assess the role of CCS, this technology can either be assumed possible or assumed not possible to introduced in large-scale in the Nordics. 
+
 
