@@ -1,8 +1,11 @@
-# Shift scenario description
+# The Meaning of Carbon Neutrality in the Nordic Countries
 
-In Shift we assess pathways to reach carbon neutrality in the Nordic region by 2050. We focus on the combination of transport mitigation measures that is needed in Denmark, Norway and Sweden but consider the integrated energy and transport system. The scenarios represent different cost-effective technology pathways to reach the goal of no net CO2 emissions in the Nordics by 2050 under different circumstances.
+The adopted definition of carbon neutrality by this project sets the limit for total emissions without defining or prioritizing specific measures in certain sectors.
 
-All national energy related CO2 emissions as well as fuel use for international shipping and aviation (filled in the included Nordic countries) are included. Decarbonization is achieved by applying a yearly CO2 emission bound which is gradually decreased until (close to) net zero emissions are reached by 2050. No other policy measures are included. 
+The differences between countries arise in target years for reaching climate neutrality, in their mid-term targets, and in the
+use of carbon offsets. Climate neutrality target years range from 2030, Norway, to 2050, Denmark. The difference in target years cannot be directly compared as some countries allow the use of carbon offsets and some will benefit from considerable
+forest carbon sinks as Sweden.
+
 
 ## Two scenarios
 
