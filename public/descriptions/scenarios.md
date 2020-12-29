@@ -6,39 +6,33 @@ The differences between countries arise in target years for reaching climate neu
 use of carbon offsets. Climate neutrality target years range from 2030, Norway, to 2050, Denmark. The difference in target years cannot be directly compared as some countries allow the use of carbon offsets and some will benefit from considerable
 forest carbon sinks as Sweden.
 
+All scenarios presented on this homepage fulfill the countries individual climate targets. There is no "Reference" scenario or "business as usual", so with the scenarios in the NCES2020 project we explore possible pathways fulfilling the targets of the Nordic Governments.
 
-## Two scenarios
+The scenarios are constructed around three storylines supplemented with sensitivity variances on the most important assumptions 
 
-Nordic_Tech scenario: This scenario has a technology focus and include a range of transport technology options and future development of them. However, no external shift and avoid measures are assumed possible for meeting the CO2 target. 
+## Carbon Neutral Nordic (CNN)
 
-Nordic_Shift&Avoid scenario: This scenario includes an alternative transport demand development considering external shift and avoid measures (i.e., shift to more energy-efficient modes and avoided travel demand), e.g., lower car traffic levels (see details below). It includes the same technology options and performance as Nordic_Tech.
+Carbon Neutral Nordic (CNN) is the central storyline. It develops according to the Nordic countries’ national plans, strategies, and targets to reach carbon neutrality.
+This storyline will not produce a business as usual scenario but rather show what effects stated, but not yet implemented, strategies and targets could achieve. Decarbonization of energy consumption will require fast actions in all sectors. The amount of renewable power and heat production must increase to provide clean energy to end-use sectors. Nordic countries will increase electricity exports to Central Europe, but the amount will not increase much above current projections as electrification of Nordic heating, transport, and industry will require a large supply of low carbon electricity. Biomass imports from outside the Nordics will be limited to current or slightly higher levels to ensure sustainability of bioenergy use. BECCS will compensate some of the most expensive CO2 emissions abatement options. Onshore wind development will be limited below the technical potential due to acceptability and land use issues.
 
-## Four possible switches
+## Nordic Powerhouse (NPH)
 
-Key aspects (switches) for the development that can be varied in our scenarios include: 
+Nordic powerhouse (NPH) is a storyline where the Nordic countries can provide cheaper clean energy than Central Europe and manage to host more low carbon services and industries and increase their exports of low carbon products and energy carriers.
+In addition to their efforts to reduce Nordic emissions, the Nordic countries host larger number of data centres, produce more batteries, and manage to increase the exports of electricity, electro fuels, and carbon free steel and aluminium. All these activities increase demand for electricity and/or other energy products. The additional electricity and electro fuels would be produced by offshore wind hubs, continuing the lifetime of nuclear power plants, ground-based PV power plants, and by onshore wind, assuming high acceptance for onshore wind. There would be more excess heat from industry and services that can be used in district heating generation. The Nordic economy would benefit from the export of new products, but a macro-economic model to study effects of increasing economic activity is not a part of the NCES project.
+ 
+## Climate Neutral Behaviour (CNB)
 
-### Biofuel import bound
+Climate Neutral Behaviour (CNB) is a storyline motivated by strong political and citizen engagement, and a rapid decrease in costs of distributed energy generation and other low carbon technologies.
+In this storyline, politicians and citizens adopt additional energy and material efficiency measures in all sectors that lead to lower energy demand. In addition, decentralized generation technologies become much more common and they further cut the energy delivered through grids and lead to prosumers and districts as energy suppliers. Energy demand for transport decrease due to modal changes, remote working, car sharing, and lower and more efficient heavy transport of goods. Focus of society in this storyline is not on GDP but on sustainability, circular economy, and securing biodiversity.
 
-To represent the limited global bioenergy potential, partly due to sustainability demands, an import bound of biofuels to the Nordic countries is introduced. With the biofuel import bound, the bioenergy use in the Nordics is restricted to the domestic biomass supply potentials. Without the import bound, biofuels can be imported from the rest of the world at an assumed market price. 
+## Sensitivity Factors
+
+On this homapage you can chose a scenario storyline and look at detailed modelling results on sectors level. But as future is uncertain and the technical details in the model only as good as we can predict today, it is important to show the impact of changing some of the central assumptions, the one that really makes a difference to the results. These sensitivities can be turned on and off for each of the storyllines and they can be combined as well.
+
+### Restriction on Bioenergy Import
+To represent the limited global bioenergy potential, partly due to sustainability demands, an import bound on bioenergy to the Nordic countries is introduced. With the biofuel import bound, the bioenergy use in the Nordics is restricted to the domestic biomass supply potentials from 2040 onwards. Without the import bound, biomass and biofuels can be imported from the rest of the world at an assumed market price. 
 
 ### Carbon Capture and Storage (CCS)
 
 CCS technologies imply that CO2 can be captured from point sources, such as electricity generation and industrial processes, transported and stored permanently in storage sites, such as underground geological formations instead of being emitted. CCS could potentially be a future key technology for CO2 mitigation but so for the deployment is limited. To assess the role of CCS, this technology can either be assumed possible or assumed not possible to introduced in large-scale in the Nordics. 
 
-### High EV and FCEV cost
-
-The cost development of electric and fuel cell vehicles is a central factor for their deployment but relatively uncertain. To test the influence of the development of future vehicle cost reductions, a 20% higher investment costs for all electric vehicle options compared to the base assumption are assumed in this case. The higher cost applies to all electric vehicles, including battery-powered vehicles, plug-in hybrids and electric road vehicles and fuel cell electric vehicles, both in light-duty and heavy-duty road transport. 
-
-### Shared autonomous cars
-
-Shared autonomous vehicles can in the future function as driver-less taxis and reduce the need for privately-owned vehicles. In the case with shared autonomous cars such technologies can supply up to 25% of the delivered car passenger km in 2050. These cars are contrasted to conventional cars trough essentially three parameters: higher vehicle investment costs, higher average driving distance per year (about 6-7 times higher than regular cars) and shorter technical lifetime (about 1/3 of a regular car). 
-
-## Other scenario assumptions
-
-Some of the base assumptions for the TIMES Nordic modeling in Shift builds upon the scenario work of the Nordic Energy Technology Perspectives (NETP) 2016, primarily the carbon neutral scenario (CNS) (IEA and NER, 2016). This include the energy service end-use demand projections (such as transport demand) and future price developments for fossil fuels. 
-
-### Shift and avoid – reduced transport demand scenario
-
-Estimated potentials for measures aiming at shifting from less energy efficient modes as private car traveling and truck transport to more energy-efficient modes (e.g, public transport, walking, biking, ship and train), or improving the modes (higher load, better route optimization, etc.) as well as avoiding travel needs are used for the alternative transport demand scenario. In this scenario, car traffic levels are in 2050 about 45% lower than in the baseline scenario. About ¾ of the reduced car travel is shifted to other modes (also including non-motorized modes) while ¼ of the reduction is due to avoided travel. For trucks, the reduction in vehicle km traveled is about 10% in 2050 compared to the baseline.   
-
-The estimated potentials for the shift and avoid measures are primarily based on climate scenarios of the Swedish road administration. Besides the exogenous alternative transport demand scenario, TIMES Nordic also include endogenous modal shifts. These occurs as a result of changes in marginal costs of travel from different conditions in contrasting scenarios. 
