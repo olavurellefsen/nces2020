@@ -5,18 +5,18 @@
       "about": "About NCES2020",
       "scenarios": "Scenarios",
       "findings": "Key findings",
-      "subscribe": "More"
+      "subscribe": "Statistics"
     },
     "desktop": {
-      "about": "About the NCES2020 project",
+      "about": "About NCES2020",
       "scenarios": "Description of scenarios",
       "findings": "NCES2020 key findings",
-      "subscribe": "Find out more"
+      "subscribe": "Nordic energy statistics"
     }
   },
   "options": {
-    "opt0": "Include CCS technologies",
-    "opt1": "Restrict biomass import",
+    "opt0": "Expensive CO2 storage",
+    "opt1": "Restrict bioenergy import",
     "opt2": "Increase cost of electrict vehicles",
     "opt3": "Include shared autonomous cars",
     "unavailable": "(unavailable)"
