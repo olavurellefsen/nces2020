@@ -1979,7 +1979,7 @@ export default {
             ]
           },
           {
-            "indicator": "Production fuel consumption (PJ)",
+            "indicator": "Manufacturing fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -8856,7 +8856,7 @@ export default {
             ]
           },
           {
-            "indicator": "Production fuel consumption (PJ)",
+            "indicator": "Manufacturing fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -15733,7 +15733,7 @@ export default {
             ]
           },
           {
-            "indicator": "Production fuel consumption (PJ)",
+            "indicator": "Manufacturing fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -22610,7 +22610,7 @@ export default {
             ]
           },
           {
-            "indicator": "Production fuel consumption (PJ)",
+            "indicator": "Manufacturing fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -29487,7 +29487,7 @@ export default {
             ]
           },
           {
-            "indicator": "Production fuel consumption (PJ)",
+            "indicator": "Manufacturing fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",
@@ -36364,7 +36364,7 @@ export default {
             ]
           },
           {
-            "indicator": "Production fuel consumption (PJ)",
+            "indicator": "Manufacturing fuel consumption (PJ)",
             "regions": [
               {
                 "region": "DK",

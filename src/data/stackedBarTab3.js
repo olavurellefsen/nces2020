@@ -2695,7 +2695,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade (PJ)",
+            "indicator": "Power Trade (TWh)",
             "regions": [
               {
                 "region": "DK",
@@ -8672,7 +8672,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade (PJ)",
+            "indicator": "Power Trade (TWh)",
             "regions": [
               {
                 "region": "DK",
@@ -14649,7 +14649,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade (PJ)",
+            "indicator": "Power Trade (TWh)",
             "regions": [
               {
                 "region": "DK",
@@ -20626,7 +20626,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade (PJ)",
+            "indicator": "Power Trade (TWh)",
             "regions": [
               {
                 "region": "DK",
@@ -26603,7 +26603,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade (PJ)",
+            "indicator": "Power Trade (TWh)",
             "regions": [
               {
                 "region": "DK",
@@ -32580,7 +32580,7 @@ export default {
             ]
           },
           {
-            "indicator": "Power Trade (PJ)",
+            "indicator": "Power Trade (TWh)",
             "regions": [
               {
                 "region": "DK",

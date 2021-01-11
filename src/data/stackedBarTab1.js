@@ -85,7 +85,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -238,7 +238,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -391,7 +391,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -544,7 +544,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3236,7 +3236,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3389,7 +3389,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3542,7 +3542,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3695,7 +3695,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6387,7 +6387,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6540,7 +6540,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6693,7 +6693,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6846,7 +6846,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9538,7 +9538,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9691,7 +9691,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9844,7 +9844,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9997,7 +9997,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12689,7 +12689,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12842,7 +12842,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12995,7 +12995,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13148,7 +13148,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15840,7 +15840,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15993,7 +15993,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16146,7 +16146,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16299,7 +16299,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "OPEX",
+                    "indicatorGroup": "Operation costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
