@@ -7,5 +7,6 @@ export default
 		"Power Trade (TWh)",
 		"Power and heat CO2 emissions (kt)",
 		"Power capacity (GW)",
-		"Power production (TWh)",
+		"Power supply by energy source (TWh)",
+		"Power supply by sector (PJ)",
 	 ]
