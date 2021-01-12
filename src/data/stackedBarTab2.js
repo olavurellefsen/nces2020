@@ -5,7 +5,8 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "Fossil refineries (PJ)",
+            "indicator": "Fossil refineries",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -600,10 +601,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.3689315188
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1219,30 +1216,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 39.2226723756
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1256,30 +1229,6 @@ export default {
                       {
                         "year": 2020,
                         "total": -1.3541747917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1293,30 +1242,6 @@ export default {
                       {
                         "year": 2020,
                         "total": -3.0804749554
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1330,30 +1255,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 36.982570703
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1367,30 +1268,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.9511459925
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1404,30 +1281,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 4.8095914404
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1441,30 +1294,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 2.1667184637
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1478,30 +1307,6 @@ export default {
                       {
                         "year": 2020,
                         "total": -84.9742109949
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -1510,7 +1315,8 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of biofuels (PJ)",
+            "indicator": "Import/Export of biofuels",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -1525,67 +1331,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 1.3333333333
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1599,104 +1344,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 3.4492558947
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -1759,18 +1406,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.0280159216
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -1780,86 +1415,8 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bagassa",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0
@@ -1898,31 +1455,7 @@ export default {
                         "total": 0.0
                       },
                       {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
                         "total": 0.0
                       }
                     ]
@@ -1931,10 +1464,6 @@ export default {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.0
                       },
@@ -1956,10 +1485,6 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
                         "total": 0.0
                       }
                     ]
@@ -1998,43 +1523,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.1065572803
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -2081,187 +1569,11 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
                         "total": 9.2595510176
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -2269,73 +1581,12 @@ export default {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 9.5164325527
                       },
                       {
                         "year": 2050,
                         "total": 82.4369760815
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood pellets",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -2348,36 +1599,12 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.0187449098
                       },
                       {
                         "year": 2030,
                         "total": 0.0106848805
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -2419,172 +1646,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Firewood",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 3.5326192308
@@ -2602,50 +1665,14 @@ export default {
                         "total": 56.9204803868
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Wood pellets",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "Primary biomass supply (PJ)",
+            "indicator": "Primary biomass supply",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -2672,18 +1699,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 10.342168405
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -2783,18 +1798,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 11.9636572786
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -2894,18 +1897,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.0280159216
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -3029,10 +2020,6 @@ export default {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.7
                       },
@@ -3102,10 +2089,6 @@ export default {
                   {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.4570256975
@@ -3253,43 +2236,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Crops",
                     "indicatorGroupValues": [
                       {
@@ -3364,86 +2310,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.132055412
@@ -3478,18 +2346,6 @@ export default {
                     "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0842084853
                       },
@@ -3520,36 +2376,12 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.0187449098
                       },
                       {
                         "year": 2030,
                         "total": 0.0106848805
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -3637,67 +2469,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 12.6237012066
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -3705,36 +2476,8 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.0054113924
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -3793,22 +2536,6 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0602389636
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -3817,7 +2544,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input (PJ)",
+            "indicator": "RE refineries input",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -3825,14 +2553,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 2.1177396269
@@ -3877,59 +2597,6 @@ export default {
                       {
                         "year": 2030,
                         "total": 7.2159876095
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -4011,26 +2678,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 7.7943628004
                       },
@@ -4066,18 +2713,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 11.9636572786
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -4085,36 +2720,8 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 1.5895774626
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -4140,40 +2747,12 @@ export default {
                       {
                         "year": 2035,
                         "total": 2.2731910179
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 2.3081655679
@@ -4200,10 +2779,6 @@ export default {
                   {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 6.8624086125
@@ -4386,10 +2961,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.3654776355
                       },
@@ -4423,26 +2994,6 @@ export default {
                     "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": -3.5
                       },
@@ -4459,10 +3010,6 @@ export default {
                   {
                     "indicatorGroup": "Non-energy products",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.1698015563
@@ -4496,14 +3043,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.5787229257
@@ -4539,30 +3078,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 1.2843959813
                       },
@@ -4573,49 +3088,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 53.3202539994
@@ -4639,32 +3113,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 28.2851584661
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 1.963122248
@@ -4686,10 +3140,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 1.5796158614
@@ -4724,10 +3174,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 8.7638012118
                       },
@@ -4758,86 +3204,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.132055412
@@ -4877,26 +3245,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.0003895998
                       },
@@ -4911,49 +3259,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 29.8345408311
@@ -4977,28 +3284,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 13.217726477
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 2.5734701614
@@ -5024,10 +3315,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 4.6675602992
@@ -5062,10 +3349,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 4.3487478368
                       },
@@ -5096,86 +3379,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 14.5588514537
@@ -5211,7 +3416,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output (PJ)",
+            "indicator": "RE refineries output",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -5219,22 +3425,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 1.4299806995
@@ -5275,18 +3465,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 10.342168405
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -5310,10 +3488,6 @@ export default {
                         "total": 7.2159876095
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 10.5054455136
                       },
@@ -5330,26 +3504,6 @@ export default {
                   {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 7.9273713702
@@ -5405,22 +3559,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 0.4839934675
                       },
@@ -5441,14 +3579,6 @@ export default {
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 1.6941917015
@@ -5479,18 +3609,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.2471107008
                       },
@@ -5516,26 +3634,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 4.9502715174
                       },
@@ -5548,43 +3646,6 @@ export default {
                         "total": 26.7674547492
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -5594,10 +3655,6 @@ export default {
                   {
                     "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 10.7153464855
@@ -5632,14 +3689,6 @@ export default {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -5669,14 +3718,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.7398052516
                       },
@@ -5695,28 +3736,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.2648078338
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 3.88075
@@ -5817,32 +3842,8 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 7.7495890331
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -5853,14 +3854,6 @@ export default {
                   {
                     "indicatorGroup": "Industry steam",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.0925557219
@@ -5890,14 +3883,6 @@ export default {
                   {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.3823158127
@@ -5970,18 +3955,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0253721734
                       },
@@ -6007,26 +3980,6 @@ export default {
                     "indicatorGroup": "Bioethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.438275713
                       },
@@ -6041,49 +3994,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0531651659
@@ -6118,26 +4030,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.0577560663
                       },
@@ -6154,10 +4046,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.3373152008
@@ -6192,18 +4080,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0085875049
                       },
@@ -6229,26 +4105,6 @@ export default {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.9457528544
                       },
@@ -6265,10 +4121,6 @@ export default {
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0651702033
@@ -6303,22 +4155,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 1.3087481653
                       },
@@ -6339,10 +4175,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.4208239874
@@ -6366,47 +4198,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 5.7891170286
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -6418,18 +4209,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 0.2090456545
@@ -6453,86 +4232,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bioethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 5.8613557801
@@ -6567,26 +4268,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 1.6221388183
                       },
@@ -6603,10 +4284,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 8.4209951939
@@ -6641,18 +4318,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0707539138
                       },
@@ -6675,49 +4340,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Ethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.1848877304
@@ -6752,18 +4376,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 1.7156467743
                       },
@@ -6788,10 +4400,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 2.5671581645
@@ -6821,50 +4429,14 @@ export default {
                         "total": 27.8321938847
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "RE_refineries_by_type - REMOVE?",
+            "indicator": "RE_refineries_by_type - REMOVE!",
+            "unit": "no_unit",
             "regions": [
               {
                 "region": "DK",
@@ -6947,14 +4519,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 1.6941917015
                       },
@@ -6986,10 +4550,6 @@ export default {
                       {
                         "year": 2015,
                         "total": 0.0989139422
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
                       },
                       {
                         "year": 2025,
@@ -7057,22 +4617,6 @@ export default {
                   {
                     "indicatorGroup": "Methanoel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 1.4299806995
@@ -7211,14 +4755,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -7248,32 +4784,8 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 7.7495890331
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -7284,18 +4796,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 3.88075
@@ -7364,10 +4864,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 1.5339756897
                       },
@@ -7400,10 +4896,6 @@ export default {
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0651702033
@@ -7501,28 +4993,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 5.7891170286
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Methanoel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 0.0253721734
@@ -7553,10 +5029,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 5.8613557801
@@ -7628,10 +5100,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 7.1848877304
                       },
@@ -7665,18 +5133,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 1.7156467743
                       },
@@ -7701,10 +5157,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 2.5671581645
@@ -7739,18 +5191,6 @@ export default {
                     "indicatorGroup": "Methanoel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.2090456545
                       },
@@ -7777,7 +5217,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply annual system costs (MEUR15)",
+            "indicator": "Supply annual system costs",
+            "unit": "MEUR15",
             "regions": [
               {
                 "region": "DK",
@@ -8246,7 +5687,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply sector CO2 emission (kt)",
+            "indicator": "Supply sector CO2 emission",
+            "unit": "kt",
             "regions": [
               {
                 "region": "DK",
@@ -8424,7 +5866,8 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "Fossil refineries (PJ)",
+            "indicator": "Fossil refineries",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -9019,10 +6462,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.3689315188
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9638,30 +7077,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 53.9633362286
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9675,30 +7090,6 @@ export default {
                       {
                         "year": 2020,
                         "total": -1.8631007315
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9712,30 +7103,6 @@ export default {
                       {
                         "year": 2020,
                         "total": -4.238178984
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9749,30 +7116,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 50.8813595955
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9786,30 +7129,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 1.308605658
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9823,30 +7142,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 6.6171319877
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9860,30 +7155,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 2.9810145481
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -9897,30 +7168,6 @@ export default {
                       {
                         "year": 2020,
                         "total": -116.9092170662
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -9929,7 +7176,8 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of biofuels (PJ)",
+            "indicator": "Import/Export of biofuels",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -9946,65 +7194,8 @@ export default {
                         "total": 1.3333333333
                       },
                       {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 2.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -10018,104 +7209,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 3.4492558947
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -10149,10 +7242,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.75
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -10186,10 +7275,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.75
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -10199,87 +7284,9 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bagassa",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.0
                       },
@@ -10297,10 +7304,6 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
                         "total": 0.0
                       },
                       {
@@ -10317,27 +7320,7 @@ export default {
                         "total": 0.0
                       },
                       {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
                         "total": 0.0
                       },
                       {
@@ -10350,10 +7333,6 @@ export default {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.0
                       },
@@ -10375,10 +7354,6 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
                         "total": 0.0
                       }
                     ]
@@ -10417,43 +7392,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.239250913
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -10500,80 +7438,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
@@ -10583,178 +7447,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.0059950646
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood chips",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood pellets",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -10767,36 +7459,8 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.8236189721
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -10838,224 +7502,11 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Firewood",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.9369940204
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood pellets",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -11064,7 +7515,8 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply (PJ)",
+            "indicator": "Primary biomass supply",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -11091,14 +7543,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0448393022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -11202,14 +7646,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0518693975
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -11448,10 +7884,6 @@ export default {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.7
                       },
@@ -11521,10 +7953,6 @@ export default {
                   {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.3128848022
@@ -11675,34 +8103,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 0.0166543906
                       }
@@ -11786,34 +8186,6 @@ export default {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 0.0192655363
                       }
@@ -11822,30 +8194,6 @@ export default {
                   {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 4.7205386031
@@ -11897,14 +8245,6 @@ export default {
                     "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.0707887391
                       },
@@ -11939,32 +8279,8 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.8236189721
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -12056,64 +8372,12 @@ export default {
                       {
                         "year": 2020,
                         "total": 12.6237012066
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 11.2698
@@ -12142,14 +8406,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0049172241
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -12218,10 +8474,6 @@ export default {
                         "total": 0.0382895197
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 0.4210937872
                       },
@@ -12236,7 +8488,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input (PJ)",
+            "indicator": "RE refineries input",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -12244,14 +8497,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 1.6022059253
@@ -12261,20 +8506,8 @@ export default {
                         "total": 2.0435977093
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.4413917841
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -12298,18 +8531,6 @@ export default {
                         "total": 7.2159876095
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 25.9337042406
                       }
@@ -12318,10 +8539,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 71.8442805304
@@ -12345,10 +8562,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 39.5292962719
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -12430,10 +8643,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 14.4078413746
                       },
@@ -12487,14 +8696,6 @@ export default {
                         "total": 0.0518693975
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 29.9997
                       }
@@ -12504,36 +8705,8 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 3.0898756166
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -12561,53 +8734,8 @@ export default {
                         "total": 0.0098556023
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 5.7001840651
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -12619,10 +8747,6 @@ export default {
                   {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 6.8624086125
@@ -12805,10 +8929,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.3654776355
                       },
@@ -12842,26 +8962,6 @@ export default {
                     "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": -3.5
                       },
@@ -12878,10 +8978,6 @@ export default {
                   {
                     "indicatorGroup": "Non-energy products",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.1698015563
@@ -12915,14 +9011,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.2739107228
@@ -12958,34 +9046,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 2.9357016999
                       }
@@ -12995,34 +9055,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 0.0166543906
                       }
@@ -13031,10 +9063,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 22.905594162
@@ -13058,36 +9086,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 12.6028406329
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 18.6168140389
@@ -13105,10 +9109,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0230831569
@@ -13143,10 +9143,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 4.664071026
                       },
@@ -13169,44 +9165,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 3.5891874084
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 0.0192655363
@@ -13217,34 +9181,6 @@ export default {
                     "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 0.0036606067
                       }
@@ -13253,10 +9189,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.2360980743
@@ -13280,10 +9212,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0190109091
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -13295,30 +9223,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 0.0388468506
@@ -13333,34 +9237,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 9.7423527586
                       }
@@ -13369,10 +9245,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 66.18678612
@@ -13396,32 +9268,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 32.8616316408
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 23.6063323536
@@ -13443,10 +9295,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 5.2225391516
@@ -13481,10 +9329,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 16.6606751758
                       },
@@ -13518,34 +9362,6 @@ export default {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 11.2698
                       }
@@ -13555,34 +9371,6 @@ export default {
                     "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 2.1413525594
                       }
@@ -13591,10 +9379,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 33.6096511256
@@ -13630,48 +9414,12 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output (PJ)",
+            "indicator": "RE refineries output",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Bio Methanol G2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
@@ -13694,14 +9442,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0448393022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -13729,57 +9469,8 @@ export default {
                         "total": 7.2159876095
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 21.1578492622
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -13821,53 +9512,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 1.2817647402
@@ -13877,38 +9523,14 @@ export default {
                         "total": 1.6348781675
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.3531134272
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 4.5738363424
@@ -13935,10 +9557,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 10.8601819406
                       },
@@ -13961,44 +9579,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 8.4722214558
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 8.019831945
@@ -14013,10 +9599,6 @@ export default {
                   {
                     "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 10.7153464855
@@ -14051,14 +9633,6 @@ export default {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -14088,14 +9662,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.4839670987
                       },
@@ -14114,28 +9680,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.2101367486
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 3.88075
@@ -14236,22 +9786,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 9.5304038835
                       },
@@ -14272,14 +9806,6 @@ export default {
                   {
                     "indicatorGroup": "Industry steam",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.0605482647
@@ -14309,14 +9835,6 @@ export default {
                   {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.3823158127
@@ -14386,110 +9904,8 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio Methanol G2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Bioethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 0.0166543906
@@ -14499,10 +9915,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0950524715
@@ -14534,49 +9946,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 3.0329189987
@@ -14608,86 +9979,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Ethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.1165159328
@@ -14722,26 +10015,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 12.4112093593
                       },
@@ -14758,10 +10031,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 3.4624735361
@@ -14785,47 +10054,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.7011373054
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -14837,18 +10065,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 0.1567842409
@@ -14875,26 +10091,6 @@ export default {
                     "indicatorGroup": "Bioethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.1300143518
                       },
@@ -14912,34 +10108,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 9.7423527586
                       }
@@ -14948,10 +10116,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 13.5311582454
@@ -14986,26 +10150,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 6.4974065082
                       },
@@ -15022,10 +10166,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 17.7275450745
@@ -15060,18 +10200,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0530654354
                       },
@@ -15097,26 +10225,6 @@ export default {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.2805572855
                       },
@@ -15133,10 +10241,6 @@ export default {
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 16.5865810749
@@ -15171,22 +10275,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 15.7375549024
                       },
@@ -15207,10 +10295,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.8451227874
@@ -15245,34 +10329,6 @@ export default {
                     "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 16.3597999153
                       }
@@ -15283,7 +10339,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE_refineries_by_type - REMOVE?",
+            "indicator": "RE_refineries_by_type - REMOVE!",
+            "unit": "no_unit",
             "regions": [
               {
                 "region": "DK",
@@ -15366,14 +10423,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 1.2817647402
                       },
@@ -15382,30 +10431,14 @@ export default {
                         "total": 1.6348781675
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.3531134272
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 14.4078413746
@@ -15440,10 +10473,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 10.8601819406
                       },
@@ -15466,47 +10495,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 8.4722214558
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -15630,14 +10618,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -15667,22 +10647,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 9.5304038835
                       },
@@ -15703,18 +10667,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 3.88075
@@ -15745,10 +10697,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0950524715
@@ -15820,10 +10768,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.1165159328
                       },
@@ -15856,10 +10800,6 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 5.1511888417
@@ -15894,10 +10834,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 3.4624735361
                       },
@@ -15920,47 +10856,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.7011373054
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -15972,10 +10867,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 13.5311582454
@@ -16047,10 +10938,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 16.5865810749
                       },
@@ -16084,20 +10971,8 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 16.7925645141
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -16120,10 +10995,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.8451227874
@@ -16158,18 +11029,6 @@ export default {
                     "indicatorGroup": "Methanoel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.1567842409
                       },
@@ -16196,7 +11055,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply annual system costs (MEUR15)",
+            "indicator": "Supply annual system costs",
+            "unit": "MEUR15",
             "regions": [
               {
                 "region": "DK",
@@ -16665,7 +11525,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply sector CO2 emission (kt)",
+            "indicator": "Supply sector CO2 emission",
+            "unit": "kt",
             "regions": [
               {
                 "region": "DK",
@@ -16843,7 +11704,8 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "Fossil refineries (PJ)",
+            "indicator": "Fossil refineries",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -17438,10 +12300,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.3689315188
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18061,26 +12919,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 2.380546033
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18098,26 +12936,6 @@ export default {
                       {
                         "year": 2025,
                         "total": -0.0821890818
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18135,26 +12953,6 @@ export default {
                       {
                         "year": 2025,
                         "total": -0.1869636103
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18172,26 +12970,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 2.2445872921
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18209,26 +12987,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.0577280099
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18246,26 +13004,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.2919090702
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18283,26 +13021,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.1315048856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18320,26 +13038,6 @@ export default {
                       {
                         "year": 2025,
                         "total": -5.1573492738
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -18348,7 +13046,8 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of biofuels (PJ)",
+            "indicator": "Import/Export of biofuels",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -18363,67 +13062,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 1.3333333333
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18437,104 +13075,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 3.4492558947
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18597,18 +13137,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.1842400588
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -18618,86 +13146,8 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bagassa",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0
@@ -18736,27 +13186,7 @@ export default {
                         "total": 0.0
                       },
                       {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
                         "total": 0.0
                       },
                       {
@@ -18769,10 +13199,6 @@ export default {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.0
                       },
@@ -18794,10 +13220,6 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
                         "total": 0.0
                       }
                     ]
@@ -18836,43 +13258,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.1057923309
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18919,80 +13304,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
@@ -19002,104 +13313,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.0059950646
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -19107,73 +13320,12 @@ export default {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 32.098534462
                       },
                       {
                         "year": 2050,
                         "total": 65.6794447149
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood pellets",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -19186,36 +13338,8 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0148426653
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -19257,172 +13381,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Firewood",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 9.5245945027
@@ -19440,50 +13400,14 @@ export default {
                         "total": 18.0116858501
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Wood pellets",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "Primary biomass supply (PJ)",
+            "indicator": "Primary biomass supply",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -19510,18 +13434,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0448393022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -19621,18 +13533,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0518693975
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -19732,18 +13632,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.1842400588
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -19867,10 +13755,6 @@ export default {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.7
                       },
@@ -19940,10 +13824,6 @@ export default {
                   {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.3128848022
@@ -20091,43 +13971,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Crops",
                     "indicatorGroupValues": [
                       {
@@ -20202,80 +14045,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
                       {
@@ -20316,26 +14085,6 @@ export default {
                     "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.3985423544
                       },
@@ -20358,36 +14107,8 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0148426653
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -20475,67 +14196,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 12.6237012066
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -20561,18 +14221,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0056884553
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -20635,18 +14283,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0511542438
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -20655,7 +14291,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input (PJ)",
+            "indicator": "RE refineries input",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -20663,14 +14300,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.3209470643
@@ -20715,32 +14344,12 @@ export default {
                       {
                         "year": 2030,
                         "total": 7.2159876095
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 71.8442805304
@@ -20764,10 +14373,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 39.5292962719
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -20849,10 +14454,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 14.4078413746
                       },
@@ -20904,18 +14505,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0518693975
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -20923,36 +14512,8 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 3.0898756166
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -20978,32 +14539,12 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0098556023
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 1.317818032
@@ -21038,10 +14579,6 @@ export default {
                   {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 6.8624086125
@@ -21224,10 +14761,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.3654776355
                       },
@@ -21261,26 +14794,6 @@ export default {
                     "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": -3.4707332719
                       },
@@ -21297,10 +14810,6 @@ export default {
                   {
                     "indicatorGroup": "Non-energy products",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.1698015563
@@ -21334,14 +14843,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.2945759012
@@ -21377,26 +14878,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.9198672302
                       },
@@ -21411,49 +14892,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 22.905594162
@@ -21477,36 +14917,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 12.6028406329
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 29.695681313
@@ -21524,10 +14940,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0230831569
@@ -21562,10 +14974,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 4.664071026
                       },
@@ -21596,86 +15004,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.2360980743
@@ -21715,26 +15045,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.0003895998
                       },
@@ -21749,49 +15059,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 66.18678612
@@ -21815,32 +15084,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 32.8616316408
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 49.7720428232
@@ -21862,10 +15111,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 5.2225391516
@@ -21900,10 +15145,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 16.6606751758
                       },
@@ -21934,86 +15175,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 33.6096511256
@@ -22049,7 +15212,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output (PJ)",
+            "indicator": "RE refineries output",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -22057,22 +15221,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 0.67427213
@@ -22113,18 +15261,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0448393022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -22168,26 +15304,6 @@ export default {
                   {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 8.2029709096
@@ -22243,22 +15359,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 0.2282151825
                       },
@@ -22279,14 +15379,6 @@ export default {
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.9071094075
@@ -22317,18 +15409,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 5.6112305779
                       },
@@ -22353,10 +15433,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 10.8601819406
@@ -22386,43 +15462,6 @@ export default {
                         "total": 52.2521129615
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -22432,10 +15471,6 @@ export default {
                   {
                     "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 10.7153464855
@@ -22470,14 +15505,6 @@ export default {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -22507,14 +15534,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.336277181
                       },
@@ -22533,28 +15552,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 1.3665058984
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 3.88075
@@ -22655,32 +15658,12 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 8.8716742438
                       },
                       {
                         "year": 2040,
                         "total": 1.401506247
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -22691,14 +15674,6 @@ export default {
                   {
                     "indicatorGroup": "Industry steam",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.0420710413
@@ -22728,14 +15703,6 @@ export default {
                   {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.3823158127
@@ -22808,18 +15775,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0573946921
                       },
@@ -22845,26 +15800,6 @@ export default {
                     "indicatorGroup": "Bioethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.673853076
                       },
@@ -22879,49 +15814,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0950524715
@@ -22956,26 +15850,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 10.7824721033
                       },
@@ -22992,10 +15866,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 3.0329189987
@@ -23030,18 +15900,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0194258958
                       },
@@ -23067,26 +15925,6 @@ export default {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 1.454104006
                       },
@@ -23103,10 +15941,6 @@ export default {
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.1165159328
@@ -23141,26 +15975,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 19.7971208753
                       },
@@ -23177,10 +15991,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 3.4624735361
@@ -23204,47 +16014,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.7011373054
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -23256,18 +16025,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 0.2090456545
@@ -23294,26 +16051,6 @@ export default {
                     "indicatorGroup": "Bioethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.0128129597
                       },
@@ -23328,49 +16065,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 13.5311582454
@@ -23405,26 +16101,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 17.2098497181
                       },
@@ -23441,10 +16117,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 17.7275450745
@@ -23479,18 +16151,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0707539138
                       },
@@ -23516,26 +16176,6 @@ export default {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.0276490183
                       },
@@ -23552,10 +16192,6 @@ export default {
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 16.5865810749
@@ -23590,22 +16226,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 33.1813618821
                       },
@@ -23626,10 +16246,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.8451227874
@@ -23659,50 +16275,14 @@ export default {
                         "total": 67.150559032
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "RE_refineries_by_type - REMOVE?",
+            "indicator": "RE_refineries_by_type - REMOVE!",
+            "unit": "no_unit",
             "regions": [
               {
                 "region": "DK",
@@ -23785,14 +16365,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.9071094075
                       },
@@ -23821,10 +16393,6 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 14.4078413746
@@ -23859,10 +16427,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 10.8601819406
                       },
@@ -23895,22 +16459,6 @@ export default {
                   {
                     "indicatorGroup": "Methanoel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 0.67427213
@@ -24049,14 +16597,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -24086,32 +16626,12 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 8.8716742438
                       },
                       {
                         "year": 2040,
                         "total": 1.401506247
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -24122,18 +16642,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 3.88075
@@ -24164,10 +16672,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0950524715
@@ -24239,10 +16743,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.1165159328
                       },
@@ -24275,10 +16775,6 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 5.1511888417
@@ -24313,10 +16809,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 3.4624735361
                       },
@@ -24339,28 +16831,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.7011373054
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Methanoel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 0.0573946921
@@ -24391,10 +16867,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 13.5311582454
@@ -24466,10 +16938,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 16.5865810749
                       },
@@ -24503,20 +16971,8 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 16.7925645141
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -24539,10 +16995,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.8451227874
@@ -24577,18 +17029,6 @@ export default {
                     "indicatorGroup": "Methanoel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.2090456545
                       },
@@ -24615,7 +17055,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply annual system costs (MEUR15)",
+            "indicator": "Supply annual system costs",
+            "unit": "MEUR15",
             "regions": [
               {
                 "region": "DK",
@@ -25084,7 +17525,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply sector CO2 emission (kt)",
+            "indicator": "Supply sector CO2 emission",
+            "unit": "kt",
             "regions": [
               {
                 "region": "DK",
@@ -25262,7 +17704,8 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Fossil refineries (PJ)",
+            "indicator": "Fossil refineries",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -25857,10 +18300,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.3689315188
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26480,26 +18919,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 2.7033111982
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26517,26 +18936,6 @@ export default {
                       {
                         "year": 2025,
                         "total": -0.0933326481
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26554,26 +18953,6 @@ export default {
                       {
                         "year": 2025,
                         "total": -0.2123129797
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26591,26 +18970,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 2.5489185582
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26628,26 +18987,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.0655550338
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26665,26 +19004,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.3314874182
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26702,26 +19021,6 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.1493349109
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26739,26 +19038,6 @@ export default {
                       {
                         "year": 2025,
                         "total": -5.8566059431
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -26767,7 +19046,8 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of biofuels (PJ)",
+            "indicator": "Import/Export of biofuels",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -26784,65 +19064,8 @@ export default {
                         "total": 1.3333333333
                       },
                       {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0654479192
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26856,104 +19079,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 3.4492558947
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -26987,10 +19112,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.75
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -27018,16 +19139,8 @@ export default {
                         "total": 1.1842400588
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 0.75
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -27037,87 +19150,9 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bagassa",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.0
                       },
@@ -27135,10 +19170,6 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
                         "total": 0.0
                       },
                       {
@@ -27155,27 +19186,11 @@ export default {
                         "total": 0.0
                       },
                       {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": -1.600282407e-16
                       },
                       {
                         "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
                         "total": 0.0
                       },
                       {
@@ -27188,10 +19203,6 @@ export default {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.0
                       },
@@ -27213,10 +19224,6 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
                         "total": 0.0
                       }
                     ]
@@ -27255,43 +19262,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.239250913
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -27338,80 +19308,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
@@ -27421,178 +19317,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.0059950646
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood chips",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood pellets",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -27605,36 +19329,8 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 1.9345520808
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -27676,224 +19372,11 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Crops",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Firewood",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.9369940204
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood pellets",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -27902,7 +19385,8 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply (PJ)",
+            "indicator": "Primary biomass supply",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -27929,10 +19413,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0448393022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -28040,10 +19520,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0518693975
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -28286,10 +19762,6 @@ export default {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.7
                       },
@@ -28359,10 +19831,6 @@ export default {
                   {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.3128848022
@@ -28513,34 +19981,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 2.1061769233
                       }
@@ -28624,34 +20064,6 @@ export default {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 2.436392243
                       }
@@ -28660,30 +20072,6 @@ export default {
                   {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 2.2957010271
@@ -28735,14 +20123,6 @@ export default {
                     "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.0707887391
                       },
@@ -28777,32 +20157,8 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 1.9345520808
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -28894,64 +20250,12 @@ export default {
                       {
                         "year": 2020,
                         "total": 12.6237012066
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 11.2698
@@ -28980,10 +20284,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0049172241
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -29056,10 +20356,6 @@ export default {
                         "total": 0.0247805618
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 11.6397084502
                       },
@@ -29074,7 +20370,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input (PJ)",
+            "indicator": "RE refineries input",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -29082,34 +20379,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 0.7658470755
@@ -29136,14 +20405,6 @@ export default {
                         "total": 7.2159876095
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 3.0551229771
                       },
@@ -29156,10 +20417,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 71.8442805304
@@ -29183,10 +20440,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 39.5292962719
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -29268,10 +20521,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 14.4078413746
                       },
@@ -29325,10 +20574,6 @@ export default {
                         "total": 0.0518693975
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 3.5341180699
                       },
@@ -29342,36 +20587,8 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 3.0898756166
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -29399,10 +20616,6 @@ export default {
                         "total": 0.0098556023
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 0.671510832
                       },
@@ -29415,14 +20628,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 1.9296067084
@@ -29442,10 +20647,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 1.4208682012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -29457,10 +20658,6 @@ export default {
                   {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 6.8624086125
@@ -29643,10 +20840,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.3654776355
                       },
@@ -29680,26 +20873,6 @@ export default {
                     "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": -3.5
                       },
@@ -29716,10 +20889,6 @@ export default {
                   {
                     "indicatorGroup": "Non-energy products",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.1698015563
@@ -29753,14 +20922,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.3949975261
@@ -29796,34 +20957,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 2.9357016999
                       }
@@ -29833,34 +20966,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 2.1061769233
                       }
@@ -29869,10 +20974,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 22.905594162
@@ -29896,36 +20997,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 12.6028406329
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 24.540244433
@@ -29943,10 +21020,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0230831569
@@ -29981,10 +21054,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 4.664071026
                       },
@@ -30018,34 +21087,6 @@ export default {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 2.436392243
                       }
@@ -30055,34 +21096,6 @@ export default {
                     "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 0.462934104
                       }
@@ -30091,10 +21104,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.2360980743
@@ -30131,73 +21140,8 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio Methanol G1",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 9.7423527586
@@ -30207,10 +21151,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 66.18678612
@@ -30234,28 +21174,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 32.8616316408
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 2.711881957
@@ -30281,10 +21205,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 5.2225391516
@@ -30319,10 +21239,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 16.6606751758
                       },
@@ -30356,34 +21272,6 @@ export default {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 11.2698
                       }
@@ -30393,34 +21281,6 @@ export default {
                     "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 2.1413525594
                       }
@@ -30429,10 +21289,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 33.6096511256
@@ -30468,48 +21324,12 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output (PJ)",
+            "indicator": "RE refineries output",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Bio Methanol G2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
@@ -30532,10 +21352,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0448393022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -30585,43 +21401,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
                       {
@@ -30659,53 +21438,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.9522734405
@@ -30736,18 +21470,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 13.0648657617
                       },
@@ -30773,10 +21495,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 10.8601819406
                       },
@@ -30799,40 +21517,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 8.4722214558
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 5.1303008483
@@ -30851,10 +21541,6 @@ export default {
                   {
                     "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 10.7153464855
@@ -30889,14 +21575,6 @@ export default {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -30926,14 +21604,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.4509148713
                       },
@@ -30952,28 +21622,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.1060528622
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 3.765602484
@@ -31074,28 +21728,8 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 8.6480560807
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -31110,14 +21744,6 @@ export default {
                   {
                     "indicatorGroup": "Industry steam",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.0564131592
@@ -31147,14 +21773,6 @@ export default {
                   {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.3823158127
@@ -31224,110 +21842,8 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio Methanol G2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Bioethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 2.1061769233
@@ -31337,10 +21853,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0950524715
@@ -31375,26 +21887,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 2.5311516443
                       },
@@ -31411,10 +21903,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 3.0329189987
@@ -31446,86 +21934,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Ethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.1165159328
@@ -31560,26 +21970,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 16.3601629553
                       },
@@ -31596,10 +21986,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 3.4624735361
@@ -31623,44 +22009,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.7011373054
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 3.5367876636
@@ -31675,18 +22029,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 0.1567842409
@@ -31713,26 +22055,6 @@ export default {
                     "indicatorGroup": "Bioethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.2701243541
                       },
@@ -31750,34 +22072,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 9.7423527586
                       }
@@ -31786,10 +22080,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 13.5311582454
@@ -31824,26 +22114,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 18.9144408037
                       },
@@ -31860,10 +22130,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 17.7275450745
@@ -31898,18 +22164,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0530654354
                       },
@@ -31935,26 +22189,6 @@ export default {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.582899922
                       },
@@ -31971,10 +22205,6 @@ export default {
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 16.5865810749
@@ -32009,18 +22239,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 1.8079213047
                       },
@@ -32045,10 +22263,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.8451227874
@@ -32083,34 +22297,6 @@ export default {
                     "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 16.3597999153
                       }
@@ -32121,7 +22307,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE_refineries_by_type - REMOVE?",
+            "indicator": "RE_refineries_by_type - REMOVE!",
+            "unit": "no_unit",
             "regions": [
               {
                 "region": "DK",
@@ -32204,14 +22391,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.9522734405
                       },
@@ -32240,10 +22419,6 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 14.4078413746
@@ -32278,10 +22453,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 10.8601819406
                       },
@@ -32304,47 +22475,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 8.4722214558
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -32468,14 +22598,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -32505,28 +22627,8 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 8.6480560807
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -32541,18 +22643,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 3.765602484
@@ -32583,10 +22673,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0950524715
@@ -32658,10 +22744,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.1165159328
                       },
@@ -32694,10 +22776,6 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 5.1511888417
@@ -32732,10 +22810,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 3.4624735361
                       },
@@ -32758,47 +22832,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.7011373054
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -32810,10 +22843,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 13.5311582454
@@ -32885,10 +22914,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 16.5865810749
                       },
@@ -32922,16 +22947,8 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 16.7925645141
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
                       },
                       {
                         "year": 2030,
@@ -32958,10 +22975,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.8451227874
@@ -32996,18 +23009,6 @@ export default {
                     "indicatorGroup": "Methanoel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.1567842409
                       },
@@ -33034,7 +23035,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply annual system costs (MEUR15)",
+            "indicator": "Supply annual system costs",
+            "unit": "MEUR15",
             "regions": [
               {
                 "region": "DK",
@@ -33503,7 +23505,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply sector CO2 emission (kt)",
+            "indicator": "Supply sector CO2 emission",
+            "unit": "kt",
             "regions": [
               {
                 "region": "DK",
@@ -33681,7 +23684,8 @@ export default {
         "scenario": "CNNold",
         "indicators": [
           {
-            "indicator": "Fossil refineries (PJ)",
+            "indicator": "Fossil refineries",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -34276,10 +24280,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.3689315188
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -34895,30 +24895,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 7.8346981497
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -34932,30 +24908,6 @@ export default {
                       {
                         "year": 2020,
                         "total": -0.2704953562
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -34969,30 +24921,6 @@ export default {
                       {
                         "year": 2020,
                         "total": -0.6153224646
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -35006,30 +24934,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 7.3872395915
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -35043,30 +24947,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.1899906686
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -35080,30 +24960,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.9607121309
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -35117,30 +24973,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.4328003196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -35154,30 +24986,6 @@ export default {
                       {
                         "year": 2020,
                         "total": -16.9735322285
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -35186,7 +24994,8 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of biofuels (PJ)",
+            "indicator": "Import/Export of biofuels",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -35203,28 +25012,8 @@ export default {
                         "total": 15.0808080808
                       },
                       {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 7.2159876095
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -35299,43 +25088,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 16.5256466667
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -35435,18 +25187,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.0116764351
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -35533,10 +25273,6 @@ export default {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.7
                       },
@@ -35592,24 +25328,12 @@ export default {
                       {
                         "year": 2040,
                         "total": 1.0065528222
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.3849362859
@@ -35637,43 +25361,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.356140766
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solid biowaste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -35760,46 +25447,18 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.99863298
                       },
                       {
                         "year": 2025,
                         "total": 0.0332572541
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Crops",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 3.1276740594
@@ -35868,86 +25527,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0051015658
@@ -35982,18 +25563,6 @@ export default {
                     "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.1598585955
                       },
@@ -36024,10 +25593,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.8399755078
                       },
@@ -36038,22 +25603,6 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.6094599395
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -36079,18 +25628,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.9458643206
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -36141,67 +25678,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 12.6237012066
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -36209,36 +25685,12 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.0003573322
                       },
                       {
                         "year": 2025,
                         "total": 0.0042016714
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -36297,22 +25749,6 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.6192133636
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -36321,7 +25757,8 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply (PJ)",
+            "indicator": "Primary biomass supply",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -36338,28 +25775,8 @@ export default {
                         "total": 15.0808080808
                       },
                       {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 7.2159876095
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -36434,43 +25851,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 16.5256466667
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -36570,18 +25950,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.0116764351
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -36705,10 +26073,6 @@ export default {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.7
                       },
@@ -36778,10 +26142,6 @@ export default {
                   {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.3849362859
@@ -36932,46 +26292,18 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.99863298
                       },
                       {
                         "year": 2025,
                         "total": 0.0332572541
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Crops",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 3.1276740594
@@ -37040,86 +26372,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0051015658
@@ -37154,18 +26408,6 @@ export default {
                     "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.1598585955
                       },
@@ -37196,10 +26438,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.8399755078
                       },
@@ -37210,22 +26448,6 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.6094599395
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -37251,18 +26473,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.9458643206
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -37313,67 +26523,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 12.6237012066
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -37381,36 +26530,12 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.0003573322
                       },
                       {
                         "year": 2025,
                         "total": 0.0042016714
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -37469,22 +26594,6 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.6192133636
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -37493,7 +26602,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input (PJ)",
+            "indicator": "RE refineries input",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -37501,26 +26611,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 0.5112149636
@@ -37547,91 +26637,14 @@ export default {
                         "total": 8.0808080808
                       },
                       {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 7.2159876095
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 4.637629594
@@ -37658,16 +26671,8 @@ export default {
                         "total": 0.2527582748
                       },
                       {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.2279875724
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -37687,22 +26692,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 0.236707622
                       },
@@ -37721,135 +26710,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 1.6473919143
@@ -37876,10 +26738,6 @@ export default {
                   {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 6.8624086125
@@ -38062,10 +26920,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.3654776355
                       },
@@ -38099,26 +26953,6 @@ export default {
                     "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": -3.5
                       },
@@ -38135,10 +26969,6 @@ export default {
                   {
                     "indicatorGroup": "Non-energy products",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.1698015563
@@ -38172,14 +27002,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.7294504295
@@ -38215,30 +27037,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 1.1853407406
                       },
@@ -38252,46 +27050,18 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.99863298
                       },
                       {
                         "year": 2025,
                         "total": 0.0332572541
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 54.4911924763
@@ -38315,36 +27085,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 29.9814887936
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 30.5018412962
@@ -38362,10 +27108,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0861496825
@@ -38400,10 +27142,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 10.9293312037
                       },
@@ -38434,86 +27172,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0051015658
@@ -38553,26 +27213,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.0003895998
                       },
@@ -38590,10 +27230,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.3670361219
                       },
@@ -38604,32 +27240,12 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.3633657607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 9.4196479392
@@ -38653,28 +27269,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 1.9597727504
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 0.8796800122
@@ -38700,10 +27300,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 1.4851674554
@@ -38738,10 +27334,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 5.6511404388
                       },
@@ -38772,86 +27364,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Manure",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 18.9190353822
@@ -38887,7 +27401,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output (PJ)",
+            "indicator": "RE refineries output",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -38895,22 +27410,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
                       {
                         "year": 2035,
                         "total": 0.5296595455
@@ -38930,43 +27429,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -38976,10 +27438,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 8.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
                       },
                       {
                         "year": 2030,
@@ -39007,26 +27465,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 4.1452632682
                       },
@@ -39050,10 +27488,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.256
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
                       },
                       {
                         "year": 2030,
@@ -39081,22 +27515,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 0.1792693846
                       },
@@ -39118,26 +27536,6 @@ export default {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.4089719709
                       },
@@ -39154,26 +27552,6 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 3.0917530627
@@ -39192,22 +27570,6 @@ export default {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 0.391082158
                       },
@@ -39224,43 +27586,6 @@ export default {
                         "total": 26.7674543827
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -39270,10 +27595,6 @@ export default {
                   {
                     "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 10.7153464855
@@ -39308,14 +27629,6 @@ export default {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -39345,14 +27658,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.832714194
                       },
@@ -39367,32 +27672,12 @@ export default {
                       {
                         "year": 2040,
                         "total": 0.832714194
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 3.88075
@@ -39493,32 +27778,12 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 8.2728345708
                       },
                       {
                         "year": 2040,
                         "total": 0.1832645017
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -39529,14 +27794,6 @@ export default {
                   {
                     "indicatorGroup": "Industry steam",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.1041793948
@@ -39566,14 +27823,6 @@ export default {
                   {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.3823158127
@@ -39646,18 +27895,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0573946921
                       },
@@ -39683,26 +27920,6 @@ export default {
                     "indicatorGroup": "Bioethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.2999043424
                       },
@@ -39717,49 +27934,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.9907005274
@@ -39794,30 +27970,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 8.8076907084
                       },
@@ -39830,10 +27982,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.1166842886
@@ -39868,18 +28016,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0194258958
                       },
@@ -39905,26 +28041,6 @@ export default {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 0.647162002
                       },
@@ -39941,10 +28057,6 @@ export default {
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0025176559
@@ -39979,26 +28091,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 20.3345608641
                       },
@@ -40015,10 +28107,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 8.2370407232
@@ -40042,47 +28130,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 6.4258622488
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -40094,18 +28141,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 0.2090456545
@@ -40129,86 +28164,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bioethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 7.9801202652
@@ -40243,26 +28200,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 14.2506863242
                       },
@@ -40279,10 +28216,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 6.0184728692
@@ -40317,18 +28250,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0707539138
                       },
@@ -40351,49 +28272,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Ethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 9.336666812
@@ -40428,18 +28308,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.5864533415
                       },
@@ -40464,10 +28332,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.8105278459
@@ -40497,963 +28361,14 @@ export default {
                         "total": 33.6128348503
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Synth. natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               }
             ]
           },
           {
-            "indicator": "RE_refineries_by_type - REMOVE?",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biomethane",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Hydrogen",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Kerosene",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biomethane",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Ethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Hydrogen",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Kerosene",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biomethane",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Hydrogen",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Kerosene",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biomethane",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Hydrogen",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Kerosene",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Supply annual system costs (MEUR15)",
+            "indicator": "Supply annual system costs",
+            "unit": "MEUR15",
             "regions": [
               {
                 "region": "DK",
@@ -41694,10 +28609,6 @@ export default {
                     "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 96.7660991865
                       },
@@ -41731,10 +28642,6 @@ export default {
                     "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 23.0045750277
                       },
@@ -41767,10 +28674,6 @@ export default {
                   {
                     "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 19.0829973751
@@ -41922,7 +28825,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply sector CO2 emission (kt)",
+            "indicator": "Supply sector CO2 emission",
+            "unit": "kt",
             "regions": [
               {
                 "region": "DK",
@@ -42100,7 +29004,8 @@ export default {
         "scenario": "CNNold_Bio",
         "indicators": [
           {
-            "indicator": "Fossil refineries (PJ)",
+            "indicator": "Fossil refineries",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -42695,10 +29600,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.3689315188
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -43310,34 +30211,6 @@ export default {
                       {
                         "year": 2015,
                         "total": 74.4036344617
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -43347,34 +30220,6 @@ export default {
                       {
                         "year": 2015,
                         "total": -3.24829
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -43384,34 +30229,6 @@ export default {
                       {
                         "year": 2015,
                         "total": -7.3892056287
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -43421,34 +30238,6 @@ export default {
                       {
                         "year": 2015,
                         "total": 77.1821473509
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -43458,34 +30247,6 @@ export default {
                       {
                         "year": 2015,
                         "total": 8.0686056513
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -43495,34 +30256,6 @@ export default {
                       {
                         "year": 2015,
                         "total": 11.6463751553
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -43532,34 +30265,6 @@ export default {
                       {
                         "year": 2015,
                         "total": 4.7484771511
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -43569,34 +30274,6 @@ export default {
                       {
                         "year": 2015,
                         "total": -176.0492397702
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -43605,7 +30282,8 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of biofuels (PJ)",
+            "indicator": "Import/Export of biofuels",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -43620,30 +30298,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 1.3333333333
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -43743,10 +30397,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 11.9636572786
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -43952,10 +30602,6 @@ export default {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.7
                       },
@@ -44005,16 +30651,8 @@ export default {
                         "total": 1.2477072026
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 1.0065528222
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -44025,10 +30663,6 @@ export default {
                   {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.3128848022
@@ -44056,43 +30690,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 20.5
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solid biowaste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -44176,49 +30773,8 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Biogas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Crops",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 1.620281003
@@ -44290,34 +30846,6 @@ export default {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 4.9336691224
                       }
@@ -44326,30 +30854,6 @@ export default {
                   {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 3.5686542564
@@ -44401,30 +30905,6 @@ export default {
                     "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 28.8229885617
                       },
@@ -44443,36 +30923,12 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 1.0
                       },
                       {
                         "year": 2030,
                         "total": 0.6666666667
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -44498,18 +30954,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.9458643206
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -44560,60 +31004,12 @@ export default {
                       {
                         "year": 2020,
                         "total": 5.4
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 0.2664255319
@@ -44628,24 +31024,8 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.0054113924
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -44718,10 +31098,6 @@ export default {
                         "total": 1.73370859
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 2.4751080004
                       },
@@ -44740,7 +31116,8 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply (PJ)",
+            "indicator": "Primary biomass supply",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -44767,10 +31144,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 10.342168405
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -44878,10 +31251,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 11.9636572786
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -45124,10 +31493,6 @@ export default {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 2.7
                       },
@@ -45197,10 +31562,6 @@ export default {
                   {
                     "indicatorGroup": "Imported Solid Biomass",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.3128848022
@@ -45351,34 +31712,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 4.2649865112
                       }
@@ -45387,10 +31720,6 @@ export default {
                   {
                     "indicatorGroup": "Crops",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 1.620281003
@@ -45462,34 +31791,6 @@ export default {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 4.9336691224
                       }
@@ -45498,30 +31799,6 @@ export default {
                   {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 3.5686542564
@@ -45535,10 +31812,6 @@ export default {
                   {
                     "indicatorGroup": "Wood chips",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0782313617
@@ -45573,30 +31846,6 @@ export default {
                     "indicatorGroup": "Wood pellets",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 28.8229885617
                       },
@@ -45615,28 +31864,12 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 1.0
                       },
                       {
                         "year": 2030,
                         "total": 0.6666666667
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -45670,18 +31903,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.9458643206
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -45732,60 +31953,12 @@ export default {
                       {
                         "year": 2020,
                         "total": 5.4
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 0.2664255319
@@ -45800,24 +31973,8 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.0054113924
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -45890,10 +32047,6 @@ export default {
                         "total": 1.73370859
                       },
                       {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 2.4751080004
                       },
@@ -45912,7 +32065,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input (PJ)",
+            "indicator": "RE refineries input",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
@@ -45920,30 +32074,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 0.6283485388
@@ -45978,10 +32108,6 @@ export default {
                         "total": 5.6787373737
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 15.8961306352
                       },
@@ -45994,10 +32120,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.3732278971
@@ -46021,10 +32143,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.2053529663
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -46106,10 +32224,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.0748481062
                       },
@@ -46163,10 +32277,6 @@ export default {
                         "total": 11.9636572786
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 18.388393181
                       },
@@ -46180,36 +32290,8 @@ export default {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 1.5895774626
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -46237,53 +32319,12 @@ export default {
                         "total": 2.2731910179
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 3.4939424659
                       },
                       {
                         "year": 2050,
                         "total": 3.8001227101
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Wood",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -46295,10 +32336,6 @@ export default {
                   {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 6.8624086125
@@ -46481,10 +32518,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.3654776355
                       },
@@ -46518,14 +32551,6 @@ export default {
                     "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": -0.164390795
                       },
@@ -46554,10 +32579,6 @@ export default {
                   {
                     "indicatorGroup": "Non-energy products",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.1698015563
@@ -46591,14 +32612,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.649372292
@@ -46634,30 +32647,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 2.0534565337
                       },
@@ -46671,34 +32660,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 4.2649865112
                       }
@@ -46707,10 +32668,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 62.1352145622
@@ -46734,36 +32691,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 34.1872907239
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 29.4973810861
@@ -46781,10 +32714,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0626168829
@@ -46819,10 +32748,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 12.4841275049
                       },
@@ -46856,34 +32781,6 @@ export default {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 4.9336691224
                       }
@@ -46893,34 +32790,6 @@ export default {
                     "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2050,
                         "total": 0.9374367782
                       }
@@ -46929,10 +32798,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0782313617
@@ -46956,10 +32821,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0175262984
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -46971,30 +32832,6 @@ export default {
                   {
                     "indicatorGroup": "Bio Methanol G1",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 1.0792076355
@@ -47009,30 +32846,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 0.2303156681
                       },
@@ -47045,10 +32858,6 @@ export default {
                   {
                     "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 3.0983166617
@@ -47072,28 +32881,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 1.3726607158
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
                       {
                         "year": 2030,
                         "total": 0.8265601972
@@ -47119,10 +32912,6 @@ export default {
                   {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.4847260739
@@ -47157,10 +32946,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 15.5826985064
                       },
@@ -47194,30 +32979,6 @@ export default {
                     "indicatorGroup": "Manure",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 0.2664255319
                       },
@@ -47231,30 +32992,6 @@ export default {
                     "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 0.0506229919
                       },
@@ -47267,10 +33004,6 @@ export default {
                   {
                     "indicatorGroup": "Wood",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 52.1681645648
@@ -47306,48 +33039,12 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output (PJ)",
+            "indicator": "RE refineries output",
+            "unit": "PJ",
             "regions": [
               {
                 "region": "DK",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Bio Methanol G2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
@@ -47370,10 +33067,6 @@ export default {
                       {
                         "year": 2035,
                         "total": 10.342168405
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -47409,53 +33102,12 @@ export default {
                         "total": 5.6787373737
                       },
                       {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 12.8410076581
                       },
                       {
                         "year": 2050,
                         "total": 12.513281182
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -47497,69 +33149,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 0.502678831
@@ -47573,26 +33164,6 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
                       {
                         "year": 2040,
                         "total": 0.427365614
@@ -47610,10 +33181,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.0564181705
@@ -47637,40 +33204,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0440128201
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 5.1303008483
@@ -47689,10 +33228,6 @@ export default {
                   {
                     "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 10.5780336028
@@ -47727,14 +33262,6 @@ export default {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 3.2564
                       },
@@ -47764,14 +33291,6 @@ export default {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2025,
                         "total": 0.8301192342
                       },
@@ -47790,10 +33309,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 3.6273825336
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -47801,16 +33316,8 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 0.1304472385
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
                       },
                       {
                         "year": 2030,
@@ -47912,22 +33419,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2035,
                         "total": 10.5634012241
                       },
@@ -47948,14 +33439,6 @@ export default {
                   {
                     "indicatorGroup": "Industry steam",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.103854744
@@ -47985,14 +33468,6 @@ export default {
                   {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
                       {
                         "year": 2025,
                         "total": 0.3823158127
@@ -48062,110 +33537,8 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio Methanol G2",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Bioethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 4.2649865112
@@ -48175,10 +33548,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.031495743
@@ -48210,49 +33579,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 8.0958657439
@@ -48284,86 +33612,8 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Ethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.038607685
@@ -48398,26 +33648,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2040,
                         "total": 19.664920724
                       },
@@ -48434,10 +33664,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 9.3925324338
@@ -48461,44 +33687,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 7.3272819226
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
                       {
                         "year": 2050,
                         "total": 6.7550632408
@@ -48514,18 +33708,6 @@ export default {
                     "indicatorGroup": "Bio Methanol G2",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.1004340884
                       },
@@ -48540,77 +33722,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.1742642937
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Bioethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
                       {
                         "year": 2045,
                         "total": 0.2303156681
@@ -48624,10 +33741,6 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 21.002767552
@@ -48662,10 +33775,6 @@ export default {
                     "indicatorGroup": "Diesel",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 8.6653029468
                       },
@@ -48698,10 +33807,6 @@ export default {
                   {
                     "indicatorGroup": "District heat",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 12.7162358823
@@ -48736,18 +33841,6 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.0339930761
                       },
@@ -48762,57 +33855,12 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.058981761
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Ethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 17.0800250202
@@ -48847,18 +33895,6 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2030,
                         "total": 0.5510401315
                       },
@@ -48883,10 +33919,6 @@ export default {
                   {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 0.2665993407
@@ -48921,30 +33953,6 @@ export default {
                     "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2045,
                         "total": 0.3867564992
                       },
@@ -48959,920 +33967,8 @@ export default {
             ]
           },
           {
-            "indicator": "RE_refineries_by_type - REMOVE?",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biomethane",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Hydrogen",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Kerosene",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biomethane",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Ethanol",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Hydrogen",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Kerosene",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biomethane",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Hydrogen",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Kerosene",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biomethane",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Diesel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Gasoline",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Hydrogen",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Kerosene",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Methanoel",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Supply annual system costs (MEUR15)",
+            "indicator": "Supply annual system costs",
+            "unit": "MEUR15",
             "regions": [
               {
                 "region": "DK",
@@ -50113,10 +34209,6 @@ export default {
                     "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 119.7320661225
                       },
@@ -50150,10 +34242,6 @@ export default {
                     "indicatorGroup": "Operation costs, fixed",
                     "indicatorGroupValues": [
                       {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
                         "year": 2020,
                         "total": 35.5140609636
                       },
@@ -50186,10 +34274,6 @@ export default {
                   {
                     "indicatorGroup": "Operation costs, variable",
                     "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
                       {
                         "year": 2020,
                         "total": 18.3771944302
@@ -50341,7 +34425,8 @@ export default {
             ]
           },
           {
-            "indicator": "Supply sector CO2 emission (kt)",
+            "indicator": "Supply sector CO2 emission",
+            "unit": "kt",
             "regions": [
               {
                 "region": "DK",

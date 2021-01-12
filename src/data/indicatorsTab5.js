@@ -1,10 +1,10 @@
 export default 
  	 [ 
-		"Agriculture fuel consumption (PJ)",
-		"Annual costs (MEUR15)",
-		"Manufacturing fuel consumption (PJ)",
-		"Total CO2 emissions (kt)",
-		"Total Service demand (PJ)",
-		"Total fuel consumption (PJ)",
-		"Trade and service fuel consumption (PJ)",
+		"Agriculture fuel consumption",
+		"Annual costs",
+		"Manufacturing fuel consumption",
+		"Total CO2 emissions",
+		"Total Service demand",
+		"Total fuel consumption",
+		"Trade and service fuel consumption",
 	 ]
