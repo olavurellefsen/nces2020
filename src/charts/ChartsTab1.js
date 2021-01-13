@@ -23,8 +23,10 @@ const Charts = props => {
           selectedScenario2 === '')) && (
         <Flex>
           {
+           
             indicators.map((i, index) => 
-              <StackedBarChart
+              {
+                return(<StackedBarChart
                 key={i+' '+index}
                 chartName={i}
                 chartTitle={i}
@@ -32,12 +34,11 @@ const Charts = props => {
                 selectedScenario2={selectedScenario2}
                 selectedCountries={selectedCountries}
                 combinedChart={false}
-                label=" "
                 minY={0}
                 maxY={1500}
                 stackedBar={stackedBar}
                 //line={line}
-              />
+              />)}
             )
           }
         </Flex>
