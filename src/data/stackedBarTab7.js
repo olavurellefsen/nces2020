@@ -865,6 +865,22 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 9.7946630794
                       },
@@ -927,6 +943,10 @@ export default {
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 11.7518877286
@@ -1101,6 +1121,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 4.67376e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -1242,6 +1274,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.9202877661
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -1383,6 +1427,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0460953798
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -1426,6 +1482,10 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.4743696994
@@ -1613,6 +1673,10 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1308756074
                       },
@@ -1693,6 +1757,30 @@ export default {
                   {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
                       {
                         "year": 2045,
                         "total": 7.6188403477
@@ -1899,6 +1987,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
@@ -1916,6 +2041,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.2452420472
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2002,6 +2143,14 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0162615694
                       },
@@ -2012,6 +2161,10 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.1685026391
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -2093,6 +2246,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.011095
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2176,6 +2341,34 @@ export default {
                       {
                         "year": 2015,
                         "total": 0.2103494731
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2256,6 +2449,14 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 2.1654689711
@@ -2411,6 +2612,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 4.67376e-05
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2436,6 +2653,10 @@ export default {
                       {
                         "year": 2035,
                         "total": 4.67376e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -2618,6 +2839,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.1832367394
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2699,6 +2936,26 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2040,
                         "total": 2.1808130129
                       },
@@ -2753,6 +3010,10 @@ export default {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0454545455
                       },
@@ -2767,6 +3028,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0454545455
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2871,12 +3144,44 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0146666667
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 7.5814937999
@@ -2895,6 +3200,22 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 9.7946630794
                       },
@@ -2909,6 +3230,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.1950287726
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethane",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2989,6 +3347,30 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
                       {
                         "year": 2045,
                         "total": 1.02769181
@@ -3076,6 +3458,10 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen TRA",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.4743696994
@@ -3165,6 +3551,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -3190,6 +3588,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0546273164
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -3220,6 +3630,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.098168312
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -3264,6 +3686,10 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 11.7518877286
                       },
@@ -3297,8 +3723,36 @@ export default {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0233051262
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -3379,6 +3833,10 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 7.1848877304
@@ -3486,6 +3944,10 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen TRA",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.1308756074
@@ -3642,6 +4104,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1052336627
                       },
@@ -3672,8 +4138,73 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 0.7976339262
@@ -3814,12 +4345,48 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0469711377
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 2.1808130129
@@ -3880,6 +4447,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1736667892
                       },
@@ -3913,6 +4484,14 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0187935182
                       },
@@ -3923,6 +4502,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0085319366
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -3972,6 +4563,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.8213877783
                       },
@@ -4005,12 +4600,73 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0250159538
                       },
                       {
                         "year": 2035,
                         "total": 0.0054031361
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -4121,6 +4777,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.001
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -4165,6 +4833,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 32.6650470949
                       },
@@ -4187,6 +4859,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 81.924774184
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -4291,6 +4967,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 28.7914241997
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -4335,6 +5023,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 43.7777470867
                       },
@@ -4353,6 +5045,10 @@ export default {
                       {
                         "year": 2040,
                         "total": 21.005548411
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -4461,6 +5157,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.6217945227
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -4505,6 +5213,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 60.0
                       },
@@ -4527,12 +5239,20 @@ export default {
                       {
                         "year": 2045,
                         "total": 61.9652673504
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 51.3097808789
@@ -4720,6 +5440,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 18.634
                       },
@@ -4742,12 +5466,20 @@ export default {
                       {
                         "year": 2045,
                         "total": 296.9655814074
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 13.31
@@ -4815,12 +5547,32 @@ export default {
                       {
                         "year": 2040,
                         "total": 2.8758807726
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 16.4599174731
@@ -4844,8 +5596,73 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 1.5755066762
@@ -4855,6 +5672,10 @@ export default {
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.4448312069
@@ -4945,6 +5766,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0019665001
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -5003,12 +5840,36 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0950968712
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 0.5216855635
@@ -5038,6 +5899,26 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 4.6807029387
@@ -5079,12 +5960,36 @@ export default {
                       {
                         "year": 2035,
                         "total": 4.428259002
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 5.0670492146
@@ -5111,6 +6016,14 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0164640838
                       },
@@ -5121,12 +6034,28 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0074724505
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.3146447649
@@ -5188,12 +6117,32 @@ export default {
                       {
                         "year": 2040,
                         "total": 8.0521267504
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 87.8696764819
@@ -5220,18 +6169,83 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0320785231
                       },
                       {
                         "year": 2035,
                         "total": 0.0069285635
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 2.9410730756
@@ -6851,6 +7865,10 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 88.1014946002
                       },
@@ -6883,6 +7901,10 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 1498.2474245519
@@ -6917,6 +7939,18 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 15.9772224461
                       },
@@ -6941,6 +7975,10 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 30.5688628719
@@ -8443,8 +9481,20 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 3.4624735361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -8509,6 +9559,10 @@ export default {
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 7.8451227874
@@ -8628,6 +9682,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.2886289109
                       },
@@ -8683,6 +9741,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 0.2485107183
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -8824,6 +9890,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.6373484432
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -8965,6 +10043,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0460968631
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -9008,6 +10098,10 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.4871178157
@@ -9195,6 +10289,10 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1318893383
                       },
@@ -9276,8 +10374,28 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 0.5122244622
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -9488,6 +10606,30 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2045,
                         "total": 0.3175509029
                       },
@@ -9515,6 +10657,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.2452420472
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -9601,12 +10759,28 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0302176849
                       },
                       {
                         "year": 2035,
                         "total": 0.1732559654
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -9688,6 +10862,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.011095
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -9777,6 +10963,26 @@ export default {
                         "total": 1.350448186
                       },
                       {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2050,
                         "total": 8.019831945
                       }
@@ -9859,6 +11065,14 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 1.607408787
@@ -10014,6 +11228,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 4.67376e-05
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -10047,6 +11277,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 7.6188403477
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -10221,6 +11455,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.1832367394
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -10302,6 +11552,26 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2040,
                         "total": 2.2018731903
                       },
@@ -10356,6 +11626,10 @@ export default {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0454545455
                       },
@@ -10370,6 +11644,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0454545455
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -10474,6 +11760,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0146666667
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -10487,6 +11785,18 @@ export default {
                       {
                         "year": 2020,
                         "total": 4.6379433805
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -10506,8 +11816,20 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 3.4624735361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -10524,6 +11846,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 35.8189902095
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethane",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -10604,6 +11963,30 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
                       {
                         "year": 2045,
                         "total": 0.0093820071
@@ -10691,6 +12074,10 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen TRA",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.4871178157
@@ -10780,6 +12167,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -10805,6 +12204,14 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0552497163
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -10839,6 +12246,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.098168312
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -10883,6 +12302,10 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 7.8451227874
                       },
@@ -10915,6 +12338,34 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 16.3597999153
@@ -11110,6 +12561,10 @@ export default {
                     "indicatorGroup": "Hydrogen TRA",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1318893383
                       },
@@ -11265,6 +12720,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1870368854
                       },
@@ -11298,6 +12757,10 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0359022598
                       },
@@ -11312,6 +12775,55 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0395282913
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -11449,12 +12961,48 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0469711377
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 2.2018731903
@@ -11515,6 +13063,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 11.5225182365
                       },
@@ -11566,6 +13118,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0091528533
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -11615,6 +13179,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.8213877783
                       },
@@ -11648,12 +13216,73 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0162615694
                       },
                       {
                         "year": 2030,
                         "total": 0.0035122975
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -11768,6 +13397,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 7.5743249665
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -11812,6 +13449,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 32.5905703899
                       },
@@ -11834,6 +13475,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 82.1565467515
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -11938,6 +13583,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 20.7532779363
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -11982,6 +13639,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 43.7777470867
                       },
@@ -12000,6 +13661,10 @@ export default {
                       {
                         "year": 2040,
                         "total": 21.005548411
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -12108,6 +13773,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.6217945227
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -12152,6 +13829,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 60.0
                       },
@@ -12174,12 +13855,20 @@ export default {
                       {
                         "year": 2045,
                         "total": 62.1053572558
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 51.3097808789
@@ -12367,6 +14056,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 18.634
                       },
@@ -12389,12 +14082,20 @@ export default {
                       {
                         "year": 2045,
                         "total": 296.9655814074
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 13.31
@@ -12462,12 +14163,32 @@ export default {
                       {
                         "year": 2040,
                         "total": 2.8766333069
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 26.0623956466
@@ -12494,6 +14215,10 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0543503151
                       },
@@ -12508,12 +14233,65 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0598395505
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.7906200484
@@ -12604,6 +14382,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0019665001
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -12662,12 +14456,44 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0950968712
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
                       {
                         "year": 2035,
                         "total": 1.6807602278
@@ -12689,6 +14515,26 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 4.7259046289
@@ -12730,12 +14576,28 @@ export default {
                       {
                         "year": 2035,
                         "total": 2.9033664053
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 21.2527905784
@@ -12788,12 +14650,28 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0080154608
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 1.5945010141
@@ -12855,12 +14733,32 @@ export default {
                       {
                         "year": 2040,
                         "total": 2.8922180983
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 87.9017550051
@@ -12887,18 +14785,83 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0208525781
                       },
                       {
                         "year": 2030,
                         "total": 0.0045038985
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 2.9410730756
@@ -14518,6 +16481,10 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 88.1441795364
                       },
@@ -14550,6 +16517,10 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 1498.1612907486
@@ -14584,6 +16555,18 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 15.9772224461
                       },
@@ -14608,6 +16591,10 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 30.5688628719
@@ -16110,8 +18097,20 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 3.4624735361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -16176,6 +18175,10 @@ export default {
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 7.8451227874
@@ -16295,6 +18298,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.2886289109
                       },
@@ -16350,6 +18357,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 0.2639501728
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -16491,6 +18506,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.6373484432
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -16632,6 +18659,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0460968631
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -16675,6 +18714,10 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.4871178157
@@ -16862,6 +18905,10 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1318893383
                       },
@@ -16943,12 +18990,28 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.4412791554
                       },
                       {
                         "year": 2035,
                         "total": 0.5652506227
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -17159,6 +19222,34 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2050,
                         "total": 6.7550632408
                       }
@@ -17182,6 +19273,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.2452420472
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -17268,12 +19375,28 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0302176849
                       },
                       {
                         "year": 2035,
                         "total": 0.1736833608
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -17355,6 +19478,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.011095
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -17444,6 +19579,26 @@ export default {
                         "total": 1.350448186
                       },
                       {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2050,
                         "total": 8.019831945
                       }
@@ -17526,6 +19681,14 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 1.5452095538
@@ -17681,6 +19844,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 4.67376e-05
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -17714,6 +19893,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 7.6188403477
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -17888,6 +20071,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.1832367394
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -17969,6 +20168,26 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2040,
                         "total": 2.2018731903
                       },
@@ -18023,6 +20242,10 @@ export default {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0454545455
                       },
@@ -18037,6 +20260,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0454545455
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -18141,6 +20376,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0146666667
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -18154,6 +20401,18 @@ export default {
                       {
                         "year": 2020,
                         "total": 4.6379433805
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -18173,8 +20432,20 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 3.4624735361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -18197,6 +20468,34 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 6.7550632408
@@ -18280,6 +20579,30 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
                       {
                         "year": 2045,
                         "total": 2.7989420266
@@ -18367,6 +20690,10 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen TRA",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.4871178157
@@ -18456,6 +20783,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -18481,6 +20820,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0552497163
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -18511,6 +20862,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.098168312
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -18555,6 +20918,10 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 7.8451227874
                       },
@@ -18587,6 +20954,34 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 43.3207070827
@@ -18782,6 +21177,10 @@ export default {
                     "indicatorGroup": "Hydrogen TRA",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1318893383
                       },
@@ -18937,6 +21336,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1870368854
                       },
@@ -18970,18 +21373,70 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0359022598
                       },
                       {
                         "year": 2025,
                         "total": 0.0077544433
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 0.0979759666
@@ -19122,12 +21577,48 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0469711377
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 2.2018731903
@@ -19188,6 +21679,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 11.5225182365
                       },
@@ -19239,6 +21734,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0091528533
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -19288,6 +21795,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.8213877783
                       },
@@ -19321,12 +21832,73 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0162615694
                       },
                       {
                         "year": 2030,
                         "total": 0.0035122975
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -19441,6 +22013,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 8.0449020364
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -19485,6 +22065,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 32.5905703899
                       },
@@ -19507,6 +22091,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 82.1565467515
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -19611,6 +22199,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 20.7532779363
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -19654,6 +22254,10 @@ export default {
                   {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 43.7777470867
@@ -19785,6 +22389,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.6217945227
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -19829,6 +22445,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 60.0
                       },
@@ -19851,12 +22471,20 @@ export default {
                       {
                         "year": 2045,
                         "total": 62.1053572557
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 51.3097808789
@@ -20044,6 +22672,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 18.634
                       },
@@ -20066,12 +22698,20 @@ export default {
                       {
                         "year": 2045,
                         "total": 296.9655814074
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 13.31
@@ -20135,12 +22775,36 @@ export default {
                       {
                         "year": 2035,
                         "total": 2.7640425522
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 16.4599174731
@@ -20167,18 +22831,70 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0543503151
                       },
                       {
                         "year": 2025,
                         "total": 0.0117389946
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 0.1935246037
@@ -20188,6 +22904,10 @@ export default {
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.7906200484
@@ -20278,6 +22998,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0019665001
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -20336,12 +23072,44 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0950968712
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
                       {
                         "year": 2035,
                         "total": 1.6807602278
@@ -20363,6 +23131,26 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 4.7259046289
@@ -20404,12 +23192,28 @@ export default {
                       {
                         "year": 2035,
                         "total": 2.9033664053
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 21.2527905784
@@ -20462,12 +23266,28 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0080154608
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 1.5945010141
@@ -20521,12 +23341,40 @@ export default {
                       {
                         "year": 2030,
                         "total": 19.6558900969
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 87.9017550051
@@ -20553,18 +23401,83 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0208525781
                       },
                       {
                         "year": 2030,
                         "total": 0.0045038985
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 2.9410730756
@@ -22184,6 +25097,10 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 88.1441795364
                       },
@@ -22216,6 +25133,10 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 1498.1612907486
@@ -22250,6 +25171,18 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 15.9772224461
                       },
@@ -22274,6 +25207,10 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 30.5688628719
@@ -23776,8 +26713,20 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 3.4624735361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -23842,6 +26791,10 @@ export default {
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 7.8451227874
@@ -23961,6 +26914,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.2886289109
                       },
@@ -24016,6 +26973,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 0.2485107183
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -24157,6 +27122,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.6373484432
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -24298,6 +27275,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0460968631
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -24341,6 +27330,10 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.4871178157
@@ -24528,6 +27521,10 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1318893383
                       },
@@ -24609,8 +27606,28 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 0.5517527535
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -24821,6 +27838,30 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2045,
                         "total": 0.3279680076
                       },
@@ -24848,6 +27889,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.2452420472
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -24934,12 +27991,28 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0302176849
                       },
                       {
                         "year": 2035,
                         "total": 0.1736833608
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -25021,6 +28094,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.011095
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -25110,6 +28195,22 @@ export default {
                         "total": 1.350448186
                       },
                       {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2045,
                         "total": 5.1303008483
                       },
@@ -25196,6 +28297,14 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 1.6348781675
@@ -25351,6 +28460,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 4.67376e-05
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -25384,6 +28509,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.4885394994
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -25558,6 +28687,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.1832367394
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -25639,6 +28784,26 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2040,
                         "total": 2.2018731903
                       },
@@ -25693,6 +28858,10 @@ export default {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0454545455
                       },
@@ -25707,6 +28876,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0454545455
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -25811,6 +28992,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0146666667
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -25824,6 +29017,18 @@ export default {
                       {
                         "year": 2020,
                         "total": 4.6379433805
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -25843,8 +29048,20 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 3.4624735361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
@@ -25867,6 +29084,34 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 6.7550632408
@@ -25950,6 +29195,26 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 0.1947177314
@@ -26042,6 +29307,10 @@ export default {
                     "indicatorGroup": "Hydrogen TRA",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.4871178157
                       },
@@ -26130,6 +29399,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -26155,6 +29436,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0552497163
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -26185,6 +29478,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.098168312
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -26229,6 +29534,10 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 7.8451227874
                       },
@@ -26261,6 +29570,34 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 39.2076228117
@@ -26456,6 +29793,10 @@ export default {
                     "indicatorGroup": "Hydrogen TRA",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1318893383
                       },
@@ -26611,6 +29952,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.1870368854
                       },
@@ -26644,12 +29989,73 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0359022598
                       },
                       {
                         "year": 2025,
                         "total": 0.0077544433
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -26787,12 +30193,48 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0469711377
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 2.2018731903
@@ -26853,6 +30295,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 11.5225182365
                       },
@@ -26904,6 +30350,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0091528533
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -26953,6 +30411,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.8213877783
                       },
@@ -26986,12 +30448,73 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0162615694
                       },
                       {
                         "year": 2030,
                         "total": 0.0035122975
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -27106,6 +30629,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 7.5743249665
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -27150,6 +30681,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 32.5905703899
                       },
@@ -27172,6 +30707,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 82.1565467515
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -27276,6 +30815,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 20.7532779363
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -27320,6 +30871,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 43.7777470867
                       },
@@ -27338,6 +30893,10 @@ export default {
                       {
                         "year": 2040,
                         "total": 21.005548411
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -27446,6 +31005,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 1.6217945227
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -27490,6 +31061,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 60.0
                       },
@@ -27512,12 +31087,20 @@ export default {
                       {
                         "year": 2045,
                         "total": 61.8037587409
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 51.3097808789
@@ -27705,6 +31288,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 18.634
                       },
@@ -27727,12 +31314,20 @@ export default {
                       {
                         "year": 2045,
                         "total": 296.9655814074
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 13.31
@@ -27800,12 +31395,32 @@ export default {
                       {
                         "year": 2040,
                         "total": 0.4028242734
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 29.2571448618
@@ -27832,18 +31447,83 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0543503151
                       },
                       {
                         "year": 2025,
                         "total": 0.0117389946
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.7906200484
@@ -27934,6 +31614,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0019665001
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -27992,12 +31688,44 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0950968712
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
                       {
                         "year": 2035,
                         "total": 1.6807602278
@@ -28019,6 +31747,26 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 4.7259046289
@@ -28060,12 +31808,28 @@ export default {
                       {
                         "year": 2035,
                         "total": 2.9021779882
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 21.2527905784
@@ -28118,12 +31882,28 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0080154608
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 1.5945010141
@@ -28177,12 +31957,40 @@ export default {
                       {
                         "year": 2030,
                         "total": 19.6558900969
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 87.9017550051
@@ -28209,18 +32017,83 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.0208525781
                       },
                       {
                         "year": 2030,
                         "total": 0.0045038985
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 2.9410730756
@@ -29840,6 +33713,10 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 88.1441795364
                       },
@@ -29872,6 +33749,10 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 1498.1612907486
@@ -29906,6 +33787,18 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 15.9772224461
                       },
@@ -29930,6 +33823,10 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 30.5688628719
@@ -31432,6 +35329,26 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2040,
                         "total": 21.6999567051
                       },
@@ -31490,6 +35407,10 @@ export default {
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 11.7518877286
@@ -31664,6 +35585,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 9.27029e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -31805,6 +35738,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.9202877661
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -31946,6 +35891,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -31983,6 +35940,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0003578909
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -32138,6 +36132,43 @@ export default {
                         "total": 0.0022719902
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               }
@@ -32190,6 +36221,30 @@ export default {
                   {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
                       {
                         "year": 2045,
                         "total": 7.6188403477
@@ -32396,6 +36451,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
                       {
@@ -32413,6 +36505,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.2452420472
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -32499,6 +36607,30 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2045,
                         "total": 44.9280070483
                       },
@@ -32578,6 +36710,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.011095
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -32665,6 +36809,30 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.0210938221
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -32745,6 +36913,26 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 0.5842333192
@@ -32888,6 +37076,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 4.67376e-05
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -32913,6 +37117,10 @@ export default {
                       {
                         "year": 2035,
                         "total": 9.27029e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -33095,6 +37303,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.1832367394
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -33176,6 +37400,26 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2040,
                         "total": 2.1808130129
                       },
@@ -33230,6 +37474,10 @@ export default {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0454545455
                       },
@@ -33244,6 +37492,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0454545455
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -33348,12 +37608,44 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0146666667
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 1.5043452834
@@ -33372,6 +37664,26 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2040,
                         "total": 21.6999567051
                       },
@@ -33382,6 +37694,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.3719100963
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethane",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -33462,6 +37811,26 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 0.1013586458
@@ -33551,6 +37920,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Hydrogen TRA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
@@ -33609,6 +38015,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -33634,6 +38052,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -33664,6 +38094,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.098168312
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -33708,6 +38150,10 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 11.7518877286
                       },
@@ -33734,6 +38180,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 33.6128348503
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethane",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -33923,6 +38406,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Hydrogen TRA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
@@ -34048,6 +38568,14 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.4217370288
                       },
@@ -34070,6 +38598,80 @@ export default {
                       {
                         "year": 2050,
                         "total": 11.6336934147
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -34207,12 +38809,48 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0469711377
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 2.1808130129
@@ -34273,6 +38911,14 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.6877971428
                       },
@@ -34295,6 +38941,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.0760671291
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -34344,6 +39027,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.8213877783
                       },
@@ -34370,6 +39057,80 @@ export default {
                       {
                         "year": 2050,
                         "total": 41.3071951001
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -34480,6 +39241,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.001
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -34524,6 +39297,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 662.9704721973
                       },
@@ -34538,6 +39315,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 143.1934074715
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -34642,6 +39431,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 28.7914241997
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -34685,6 +39486,10 @@ export default {
                   {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 43.7777470867
@@ -34816,6 +39621,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.004
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -34860,6 +39677,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 60.0
                       },
@@ -34874,6 +39695,55 @@ export default {
                       {
                         "year": 2035,
                         "total": 12.9592565711
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen cars",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -35034,6 +39904,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 1163.8966063508
                       },
@@ -35048,6 +39922,55 @@ export default {
                       {
                         "year": 2035,
                         "total": 251.3872457329
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen cars",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -35088,12 +40011,32 @@ export default {
                       {
                         "year": 2040,
                         "total": 2.8758807726
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 16.4806691369
@@ -35117,8 +40060,90 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 1.7827165448
@@ -35205,6 +40230,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0019665001
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -35263,12 +40304,36 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0950968712
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 0.5216855635
@@ -35298,6 +40363,26 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 4.6807029387
@@ -35339,12 +40424,36 @@ export default {
                       {
                         "year": 2035,
                         "total": 4.4344053299
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 5.0878674051
@@ -35368,8 +40477,53 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 1.6679492836
@@ -35419,12 +40573,40 @@ export default {
                       {
                         "year": 2030,
                         "total": 19.6603939954
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 87.9017550051
@@ -35448,8 +40630,86 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 2.9410730756
@@ -37069,6 +42329,10 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 88.1014946002
                       },
@@ -37101,6 +42365,10 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 1498.2474245519
@@ -37135,6 +42403,18 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 15.9772224461
                       },
@@ -37159,6 +42439,10 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 30.5688628719
@@ -38661,6 +43945,22 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 4.6163107165
                       },
@@ -38723,6 +44023,10 @@ export default {
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 11.7518877286
@@ -38897,6 +44201,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 9.27029e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -39038,6 +44354,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.9202877661
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -39179,6 +44507,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -39216,6 +44556,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0003578909
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -39371,6 +44748,43 @@ export default {
                         "total": 0.0022719902
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
                   }
                 ]
               }
@@ -39423,6 +44837,26 @@ export default {
                   {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 1.9323065501
@@ -39636,6 +45070,34 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2050,
                         "total": 6.7550632408
                       }
@@ -39659,6 +45121,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.2452420472
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -39745,6 +45223,30 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2045,
                         "total": 48.3063719865
                       },
@@ -39824,6 +45326,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.011095
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -39837,6 +45351,10 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.194332922
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
@@ -39907,6 +45425,22 @@ export default {
                       {
                         "year": 2020,
                         "total": 0.0210938221
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -39995,6 +45529,22 @@ export default {
                   {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
                       {
                         "year": 2035,
                         "total": 2.0389188578
@@ -40142,6 +45692,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 4.67376e-05
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -40175,6 +45741,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.5623453883
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -40349,6 +45919,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.1832367394
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -40430,6 +46016,26 @@ export default {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2040,
                         "total": 2.221740969
                       },
@@ -40484,6 +46090,10 @@ export default {
                     "indicatorGroup": "LPG",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.0454545455
                       },
@@ -40498,6 +46108,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0454545455
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -40602,12 +46224,52 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0146666667
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Biodiesel",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 22.2196570751
@@ -40617,6 +46279,22 @@ export default {
                   {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
                       {
                         "year": 2035,
                         "total": 4.6163107165
@@ -40638,6 +46316,34 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 6.7550632408
@@ -40722,12 +46428,32 @@ export default {
                     "indicatorGroup": "Ethanol",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 0.086743759
                       },
                       {
                         "year": 2040,
                         "total": 1.9295312288
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -40810,6 +46536,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Hydrogen TRA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
@@ -40868,6 +46631,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -40893,6 +46668,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 8.91719e-05
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -40923,6 +46710,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.098168312
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -40967,6 +46766,10 @@ export default {
                     "indicatorGroup": "Biokerosene",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 11.7518877286
                       },
@@ -40999,6 +46802,30 @@ export default {
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
                       {
                         "year": 2045,
                         "total": 0.3867564992
@@ -41195,6 +47022,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Hydrogen TRA",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Kerosene",
                     "indicatorGroupValues": [
                       {
@@ -41320,6 +47184,14 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.4217370288
                       },
@@ -41349,12 +47221,73 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 2.2926248211
                       },
                       {
                         "year": 2040,
                         "total": 0.4951785546
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -41492,12 +47425,48 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0469711377
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 2.221740969
@@ -41558,6 +47527,14 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.6877971428
                       },
@@ -41580,6 +47557,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.1558885762
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -41629,6 +47643,10 @@ export default {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 0.8213877783
                       },
@@ -41659,8 +47677,61 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
                       {
                         "year": 2035,
                         "total": 6.7486670964
@@ -41668,6 +47739,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 1.4576284736
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -41778,6 +47857,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.001
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -41822,6 +47913,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 697.5305036016
                       },
@@ -41840,6 +47935,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 5.297257553
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -41944,6 +48047,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 28.7914241997
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -41988,6 +48103,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 43.7777470867
                       },
@@ -42006,6 +48125,10 @@ export default {
                       {
                         "year": 2040,
                         "total": 21.005548411
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -42114,6 +48237,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.004
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -42158,6 +48293,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 60.0
                       },
@@ -42172,6 +48311,55 @@ export default {
                       {
                         "year": 2035,
                         "total": 12.9592565711
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen cars",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -42332,6 +48520,10 @@ export default {
                     "indicatorGroup": "Hybrid cars",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 1221.827069854
                       },
@@ -42346,6 +48538,55 @@ export default {
                       {
                         "year": 2035,
                         "total": 263.8995080633
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen cars",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -42386,12 +48627,32 @@ export default {
                       {
                         "year": 2040,
                         "total": 1.9600336244
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 16.4806691369
@@ -42418,18 +48679,87 @@ export default {
                     "indicatorGroup": "Gas",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 4.24027633
                       },
                       {
                         "year": 2040,
                         "total": 0.9158471482
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 1.7827165448
@@ -42516,6 +48846,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0019665001
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -42574,12 +48920,36 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0950968712
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 0.6913155923
@@ -42609,6 +48979,26 @@ export default {
                   {
                     "indicatorGroup": "Hydrogen",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 4.7685470608
@@ -42650,12 +49040,36 @@ export default {
                       {
                         "year": 2035,
                         "total": 4.4344053299
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": 5.0878674051
@@ -42679,8 +49093,53 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 1.6679492836
@@ -42730,12 +49189,36 @@ export default {
                       {
                         "year": 2030,
                         "total": 5.7028949339
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Electric Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 64.6217581302
@@ -42763,8 +49246,61 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Gasoline",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
                       {
                         "year": 2035,
                         "total": 11.2915003761
@@ -42772,12 +49308,24 @@ export default {
                       {
                         "year": 2040,
                         "total": 2.4388241741
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Hybrid Truck",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 2.9410730756
@@ -44397,6 +50945,10 @@ export default {
                     "indicatorGroup": "Bus",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 88.1014946002
                       },
@@ -44429,6 +50981,10 @@ export default {
                   {
                     "indicatorGroup": "Car",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 1498.2474245519
@@ -44463,6 +51019,18 @@ export default {
                     "indicatorGroup": "Ship",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 15.9772224461
                       },
@@ -44487,6 +51055,10 @@ export default {
                   {
                     "indicatorGroup": "Two wheelers",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 30.5688628719

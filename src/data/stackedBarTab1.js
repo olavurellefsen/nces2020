@@ -633,6 +633,10 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": -169.5279830243
                       },
@@ -692,6 +696,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 1290.6542250632
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -888,6 +896,18 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": -1117.4553655107
@@ -1178,6 +1198,10 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": -1.322803635
                       },
@@ -1311,6 +1335,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 9.0350816853
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -1396,6 +1424,10 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": -145.8365192141
@@ -1510,6 +1542,10 @@ export default {
                       {
                         "year": 2020,
                         "total": 44.5587861823
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
@@ -1669,6 +1705,26 @@ export default {
                       {
                         "year": 2025,
                         "total": 3.7807261205
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -1824,8 +1880,36 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 1.5895774626
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -1925,6 +2009,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 2.2731910179
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -2363,6 +2459,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 5.5602242694
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2518,6 +2630,10 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 53.3202539994
                       },
@@ -2526,14 +2642,38 @@ export default {
                         "total": 87.7969084404
                       },
                       {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 68.7806661199
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 0.4553401938
@@ -2615,6 +2755,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -2666,6 +2822,34 @@ export default {
                       {
                         "year": 2015,
                         "total": 43.0723873525
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -2858,6 +3042,18 @@ export default {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0191176752
                       },
@@ -2882,6 +3078,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 21.6524933266
@@ -2909,6 +3109,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 81.6964646594
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -4020,6 +4257,14 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": -74.9931861291
                       },
@@ -4075,6 +4320,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 2070.4960171355
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -4145,6 +4394,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 16.6834822118
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -4267,6 +4520,18 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": -924.9649721593
@@ -4557,6 +4822,10 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": -2.3650025868
                       },
@@ -4780,6 +5049,10 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": -336.6690392953
                       },
@@ -4887,6 +5160,14 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 54.4436274367
                       },
@@ -4905,6 +5186,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 10.5584937208
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -5044,6 +5329,26 @@ export default {
                       {
                         "year": 2025,
                         "total": 5.798811032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -5199,8 +5504,36 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 3.0898756166
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -5244,6 +5577,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 23.6979996675
@@ -5296,6 +5633,14 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0098556023
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -5742,6 +6087,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0391294913
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -5897,18 +6254,46 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 22.905594162
                       },
                       {
                         "year": 2025,
                         "total": 37.7284694797
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.474855693
@@ -5942,6 +6327,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 8.6136623778
@@ -5990,6 +6379,18 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -6055,6 +6456,10 @@ export default {
                         "total": 0.2471280441
                       },
                       {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 0.2955804146
                       },
@@ -6065,6 +6470,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.8359408636
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -6257,6 +6666,18 @@ export default {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0376439998
                       },
@@ -6281,6 +6702,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 41.3407843093
@@ -6314,6 +6739,34 @@ export default {
                   {
                     "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 2.1413525594
@@ -7428,6 +7881,14 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": -13.2006288652
                       },
@@ -7479,6 +7940,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 1755.3141789154
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -7549,6 +8018,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 27.1483407674
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -7671,6 +8144,18 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": -800.0
@@ -7961,6 +8446,10 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": -2.3650025868
                       },
@@ -8090,6 +8579,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 9.0350816853
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -8175,6 +8672,10 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": -336.6690392953
@@ -8283,6 +8784,14 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 52.823077523
                       },
@@ -8301,6 +8810,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 3.2789664991
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -8440,6 +8953,26 @@ export default {
                       {
                         "year": 2025,
                         "total": 5.798811032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -8595,8 +9128,36 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 3.0898756166
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -8640,6 +9201,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 23.6979996675
@@ -8692,6 +9257,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0098556023
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -9134,6 +9711,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0391294913
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -9289,6 +9878,10 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 22.905594162
                       },
@@ -9299,12 +9892,32 @@ export default {
                       {
                         "year": 2030,
                         "total": 8.5279341695
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.474855693
@@ -9338,6 +9951,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 8.6136623778
@@ -9386,6 +10003,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -9445,6 +10078,26 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.2471280441
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -9637,6 +10290,18 @@ export default {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0532725547
                       },
@@ -9661,6 +10326,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 41.3407843093
@@ -9688,6 +10357,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 145.302567958
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -10799,6 +11505,14 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": -92.6978559703
                       },
@@ -10854,6 +11568,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 898.5553537336
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -10924,6 +11642,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 6.0106012943
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -11046,6 +11768,18 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": -934.1621034288
@@ -11336,6 +12070,10 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": -2.3650025868
                       },
@@ -11469,6 +12207,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 18.0701633706
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -11554,6 +12296,10 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": -336.6690392953
@@ -11662,6 +12408,14 @@ export default {
                     "indicatorGroup": "CO2-Residential",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 52.8230151221
                       },
@@ -11680,6 +12434,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 3.2583648987
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -11819,6 +12577,26 @@ export default {
                       {
                         "year": 2025,
                         "total": 5.798811032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -11974,8 +12752,36 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 3.0898756166
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -12019,6 +12825,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 23.6979996675
@@ -12071,6 +12881,10 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0098556023
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -12521,6 +13335,18 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0391294913
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -12676,6 +13502,10 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 22.905594162
                       },
@@ -12686,12 +13516,32 @@ export default {
                       {
                         "year": 2030,
                         "total": 9.7498776225
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
                   {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 0.474855693
@@ -12725,6 +13575,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 8.6136623778
@@ -12773,6 +13627,18 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -12836,6 +13702,26 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.2238233101
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -13028,6 +13914,18 @@ export default {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0494380706
                       },
@@ -13052,6 +13950,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 41.3407843093
@@ -13085,6 +13987,34 @@ export default {
                   {
                     "indicatorGroup": "Waste",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
                       {
                         "year": 2050,
                         "total": 2.1413525594
@@ -14199,6 +15129,18 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": -3599.2465113834
                       },
@@ -14250,6 +15192,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 1003.1979735496
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -14446,6 +15392,18 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": -1144.6358890681
@@ -14736,6 +15694,10 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": -0.0511025617
                       },
@@ -14869,6 +15831,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 18.0701633706
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -14954,6 +15920,10 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": -189.5126326277
@@ -15235,6 +16205,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.09647918
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -15398,6 +16384,10 @@ export default {
                         "total": 0.0210938221
                       },
                       {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 8.1540093568
                       },
@@ -15468,6 +16458,18 @@ export default {
                         "total": 0.0210938221
                       },
                       {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2040,
                         "total": 4.7294965874
                       },
@@ -15499,6 +16501,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.315987073
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -15937,6 +16955,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 5.5602242694
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -16092,6 +17126,10 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 33.5407834096
                       },
@@ -16102,6 +17140,10 @@ export default {
                       {
                         "year": 2030,
                         "total": 62.7399378166
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -16120,6 +17162,14 @@ export default {
                   {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
                       {
                         "year": 2025,
                         "total": 0.4949475248
@@ -16149,6 +17199,26 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
                       {
                         "year": 2040,
                         "total": 0.1013586458
@@ -16181,6 +17251,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -16232,6 +17318,34 @@ export default {
                       {
                         "year": 2015,
                         "total": 20.4129405153
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -16424,6 +17538,18 @@ export default {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0271812006
                       },
@@ -16448,6 +17574,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 9.336666812
@@ -16475,6 +17605,513 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.9426117643
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by sector",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -17116,6 +18753,14 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": -289.2513401506
                       },
@@ -17171,6 +18816,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 9.1890662085
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -17241,6 +18890,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 5.7184725887
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -17363,6 +19016,18 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
                       {
                         "year": 2030,
                         "total": -485.3493672421
@@ -17653,6 +19318,10 @@ export default {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": -0.7836462599
                       },
@@ -17786,6 +19455,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 18.0701633706
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -17871,6 +19544,10 @@ export default {
                   {
                     "indicatorGroup": "CO2-Captured",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": -522.5703111349
@@ -18001,6 +19678,14 @@ export default {
                       {
                         "year": 2040,
                         "total": 5.2143571285
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -18144,6 +19829,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 1.6803227202
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -18251,6 +19952,10 @@ export default {
                       {
                         "year": 2045,
                         "total": 5.3863642679
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -18377,6 +20082,14 @@ export default {
                         "total": 0.0210938221
                       },
                       {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 3.7318931901
                       },
@@ -18412,6 +20125,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.315987073
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -18850,6 +20579,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 5.5602242694
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -19005,6 +20750,10 @@ export default {
                     "indicatorGroup": "Others",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2020,
                         "total": 62.1352145622
                       },
@@ -19038,6 +20787,14 @@ export default {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2025,
                         "total": 0.4949475248
                       },
@@ -19067,12 +20824,32 @@ export default {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2035,
                         "total": 0.086743759
                       },
                       {
                         "year": 2040,
                         "total": 1.9295312288
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -19098,6 +20875,22 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -19149,6 +20942,34 @@ export default {
                       {
                         "year": 2015,
                         "total": 20.4129405153
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -19341,6 +21162,18 @@ export default {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
                         "year": 2030,
                         "total": 0.0335304581
                       },
@@ -19365,6 +21198,10 @@ export default {
                   {
                     "indicatorGroup": "Synthetic fuels",
                     "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
                       {
                         "year": 2020,
                         "total": 25.745327967
@@ -19392,6 +21229,513 @@ export default {
                       {
                         "year": 2050,
                         "total": 29.3252093633
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by sector",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
