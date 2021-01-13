@@ -73,7 +73,9 @@ const StackedBarChart = props => {
   const accumulatedDataScenario2 = scenario2 ? dataScenario2[0] : undefined
   const totalYearValuesScenario1 = dataScenario1[1]
   const totalYearValuesScenario2 = scenario2 ? dataScenario2[1] : undefined
+  const unit = dataScenario1[2]
   let maxY = -Infinity
+
   Object.keys(totalYearValuesScenario1).forEach(year => {
     //if(chartName==="Cement fuel consumption (PJ)")
       //console.log("maxY: ", maxY)
@@ -122,7 +124,7 @@ const StackedBarChart = props => {
         <VictoryAxis key={0} tickValues={periods} tickFormat={periods} />
         <VictoryAxis
           dependentAxis
-          axisLabelComponent={<VictoryLabel dx={120} />}
+          axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
           key={2}
           offsetX={80}
           tickFormat={tick =>
@@ -133,7 +135,7 @@ const StackedBarChart = props => {
             }`
           }
           tickValues={[0, 0.25, 0.5, 0.75]}
-          label={props.label}
+          label={unit}
         />
         {combinedChart === true && (
           <VictoryAxis

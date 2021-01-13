@@ -14,6 +14,7 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
 
     //Useful when finding axis range
     let totalYearValues = {}
+    let unit = "";
     years.forEach(year => {
         totalYearValues[year] = 0
     })
@@ -29,6 +30,7 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
     let ind = scen.indicators.find(o => o.indicator === chartName)
         //console.log("ind: ", ind)
         //console.log("chartName: ", chartName)
+        unit = ind.unit
         ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
               if (!accumulatedData[indicatorGroup.indicatorGroup]) {
@@ -50,7 +52,7 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
               }
             })
         })
-        return [accumulatedData, totalYearValues]
+        return [accumulatedData, totalYearValues, unit]
 }
 
 // export function getMinMaxStackedValues(yearValues1, yearValues2) {
