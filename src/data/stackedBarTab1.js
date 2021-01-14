@@ -16,6 +16,14502 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
+                        "total": 7469.3393192982
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7852.8984256507
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6575.2644703221
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5345.8168685807
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2931.0361833968
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1780.0848965737
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1778.0783668666
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1660.2154606191
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1390.8211637476
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3404.3835150143
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6171.278983033
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8647.0314442766
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10053.4543030697
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11665.3269792874
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12064.6756680707
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12704.9220831026
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1187.6850141082
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1550.5828283115
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2115.3705604251
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2549.7637021428
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2604.341839086
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2980.2031545496
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3288.212412285
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3768.8296542486
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 27.3296409982
+                      },
+                      {
+                        "year": 2020,
+                        "total": -60.8227380304
+                      },
+                      {
+                        "year": 2025,
+                        "total": 211.4589109468
+                      },
+                      {
+                        "year": 2030,
+                        "total": 456.5662710797
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1228.4685386573
+                      },
+                      {
+                        "year": 2040,
+                        "total": 607.2467170881
+                      },
+                      {
+                        "year": 2045,
+                        "total": -148.7965251641
+                      },
+                      {
+                        "year": 2050,
+                        "total": -283.5820777091
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5381.2564105796
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6360.5396514758
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4545.9272886557
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3470.2460940111
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2322.3183955596
+                      },
+                      {
+                        "year": 2040,
+                        "total": 791.5413325302
+                      },
+                      {
+                        "year": 2045,
+                        "total": 285.2971582487
+                      },
+                      {
+                        "year": 2050,
+                        "total": -481.25130845
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9538.3821960554
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18858.3140579926
+                      },
+                      {
+                        "year": 2025,
+                        "total": 24673.4218155192
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30963.7269439232
+                      },
+                      {
+                        "year": 2035,
+                        "total": 31807.3108456709
+                      },
+                      {
+                        "year": 2040,
+                        "total": 31164.5216613237
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32258.681180997
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33616.1721354578
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6651.0640562523
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8075.0868517077
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9709.9694893486
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11099.8308504859
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11898.4706516495
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12582.4561005342
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12778.9599360757
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12858.8011585845
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1503.3038674051
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1715.2315714559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2742.3887692582
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2806.4796721773
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2881.7703629637
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2999.2877118765
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2898.0814618551
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3039.7562938878
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8935.2662259719
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9482.1370877252
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10982.0086796104
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10813.6907375505
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9055.9503421896
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7627.8116881066
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6707.7678342033
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6466.4311763783
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2122.3579866294
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4114.5780432142
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6210.6844010772
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8180.5688699033
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9381.035952291
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9913.5145213458
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10557.9199661024
+                      },
+                      {
+                        "year": 2050,
+                        "total": 11702.2026540759
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4693.6414625119
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4990.091096834
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5375.0525484426
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5421.516817829
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5313.1071277845
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5172.8509039567
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4996.6254725527
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5189.1020358679
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -2207.6098545216
+                      },
+                      {
+                        "year": 2020,
+                        "total": -3226.4720529581
+                      },
+                      {
+                        "year": 2025,
+                        "total": -4483.4159697407
+                      },
+                      {
+                        "year": 2030,
+                        "total": -4290.6587936775
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3559.0690511581
+                      },
+                      {
+                        "year": 2040,
+                        "total": -2835.8729054316
+                      },
+                      {
+                        "year": 2045,
+                        "total": -1640.6199046144
+                      },
+                      {
+                        "year": 2050,
+                        "total": -1635.1505620947
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12638.4325643073
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12696.0312468305
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12166.8379381004
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11067.5690762096
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10470.2900895795
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9057.8782147808
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8431.8831900015
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8194.8968754961
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3012.341062515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6888.430763529
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12159.5957703199
+                      },
+                      {
+                        "year": 2030,
+                        "total": 15936.8617083511
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18665.0048505685
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20649.9663605185
+                      },
+                      {
+                        "year": 2045,
+                        "total": 21784.5863434439
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22700.6759725081
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2220.3593787891
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3379.5496805186
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5323.9830970755
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5489.3813121808
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6006.1638300937
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5911.609368885
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6682.5489622566
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6998.1819505834
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 676.9763461183
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1572.0632195326
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1529.5682895356
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1027.6128504205
+                      },
+                      {
+                        "year": 2035,
+                        "total": -551.1698504629
+                      },
+                      {
+                        "year": 2040,
+                        "total": -770.6615235331
+                      },
+                      {
+                        "year": 2045,
+                        "total": -1108.6650320766
+                      },
+                      {
+                        "year": 2050,
+                        "total": -1121.023654084
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "CO2 emissions",
+            "unit": "kt",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -129.9709018044
+                      },
+                      {
+                        "year": 2020,
+                        "total": -548.8208296653
+                      },
+                      {
+                        "year": 2025,
+                        "total": -586.9399072444
+                      },
+                      {
+                        "year": 2030,
+                        "total": -3813.8290625671
+                      },
+                      {
+                        "year": 2035,
+                        "total": -5396.4415966007
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6096.3980688067
+                      },
+                      {
+                        "year": 2045,
+                        "total": -8081.1324842044
+                      },
+                      {
+                        "year": 2050,
+                        "total": -10326.8383013816
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8139.7269362719
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6637.0701849857
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4845.6578019709
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2626.0429055071
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3046.0822062992
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1506.803657897
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10991.3785147131
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5775.0823625427
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1377.7073430022
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1315.9290256689
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1113.7386277023
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2108.3418932
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1985.9695432
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1674.7071642051
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1143.6292516832
+                      },
+                      {
+                        "year": 2035,
+                        "total": 737.0366479872
+                      },
+                      {
+                        "year": 2040,
+                        "total": 445.4730452205
+                      },
+                      {
+                        "year": 2045,
+                        "total": 137.3135320978
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1244.0745476993
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1116.1682098607
+                      },
+                      {
+                        "year": 2025,
+                        "total": 701.8780384573
+                      },
+                      {
+                        "year": 2030,
+                        "total": 321.4399510697
+                      },
+                      {
+                        "year": 2035,
+                        "total": 95.0669431293
+                      },
+                      {
+                        "year": 2040,
+                        "total": 54.9374537064
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.8734381207
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.8553616847
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16520.6368449412
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15634.5305290761
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12141.6085598303
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8318.2163266047
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5666.945773516
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4195.4452842805
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3738.2068862837
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1826.2443119946
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1862.1570362933
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1589.9639439434
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1358.1084440792
+                      },
+                      {
+                        "year": 2030,
+                        "total": 992.9801999803
+                      },
+                      {
+                        "year": 2035,
+                        "total": 812.4036508054
+                      },
+                      {
+                        "year": 2040,
+                        "total": 645.5667763177
+                      },
+                      {
+                        "year": 2045,
+                        "total": 552.8369424145
+                      },
+                      {
+                        "year": 2050,
+                        "total": 464.7168899173
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": -733.6280267089
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3805.0339334451
+                      },
+                      {
+                        "year": 2040,
+                        "total": -4033.7994643732
+                      },
+                      {
+                        "year": 2045,
+                        "total": -4033.6188798159
+                      },
+                      {
+                        "year": 2050,
+                        "total": -5484.7731376918
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11611.1736306326
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10396.0034022138
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9985.5118307379
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8180.747252132
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5647.4135297263
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5065.5565504381
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5091.0853373342
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4319.840482653
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2839.7507738735
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3122.4177653767
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3011.7496569573
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2841.3570151134
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2702.9162136077
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1677.1600921428
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1434.5760638887
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1212.0264453242
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16477.4509153203
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13370.3428457683
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8060.005185065
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4101.2340281731
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2378.8816990074
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2293.3044234586
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2273.4153161126
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1492.1904614882
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1272.1449884272
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1056.3528179361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 887.0917594995
+                      },
+                      {
+                        "year": 2030,
+                        "total": 735.6833660461
+                      },
+                      {
+                        "year": 2035,
+                        "total": 575.7481939355
+                      },
+                      {
+                        "year": 2040,
+                        "total": 420.0972125012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 282.178221448
+                      },
+                      {
+                        "year": 2050,
+                        "total": 144.6044814632
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 860.4012486909
+                      },
+                      {
+                        "year": 2020,
+                        "total": 802.7263268289
+                      },
+                      {
+                        "year": 2025,
+                        "total": 614.8206275527
+                      },
+                      {
+                        "year": 2030,
+                        "total": 430.1519565521
+                      },
+                      {
+                        "year": 2035,
+                        "total": 285.1193709655
+                      },
+                      {
+                        "year": 2040,
+                        "total": 186.5159989413
+                      },
+                      {
+                        "year": 2045,
+                        "total": 131.3498300904
+                      },
+                      {
+                        "year": 2050,
+                        "total": 88.6863562745
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6465.002304901
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7087.3483246275
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7114.3788406644
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8059.8206256051
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6223.4210246476
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7636.6261964047
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7811.4280727184
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6928.2871377515
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11703.2823467313
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9940.7887424818
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5220.7245219912
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2969.2771545916
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1968.3709768169
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1280.7947705129
+                      },
+                      {
+                        "year": 2045,
+                        "total": 760.5152240791
+                      },
+                      {
+                        "year": 2050,
+                        "total": 469.8977107292
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -3.5976607744
+                      },
+                      {
+                        "year": 2025,
+                        "total": -6.1772079253
+                      },
+                      {
+                        "year": 2030,
+                        "total": -6.1120749864
+                      },
+                      {
+                        "year": 2035,
+                        "total": -205.8073237102
+                      },
+                      {
+                        "year": 2040,
+                        "total": -759.660424679
+                      },
+                      {
+                        "year": 2045,
+                        "total": -3303.6886519456
+                      },
+                      {
+                        "year": 2050,
+                        "total": -6313.2688103947
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10421.097033531
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9742.754221896
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9422.175390436
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9205.0577536315
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9119.1982718105
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9456.9064918477
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7262.2217875245
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5491.9362317847
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 618.3838517535
+                      },
+                      {
+                        "year": 2020,
+                        "total": 622.1049219923
+                      },
+                      {
+                        "year": 2025,
+                        "total": 708.4566992976
+                      },
+                      {
+                        "year": 2030,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2035,
+                        "total": 659.161531565
+                      },
+                      {
+                        "year": 2040,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2045,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2050,
+                        "total": 619.9352334969
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 665.5701633706
+                      },
+                      {
+                        "year": 2020,
+                        "total": 597.9639077156
+                      },
+                      {
+                        "year": 2025,
+                        "total": 406.9678245643
+                      },
+                      {
+                        "year": 2030,
+                        "total": 203.0701633706
+                      },
+                      {
+                        "year": 2035,
+                        "total": 53.4159121403
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 888.3398548824
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4646.6561116453
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6522.7340367488
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5287.3311213358
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3046.5217374453
+                      },
+                      {
+                        "year": 2040,
+                        "total": 398.7209394833
+                      },
+                      {
+                        "year": 2045,
+                        "total": 373.8520693105
+                      },
+                      {
+                        "year": 2050,
+                        "total": 329.9497604751
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 17503.216370103
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15336.1851345025
+                      },
+                      {
+                        "year": 2025,
+                        "total": 14998.4455958306
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12821.5578031516
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9392.929870749
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6284.0977598511
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4942.6795616137
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3661.4475846379
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -1686.0807768146
+                      },
+                      {
+                        "year": 2025,
+                        "total": -2895.0121176708
+                      },
+                      {
+                        "year": 2030,
+                        "total": -5560.0094028024
+                      },
+                      {
+                        "year": 2035,
+                        "total": -7817.5570710583
+                      },
+                      {
+                        "year": 2040,
+                        "total": -10483.7128463683
+                      },
+                      {
+                        "year": 2045,
+                        "total": -11683.5394965148
+                      },
+                      {
+                        "year": 2050,
+                        "total": -12618.9750287847
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12356.3507195645
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5749.3714585947
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6793.9984876523
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6710.4391711815
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6835.8077624994
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7560.2196869035
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5030.1891471269
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2992.002036728
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4891.8641697335
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3309.0222618584
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3322.4627195146
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3097.233250137
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2970.5603470215
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2697.3
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2697.3
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2697.3
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 71.61470564
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.9733409022
+                      },
+                      {
+                        "year": 2025,
+                        "total": 36.6371997825
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.4021303262
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.631359287
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.4567135806
+                      },
+                      {
+                        "year": 2045,
+                        "total": 17.0245901155
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.9220056024
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.6724979006
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0760921837
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6.087183117
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.0917796771
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.0830788387
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.0743966917
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.030128332
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.2423042778
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 38051.4136106452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 31292.6376232757
+                      },
+                      {
+                        "year": 2025,
+                        "total": 25518.2415276045
+                      },
+                      {
+                        "year": 2030,
+                        "total": 22577.6730714806
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18911.8895234116
+                      },
+                      {
+                        "year": 2040,
+                        "total": 15194.6620491924
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13045.9956309404
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10145.5086821764
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by energy source",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 62.7723110653
+                      },
+                      {
+                        "year": 2020,
+                        "total": 89.4272220837
+                      },
+                      {
+                        "year": 2025,
+                        "total": 93.0985081543
+                      },
+                      {
+                        "year": 2030,
+                        "total": 136.7158634804
+                      },
+                      {
+                        "year": 2035,
+                        "total": 114.7657984171
+                      },
+                      {
+                        "year": 2040,
+                        "total": 159.9935503906
+                      },
+                      {
+                        "year": 2045,
+                        "total": 244.1957059792
+                      },
+                      {
+                        "year": 2050,
+                        "total": 291.5538455798
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12.25031828
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.1306
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.8897066306
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 98.5149163447
+                      },
+                      {
+                        "year": 2020,
+                        "total": 101.0210621601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 99.2562661052
+                      },
+                      {
+                        "year": 2030,
+                        "total": 92.9822379445
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.6600962556
+                      },
+                      {
+                        "year": 2040,
+                        "total": 107.0311687486
+                      },
+                      {
+                        "year": 2045,
+                        "total": 120.6964154174
+                      },
+                      {
+                        "year": 2050,
+                        "total": 112.4143653159
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 109.9068479127
+                      },
+                      {
+                        "year": 2020,
+                        "total": 115.4894606343
+                      },
+                      {
+                        "year": 2025,
+                        "total": 134.6151063469
+                      },
+                      {
+                        "year": 2030,
+                        "total": 153.1135321974
+                      },
+                      {
+                        "year": 2035,
+                        "total": 158.2451466615
+                      },
+                      {
+                        "year": 2040,
+                        "total": 186.7293509923
+                      },
+                      {
+                        "year": 2045,
+                        "total": 192.6893691471
+                      },
+                      {
+                        "year": 2050,
+                        "total": 204.4147389547
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 107.6649456021
+                      },
+                      {
+                        "year": 2020,
+                        "total": 88.3618522227
+                      },
+                      {
+                        "year": 2025,
+                        "total": 77.7466377736
+                      },
+                      {
+                        "year": 2030,
+                        "total": 48.4895398707
+                      },
+                      {
+                        "year": 2035,
+                        "total": 47.3227155134
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.5506132197
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.6428179191
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.2958250804
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 276.3362661812
+                      },
+                      {
+                        "year": 2020,
+                        "total": 259.6521467243
+                      },
+                      {
+                        "year": 2025,
+                        "total": 194.3743012136
+                      },
+                      {
+                        "year": 2030,
+                        "total": 131.4173431871
+                      },
+                      {
+                        "year": 2035,
+                        "total": 94.416460044
+                      },
+                      {
+                        "year": 2040,
+                        "total": 64.2622345218
+                      },
+                      {
+                        "year": 2045,
+                        "total": 48.0718524049
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.3089048242
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.219885173
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.7728208932
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.2675673573
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3094.4085436496
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4880.4964241013
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4887.7948511177
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5831.0836533284
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7483.2552649934
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.31815
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2121
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.1934784765
+                      },
+                      {
+                        "year": 2030,
+                        "total": 32.5604072116
+                      },
+                      {
+                        "year": 2035,
+                        "total": 46.9559120749
+                      },
+                      {
+                        "year": 2040,
+                        "total": 65.1763693759
+                      },
+                      {
+                        "year": 2045,
+                        "total": 75.0655011565
+                      },
+                      {
+                        "year": 2050,
+                        "total": 83.8255604783
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0753746192
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.9389745903
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.4192039196
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.7470616639
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.5652447603
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.7204804299
+                      },
+                      {
+                        "year": 2045,
+                        "total": 67.6362496297
+                      },
+                      {
+                        "year": 2050,
+                        "total": 101.333285207
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.5009385965
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.607843076
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.7109709142
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.315987073
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 303.8379695837
+                      },
+                      {
+                        "year": 2020,
+                        "total": 346.7050025867
+                      },
+                      {
+                        "year": 2025,
+                        "total": 391.8546062667
+                      },
+                      {
+                        "year": 2030,
+                        "total": 416.7537451837
+                      },
+                      {
+                        "year": 2035,
+                        "total": 401.4188375499
+                      },
+                      {
+                        "year": 2040,
+                        "total": 389.8898214958
+                      },
+                      {
+                        "year": 2045,
+                        "total": 374.0281083004
+                      },
+                      {
+                        "year": 2050,
+                        "total": 359.8477525148
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 40.8047256077
+                      },
+                      {
+                        "year": 2020,
+                        "total": 40.4375399472
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.4026272166
+                      },
+                      {
+                        "year": 2030,
+                        "total": 39.6890989137
+                      },
+                      {
+                        "year": 2035,
+                        "total": 25.7523972527
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.6217346305
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.3017759014
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22.366295121
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 113.6011472912
+                      },
+                      {
+                        "year": 2020,
+                        "total": 123.9135887707
+                      },
+                      {
+                        "year": 2025,
+                        "total": 120.7675202816
+                      },
+                      {
+                        "year": 2030,
+                        "total": 115.0750285009
+                      },
+                      {
+                        "year": 2035,
+                        "total": 107.2675618976
+                      },
+                      {
+                        "year": 2040,
+                        "total": 101.2941992676
+                      },
+                      {
+                        "year": 2045,
+                        "total": 98.3582710004
+                      },
+                      {
+                        "year": 2050,
+                        "total": 97.5912064295
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 256.4168974928
+                      },
+                      {
+                        "year": 2020,
+                        "total": 258.6446237272
+                      },
+                      {
+                        "year": 2025,
+                        "total": 271.1004639149
+                      },
+                      {
+                        "year": 2030,
+                        "total": 285.0159567463
+                      },
+                      {
+                        "year": 2035,
+                        "total": 300.0481809248
+                      },
+                      {
+                        "year": 2040,
+                        "total": 308.6210023381
+                      },
+                      {
+                        "year": 2045,
+                        "total": 305.8952572534
+                      },
+                      {
+                        "year": 2050,
+                        "total": 310.5593034434
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 42.296148991
+                      },
+                      {
+                        "year": 2020,
+                        "total": 31.3310982273
+                      },
+                      {
+                        "year": 2025,
+                        "total": 33.386042231
+                      },
+                      {
+                        "year": 2030,
+                        "total": 26.1282797474
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.3611551082
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.9071560885
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.7956004579
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.6977034895
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 297.458924137
+                      },
+                      {
+                        "year": 2020,
+                        "total": 266.0272350847
+                      },
+                      {
+                        "year": 2025,
+                        "total": 193.1308591226
+                      },
+                      {
+                        "year": 2030,
+                        "total": 137.0681204417
+                      },
+                      {
+                        "year": 2035,
+                        "total": 110.7109109417
+                      },
+                      {
+                        "year": 2040,
+                        "total": 77.3237561064
+                      },
+                      {
+                        "year": 2045,
+                        "total": 61.4029807283
+                      },
+                      {
+                        "year": 2050,
+                        "total": 44.6218398749
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.5
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.7039072106
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.4365393575
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.6295456723
+                      },
+                      {
+                        "year": 2035,
+                        "total": 40.0505050695
+                      },
+                      {
+                        "year": 2040,
+                        "total": 45.0933571574
+                      },
+                      {
+                        "year": 2045,
+                        "total": 46.4076994149
+                      },
+                      {
+                        "year": 2050,
+                        "total": 51.2873816527
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.653231217
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.6549704727
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.0059367541
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.8272907899
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.474737066
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.0350057807
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.1923314797
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12.3293532453
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.7418185615
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.0781310281
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.9040270025
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.0041454612
+                      },
+                      {
+                        "year": 2035,
+                        "total": 34.4523895087
+                      },
+                      {
+                        "year": 2040,
+                        "total": 38.0484803431
+                      },
+                      {
+                        "year": 2045,
+                        "total": 41.9385825372
+                      },
+                      {
+                        "year": 2050,
+                        "total": 47.7192952849
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.2857948122
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.2076457594
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.1308574461
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7.8057343285
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.8839631301
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9.0777192276
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.9850564515
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.7299285784
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 36.4859835144
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32.6364047221
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.8921963683
+                      },
+                      {
+                        "year": 2030,
+                        "total": 28.4377339244
+                      },
+                      {
+                        "year": 2035,
+                        "total": 22.8939727687
+                      },
+                      {
+                        "year": 2040,
+                        "total": 50.3537465829
+                      },
+                      {
+                        "year": 2045,
+                        "total": 110.7107073257
+                      },
+                      {
+                        "year": 2050,
+                        "total": 288.9842514083
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 26.47412
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.4626432701
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.5097196789
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.5602242694
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.6882936108
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.6269624942
+                      },
+                      {
+                        "year": 2025,
+                        "total": 21.5263391055
+                      },
+                      {
+                        "year": 2030,
+                        "total": 22.408377586
+                      },
+                      {
+                        "year": 2035,
+                        "total": 22.6206777627
+                      },
+                      {
+                        "year": 2040,
+                        "total": 24.3475718968
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.1944298493
+                      },
+                      {
+                        "year": 2050,
+                        "total": 27.2930410757
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 339.7548248624
+                      },
+                      {
+                        "year": 2020,
+                        "total": 354.2450408856
+                      },
+                      {
+                        "year": 2025,
+                        "total": 368.6325735548
+                      },
+                      {
+                        "year": 2030,
+                        "total": 395.6201119911
+                      },
+                      {
+                        "year": 2035,
+                        "total": 420.3204828676
+                      },
+                      {
+                        "year": 2040,
+                        "total": 436.8148303215
+                      },
+                      {
+                        "year": 2045,
+                        "total": 450.7771732625
+                      },
+                      {
+                        "year": 2050,
+                        "total": 468.8290579799
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 110.2451762314
+                      },
+                      {
+                        "year": 2020,
+                        "total": 152.7213311879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 194.3418999933
+                      },
+                      {
+                        "year": 2030,
+                        "total": 201.1974987473
+                      },
+                      {
+                        "year": 2035,
+                        "total": 169.8169688498
+                      },
+                      {
+                        "year": 2040,
+                        "total": 132.7048145457
+                      },
+                      {
+                        "year": 2045,
+                        "total": 116.2164885527
+                      },
+                      {
+                        "year": 2050,
+                        "total": 96.4803669379
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 271.0340034832
+                      },
+                      {
+                        "year": 2020,
+                        "total": 245.8314772017
+                      },
+                      {
+                        "year": 2025,
+                        "total": 236.3975888503
+                      },
+                      {
+                        "year": 2030,
+                        "total": 203.7309875045
+                      },
+                      {
+                        "year": 2035,
+                        "total": 155.9997843899
+                      },
+                      {
+                        "year": 2040,
+                        "total": 112.4407920006
+                      },
+                      {
+                        "year": 2045,
+                        "total": 77.5442832838
+                      },
+                      {
+                        "year": 2050,
+                        "total": 50.8443721667
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.7275022562
+                      },
+                      {
+                        "year": 2025,
+                        "total": 27.947588299
+                      },
+                      {
+                        "year": 2030,
+                        "total": 27.4911906505
+                      },
+                      {
+                        "year": 2035,
+                        "total": 225.5373077176
+                      },
+                      {
+                        "year": 2040,
+                        "total": 575.2236389422
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2883.9113899714
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5827.2250001935
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.4949475248
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.3751200611
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.5871877662
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.1717773062
+                      },
+                      {
+                        "year": 2045,
+                        "total": 43.5797755971
+                      },
+                      {
+                        "year": 2050,
+                        "total": 43.9178675693
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1305336494
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6.3768839498
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.8480816572
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12.3083709156
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.8795753623
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.2323905875
+                      },
+                      {
+                        "year": 2045,
+                        "total": 46.3787925059
+                      },
+                      {
+                        "year": 2050,
+                        "total": 45.6608962311
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.404
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2976842105
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1913684211
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 114.2273879345
+                      },
+                      {
+                        "year": 2020,
+                        "total": 286.3164841282
+                      },
+                      {
+                        "year": 2025,
+                        "total": 352.7922801006
+                      },
+                      {
+                        "year": 2030,
+                        "total": 298.1154466176
+                      },
+                      {
+                        "year": 2035,
+                        "total": 283.8756251202
+                      },
+                      {
+                        "year": 2040,
+                        "total": 236.472393855
+                      },
+                      {
+                        "year": 2045,
+                        "total": 330.2938969083
+                      },
+                      {
+                        "year": 2050,
+                        "total": 409.9245569191
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.4997748351
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 133.7819077407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 131.327546171
+                      },
+                      {
+                        "year": 2025,
+                        "total": 136.2858577179
+                      },
+                      {
+                        "year": 2030,
+                        "total": 134.129299656
+                      },
+                      {
+                        "year": 2035,
+                        "total": 138.5007727904
+                      },
+                      {
+                        "year": 2040,
+                        "total": 139.9666875174
+                      },
+                      {
+                        "year": 2045,
+                        "total": 143.434567232
+                      },
+                      {
+                        "year": 2050,
+                        "total": 143.8328536021
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 454.1602794467
+                      },
+                      {
+                        "year": 2020,
+                        "total": 458.513539
+                      },
+                      {
+                        "year": 2025,
+                        "total": 468.356378462
+                      },
+                      {
+                        "year": 2030,
+                        "total": 544.6874498288
+                      },
+                      {
+                        "year": 2035,
+                        "total": 567.3298373148
+                      },
+                      {
+                        "year": 2040,
+                        "total": 604.5679990945
+                      },
+                      {
+                        "year": 2045,
+                        "total": 610.116754827
+                      },
+                      {
+                        "year": 2050,
+                        "total": 625.4632744369
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 154.3702684359
+                      },
+                      {
+                        "year": 2020,
+                        "total": 103.2542381418
+                      },
+                      {
+                        "year": 2025,
+                        "total": 82.8595087103
+                      },
+                      {
+                        "year": 2030,
+                        "total": 80.7477179999
+                      },
+                      {
+                        "year": 2035,
+                        "total": 81.9634543242
+                      },
+                      {
+                        "year": 2040,
+                        "total": 103.2131078045
+                      },
+                      {
+                        "year": 2045,
+                        "total": 64.5942798304
+                      },
+                      {
+                        "year": 2050,
+                        "total": 90.240932209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 548.8231563636
+                      },
+                      {
+                        "year": 2020,
+                        "total": 423.1418258544
+                      },
+                      {
+                        "year": 2025,
+                        "total": 372.4713180222
+                      },
+                      {
+                        "year": 2030,
+                        "total": 331.874327202
+                      },
+                      {
+                        "year": 2035,
+                        "total": 281.1238889369
+                      },
+                      {
+                        "year": 2040,
+                        "total": 223.7988356644
+                      },
+                      {
+                        "year": 2045,
+                        "total": 189.3061364104
+                      },
+                      {
+                        "year": 2050,
+                        "total": 105.2328677873
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2695.5225077978
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4920.1029355741
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8181.2934656854
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8473.0596691959
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8540.2552492963
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.051730058
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.2072262126
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.2453558563
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.2939997817
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.3405831603
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 78.7529098564
+                      },
+                      {
+                        "year": 2025,
+                        "total": 99.6337511514
+                      },
+                      {
+                        "year": 2030,
+                        "total": 101.2814685918
+                      },
+                      {
+                        "year": 2035,
+                        "total": 102.736385269
+                      },
+                      {
+                        "year": 2040,
+                        "total": 85.5407597728
+                      },
+                      {
+                        "year": 2045,
+                        "total": 109.99462353
+                      },
+                      {
+                        "year": 2050,
+                        "total": 147.9609255442
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by sector",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 212.5521014782
+                      },
+                      {
+                        "year": 2020,
+                        "total": 200.1919963575
+                      },
+                      {
+                        "year": 2025,
+                        "total": 192.4137889902
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3282.8319847486
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5070.4777009645
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5088.5698333922
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6044.196599286
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7692.7368704898
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.9500046912
+                      },
+                      {
+                        "year": 2020,
+                        "total": 175.5134693471
+                      },
+                      {
+                        "year": 2025,
+                        "total": 160.9522178414
+                      },
+                      {
+                        "year": 2030,
+                        "total": 145.13365088
+                      },
+                      {
+                        "year": 2035,
+                        "total": 145.8788885082
+                      },
+                      {
+                        "year": 2040,
+                        "total": 144.9256417609
+                      },
+                      {
+                        "year": 2045,
+                        "total": 142.6978528504
+                      },
+                      {
+                        "year": 2050,
+                        "total": 145.2274593124
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 239.0885961292
+                      },
+                      {
+                        "year": 2020,
+                        "total": 236.5937835488
+                      },
+                      {
+                        "year": 2025,
+                        "total": 217.5300355618
+                      },
+                      {
+                        "year": 2030,
+                        "total": 204.9771495134
+                      },
+                      {
+                        "year": 2035,
+                        "total": 187.7123608453
+                      },
+                      {
+                        "year": 2040,
+                        "total": 186.0982302457
+                      },
+                      {
+                        "year": 2045,
+                        "total": 191.1750441539
+                      },
+                      {
+                        "year": 2050,
+                        "total": 197.3068104247
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 641.7355917489
+                      },
+                      {
+                        "year": 2020,
+                        "total": 653.0529217461
+                      },
+                      {
+                        "year": 2025,
+                        "total": 678.5319905303
+                      },
+                      {
+                        "year": 2030,
+                        "total": 693.6408566931
+                      },
+                      {
+                        "year": 2035,
+                        "total": 685.5901331549
+                      },
+                      {
+                        "year": 2040,
+                        "total": 681.2864116786
+                      },
+                      {
+                        "year": 2045,
+                        "total": 676.2746705969
+                      },
+                      {
+                        "year": 2050,
+                        "total": 675.8976550473
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 212.7070167302
+                      },
+                      {
+                        "year": 2020,
+                        "total": 218.6167643077
+                      },
+                      {
+                        "year": 2025,
+                        "total": 209.5907274733
+                      },
+                      {
+                        "year": 2030,
+                        "total": 199.3566804602
+                      },
+                      {
+                        "year": 2035,
+                        "total": 192.3725953059
+                      },
+                      {
+                        "year": 2040,
+                        "total": 180.4657895695
+                      },
+                      {
+                        "year": 2045,
+                        "total": 175.1213453154
+                      },
+                      {
+                        "year": 2050,
+                        "total": 164.3506955745
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 217.1540492147
+                      },
+                      {
+                        "year": 2020,
+                        "total": 214.0340567608
+                      },
+                      {
+                        "year": 2025,
+                        "total": 199.9967615899
+                      },
+                      {
+                        "year": 2030,
+                        "total": 182.9994086322
+                      },
+                      {
+                        "year": 2035,
+                        "total": 166.4579099884
+                      },
+                      {
+                        "year": 2040,
+                        "total": 148.1600311876
+                      },
+                      {
+                        "year": 2045,
+                        "total": 129.9096476129
+                      },
+                      {
+                        "year": 2050,
+                        "total": 119.5017090126
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 359.6144712012
+                      },
+                      {
+                        "year": 2020,
+                        "total": 372.7176400738
+                      },
+                      {
+                        "year": 2025,
+                        "total": 399.3823669295
+                      },
+                      {
+                        "year": 2030,
+                        "total": 413.8360590343
+                      },
+                      {
+                        "year": 2035,
+                        "total": 623.0960159805
+                      },
+                      {
+                        "year": 2040,
+                        "total": 993.2321270007
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3338.5535833809
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6312.4646081399
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 163.7994223103
+                      },
+                      {
+                        "year": 2020,
+                        "total": 149.6734832514
+                      },
+                      {
+                        "year": 2025,
+                        "total": 143.9620789823
+                      },
+                      {
+                        "year": 2030,
+                        "total": 135.1428248363
+                      },
+                      {
+                        "year": 2035,
+                        "total": 129.0957484069
+                      },
+                      {
+                        "year": 2040,
+                        "total": 130.8164137613
+                      },
+                      {
+                        "year": 2045,
+                        "total": 131.6313320525
+                      },
+                      {
+                        "year": 2050,
+                        "total": 128.3186729285
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 242.4576959578
+                      },
+                      {
+                        "year": 2020,
+                        "total": 222.1074290322
+                      },
+                      {
+                        "year": 2025,
+                        "total": 224.0432044887
+                      },
+                      {
+                        "year": 2030,
+                        "total": 222.9403565266
+                      },
+                      {
+                        "year": 2035,
+                        "total": 209.055070943
+                      },
+                      {
+                        "year": 2040,
+                        "total": 208.5327018445
+                      },
+                      {
+                        "year": 2045,
+                        "total": 216.1955951684
+                      },
+                      {
+                        "year": 2050,
+                        "total": 225.5813207968
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 619.5163778188
+                      },
+                      {
+                        "year": 2020,
+                        "total": 600.4603298972
+                      },
+                      {
+                        "year": 2025,
+                        "total": 590.2603447501
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3281.4105824906
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5477.0733311364
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8742.6623293449
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9023.2487928288
+                      },
+                      {
+                        "year": 2050,
+                        "total": 9079.3373955097
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 242.423285743
+                      },
+                      {
+                        "year": 2020,
+                        "total": 223.950769662
+                      },
+                      {
+                        "year": 2025,
+                        "total": 208.6704104244
+                      },
+                      {
+                        "year": 2030,
+                        "total": 207.1941055647
+                      },
+                      {
+                        "year": 2035,
+                        "total": 209.3528840263
+                      },
+                      {
+                        "year": 2040,
+                        "total": 199.817071975
+                      },
+                      {
+                        "year": 2045,
+                        "total": 181.9275314647
+                      },
+                      {
+                        "year": 2050,
+                        "total": 182.8712397001
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 531.9482095082
+                      },
+                      {
+                        "year": 2020,
+                        "total": 521.6493686945
+                      },
+                      {
+                        "year": 2025,
+                        "total": 493.3337993088
+                      },
+                      {
+                        "year": 2030,
+                        "total": 477.5963310048
+                      },
+                      {
+                        "year": 2035,
+                        "total": 424.3815866376
+                      },
+                      {
+                        "year": 2040,
+                        "total": 411.6081761468
+                      },
+                      {
+                        "year": 2045,
+                        "total": 417.3140569885
+                      },
+                      {
+                        "year": 2050,
+                        "total": 421.8722697057
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNN_Bio",
+        "indicators": [
+          {
+            "indicator": "Annual system costs",
+            "unit": "MEUR15",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7974.6575955314
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7297.9263261402
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6626.4599510379
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5434.7338823548
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3122.6241224574
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1563.3829192694
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1365.0579275314
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1073.2396052453
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1767.9289454447
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4395.8675294763
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6774.5602872773
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9047.7304647071
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10156.1029680874
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11721.9554814522
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12125.2901510749
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12619.9962737879
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1463.1771281821
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1588.7682413061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2217.4194119719
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2512.2322459799
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2610.2155807176
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2734.0175935049
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2886.3376188567
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3189.5537587938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -703.9785950183
+                      },
+                      {
+                        "year": 2020,
+                        "total": -65.7399054015
+                      },
+                      {
+                        "year": 2025,
+                        "total": -190.837445154
+                      },
+                      {
+                        "year": 2030,
+                        "total": 362.6775557788
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1011.258302784
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1073.0333204135
+                      },
+                      {
+                        "year": 2045,
+                        "total": 863.1443740152
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1462.4187476423
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5362.2079272927
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6428.9151462197
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4977.3272218894
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3734.1099511129
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2085.8156193432
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1140.3237926564
+                      },
+                      {
+                        "year": 2045,
+                        "total": 618.168650404
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1462.0153879247
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9541.4775559034
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18851.446091554
+                      },
+                      {
+                        "year": 2025,
+                        "total": 24765.5379352538
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31001.9944909428
+                      },
+                      {
+                        "year": 2035,
+                        "total": 31854.7841866548
+                      },
+                      {
+                        "year": 2040,
+                        "total": 31279.9196595054
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32462.7499763208
+                      },
+                      {
+                        "year": 2050,
+                        "total": 34104.9504667371
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6653.4064571401
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8072.3333372954
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9732.146143507
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11100.9858964585
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11877.3500754024
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12596.8316030292
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12862.8831091569
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12944.1959844955
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1462.5460310146
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1577.6554204387
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2128.9258936523
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2519.7485483256
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3146.6147093601
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2512.9730068849
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2113.4198157159
+                      },
+                      {
+                        "year": 2050,
+                        "total": -85.5417609499
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8594.6239146141
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8587.7405586156
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10317.727039975
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10591.0747910983
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9092.0196812577
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7523.8572810257
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6563.4352579795
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5645.3736674615
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2283.2342242364
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4651.7147622811
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6334.5772213784
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8199.9285515479
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9367.2430645271
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10127.5111804388
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10652.8533821071
+                      },
+                      {
+                        "year": 2050,
+                        "total": 11588.5351060189
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4693.3672480132
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4842.4732449752
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5308.0022686895
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5410.9197451691
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5349.2798475444
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5179.2548492734
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4904.6570751773
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4923.7327382767
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -1674.2961103974
+                      },
+                      {
+                        "year": 2020,
+                        "total": -2345.3030122054
+                      },
+                      {
+                        "year": 2025,
+                        "total": -3659.8281117522
+                      },
+                      {
+                        "year": 2030,
+                        "total": -4140.9182746104
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3635.542347808
+                      },
+                      {
+                        "year": 2040,
+                        "total": -2774.1406476108
+                      },
+                      {
+                        "year": 2045,
+                        "total": -1372.7418007314
+                      },
+                      {
+                        "year": 2050,
+                        "total": -30.7870717073
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12701.4712749091
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12938.0472454412
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12019.75955975
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11062.0784769961
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10001.696554619
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8896.0198926322
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9129.6952446724
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8903.5437386432
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3580.2485858115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8086.8764442102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12924.9528076602
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16237.5118077881
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19093.3272804347
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20594.54691319
+                      },
+                      {
+                        "year": 2045,
+                        "total": 21874.9653713663
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22689.81923154
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2384.4752502774
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2992.5190196927
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5047.1436027397
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5314.4178491827
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5805.1622306675
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5893.058490328
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6470.2363672425
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6729.5462045443
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 915.7286744012
+                      },
+                      {
+                        "year": 2020,
+                        "total": 833.3874971682
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1721.7396632539
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1258.4921705061
+                      },
+                      {
+                        "year": 2035,
+                        "total": -522.3306643361
+                      },
+                      {
+                        "year": 2040,
+                        "total": -811.8656796876
+                      },
+                      {
+                        "year": 2045,
+                        "total": -1603.8223889998
+                      },
+                      {
+                        "year": 2050,
+                        "total": -1346.0899149851
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "CO2 emissions",
+            "unit": "kt",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -630.7359375107
+                      },
+                      {
+                        "year": 2020,
+                        "total": -678.1805697942
+                      },
+                      {
+                        "year": 2025,
+                        "total": -739.9976487553
+                      },
+                      {
+                        "year": 2030,
+                        "total": -4540.2636758348
+                      },
+                      {
+                        "year": 2035,
+                        "total": -5876.6875683787
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6307.4822222939
+                      },
+                      {
+                        "year": 2045,
+                        "total": -8189.5531843408
+                      },
+                      {
+                        "year": 2050,
+                        "total": -9264.230270186
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5769.990838357
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5067.6673624201
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4110.1728318239
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2891.67574695
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3456.6906234436
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1863.5070215694
+                      },
+                      {
+                        "year": 2045,
+                        "total": 300.321108844
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10671.170930442
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8955.1999594023
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1169.8530810519
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1185.1498215397
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1116.264799404
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1113.7386277023
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2105.1803691295
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1981.1182400936
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1674.7046200939
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1075.6906024668
+                      },
+                      {
+                        "year": 2035,
+                        "total": 649.7980219101
+                      },
+                      {
+                        "year": 2040,
+                        "total": 316.9407402005
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14.7859990664
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1233.7341415582
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2145.838167216
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1728.4244577202
+                      },
+                      {
+                        "year": 2030,
+                        "total": 310.0126714609
+                      },
+                      {
+                        "year": 2035,
+                        "total": 83.3780537925
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.3953010581
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.3756109452
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.792160034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16453.0643568493
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13786.1567459365
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12211.4616580654
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8858.3840272549
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5966.2900476929
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4186.3743600618
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3678.331837783
+                      },
+                      {
+                        "year": 2050,
+                        "total": 773.6994824498
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1862.1570362933
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1589.9639439434
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1358.1084440792
+                      },
+                      {
+                        "year": 2030,
+                        "total": 992.9801999803
+                      },
+                      {
+                        "year": 2035,
+                        "total": 812.4036508054
+                      },
+                      {
+                        "year": 2040,
+                        "total": 645.5667763177
+                      },
+                      {
+                        "year": 2045,
+                        "total": 552.8369424145
+                      },
+                      {
+                        "year": 2050,
+                        "total": 464.7168899173
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": -870.538694583
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3773.1263439225
+                      },
+                      {
+                        "year": 2040,
+                        "total": -4008.7156779349
+                      },
+                      {
+                        "year": 2045,
+                        "total": -4006.4291865803
+                      },
+                      {
+                        "year": 2050,
+                        "total": -5866.5972614428
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11633.1043949906
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10446.5942260755
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9155.9278586313
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8168.9459815049
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5622.683231404
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5040.4614650327
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5092.7390141267
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4655.5836681989
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2839.7507738735
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3122.4177653767
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3011.7496569573
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2841.3570151134
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2186.622432659
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1677.1600921428
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1434.5760638887
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2008.1452591419
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16477.7619313485
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13681.2923514361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7422.3376982867
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3975.7809596058
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2310.9639477752
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2213.3970075138
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2182.3502921915
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1591.3977391706
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1272.1449884272
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1056.3528179361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 887.0917594995
+                      },
+                      {
+                        "year": 2030,
+                        "total": 735.6676159346
+                      },
+                      {
+                        "year": 2035,
+                        "total": 577.0413349987
+                      },
+                      {
+                        "year": 2040,
+                        "total": 420.0972125012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 282.178221448
+                      },
+                      {
+                        "year": 2050,
+                        "total": 144.6044814632
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 860.4012486909
+                      },
+                      {
+                        "year": 2020,
+                        "total": 801.3892033185
+                      },
+                      {
+                        "year": 2025,
+                        "total": 614.8206275527
+                      },
+                      {
+                        "year": 2030,
+                        "total": 430.1520364817
+                      },
+                      {
+                        "year": 2035,
+                        "total": 285.1193385644
+                      },
+                      {
+                        "year": 2040,
+                        "total": 186.5159989413
+                      },
+                      {
+                        "year": 2045,
+                        "total": 131.3498375686
+                      },
+                      {
+                        "year": 2050,
+                        "total": 88.686362228
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6465.0264137123
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7088.5822704845
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7097.7940173613
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8097.2014365214
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6289.9312605118
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7727.6788568329
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7823.1937660298
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6880.5931132485
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11703.2823467313
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9934.6533920728
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6704.5608041793
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3206.0770209257
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1961.3080923226
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1269.6608249955
+                      },
+                      {
+                        "year": 2045,
+                        "total": 760.5730432801
+                      },
+                      {
+                        "year": 2050,
+                        "total": 457.0314491448
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -6.1305177395
+                      },
+                      {
+                        "year": 2025,
+                        "total": -57.8758287357
+                      },
+                      {
+                        "year": 2030,
+                        "total": -91.7058489091
+                      },
+                      {
+                        "year": 2035,
+                        "total": -457.1176279256
+                      },
+                      {
+                        "year": 2040,
+                        "total": -847.1419967438
+                      },
+                      {
+                        "year": 2045,
+                        "total": -4651.4557029163
+                      },
+                      {
+                        "year": 2050,
+                        "total": -7974.8392530072
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9262.911023482
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8787.9138125637
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9065.683836578
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8927.0839083107
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8840.9805603664
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9220.0286236666
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8351.7337798611
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5937.6310182956
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 618.3838517535
+                      },
+                      {
+                        "year": 2020,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2025,
+                        "total": 702.2596027378
+                      },
+                      {
+                        "year": 2030,
+                        "total": 622.9725434525
+                      },
+                      {
+                        "year": 2035,
+                        "total": 708.0584472906
+                      },
+                      {
+                        "year": 2040,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2045,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2050,
+                        "total": 619.9352334969
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 656.4909342539
+                      },
+                      {
+                        "year": 2020,
+                        "total": 379.0350816853
+                      },
+                      {
+                        "year": 2025,
+                        "total": 515.9909596313
+                      },
+                      {
+                        "year": 2030,
+                        "total": 209.3949641906
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.0701633706
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.0701633706
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.0701633706
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 855.1701938589
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1046.5933233724
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4692.5140655069
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4661.8976464631
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3381.1395128464
+                      },
+                      {
+                        "year": 2040,
+                        "total": 457.8268196472
+                      },
+                      {
+                        "year": 2045,
+                        "total": 344.124685655
+                      },
+                      {
+                        "year": 2050,
+                        "total": 312.0639924732
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16368.9522160439
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12784.0021654813
+                      },
+                      {
+                        "year": 2025,
+                        "total": 14146.7211187746
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12966.7482552758
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9574.2889440516
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6531.2811565625
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5212.5918405327
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4895.2090087415
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -715.1417728884
+                      },
+                      {
+                        "year": 2025,
+                        "total": -1890.9744035518
+                      },
+                      {
+                        "year": 2030,
+                        "total": -5799.0782024512
+                      },
+                      {
+                        "year": 2035,
+                        "total": -7962.0354444176
+                      },
+                      {
+                        "year": 2040,
+                        "total": -10408.0245340031
+                      },
+                      {
+                        "year": 2045,
+                        "total": -12020.8157098717
+                      },
+                      {
+                        "year": 2050,
+                        "total": -15011.782343317
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10230.4878894073
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8708.7343188254
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8325.0314323614
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7625.0658817532
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7695.4623158349
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7971.4426668409
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5306.5107760182
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2933.975930114
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4240.0083425632
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4657.3604790229
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2724.7541112056
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2697.3
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2975.2349582361
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2697.6459884607
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2697.3
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2697.3
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.8726311148
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 55.8213267073
+                      },
+                      {
+                        "year": 2030,
+                        "total": 53.3328820801
+                      },
+                      {
+                        "year": 2035,
+                        "total": 55.1434740206
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.15011415
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.4494185422
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.0573625764
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1302.9177472061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.5941814646
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.0688347578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 863.2895983244
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.2416570475
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.8970513182
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.3498826183
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 35576.1671940638
+                      },
+                      {
+                        "year": 2020,
+                        "total": 29292.231907143
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23563.1883518128
+                      },
+                      {
+                        "year": 2030,
+                        "total": 22282.14060386
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17305.3200980017
+                      },
+                      {
+                        "year": 2040,
+                        "total": 14727.5441075041
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13124.6584639931
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12607.1565305847
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by energy source",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 112.7193673094
+                      },
+                      {
+                        "year": 2020,
+                        "total": 116.9356984441
+                      },
+                      {
+                        "year": 2025,
+                        "total": 106.6045015712
+                      },
+                      {
+                        "year": 2030,
+                        "total": 126.1095896911
+                      },
+                      {
+                        "year": 2035,
+                        "total": 82.6088864442
+                      },
+                      {
+                        "year": 2040,
+                        "total": 127.7790292545
+                      },
+                      {
+                        "year": 2045,
+                        "total": 155.435699708
+                      },
+                      {
+                        "year": 2050,
+                        "total": 186.0824950217
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12.25031828
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.1306
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.798811032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 93.0740265752
+                      },
+                      {
+                        "year": 2020,
+                        "total": 86.3029206026
+                      },
+                      {
+                        "year": 2025,
+                        "total": 91.4920314716
+                      },
+                      {
+                        "year": 2030,
+                        "total": 96.7599656186
+                      },
+                      {
+                        "year": 2035,
+                        "total": 118.2942399983
+                      },
+                      {
+                        "year": 2040,
+                        "total": 129.0187460845
+                      },
+                      {
+                        "year": 2045,
+                        "total": 137.6624065453
+                      },
+                      {
+                        "year": 2050,
+                        "total": 133.1808507642
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 111.0298024381
+                      },
+                      {
+                        "year": 2020,
+                        "total": 132.5201378641
+                      },
+                      {
+                        "year": 2025,
+                        "total": 137.3031576883
+                      },
+                      {
+                        "year": 2030,
+                        "total": 154.3836076136
+                      },
+                      {
+                        "year": 2035,
+                        "total": 167.5655970951
+                      },
+                      {
+                        "year": 2040,
+                        "total": 182.0064369093
+                      },
+                      {
+                        "year": 2045,
+                        "total": 197.5386182574
+                      },
+                      {
+                        "year": 2050,
+                        "total": 211.8876091814
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 65.938960312
+                      },
+                      {
+                        "year": 2020,
+                        "total": 78.9119400074
+                      },
+                      {
+                        "year": 2025,
+                        "total": 82.9374319445
+                      },
+                      {
+                        "year": 2030,
+                        "total": 48.0347700076
+                      },
+                      {
+                        "year": 2035,
+                        "total": 53.8084304929
+                      },
+                      {
+                        "year": 2040,
+                        "total": 29.4556035028
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2793139804
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1191226809
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 275.3499949119
+                      },
+                      {
+                        "year": 2020,
+                        "total": 233.3272706325
+                      },
+                      {
+                        "year": 2025,
+                        "total": 194.0184530275
+                      },
+                      {
+                        "year": 2030,
+                        "total": 141.9283946368
+                      },
+                      {
+                        "year": 2035,
+                        "total": 98.0574794303
+                      },
+                      {
+                        "year": 2040,
+                        "total": 64.8766516113
+                      },
+                      {
+                        "year": 2045,
+                        "total": 45.1097412055
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.6698946775
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6.2443082245
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5861351225
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6.0908420779
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3775.773691668
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5568.0461592488
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5738.9040108993
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7167.2026002893
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8206.8966948787
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 26.7754704991
+                      },
+                      {
+                        "year": 2020,
+                        "total": 34.2331678971
+                      },
+                      {
+                        "year": 2025,
+                        "total": 38.7958822768
+                      },
+                      {
+                        "year": 2030,
+                        "total": 47.3475151879
+                      },
+                      {
+                        "year": 2035,
+                        "total": 41.0140828589
+                      },
+                      {
+                        "year": 2040,
+                        "total": 58.1305618193
+                      },
+                      {
+                        "year": 2045,
+                        "total": 62.1674864953
+                      },
+                      {
+                        "year": 2050,
+                        "total": 70.8469052594
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 21.535917395
+                      },
+                      {
+                        "year": 2025,
+                        "total": 31.8482093133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 32.7334108013
+                      },
+                      {
+                        "year": 2035,
+                        "total": 49.895350898
+                      },
+                      {
+                        "year": 2040,
+                        "total": 32.9991872186
+                      },
+                      {
+                        "year": 2045,
+                        "total": 35.2838061267
+                      },
+                      {
+                        "year": 2050,
+                        "total": 24.0337109736
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.5009385965
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.1401601187
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.7109709142
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.3153906261
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 304.0751935321
+                      },
+                      {
+                        "year": 2020,
+                        "total": 345.6511462413
+                      },
+                      {
+                        "year": 2025,
+                        "total": 372.5209826294
+                      },
+                      {
+                        "year": 2030,
+                        "total": 414.8071909235
+                      },
+                      {
+                        "year": 2035,
+                        "total": 408.8833269174
+                      },
+                      {
+                        "year": 2040,
+                        "total": 389.947864579
+                      },
+                      {
+                        "year": 2045,
+                        "total": 370.1273399887
+                      },
+                      {
+                        "year": 2050,
+                        "total": 344.0286301891
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 40.8047256077
+                      },
+                      {
+                        "year": 2020,
+                        "total": 40.4375399472
+                      },
+                      {
+                        "year": 2025,
+                        "total": 37.5369638958
+                      },
+                      {
+                        "year": 2030,
+                        "total": 40.3652997457
+                      },
+                      {
+                        "year": 2035,
+                        "total": 26.273668044
+                      },
+                      {
+                        "year": 2040,
+                        "total": 24.069864506
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.6456858218
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.7557207608
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 113.60151921
+                      },
+                      {
+                        "year": 2020,
+                        "total": 123.9160338277
+                      },
+                      {
+                        "year": 2025,
+                        "total": 120.7583367047
+                      },
+                      {
+                        "year": 2030,
+                        "total": 114.1442725954
+                      },
+                      {
+                        "year": 2035,
+                        "total": 106.2545317645
+                      },
+                      {
+                        "year": 2040,
+                        "total": 101.4137614154
+                      },
+                      {
+                        "year": 2045,
+                        "total": 101.2529544088
+                      },
+                      {
+                        "year": 2050,
+                        "total": 97.5942975012
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 256.4219824343
+                      },
+                      {
+                        "year": 2020,
+                        "total": 258.2998345705
+                      },
+                      {
+                        "year": 2025,
+                        "total": 270.5051023138
+                      },
+                      {
+                        "year": 2030,
+                        "total": 284.0923261558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 299.1258863144
+                      },
+                      {
+                        "year": 2040,
+                        "total": 308.4904427008
+                      },
+                      {
+                        "year": 2045,
+                        "total": 305.0499020728
+                      },
+                      {
+                        "year": 2050,
+                        "total": 311.4677852126
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 42.296148991
+                      },
+                      {
+                        "year": 2020,
+                        "total": 31.7108642362
+                      },
+                      {
+                        "year": 2025,
+                        "total": 28.4649888764
+                      },
+                      {
+                        "year": 2030,
+                        "total": 25.8625264127
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.3065681439
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.8649113953
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.7650904017
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3361863592
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 297.2220208785
+                      },
+                      {
+                        "year": 2020,
+                        "total": 265.9684198339
+                      },
+                      {
+                        "year": 2025,
+                        "total": 212.4769876614
+                      },
+                      {
+                        "year": 2030,
+                        "total": 139.5223079278
+                      },
+                      {
+                        "year": 2035,
+                        "total": 102.6536642466
+                      },
+                      {
+                        "year": 2040,
+                        "total": 76.3449332084
+                      },
+                      {
+                        "year": 2045,
+                        "total": 61.6560805593
+                      },
+                      {
+                        "year": 2050,
+                        "total": 58.7839142183
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.5
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.7039072106
+                      },
+                      {
+                        "year": 2025,
+                        "total": 26.3470097864
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.3279904519
+                      },
+                      {
+                        "year": 2035,
+                        "total": 43.1327477123
+                      },
+                      {
+                        "year": 2040,
+                        "total": 45.5976611815
+                      },
+                      {
+                        "year": 2045,
+                        "total": 46.9120034389
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.6900058755
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.653231217
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.6549704727
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.9982847066
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.8272907899
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.4774644873
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.037733202
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.195058901
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12.3356190524
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.7418185615
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.0181522453
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.9493356818
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.0485243772
+                      },
+                      {
+                        "year": 2035,
+                        "total": 33.2059800946
+                      },
+                      {
+                        "year": 2040,
+                        "total": 36.9011858424
+                      },
+                      {
+                        "year": 2045,
+                        "total": 40.0199411557
+                      },
+                      {
+                        "year": 2050,
+                        "total": 39.6596603005
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.2857948122
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.3461678013
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7.6793680692
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.5232677692
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.1642861047
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9.2296429128
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.0464272399
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.7545268655
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 53.7786997585
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9606392219
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.4294108519
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.9902691515
+                      },
+                      {
+                        "year": 2035,
+                        "total": 26.114946945
+                      },
+                      {
+                        "year": 2040,
+                        "total": 49.8211404248
+                      },
+                      {
+                        "year": 2045,
+                        "total": 111.522266812
+                      },
+                      {
+                        "year": 2050,
+                        "total": 168.7654381206
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 26.6536732308
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.4125764957
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.43164598
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.5448319579
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0391294913
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.8519355111
+                      },
+                      {
+                        "year": 2050,
+                        "total": 11.1740045383
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.6653956279
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.0563317539
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.6723864561
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.4119647658
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.4131157532
+                      },
+                      {
+                        "year": 2040,
+                        "total": 22.6036529722
+                      },
+                      {
+                        "year": 2045,
+                        "total": 24.5880923423
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.7286517979
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 344.9600779698
+                      },
+                      {
+                        "year": 2020,
+                        "total": 376.6338016523
+                      },
+                      {
+                        "year": 2025,
+                        "total": 377.4127591272
+                      },
+                      {
+                        "year": 2030,
+                        "total": 396.0873046095
+                      },
+                      {
+                        "year": 2035,
+                        "total": 421.4582986271
+                      },
+                      {
+                        "year": 2040,
+                        "total": 438.055693453
+                      },
+                      {
+                        "year": 2045,
+                        "total": 450.2211846335
+                      },
+                      {
+                        "year": 2050,
+                        "total": 468.8717114673
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 94.8271195703
+                      },
+                      {
+                        "year": 2020,
+                        "total": 99.8778965692
+                      },
+                      {
+                        "year": 2025,
+                        "total": 177.749223127
+                      },
+                      {
+                        "year": 2030,
+                        "total": 185.8990372889
+                      },
+                      {
+                        "year": 2035,
+                        "total": 170.770262577
+                      },
+                      {
+                        "year": 2040,
+                        "total": 128.6574490483
+                      },
+                      {
+                        "year": 2045,
+                        "total": 108.3022477858
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.3522360892
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 251.5608167131
+                      },
+                      {
+                        "year": 2020,
+                        "total": 203.090817593
+                      },
+                      {
+                        "year": 2025,
+                        "total": 225.6008658032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 205.6182892
+                      },
+                      {
+                        "year": 2035,
+                        "total": 157.9772346988
+                      },
+                      {
+                        "year": 2040,
+                        "total": 116.1204574661
+                      },
+                      {
+                        "year": 2045,
+                        "total": 99.5086423131
+                      },
+                      {
+                        "year": 2050,
+                        "total": 78.434328713
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.1054514873
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.6449826763
+                      },
+                      {
+                        "year": 2030,
+                        "total": 60.5041770905
+                      },
+                      {
+                        "year": 2035,
+                        "total": 379.127543438
+                      },
+                      {
+                        "year": 2040,
+                        "total": 608.6272723099
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4041.8931229092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7199.0913178075
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.5204156548
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.7448172442
+                      },
+                      {
+                        "year": 2030,
+                        "total": 13.4639478742
+                      },
+                      {
+                        "year": 2035,
+                        "total": 22.966030695
+                      },
+                      {
+                        "year": 2040,
+                        "total": 37.417698112
+                      },
+                      {
+                        "year": 2045,
+                        "total": 45.5085845784
+                      },
+                      {
+                        "year": 2050,
+                        "total": 46.1043516307
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.8065958662
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.6712025057
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.3543559795
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.7608714823
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20.7609694911
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32.1414640486
+                      },
+                      {
+                        "year": 2050,
+                        "total": 39.8585752218
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.404
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2976842105
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1913684211
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 208.4812116485
+                      },
+                      {
+                        "year": 2020,
+                        "total": 262.0568173491
+                      },
+                      {
+                        "year": 2025,
+                        "total": 310.2614648341
+                      },
+                      {
+                        "year": 2030,
+                        "total": 280.8505179379
+                      },
+                      {
+                        "year": 2035,
+                        "total": 234.8289314617
+                      },
+                      {
+                        "year": 2040,
+                        "total": 206.1539486678
+                      },
+                      {
+                        "year": 2045,
+                        "total": 279.6624097622
+                      },
+                      {
+                        "year": 2050,
+                        "total": 362.4009207824
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.4988216334
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.2340815378
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3185434333
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.08567224
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.9427490849
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.7196003956
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 111.287240446
+                      },
+                      {
+                        "year": 2020,
+                        "total": 109.4660656208
+                      },
+                      {
+                        "year": 2025,
+                        "total": 109.9810476911
+                      },
+                      {
+                        "year": 2030,
+                        "total": 119.1035612804
+                      },
+                      {
+                        "year": 2035,
+                        "total": 136.1356682629
+                      },
+                      {
+                        "year": 2040,
+                        "total": 141.6786975003
+                      },
+                      {
+                        "year": 2045,
+                        "total": 146.5806824356
+                      },
+                      {
+                        "year": 2050,
+                        "total": 147.50863001
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 414.7655752055
+                      },
+                      {
+                        "year": 2020,
+                        "total": 430.5411775528
+                      },
+                      {
+                        "year": 2025,
+                        "total": 452.1032300612
+                      },
+                      {
+                        "year": 2030,
+                        "total": 533.5641841245
+                      },
+                      {
+                        "year": 2035,
+                        "total": 580.0879883206
+                      },
+                      {
+                        "year": 2040,
+                        "total": 598.0687874525
+                      },
+                      {
+                        "year": 2045,
+                        "total": 610.8355918972
+                      },
+                      {
+                        "year": 2050,
+                        "total": 623.4214778744
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 154.7463314303
+                      },
+                      {
+                        "year": 2020,
+                        "total": 157.9059486816
+                      },
+                      {
+                        "year": 2025,
+                        "total": 112.7630474183
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.5716297291
+                      },
+                      {
+                        "year": 2035,
+                        "total": 113.3155474106
+                      },
+                      {
+                        "year": 2040,
+                        "total": 105.031523678
+                      },
+                      {
+                        "year": 2045,
+                        "total": 132.0971530506
+                      },
+                      {
+                        "year": 2050,
+                        "total": 95.4613718897
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 481.4143968725
+                      },
+                      {
+                        "year": 2020,
+                        "total": 392.6896656259
+                      },
+                      {
+                        "year": 2025,
+                        "total": 342.2225822529
+                      },
+                      {
+                        "year": 2030,
+                        "total": 325.8645737339
+                      },
+                      {
+                        "year": 2035,
+                        "total": 258.7375278104
+                      },
+                      {
+                        "year": 2040,
+                        "total": 220.7040491564
+                      },
+                      {
+                        "year": 2045,
+                        "total": 144.7379045952
+                      },
+                      {
+                        "year": 2050,
+                        "total": 134.5945955776
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 35.6551980497
+                      },
+                      {
+                        "year": 2025,
+                        "total": 54.0029893469
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3569.0147187434
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5731.9114259129
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8522.3449417074
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9469.2257818898
+                      },
+                      {
+                        "year": 2050,
+                        "total": 11661.0478223443
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0592733435
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.1549192864
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.2496934672
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.2894547875
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.3375640865
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 50.197027724
+                      },
+                      {
+                        "year": 2025,
+                        "total": 105.5876871916
+                      },
+                      {
+                        "year": 2030,
+                        "total": 90.3958792978
+                      },
+                      {
+                        "year": 2035,
+                        "total": 96.1478468159
+                      },
+                      {
+                        "year": 2040,
+                        "total": 80.6464567481
+                      },
+                      {
+                        "year": 2045,
+                        "total": 82.4570385977
+                      },
+                      {
+                        "year": 2050,
+                        "total": 102.204716078
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by sector",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 213.695961161
+                      },
+                      {
+                        "year": 2020,
+                        "total": 200.7336614691
+                      },
+                      {
+                        "year": 2025,
+                        "total": 198.1186924347
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3968.0645067163
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5769.2885252494
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5949.3038842935
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7379.1962503141
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8416.1062461429
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.0858320968
+                      },
+                      {
+                        "year": 2020,
+                        "total": 179.6327020739
+                      },
+                      {
+                        "year": 2025,
+                        "total": 164.0585881501
+                      },
+                      {
+                        "year": 2030,
+                        "total": 152.9595145505
+                      },
+                      {
+                        "year": 2035,
+                        "total": 145.8182289342
+                      },
+                      {
+                        "year": 2040,
+                        "total": 142.3552294055
+                      },
+                      {
+                        "year": 2045,
+                        "total": 142.0192589161
+                      },
+                      {
+                        "year": 2050,
+                        "total": 142.9273384062
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 239.0802112496
+                      },
+                      {
+                        "year": 2020,
+                        "total": 228.4442859154
+                      },
+                      {
+                        "year": 2025,
+                        "total": 217.7113029702
+                      },
+                      {
+                        "year": 2030,
+                        "total": 206.97026694
+                      },
+                      {
+                        "year": 2035,
+                        "total": 188.4887694768
+                      },
+                      {
+                        "year": 2040,
+                        "total": 186.1611923007
+                      },
+                      {
+                        "year": 2045,
+                        "total": 191.7363101795
+                      },
+                      {
+                        "year": 2050,
+                        "total": 197.824121693
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 641.7413692992
+                      },
+                      {
+                        "year": 2020,
+                        "total": 652.2332391091
+                      },
+                      {
+                        "year": 2025,
+                        "total": 679.9949616081
+                      },
+                      {
+                        "year": 2030,
+                        "total": 694.502091305
+                      },
+                      {
+                        "year": 2035,
+                        "total": 685.9869178093
+                      },
+                      {
+                        "year": 2040,
+                        "total": 680.4468790067
+                      },
+                      {
+                        "year": 2045,
+                        "total": 672.6825734147
+                      },
+                      {
+                        "year": 2050,
+                        "total": 677.7184310588
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 212.7070167302
+                      },
+                      {
+                        "year": 2020,
+                        "total": 218.6152953331
+                      },
+                      {
+                        "year": 2025,
+                        "total": 209.6056836147
+                      },
+                      {
+                        "year": 2030,
+                        "total": 199.3764185062
+                      },
+                      {
+                        "year": 2035,
+                        "total": 192.3902173264
+                      },
+                      {
+                        "year": 2040,
+                        "total": 180.4836737713
+                      },
+                      {
+                        "year": 2045,
+                        "total": 175.1394731759
+                      },
+                      {
+                        "year": 2050,
+                        "total": 164.3430660313
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 217.1540492147
+                      },
+                      {
+                        "year": 2020,
+                        "total": 213.8585019443
+                      },
+                      {
+                        "year": 2025,
+                        "total": 199.6367151027
+                      },
+                      {
+                        "year": 2030,
+                        "total": 182.6424873378
+                      },
+                      {
+                        "year": 2035,
+                        "total": 166.100988694
+                      },
+                      {
+                        "year": 2040,
+                        "total": 147.9674481655
+                      },
+                      {
+                        "year": 2045,
+                        "total": 129.8484373978
+                      },
+                      {
+                        "year": 2050,
+                        "total": 116.344849245
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 355.9983980143
+                      },
+                      {
+                        "year": 2020,
+                        "total": 360.030679971
+                      },
+                      {
+                        "year": 2025,
+                        "total": 384.9842117773
+                      },
+                      {
+                        "year": 2030,
+                        "total": 442.2332477707
+                      },
+                      {
+                        "year": 2035,
+                        "total": 777.8023753654
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1028.7387651115
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4498.6148305056
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7672.9175415805
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 160.5308226693
+                      },
+                      {
+                        "year": 2020,
+                        "total": 153.7513312569
+                      },
+                      {
+                        "year": 2025,
+                        "total": 143.0031162713
+                      },
+                      {
+                        "year": 2030,
+                        "total": 134.4280723581
+                      },
+                      {
+                        "year": 2035,
+                        "total": 128.1183554187
+                      },
+                      {
+                        "year": 2040,
+                        "total": 130.4594751594
+                      },
+                      {
+                        "year": 2045,
+                        "total": 129.448866785
+                      },
+                      {
+                        "year": 2050,
+                        "total": 126.0956593532
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 238.0700804465
+                      },
+                      {
+                        "year": 2020,
+                        "total": 218.7371942982
+                      },
+                      {
+                        "year": 2025,
+                        "total": 222.3199888231
+                      },
+                      {
+                        "year": 2030,
+                        "total": 222.3987003711
+                      },
+                      {
+                        "year": 2035,
+                        "total": 209.2495530773
+                      },
+                      {
+                        "year": 2040,
+                        "total": 208.6457260803
+                      },
+                      {
+                        "year": 2045,
+                        "total": 216.0093798225
+                      },
+                      {
+                        "year": 2050,
+                        "total": 225.5813207968
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 619.0005266215
+                      },
+                      {
+                        "year": 2020,
+                        "total": 636.4016815761
+                      },
+                      {
+                        "year": 2025,
+                        "total": 639.3036422661
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4155.1211763603
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6293.0963733265
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9081.4015707277
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10016.2269786733
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12197.5206410862
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 215.4006637898
+                      },
+                      {
+                        "year": 2020,
+                        "total": 206.9641117603
+                      },
+                      {
+                        "year": 2025,
+                        "total": 195.3984129254
+                      },
+                      {
+                        "year": 2030,
+                        "total": 190.3849320891
+                      },
+                      {
+                        "year": 2035,
+                        "total": 189.8960624528
+                      },
+                      {
+                        "year": 2040,
+                        "total": 189.2511191559
+                      },
+                      {
+                        "year": 2045,
+                        "total": 191.724353637
+                      },
+                      {
+                        "year": 2050,
+                        "total": 192.5125428555
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 534.3742528751
+                      },
+                      {
+                        "year": 2020,
+                        "total": 503.1418595874
+                      },
+                      {
+                        "year": 2025,
+                        "total": 484.8633427614
+                      },
+                      {
+                        "year": 2030,
+                        "total": 477.5068184037
+                      },
+                      {
+                        "year": 2035,
+                        "total": 427.2299108837
+                      },
+                      {
+                        "year": 2040,
+                        "total": 402.1024538757
+                      },
+                      {
+                        "year": 2045,
+                        "total": 410.1328852238
+                      },
+                      {
+                        "year": 2050,
+                        "total": 421.9165410972
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNN_CCS",
+        "indicators": [
+          {
+            "indicator": "Annual system costs",
+            "unit": "MEUR15",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7974.6575955314
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7297.9263261402
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6649.4220659763
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5270.3487133165
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2619.8428012317
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1432.5079720429
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1652.0005607003
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1455.190537119
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1767.9289454447
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4395.8675294763
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6764.5830712618
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9135.2912694396
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10432.4015017807
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11998.8238744588
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12343.076883322
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12809.3744961021
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1463.1771281821
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1588.7682413061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2224.3309047192
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2607.7304862935
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2836.7499901303
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3237.7727061005
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3631.1914366069
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3921.5983625714
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -703.9785950183
+                      },
+                      {
+                        "year": 2020,
+                        "total": -65.7399054015
+                      },
+                      {
+                        "year": 2025,
+                        "total": -223.398607204
+                      },
+                      {
+                        "year": 2030,
+                        "total": 357.0480114709
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1127.9983017726
+                      },
+                      {
+                        "year": 2040,
+                        "total": 516.6242976095
+                      },
+                      {
+                        "year": 2045,
+                        "total": -419.2599864762
+                      },
+                      {
+                        "year": 2050,
+                        "total": -446.4097271451
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5362.2079272927
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6428.9151462197
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4815.0411719558
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3648.9278575961
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2164.233835302
+                      },
+                      {
+                        "year": 2040,
+                        "total": 333.96838727
+                      },
+                      {
+                        "year": 2045,
+                        "total": 332.6436573723
+                      },
+                      {
+                        "year": 2050,
+                        "total": -327.4524175345
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9541.4775559034
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18851.446091554
+                      },
+                      {
+                        "year": 2025,
+                        "total": 24701.0693436414
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30978.4719578201
+                      },
+                      {
+                        "year": 2035,
+                        "total": 31820.2467903087
+                      },
+                      {
+                        "year": 2040,
+                        "total": 31212.9660918446
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32312.300642032
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33713.3540204782
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6653.4064571401
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8072.3333372954
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9723.7669891064
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11100.5624776825
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11869.6338347501
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12570.2251393095
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12808.6041364992
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12859.5322258154
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1462.5460310146
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1577.6554204387
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2400.7471742578
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2641.7976324107
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3123.3755411834
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3417.5653618951
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2631.8728381116
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2650.7793247686
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8594.6239146141
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8587.7405586156
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10442.0469223701
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10559.2301213388
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9098.9457749904
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7463.1891693248
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6141.9101494068
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6338.030458565
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2283.2342242364
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4651.7147622811
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6335.0879770173
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8209.7873909285
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9370.2019827058
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10167.9384685505
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10667.8693357112
+                      },
+                      {
+                        "year": 2050,
+                        "total": 11883.9767626836
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4693.3672480132
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4842.4732449752
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5303.3187434987
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5393.1174831461
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5323.4978161752
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5224.5759885691
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5058.6093313036
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5582.159132961
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -1674.2961103974
+                      },
+                      {
+                        "year": 2020,
+                        "total": -2345.3030122054
+                      },
+                      {
+                        "year": 2025,
+                        "total": -3787.0333031179
+                      },
+                      {
+                        "year": 2030,
+                        "total": -4108.19275703
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3657.0856033455
+                      },
+                      {
+                        "year": 2040,
+                        "total": -2745.9525517481
+                      },
+                      {
+                        "year": 2045,
+                        "total": -1138.3011049666
+                      },
+                      {
+                        "year": 2050,
+                        "total": -1895.0082782633
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12701.4712749091
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12938.0472454412
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11777.2377960081
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10914.3153536931
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9624.7059382883
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8920.1178462903
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8467.245756769
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7747.1266706133
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3580.2485858115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8086.8764442102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13020.2659937123
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16305.1763916272
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19392.1494402623
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20860.961080392
+                      },
+                      {
+                        "year": 2045,
+                        "total": 22095.2983037407
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22763.2485543503
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2384.4752502774
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2992.5190196927
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5313.6180220621
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5600.0922654288
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6092.0217108239
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6274.4218171765
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6745.4596445192
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7032.7410974396
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 915.7286744012
+                      },
+                      {
+                        "year": 2020,
+                        "total": 833.3874971682
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1609.6847360642
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1109.3471131484
+                      },
+                      {
+                        "year": 2035,
+                        "total": -594.2882396106
+                      },
+                      {
+                        "year": 2040,
+                        "total": -1188.2371077566
+                      },
+                      {
+                        "year": 2045,
+                        "total": -1074.3117466688
+                      },
+                      {
+                        "year": 2050,
+                        "total": -309.3613193602
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "CO2 emissions",
+            "unit": "kt",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -630.7359375107
+                      },
+                      {
+                        "year": 2020,
+                        "total": -678.1805697942
+                      },
+                      {
+                        "year": 2025,
+                        "total": -732.3167903292
+                      },
+                      {
+                        "year": 2030,
+                        "total": -2328.4626497843
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3451.7488666376
+                      },
+                      {
+                        "year": 2040,
+                        "total": -4228.4340294922
+                      },
+                      {
+                        "year": 2045,
+                        "total": -6163.8200413244
+                      },
+                      {
+                        "year": 2050,
+                        "total": -9274.2934718367
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5769.990838357
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5067.6673624201
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3864.5333477718
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1218.9049284665
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2089.066085029
+                      },
+                      {
+                        "year": 2040,
+                        "total": 48.9629045664
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10671.170930442
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8955.1999594023
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1192.4732434048
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1113.7386275899
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1113.7386277023
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2105.1803691295
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1981.1182400936
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1674.7206232901
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1120.957406534
+                      },
+                      {
+                        "year": 2035,
+                        "total": 699.9221559721
+                      },
+                      {
+                        "year": 2040,
+                        "total": 412.1462618886
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1233.7341415582
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2145.838167216
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1731.5462994998
+                      },
+                      {
+                        "year": 2030,
+                        "total": 314.2426158527
+                      },
+                      {
+                        "year": 2035,
+                        "total": 87.8684837191
+                      },
+                      {
+                        "year": 2040,
+                        "total": 51.7068563622
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.8734381207
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.8553616847
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16453.0643568493
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13786.1567459365
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12423.6622763628
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8269.8570712288
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4925.7725142151
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3821.8793789728
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1958.2079755014
+                      },
+                      {
+                        "year": 2050,
+                        "total": 773.6994824498
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1862.1570362933
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1589.9639439434
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1358.1084440792
+                      },
+                      {
+                        "year": 2030,
+                        "total": 992.9801999803
+                      },
+                      {
+                        "year": 2035,
+                        "total": 812.4036508054
+                      },
+                      {
+                        "year": 2040,
+                        "total": 645.5667763177
+                      },
+                      {
+                        "year": 2045,
+                        "total": 552.8369424145
+                      },
+                      {
+                        "year": 2050,
+                        "total": 464.7168899173
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": -709.4112875265
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3876.3955629913
+                      },
+                      {
+                        "year": 2040,
+                        "total": -4103.5794589916
+                      },
+                      {
+                        "year": 2045,
+                        "total": -4103.2946867068
+                      },
+                      {
+                        "year": 2050,
+                        "total": -5598.3856284649
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11633.1043949906
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10446.5942260755
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9471.7729622206
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8194.8205614058
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5680.2537400425
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5079.1355725653
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5143.8656870073
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4425.7644414435
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2839.7507738735
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3122.4177653767
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3011.7496569573
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2841.3570151134
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2186.622432659
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1677.1600921428
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1434.5760638887
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1212.0264453242
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16477.7619313485
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13681.2923514361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8028.2137152544
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4055.2579913943
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2396.1551666612
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2308.2735993385
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2237.6951324482
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1487.0978912282
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1272.1449884272
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1056.3528179361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 887.0917594995
+                      },
+                      {
+                        "year": 2030,
+                        "total": 735.6676159346
+                      },
+                      {
+                        "year": 2035,
+                        "total": 575.7257710057
+                      },
+                      {
+                        "year": 2040,
+                        "total": 420.0972125012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 282.178221448
+                      },
+                      {
+                        "year": 2050,
+                        "total": 144.6044814632
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 860.4012486909
+                      },
+                      {
+                        "year": 2020,
+                        "total": 801.3892033185
+                      },
+                      {
+                        "year": 2025,
+                        "total": 614.8206275527
+                      },
+                      {
+                        "year": 2030,
+                        "total": 430.1520288823
+                      },
+                      {
+                        "year": 2035,
+                        "total": 285.1193709655
+                      },
+                      {
+                        "year": 2040,
+                        "total": 186.5159989413
+                      },
+                      {
+                        "year": 2045,
+                        "total": 131.3498366688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 88.6863185737
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6465.0264137123
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7088.5822704845
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7103.4818258303
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8075.3008214936
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6251.0114546036
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7688.4205315761
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7816.2875321922
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6913.4365912708
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11703.2823467313
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9934.6533920728
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5777.1518751532
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2961.4986248072
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1962.050921367
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1270.2322319528
+                      },
+                      {
+                        "year": 2045,
+                        "total": 760.6195225219
+                      },
+                      {
+                        "year": 2050,
+                        "total": 478.6755797329
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -6.1305177395
+                      },
+                      {
+                        "year": 2025,
+                        "total": -10.5261404954
+                      },
+                      {
+                        "year": 2030,
+                        "total": -10.4151520887
+                      },
+                      {
+                        "year": 2035,
+                        "total": -10.535019568
+                      },
+                      {
+                        "year": 2040,
+                        "total": -638.6327210086
+                      },
+                      {
+                        "year": 2045,
+                        "total": -2692.887949736
+                      },
+                      {
+                        "year": 2050,
+                        "total": -4355.9117680316
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9262.911023482
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8787.9138125637
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9077.1827261012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8934.6864653812
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8851.5720305544
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9230.6200938546
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7118.601544922
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5659.9599075683
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 618.3838517535
+                      },
+                      {
+                        "year": 2020,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2025,
+                        "total": 705.4378083608
+                      },
+                      {
+                        "year": 2030,
+                        "total": 621.7305744237
+                      },
+                      {
+                        "year": 2035,
+                        "total": 642.2903113072
+                      },
+                      {
+                        "year": 2040,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2045,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2050,
+                        "total": 619.9352334969
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 656.4909342539
+                      },
+                      {
+                        "year": 2020,
+                        "total": 379.0350816853
+                      },
+                      {
+                        "year": 2025,
+                        "total": 515.9909596313
+                      },
+                      {
+                        "year": 2030,
+                        "total": 209.3949641906
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.0701633706
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 855.1701938589
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1046.5933233724
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4961.1307815611
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5408.6948928174
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3458.5747925447
+                      },
+                      {
+                        "year": 2040,
+                        "total": 549.3418734083
+                      },
+                      {
+                        "year": 2045,
+                        "total": 367.4674792066
+                      },
+                      {
+                        "year": 2050,
+                        "total": 333.8119862782
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16368.9522160439
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12784.0021654813
+                      },
+                      {
+                        "year": 2025,
+                        "total": 14146.7211187746
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12966.7482552758
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9105.447721791
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6238.7355202488
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4481.8836921105
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1532.2046406881
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -715.1417728884
+                      },
+                      {
+                        "year": 2025,
+                        "total": -2459.5042043104
+                      },
+                      {
+                        "year": 2030,
+                        "total": -4236.9059639373
+                      },
+                      {
+                        "year": 2035,
+                        "total": -4895.277240802
+                      },
+                      {
+                        "year": 2040,
+                        "total": -8394.3590730399
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9597.1889564895
+                      },
+                      {
+                        "year": 2050,
+                        "total": -10580.7184309968
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10230.4878894073
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8708.7343188254
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7719.2842662901
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7059.4769533783
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6910.5583935196
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7001.7885156926
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5278.1763287255
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1459.9295342721
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4240.0083425632
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4657.3604790229
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2872.644732214
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2697.3
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2819.8443189097
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2697.8889349821
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2697.5544442686
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2697.3
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.8726311148
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 55.8213267073
+                      },
+                      {
+                        "year": 2030,
+                        "total": 51.9120762767
+                      },
+                      {
+                        "year": 2035,
+                        "total": 52.9671826964
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.3410218333
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.6403262256
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.6403262256
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.0573625764
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1302.9177472061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6.087183117
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.0917796771
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.0830788387
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.0743966917
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.065733176
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.6685342108
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 35576.1671940638
+                      },
+                      {
+                        "year": 2020,
+                        "total": 29292.231907143
+                      },
+                      {
+                        "year": 2025,
+                        "total": 24588.0816959819
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21284.9551546052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16036.2392668376
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13682.2662038402
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10726.7521240939
+                      },
+                      {
+                        "year": 2050,
+                        "total": 9644.1800362883
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by energy source",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 112.7193673094
+                      },
+                      {
+                        "year": 2020,
+                        "total": 116.9356984441
+                      },
+                      {
+                        "year": 2025,
+                        "total": 119.2225597661
+                      },
+                      {
+                        "year": 2030,
+                        "total": 171.7126858592
+                      },
+                      {
+                        "year": 2035,
+                        "total": 138.3791168546
+                      },
+                      {
+                        "year": 2040,
+                        "total": 198.6293212151
+                      },
+                      {
+                        "year": 2045,
+                        "total": 274.9529285155
+                      },
+                      {
+                        "year": 2050,
+                        "total": 315.18326038
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12.25031828
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.1306
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7997996689
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 93.0740265752
+                      },
+                      {
+                        "year": 2020,
+                        "total": 86.3029206026
+                      },
+                      {
+                        "year": 2025,
+                        "total": 87.991945429
+                      },
+                      {
+                        "year": 2030,
+                        "total": 78.470423758
+                      },
+                      {
+                        "year": 2035,
+                        "total": 103.4298579981
+                      },
+                      {
+                        "year": 2040,
+                        "total": 116.9882884049
+                      },
+                      {
+                        "year": 2045,
+                        "total": 129.1953557569
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.1023815903
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 111.0298024381
+                      },
+                      {
+                        "year": 2020,
+                        "total": 132.5201378641
+                      },
+                      {
+                        "year": 2025,
+                        "total": 137.2207644728
+                      },
+                      {
+                        "year": 2030,
+                        "total": 165.1164178938
+                      },
+                      {
+                        "year": 2035,
+                        "total": 167.9777052303
+                      },
+                      {
+                        "year": 2040,
+                        "total": 204.4627188066
+                      },
+                      {
+                        "year": 2045,
+                        "total": 211.9688414495
+                      },
+                      {
+                        "year": 2050,
+                        "total": 213.4059562095
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 65.938960312
+                      },
+                      {
+                        "year": 2020,
+                        "total": 78.9119400074
+                      },
+                      {
+                        "year": 2025,
+                        "total": 78.6789272369
+                      },
+                      {
+                        "year": 2030,
+                        "total": 37.3533576072
+                      },
+                      {
+                        "year": 2035,
+                        "total": 39.1625951243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.5309043555
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.2961424893
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.2958250804
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 275.3499949119
+                      },
+                      {
+                        "year": 2020,
+                        "total": 233.3272706325
+                      },
+                      {
+                        "year": 2025,
+                        "total": 196.988563497
+                      },
+                      {
+                        "year": 2030,
+                        "total": 119.3578890609
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.4922649235
+                      },
+                      {
+                        "year": 2040,
+                        "total": 53.2213546104
+                      },
+                      {
+                        "year": 2045,
+                        "total": 27.1305072865
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.6698946775
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6.2443082245
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5861351225
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7.0486199896
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1311.3757593394
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2612.9530880318
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2645.7077440233
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3565.8570733967
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5946.9620602193
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 26.7754704991
+                      },
+                      {
+                        "year": 2020,
+                        "total": 34.2331678971
+                      },
+                      {
+                        "year": 2025,
+                        "total": 38.7958822768
+                      },
+                      {
+                        "year": 2030,
+                        "total": 53.4901965893
+                      },
+                      {
+                        "year": 2035,
+                        "total": 57.2635582475
+                      },
+                      {
+                        "year": 2040,
+                        "total": 64.0938935682
+                      },
+                      {
+                        "year": 2045,
+                        "total": 67.8449977253
+                      },
+                      {
+                        "year": 2050,
+                        "total": 76.4973863131
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 21.535917395
+                      },
+                      {
+                        "year": 2025,
+                        "total": 26.9840096659
+                      },
+                      {
+                        "year": 2030,
+                        "total": 46.7772170895
+                      },
+                      {
+                        "year": 2035,
+                        "total": 72.3015549608
+                      },
+                      {
+                        "year": 2040,
+                        "total": 90.635857504
+                      },
+                      {
+                        "year": 2045,
+                        "total": 105.0281268329
+                      },
+                      {
+                        "year": 2050,
+                        "total": 122.0645431226
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.5009385965
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.1401601187
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.7109709142
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.315987073
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 304.0751935321
+                      },
+                      {
+                        "year": 2020,
+                        "total": 345.6511462413
+                      },
+                      {
+                        "year": 2025,
+                        "total": 385.1426723621
+                      },
+                      {
+                        "year": 2030,
+                        "total": 416.6498302684
+                      },
+                      {
+                        "year": 2035,
+                        "total": 407.8659756576
+                      },
+                      {
+                        "year": 2040,
+                        "total": 388.6208198374
+                      },
+                      {
+                        "year": 2045,
+                        "total": 370.9272657233
+                      },
+                      {
+                        "year": 2050,
+                        "total": 358.4977083093
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 40.8047256077
+                      },
+                      {
+                        "year": 2020,
+                        "total": 40.4375399472
+                      },
+                      {
+                        "year": 2025,
+                        "total": 37.0819533026
+                      },
+                      {
+                        "year": 2030,
+                        "total": 40.3690555785
+                      },
+                      {
+                        "year": 2035,
+                        "total": 26.1074812909
+                      },
+                      {
+                        "year": 2040,
+                        "total": 24.1684650447
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.6456858218
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22.4420257842
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 113.60151921
+                      },
+                      {
+                        "year": 2020,
+                        "total": 123.9160338277
+                      },
+                      {
+                        "year": 2025,
+                        "total": 120.0959092577
+                      },
+                      {
+                        "year": 2030,
+                        "total": 114.908127705
+                      },
+                      {
+                        "year": 2035,
+                        "total": 107.2398646945
+                      },
+                      {
+                        "year": 2040,
+                        "total": 102.1993168805
+                      },
+                      {
+                        "year": 2045,
+                        "total": 99.8789089066
+                      },
+                      {
+                        "year": 2050,
+                        "total": 97.3487841018
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 256.4219824343
+                      },
+                      {
+                        "year": 2020,
+                        "total": 258.2998345705
+                      },
+                      {
+                        "year": 2025,
+                        "total": 272.0762869975
+                      },
+                      {
+                        "year": 2030,
+                        "total": 284.2542675686
+                      },
+                      {
+                        "year": 2035,
+                        "total": 298.2116628782
+                      },
+                      {
+                        "year": 2040,
+                        "total": 307.9961935413
+                      },
+                      {
+                        "year": 2045,
+                        "total": 305.5674122241
+                      },
+                      {
+                        "year": 2050,
+                        "total": 309.8754358564
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 42.296148991
+                      },
+                      {
+                        "year": 2020,
+                        "total": 31.7108642362
+                      },
+                      {
+                        "year": 2025,
+                        "total": 29.4370787362
+                      },
+                      {
+                        "year": 2030,
+                        "total": 25.8627499819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4834949503
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.9626535325
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.8356819452
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.7236958017
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 297.2220208785
+                      },
+                      {
+                        "year": 2020,
+                        "total": 265.9684198339
+                      },
+                      {
+                        "year": 2025,
+                        "total": 200.1104316749
+                      },
+                      {
+                        "year": 2030,
+                        "total": 136.7468927983
+                      },
+                      {
+                        "year": 2035,
+                        "total": 103.4538159006
+                      },
+                      {
+                        "year": 2040,
+                        "total": 76.6755253586
+                      },
+                      {
+                        "year": 2045,
+                        "total": 62.1680427304
+                      },
+                      {
+                        "year": 2050,
+                        "total": 46.2786417281
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.5
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.7039072106
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.7028541945
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.8740907881
+                      },
+                      {
+                        "year": 2035,
+                        "total": 41.9323595136
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.8092882962
+                      },
+                      {
+                        "year": 2045,
+                        "total": 46.1236305537
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1195488463
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.653231217
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.6549704727
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.9982847066
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.8272907899
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.4774644873
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.037733202
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.195058901
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12.414561151
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.7418185615
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.0181522453
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.8899944189
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.988733954
+                      },
+                      {
+                        "year": 2035,
+                        "total": 34.1949527585
+                      },
+                      {
+                        "year": 2040,
+                        "total": 38.1933184474
+                      },
+                      {
+                        "year": 2045,
+                        "total": 41.755640463
+                      },
+                      {
+                        "year": 2050,
+                        "total": 46.7781654453
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.2857948122
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.3461678013
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7.8074929258
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7.8656929981
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.7581008054
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.9388750066
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.3225672174
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.789074393
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 53.7786997585
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9606392219
+                      },
+                      {
+                        "year": 2025,
+                        "total": 38.6085104694
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1788280343
+                      },
+                      {
+                        "year": 2035,
+                        "total": 28.977039068
+                      },
+                      {
+                        "year": 2040,
+                        "total": 54.1529809848
+                      },
+                      {
+                        "year": 2045,
+                        "total": 131.8799158672
+                      },
+                      {
+                        "year": 2050,
+                        "total": 409.5496727854
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 26.6536732308
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.4125764957
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.440487326
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.5448319579
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0391294913
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.6653956279
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.0563317539
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.6120882468
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.2077458251
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.6729713432
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.1781634526
+                      },
+                      {
+                        "year": 2045,
+                        "total": 27.0740807585
+                      },
+                      {
+                        "year": 2050,
+                        "total": 31.8822823396
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 344.9600779698
+                      },
+                      {
+                        "year": 2020,
+                        "total": 376.6338016523
+                      },
+                      {
+                        "year": 2025,
+                        "total": 378.1293103229
+                      },
+                      {
+                        "year": 2030,
+                        "total": 396.3878498152
+                      },
+                      {
+                        "year": 2035,
+                        "total": 421.2076717204
+                      },
+                      {
+                        "year": 2040,
+                        "total": 439.4699178668
+                      },
+                      {
+                        "year": 2045,
+                        "total": 452.8892090028
+                      },
+                      {
+                        "year": 2050,
+                        "total": 472.5709796302
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 94.8271195703
+                      },
+                      {
+                        "year": 2020,
+                        "total": 99.8778965692
+                      },
+                      {
+                        "year": 2025,
+                        "total": 182.5428680589
+                      },
+                      {
+                        "year": 2030,
+                        "total": 190.6442241982
+                      },
+                      {
+                        "year": 2035,
+                        "total": 172.2811405566
+                      },
+                      {
+                        "year": 2040,
+                        "total": 128.5458428287
+                      },
+                      {
+                        "year": 2045,
+                        "total": 125.0334684897
+                      },
+                      {
+                        "year": 2050,
+                        "total": 99.4297030057
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 251.5608167131
+                      },
+                      {
+                        "year": 2020,
+                        "total": 203.090817593
+                      },
+                      {
+                        "year": 2025,
+                        "total": 225.6008658032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 205.6182892
+                      },
+                      {
+                        "year": 2035,
+                        "total": 151.4564944726
+                      },
+                      {
+                        "year": 2040,
+                        "total": 112.5879931549
+                      },
+                      {
+                        "year": 2045,
+                        "total": 62.2454583246
+                      },
+                      {
+                        "year": 2050,
+                        "total": 21.2304230158
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.1054514873
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.6449826763
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.382380784
+                      },
+                      {
+                        "year": 2035,
+                        "total": 184.8804411929
+                      },
+                      {
+                        "year": 2040,
+                        "total": 566.0358915382
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1952.5505057267
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2928.2828421904
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.5204156548
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.7789140566
+                      },
+                      {
+                        "year": 2030,
+                        "total": 13.9995529696
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.8548767883
+                      },
+                      {
+                        "year": 2040,
+                        "total": 37.7957403585
+                      },
+                      {
+                        "year": 2045,
+                        "total": 42.0769124565
+                      },
+                      {
+                        "year": 2050,
+                        "total": 42.1071114089
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.8065958662
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.8656974543
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.9714521135
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.7424033259
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.2766887167
+                      },
+                      {
+                        "year": 2045,
+                        "total": 52.2396757653
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.2826733086
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.404
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2976842105
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1913684211
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 208.4812116485
+                      },
+                      {
+                        "year": 2020,
+                        "total": 262.0568173491
+                      },
+                      {
+                        "year": 2025,
+                        "total": 339.1874019236
+                      },
+                      {
+                        "year": 2030,
+                        "total": 333.5372678656
+                      },
+                      {
+                        "year": 2035,
+                        "total": 288.0980911304
+                      },
+                      {
+                        "year": 2040,
+                        "total": 275.7842943651
+                      },
+                      {
+                        "year": 2045,
+                        "total": 338.4167658646
+                      },
+                      {
+                        "year": 2050,
+                        "total": 436.0860734458
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.4988216334
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.2340815378
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3182518857
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 111.287240446
+                      },
+                      {
+                        "year": 2020,
+                        "total": 109.4660656208
+                      },
+                      {
+                        "year": 2025,
+                        "total": 113.9464399112
+                      },
+                      {
+                        "year": 2030,
+                        "total": 122.7033290671
+                      },
+                      {
+                        "year": 2035,
+                        "total": 137.5314899322
+                      },
+                      {
+                        "year": 2040,
+                        "total": 143.3473963055
+                      },
+                      {
+                        "year": 2045,
+                        "total": 144.6831333669
+                      },
+                      {
+                        "year": 2050,
+                        "total": 142.1801666941
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 414.7655752055
+                      },
+                      {
+                        "year": 2020,
+                        "total": 430.5411775528
+                      },
+                      {
+                        "year": 2025,
+                        "total": 452.4235883525
+                      },
+                      {
+                        "year": 2030,
+                        "total": 535.7098696201
+                      },
+                      {
+                        "year": 2035,
+                        "total": 601.1712660759
+                      },
+                      {
+                        "year": 2040,
+                        "total": 606.1496080744
+                      },
+                      {
+                        "year": 2045,
+                        "total": 621.8001005127
+                      },
+                      {
+                        "year": 2050,
+                        "total": 628.6090725693
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 154.7463314303
+                      },
+                      {
+                        "year": 2020,
+                        "total": 157.9059486816
+                      },
+                      {
+                        "year": 2025,
+                        "total": 99.5360600897
+                      },
+                      {
+                        "year": 2030,
+                        "total": 91.9869699423
+                      },
+                      {
+                        "year": 2035,
+                        "total": 93.6947266469
+                      },
+                      {
+                        "year": 2040,
+                        "total": 93.075371049
+                      },
+                      {
+                        "year": 2045,
+                        "total": 101.1914857171
+                      },
+                      {
+                        "year": 2050,
+                        "total": 64.1440532667
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 481.4143968725
+                      },
+                      {
+                        "year": 2020,
+                        "total": 392.6896656259
+                      },
+                      {
+                        "year": 2025,
+                        "total": 358.540720235
+                      },
+                      {
+                        "year": 2030,
+                        "total": 309.4636738739
+                      },
+                      {
+                        "year": 2035,
+                        "total": 234.6966307028
+                      },
+                      {
+                        "year": 2040,
+                        "total": 203.4863328256
+                      },
+                      {
+                        "year": 2045,
+                        "total": 135.1302690189
+                      },
+                      {
+                        "year": 2050,
+                        "total": 97.6763227115
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 35.6551980497
+                      },
+                      {
+                        "year": 2025,
+                        "total": 55.5066470965
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1115.900661692
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2981.827447371
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5455.2304507456
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6012.3970983477
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6285.3568682381
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0639617763
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.2048488741
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.2518490099
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.2965941367
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.3427867411
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 50.197027724
+                      },
+                      {
+                        "year": 2025,
+                        "total": 111.2338191517
+                      },
+                      {
+                        "year": 2030,
+                        "total": 116.6509379996
+                      },
+                      {
+                        "year": 2035,
+                        "total": 122.131949877
+                      },
+                      {
+                        "year": 2040,
+                        "total": 112.376121474
+                      },
+                      {
+                        "year": 2045,
+                        "total": 135.8653394508
+                      },
+                      {
+                        "year": 2050,
+                        "total": 164.0536401752
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by sector",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 213.695961161
+                      },
+                      {
+                        "year": 2020,
+                        "total": 200.7336614691
+                      },
+                      {
+                        "year": 2025,
+                        "total": 196.2845748552
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1498.725717651
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2809.5017794764
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2852.346151353
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3781.2043656868
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6159.9357467839
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.0858320968
+                      },
+                      {
+                        "year": 2020,
+                        "total": 179.6327020739
+                      },
+                      {
+                        "year": 2025,
+                        "total": 164.4188399099
+                      },
+                      {
+                        "year": 2030,
+                        "total": 146.7709264673
+                      },
+                      {
+                        "year": 2035,
+                        "total": 142.3444742839
+                      },
+                      {
+                        "year": 2040,
+                        "total": 140.1962857307
+                      },
+                      {
+                        "year": 2045,
+                        "total": 143.4286610007
+                      },
+                      {
+                        "year": 2050,
+                        "total": 144.2146937979
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 239.0802112496
+                      },
+                      {
+                        "year": 2020,
+                        "total": 228.4442859154
+                      },
+                      {
+                        "year": 2025,
+                        "total": 217.8468013525
+                      },
+                      {
+                        "year": 2030,
+                        "total": 206.8139489489
+                      },
+                      {
+                        "year": 2035,
+                        "total": 188.3228174103
+                      },
+                      {
+                        "year": 2040,
+                        "total": 185.3325460147
+                      },
+                      {
+                        "year": 2045,
+                        "total": 191.2494466697
+                      },
+                      {
+                        "year": 2050,
+                        "total": 197.6282149342
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 641.7413692992
+                      },
+                      {
+                        "year": 2020,
+                        "total": 652.2332391091
+                      },
+                      {
+                        "year": 2025,
+                        "total": 677.7419809113
+                      },
+                      {
+                        "year": 2030,
+                        "total": 692.9563813745
+                      },
+                      {
+                        "year": 2035,
+                        "total": 685.313101947
+                      },
+                      {
+                        "year": 2040,
+                        "total": 680.2303637208
+                      },
+                      {
+                        "year": 2045,
+                        "total": 674.2637457349
+                      },
+                      {
+                        "year": 2050,
+                        "total": 675.5517205813
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 212.7070167302
+                      },
+                      {
+                        "year": 2020,
+                        "total": 218.6152953331
+                      },
+                      {
+                        "year": 2025,
+                        "total": 209.9740163967
+                      },
+                      {
+                        "year": 2030,
+                        "total": 199.7567575435
+                      },
+                      {
+                        "year": 2035,
+                        "total": 192.3199761207
+                      },
+                      {
+                        "year": 2040,
+                        "total": 180.4123705944
+                      },
+                      {
+                        "year": 2045,
+                        "total": 175.2781800699
+                      },
+                      {
+                        "year": 2050,
+                        "total": 164.35109671
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 217.1540492147
+                      },
+                      {
+                        "year": 2020,
+                        "total": 213.8585019443
+                      },
+                      {
+                        "year": 2025,
+                        "total": 199.6269612689
+                      },
+                      {
+                        "year": 2030,
+                        "total": 182.633593513
+                      },
+                      {
+                        "year": 2035,
+                        "total": 166.0920948692
+                      },
+                      {
+                        "year": 2040,
+                        "total": 147.959454832
+                      },
+                      {
+                        "year": 2045,
+                        "total": 129.8779686816
+                      },
+                      {
+                        "year": 2050,
+                        "total": 119.3648241259
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 355.9983980143
+                      },
+                      {
+                        "year": 2020,
+                        "total": 360.030679971
+                      },
+                      {
+                        "year": 2025,
+                        "total": 385.0423660386
+                      },
+                      {
+                        "year": 2030,
+                        "total": 400.1127095749
+                      },
+                      {
+                        "year": 2035,
+                        "total": 583.3808598741
+                      },
+                      {
+                        "year": 2040,
+                        "total": 985.8234840156
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2402.7340398962
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3394.5415429673
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 160.5308226693
+                      },
+                      {
+                        "year": 2020,
+                        "total": 153.7513312569
+                      },
+                      {
+                        "year": 2025,
+                        "total": 142.9860961445
+                      },
+                      {
+                        "year": 2030,
+                        "total": 134.8058883994
+                      },
+                      {
+                        "year": 2035,
+                        "total": 128.4610307865
+                      },
+                      {
+                        "year": 2040,
+                        "total": 130.5137645501
+                      },
+                      {
+                        "year": 2045,
+                        "total": 131.5826391797
+                      },
+                      {
+                        "year": 2050,
+                        "total": 128.0818086888
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 238.0700804465
+                      },
+                      {
+                        "year": 2020,
+                        "total": 218.7371942982
+                      },
+                      {
+                        "year": 2025,
+                        "total": 222.3199888231
+                      },
+                      {
+                        "year": 2030,
+                        "total": 222.3987003711
+                      },
+                      {
+                        "year": 2035,
+                        "total": 209.2495530773
+                      },
+                      {
+                        "year": 2040,
+                        "total": 208.6457260803
+                      },
+                      {
+                        "year": 2045,
+                        "total": 216.0093798225
+                      },
+                      {
+                        "year": 2050,
+                        "total": 225.5813207968
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 619.0005266215
+                      },
+                      {
+                        "year": 2020,
+                        "total": 636.4016815761
+                      },
+                      {
+                        "year": 2025,
+                        "total": 639.9682240992
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1692.7055334759
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3531.0345161277
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6002.0594475026
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6547.4820374455
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6809.9788671607
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 215.4006637898
+                      },
+                      {
+                        "year": 2020,
+                        "total": 206.9641117603
+                      },
+                      {
+                        "year": 2025,
+                        "total": 195.3214684429
+                      },
+                      {
+                        "year": 2030,
+                        "total": 190.7352640128
+                      },
+                      {
+                        "year": 2035,
+                        "total": 190.2612156949
+                      },
+                      {
+                        "year": 2040,
+                        "total": 189.9368482198
+                      },
+                      {
+                        "year": 2045,
+                        "total": 189.9609056964
+                      },
+                      {
+                        "year": 2050,
+                        "total": 188.1894771972
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 534.3742528751
+                      },
+                      {
+                        "year": 2020,
+                        "total": 503.1418595874
+                      },
+                      {
+                        "year": 2025,
+                        "total": 484.8654075668
+                      },
+                      {
+                        "year": 2030,
+                        "total": 477.507264376
+                      },
+                      {
+                        "year": 2035,
+                        "total": 425.9368711457
+                      },
+                      {
+                        "year": 2040,
+                        "total": 401.9736953331
+                      },
+                      {
+                        "year": 2045,
+                        "total": 410.0572021955
+                      },
+                      {
+                        "year": 2050,
+                        "total": 421.5338504145
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNN_CCS_Bio",
+        "indicators": [
+          {
+            "indicator": "Annual system costs",
+            "unit": "MEUR15",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7974.6575955314
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7297.9263261402
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6626.7389265118
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5262.1140863262
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2856.7614079233
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1247.0465714449
+                      },
+                      {
+                        "year": 2045,
+                        "total": 975.1154466539
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1059.2802557443
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1767.9289454447
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4395.8675294763
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6768.0509023547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9256.1741135683
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10357.8584018163
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11988.1487834075
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12349.9823048317
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12985.0794512215
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1463.1771281821
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1588.7682413061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2227.2733482645
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2498.1724378291
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2650.120408281
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2818.9954979992
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2908.209366526
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3230.9837248093
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -703.9785950183
+                      },
+                      {
+                        "year": 2020,
+                        "total": -65.7399054015
+                      },
+                      {
+                        "year": 2025,
+                        "total": -186.5397322902
+                      },
+                      {
+                        "year": 2030,
+                        "total": 397.3822338701
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1104.4137401284
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1174.2508482379
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1133.3163409659
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1470.4789439534
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5362.2079272927
+                      },
+                      {
+                        "year": 2020,
+                        "total": 6428.9151462197
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4801.043253734
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3691.199840762
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2167.7658190583
+                      },
+                      {
+                        "year": 2040,
+                        "total": 629.9065900494
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1555.1354949496
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1621.512319183
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9541.4775559034
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18851.446091554
+                      },
+                      {
+                        "year": 2025,
+                        "total": 24740.5447189319
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31003.2856136219
+                      },
+                      {
+                        "year": 2035,
+                        "total": 31844.2729302383
+                      },
+                      {
+                        "year": 2040,
+                        "total": 31279.241496245
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32535.8125221735
+                      },
+                      {
+                        "year": 2050,
+                        "total": 34237.611070041
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6653.4064571401
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8072.3333372954
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9729.3281951853
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11103.740120984
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11871.6845427605
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12590.2054383439
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12895.3666217786
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12983.5899919534
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1462.5460310146
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1577.6554204387
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2361.2464217634
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2583.1852726077
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3113.900650354
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3044.5183937033
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1084.2568705863
+                      },
+                      {
+                        "year": 2050,
+                        "total": -670.9865883202
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8594.6239146141
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8587.7405586156
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10473.2263862857
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10656.3479369044
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9103.9620021979
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7520.6512305019
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5894.8203342856
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5461.5342960715
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2283.2342242364
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4651.7147622811
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6344.9854555002
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8220.9994867416
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9382.0067012096
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10205.6371015103
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10614.3361874827
+                      },
+                      {
+                        "year": 2050,
+                        "total": 11829.2576589626
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4693.3672480132
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4842.4732449752
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5333.8037558507
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5431.3659808174
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5346.7286224672
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5293.8739100949
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5021.6661174177
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5072.399562247
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -1674.2961103974
+                      },
+                      {
+                        "year": 2020,
+                        "total": -2345.3030122054
+                      },
+                      {
+                        "year": 2025,
+                        "total": -3860.7888084286
+                      },
+                      {
+                        "year": 2030,
+                        "total": -4284.1394677851
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3675.3984428429
+                      },
+                      {
+                        "year": 2040,
+                        "total": -2905.9354298748
+                      },
+                      {
+                        "year": 2045,
+                        "total": -763.1160747104
+                      },
+                      {
+                        "year": 2050,
+                        "total": 155.9930672999
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12701.4712749091
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12938.0472454412
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11760.7943881765
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10754.0107814498
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9621.0693774624
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8992.6537808812
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8848.1956770221
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8480.2929177807
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Investment costs Nordic",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3580.2485858115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8086.8764442102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13006.7539370026
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16301.0663553981
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19346.0613409807
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20870.2623847282
+                      },
+                      {
+                        "year": 2045,
+                        "total": 22139.0759376399
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23104.0933893605
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Operation costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2384.4752502774
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2992.5190196927
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5287.1989245036
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5590.0013137713
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6077.6978035268
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6388.0065431388
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6585.4278476054
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6776.7424124945
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Trade costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 915.7286744012
+                      },
+                      {
+                        "year": 2020,
+                        "total": 833.3874971682
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1686.0821189555
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1303.5719613073
+                      },
+                      {
+                        "year": 2035,
+                        "total": -542.9159476395
+                      },
+                      {
+                        "year": 2040,
+                        "total": -1312.8338120663
+                      },
+                      {
+                        "year": 2045,
+                        "total": -1454.4571368419
+                      },
+                      {
+                        "year": 2050,
+                        "total": -955.4854229331
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "CO2 emissions",
+            "unit": "kt",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": -630.7359375107
+                      },
+                      {
+                        "year": 2020,
+                        "total": -678.1805697942
+                      },
+                      {
+                        "year": 2025,
+                        "total": -650.3148092072
+                      },
+                      {
+                        "year": 2030,
+                        "total": -3395.1430228806
+                      },
+                      {
+                        "year": 2035,
+                        "total": -4509.7304171453
+                      },
+                      {
+                        "year": 2040,
+                        "total": -5018.9995840015
+                      },
+                      {
+                        "year": 2045,
+                        "total": -6788.1653126016
+                      },
+                      {
+                        "year": 2050,
+                        "total": -9264.230270186
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5769.990838357
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5067.6673624201
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4007.0429740574
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2319.698429015
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2698.5657992088
+                      },
+                      {
+                        "year": 2040,
+                        "total": 906.660722539
+                      },
+                      {
+                        "year": 2045,
+                        "total": 181.5154432566
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10671.170930442
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8955.1999594023
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1124.2082326669
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1113.7386277023
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1113.7386277023
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2105.1803691295
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1981.1182400936
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1672.7258833643
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1057.2940452908
+                      },
+                      {
+                        "year": 2035,
+                        "total": 630.5712828463
+                      },
+                      {
+                        "year": 2040,
+                        "total": 296.0933756043
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.8757186667
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1233.7341415582
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2145.838167216
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1728.4244577202
+                      },
+                      {
+                        "year": 2030,
+                        "total": 310.0126714609
+                      },
+                      {
+                        "year": 2035,
+                        "total": 83.3780537925
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.3953010581
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.3756109452
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.792160034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16453.0643568493
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13786.1567459365
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12272.5322613982
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8303.6372494117
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5448.0956535953
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3878.1115570978
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2396.6599120308
+                      },
+                      {
+                        "year": 2050,
+                        "total": 773.6994824498
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1862.1570362933
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1589.9639439434
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1358.1084440792
+                      },
+                      {
+                        "year": 2030,
+                        "total": 992.9801999803
+                      },
+                      {
+                        "year": 2035,
+                        "total": 812.4036508054
+                      },
+                      {
+                        "year": 2040,
+                        "total": 645.5667763177
+                      },
+                      {
+                        "year": 2045,
+                        "total": 552.8369424145
+                      },
+                      {
+                        "year": 2050,
+                        "total": 464.7168899173
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": -826.343036912
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3771.5695747907
+                      },
+                      {
+                        "year": 2040,
+                        "total": -4009.1941286259
+                      },
+                      {
+                        "year": 2045,
+                        "total": -4006.6329428505
+                      },
+                      {
+                        "year": 2050,
+                        "total": -6331.4888072013
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11633.1043949906
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10446.5942260755
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9514.0953250958
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8131.4012884273
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5633.4373267378
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5058.1716442576
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5092.7819441766
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5133.1665294685
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2839.7507738735
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3122.4177653767
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3011.7496569573
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2903.0070216391
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2186.622432659
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1677.1600921428
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1661.8846475684
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2008.1452591419
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16477.7619313485
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13681.2923514361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7674.5538340142
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4018.7532958758
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2331.5099262143
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2180.8060996227
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2183.4711126583
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1541.4914913462
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1272.1449884272
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1056.3528179361
+                      },
+                      {
+                        "year": 2025,
+                        "total": 887.0917594995
+                      },
+                      {
+                        "year": 2030,
+                        "total": 735.6676159346
+                      },
+                      {
+                        "year": 2035,
+                        "total": 577.0413349987
+                      },
+                      {
+                        "year": 2040,
+                        "total": 420.0972125012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 282.178221448
+                      },
+                      {
+                        "year": 2050,
+                        "total": 144.6044814632
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 860.4012486909
+                      },
+                      {
+                        "year": 2020,
+                        "total": 801.3892033185
+                      },
+                      {
+                        "year": 2025,
+                        "total": 614.8206275527
+                      },
+                      {
+                        "year": 2030,
+                        "total": 430.1520688828
+                      },
+                      {
+                        "year": 2035,
+                        "total": 285.1193709655
+                      },
+                      {
+                        "year": 2040,
+                        "total": 186.5159989413
+                      },
+                      {
+                        "year": 2045,
+                        "total": 131.34953314
+                      },
+                      {
+                        "year": 2050,
+                        "total": 88.686362228
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6465.0264137123
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7088.5822704845
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7116.0085926722
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8078.6674223102
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6257.074385206
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7743.0380361913
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7824.3566868492
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6920.6322741943
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11703.2823467313
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9934.6533920728
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6075.9626266776
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3174.9877018725
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1961.3080923226
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1269.6608249955
+                      },
+                      {
+                        "year": 2045,
+                        "total": 753.5416331291
+                      },
+                      {
+                        "year": 2050,
+                        "total": 453.0135004871
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -6.1305177395
+                      },
+                      {
+                        "year": 2025,
+                        "total": -57.8758287357
+                      },
+                      {
+                        "year": 2030,
+                        "total": -91.7058489091
+                      },
+                      {
+                        "year": 2035,
+                        "total": -92.7612870679
+                      },
+                      {
+                        "year": 2040,
+                        "total": -789.3225645593
+                      },
+                      {
+                        "year": 2045,
+                        "total": -2120.0602828739
+                      },
+                      {
+                        "year": 2050,
+                        "total": -6280.4939405497
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 9262.911023482
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8787.9138125637
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9063.5890795222
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8924.0817319197
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8837.9783839754
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9181.5228740084
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6542.5305493359
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4766.0123735206
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 618.3838517535
+                      },
+                      {
+                        "year": 2020,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2025,
+                        "total": 708.2218205028
+                      },
+                      {
+                        "year": 2030,
+                        "total": 623.0640888723
+                      },
+                      {
+                        "year": 2035,
+                        "total": 642.6742327886
+                      },
+                      {
+                        "year": 2040,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2045,
+                        "total": 619.9352334969
+                      },
+                      {
+                        "year": 2050,
+                        "total": 619.9352334969
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 656.4909342539
+                      },
+                      {
+                        "year": 2020,
+                        "total": 379.0350816853
+                      },
+                      {
+                        "year": 2025,
+                        "total": 515.9909596313
+                      },
+                      {
+                        "year": 2030,
+                        "total": 209.3949641906
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.0701633706
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.0701633706
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.0701633706
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 855.1701938589
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1046.5933233724
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5267.3240302097
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5499.2568086506
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3571.7132475983
+                      },
+                      {
+                        "year": 2040,
+                        "total": 587.8701484101
+                      },
+                      {
+                        "year": 2045,
+                        "total": 352.64064456
+                      },
+                      {
+                        "year": 2050,
+                        "total": 323.9361100248
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16368.9522160439
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12784.0021654813
+                      },
+                      {
+                        "year": 2025,
+                        "total": 14146.7211187746
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12966.7482552758
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9087.745259335
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6381.9241452733
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4481.8836921105
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4360.6102235075
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": -715.1417728884
+                      },
+                      {
+                        "year": 2025,
+                        "total": -2392.5923281791
+                      },
+                      {
+                        "year": 2030,
+                        "total": -4166.6937854996
+                      },
+                      {
+                        "year": 2035,
+                        "total": -5251.5477839907
+                      },
+                      {
+                        "year": 2040,
+                        "total": -8531.4906225869
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9915.0351431537
+                      },
+                      {
+                        "year": 2050,
+                        "total": -12541.3884285857
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10230.4878894073
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8708.7343188254
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7816.975009439
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7217.3918942695
+                      },
+                      {
+                        "year": 2035,
+                        "total": 7263.598767058
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7120.054828493
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4719.0310550532
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2069.3087887101
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4240.0083425632
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4657.3604790229
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2751.135827399
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2697.3
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2825.0952582698
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2697.8449679953
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2697.8449679953
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2697.3
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.8726311148
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 55.8213267073
+                      },
+                      {
+                        "year": 2030,
+                        "total": 51.9120762767
+                      },
+                      {
+                        "year": 2035,
+                        "total": 52.9671826964
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.7006956077
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.0573625764
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1302.9177472061
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.5941814646
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.0688347578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.062309129
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5.2416570475
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.8970513182
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.3498826183
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 35576.1671940638
+                      },
+                      {
+                        "year": 2020,
+                        "total": 29292.231907143
+                      },
+                      {
+                        "year": 2025,
+                        "total": 24546.4809831692
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21058.8509801955
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16036.2392668376
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13705.6484734434
+                      },
+                      {
+                        "year": 2045,
+                        "total": 11609.262068787
+                      },
+                      {
+                        "year": 2050,
+                        "total": 11001.4297572573
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by energy source",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 112.7193673094
+                      },
+                      {
+                        "year": 2020,
+                        "total": 116.9356984441
+                      },
+                      {
+                        "year": 2025,
+                        "total": 107.5839132025
+                      },
+                      {
+                        "year": 2030,
+                        "total": 134.4146169559
+                      },
+                      {
+                        "year": 2035,
+                        "total": 105.1285775483
+                      },
+                      {
+                        "year": 2040,
+                        "total": 135.4108246784
+                      },
+                      {
+                        "year": 2045,
+                        "total": 155.9763212294
+                      },
+                      {
+                        "year": 2050,
+                        "total": 188.2317079287
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 12.25031828
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.1306
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.798811032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 93.0740265752
+                      },
+                      {
+                        "year": 2020,
+                        "total": 86.3029206026
+                      },
+                      {
+                        "year": 2025,
+                        "total": 90.0256180108
+                      },
+                      {
+                        "year": 2030,
+                        "total": 87.6020739154
+                      },
+                      {
+                        "year": 2035,
+                        "total": 103.382754456
+                      },
+                      {
+                        "year": 2040,
+                        "total": 112.2564048894
+                      },
+                      {
+                        "year": 2045,
+                        "total": 121.5009358062
+                      },
+                      {
+                        "year": 2050,
+                        "total": 117.0595681067
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 111.0298024381
+                      },
+                      {
+                        "year": 2020,
+                        "total": 132.5201378641
+                      },
+                      {
+                        "year": 2025,
+                        "total": 137.210023711
+                      },
+                      {
+                        "year": 2030,
+                        "total": 167.0490530878
+                      },
+                      {
+                        "year": 2035,
+                        "total": 169.6940249328
+                      },
+                      {
+                        "year": 2040,
+                        "total": 187.4326244543
+                      },
+                      {
+                        "year": 2045,
+                        "total": 202.7553810465
+                      },
+                      {
+                        "year": 2050,
+                        "total": 211.9752796837
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 65.938960312
+                      },
+                      {
+                        "year": 2020,
+                        "total": 78.9119400074
+                      },
+                      {
+                        "year": 2025,
+                        "total": 81.0924504719
+                      },
+                      {
+                        "year": 2030,
+                        "total": 44.8105500161
+                      },
+                      {
+                        "year": 2035,
+                        "total": 43.4287203496
+                      },
+                      {
+                        "year": 2040,
+                        "total": 21.2801357622
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.0476273854
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1191226809
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 275.3499949119
+                      },
+                      {
+                        "year": 2020,
+                        "total": 233.3272706325
+                      },
+                      {
+                        "year": 2025,
+                        "total": 194.8864526118
+                      },
+                      {
+                        "year": 2030,
+                        "total": 128.3409987011
+                      },
+                      {
+                        "year": 2035,
+                        "total": 88.1202866713
+                      },
+                      {
+                        "year": 2040,
+                        "total": 53.307583527
+                      },
+                      {
+                        "year": 2045,
+                        "total": 31.2869032617
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.6698946775
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 6.2443082245
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5861351225
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6.0908420779
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2607.3270221031
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3981.5917210496
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4344.0834860666
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6150.7662893523
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8180.923399357
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 26.7754704991
+                      },
+                      {
+                        "year": 2020,
+                        "total": 34.2331678971
+                      },
+                      {
+                        "year": 2025,
+                        "total": 38.7958822768
+                      },
+                      {
+                        "year": 2030,
+                        "total": 51.6489170234
+                      },
+                      {
+                        "year": 2035,
+                        "total": 58.0766114458
+                      },
+                      {
+                        "year": 2040,
+                        "total": 70.0902017748
+                      },
+                      {
+                        "year": 2045,
+                        "total": 73.9948589983
+                      },
+                      {
+                        "year": 2050,
+                        "total": 82.6603453282
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 21.535917395
+                      },
+                      {
+                        "year": 2025,
+                        "total": 32.0860966026
+                      },
+                      {
+                        "year": 2030,
+                        "total": 41.3007731826
+                      },
+                      {
+                        "year": 2035,
+                        "total": 60.0212097568
+                      },
+                      {
+                        "year": 2040,
+                        "total": 55.383322776
+                      },
+                      {
+                        "year": 2045,
+                        "total": 41.8779307844
+                      },
+                      {
+                        "year": 2050,
+                        "total": 24.4755643738
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.5009385965
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.1401601187
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.7109709142
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.315987073
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 304.0751935321
+                      },
+                      {
+                        "year": 2020,
+                        "total": 345.6511462413
+                      },
+                      {
+                        "year": 2025,
+                        "total": 380.0864234437
+                      },
+                      {
+                        "year": 2030,
+                        "total": 413.860101342
+                      },
+                      {
+                        "year": 2035,
+                        "total": 409.2393061472
+                      },
+                      {
+                        "year": 2040,
+                        "total": 391.4519252176
+                      },
+                      {
+                        "year": 2045,
+                        "total": 366.7472676064
+                      },
+                      {
+                        "year": 2050,
+                        "total": 343.3964825841
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 40.8047256077
+                      },
+                      {
+                        "year": 2020,
+                        "total": 40.4375399472
+                      },
+                      {
+                        "year": 2025,
+                        "total": 38.7410762925
+                      },
+                      {
+                        "year": 2030,
+                        "total": 40.3633372394
+                      },
+                      {
+                        "year": 2035,
+                        "total": 26.1573131912
+                      },
+                      {
+                        "year": 2040,
+                        "total": 24.0067533442
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.6456858218
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.81548425
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 113.60151921
+                      },
+                      {
+                        "year": 2020,
+                        "total": 123.9160338277
+                      },
+                      {
+                        "year": 2025,
+                        "total": 120.5638401198
+                      },
+                      {
+                        "year": 2030,
+                        "total": 113.512469867
+                      },
+                      {
+                        "year": 2035,
+                        "total": 106.0037994359
+                      },
+                      {
+                        "year": 2040,
+                        "total": 100.0185531826
+                      },
+                      {
+                        "year": 2045,
+                        "total": 101.2556874958
+                      },
+                      {
+                        "year": 2050,
+                        "total": 98.409319697
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 256.4219824343
+                      },
+                      {
+                        "year": 2020,
+                        "total": 258.2998345705
+                      },
+                      {
+                        "year": 2025,
+                        "total": 270.9389127225
+                      },
+                      {
+                        "year": 2030,
+                        "total": 284.216350365
+                      },
+                      {
+                        "year": 2035,
+                        "total": 298.1286085949
+                      },
+                      {
+                        "year": 2040,
+                        "total": 307.9864923308
+                      },
+                      {
+                        "year": 2045,
+                        "total": 304.7347897104
+                      },
+                      {
+                        "year": 2050,
+                        "total": 310.9931285219
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 42.296148991
+                      },
+                      {
+                        "year": 2020,
+                        "total": 31.7108642362
+                      },
+                      {
+                        "year": 2025,
+                        "total": 28.3766608861
+                      },
+                      {
+                        "year": 2030,
+                        "total": 25.3196411796
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4568028337
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.8649068673
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.7650871315
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3381708354
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 297.2220208785
+                      },
+                      {
+                        "year": 2020,
+                        "total": 265.9684198339
+                      },
+                      {
+                        "year": 2025,
+                        "total": 204.2310956751
+                      },
+                      {
+                        "year": 2030,
+                        "total": 139.9140479489
+                      },
+                      {
+                        "year": 2035,
+                        "total": 102.6271044147
+                      },
+                      {
+                        "year": 2040,
+                        "total": 76.3896568276
+                      },
+                      {
+                        "year": 2045,
+                        "total": 64.6670125712
+                      },
+                      {
+                        "year": 2050,
+                        "total": 58.7388559558
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.5
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.7039072106
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23.7773015363
+                      },
+                      {
+                        "year": 2030,
+                        "total": 32.3595914512
+                      },
+                      {
+                        "year": 2035,
+                        "total": 43.5355873671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 45.505259431
+                      },
+                      {
+                        "year": 2045,
+                        "total": 46.8196016885
+                      },
+                      {
+                        "year": 2050,
+                        "total": 59.4723210522
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.653231217
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.6549704727
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.9982847066
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.8272907899
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.4774644873
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.037733202
+                      },
+                      {
+                        "year": 2045,
+                        "total": 12.195058901
+                      },
+                      {
+                        "year": 2050,
+                        "total": 12.414561151
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 5.7418185615
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.0181522453
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.9492225618
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.0484107842
+                      },
+                      {
+                        "year": 2035,
+                        "total": 33.1489013054
+                      },
+                      {
+                        "year": 2040,
+                        "total": 36.6219494811
+                      },
+                      {
+                        "year": 2045,
+                        "total": 39.8518458563
+                      },
+                      {
+                        "year": 2050,
+                        "total": 39.3130223912
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.2857948122
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.3461678013
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7.8074929258
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.2863485702
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.3221536513
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9.8867397048
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.0464272399
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.7457428102
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 53.7786997585
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9606392219
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.3397682879
+                      },
+                      {
+                        "year": 2030,
+                        "total": 32.2054004591
+                      },
+                      {
+                        "year": 2035,
+                        "total": 33.155479205
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.3179755976
+                      },
+                      {
+                        "year": 2045,
+                        "total": 151.6286301289
+                      },
+                      {
+                        "year": 2050,
+                        "total": 191.7762622351
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 26.6536732308
+                      },
+                      {
+                        "year": 2020,
+                        "total": 19.4125764957
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.440487326
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.5448319579
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0391294913
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.6653956279
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.0563317539
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7861210078
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.608243121
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.1778643865
+                      },
+                      {
+                        "year": 2040,
+                        "total": 24.6537436189
+                      },
+                      {
+                        "year": 2045,
+                        "total": 26.1399864538
+                      },
+                      {
+                        "year": 2050,
+                        "total": 27.2645036195
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 344.9600779698
+                      },
+                      {
+                        "year": 2020,
+                        "total": 376.6338016523
+                      },
+                      {
+                        "year": 2025,
+                        "total": 379.2335529343
+                      },
+                      {
+                        "year": 2030,
+                        "total": 397.4169282721
+                      },
+                      {
+                        "year": 2035,
+                        "total": 421.5698845367
+                      },
+                      {
+                        "year": 2040,
+                        "total": 446.7883023291
+                      },
+                      {
+                        "year": 2045,
+                        "total": 451.814306576
+                      },
+                      {
+                        "year": 2050,
+                        "total": 475.3878667615
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 94.8271195703
+                      },
+                      {
+                        "year": 2020,
+                        "total": 99.8778965692
+                      },
+                      {
+                        "year": 2025,
+                        "total": 187.5652979579
+                      },
+                      {
+                        "year": 2030,
+                        "total": 195.7138653584
+                      },
+                      {
+                        "year": 2035,
+                        "total": 173.9898668588
+                      },
+                      {
+                        "year": 2040,
+                        "total": 127.9730259062
+                      },
+                      {
+                        "year": 2045,
+                        "total": 115.2044871223
+                      },
+                      {
+                        "year": 2050,
+                        "total": 83.7038637705
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 251.5608167131
+                      },
+                      {
+                        "year": 2020,
+                        "total": 203.090817593
+                      },
+                      {
+                        "year": 2025,
+                        "total": 225.6008658032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 205.6182892
+                      },
+                      {
+                        "year": 2035,
+                        "total": 151.2102849809
+                      },
+                      {
+                        "year": 2040,
+                        "total": 114.7035185729
+                      },
+                      {
+                        "year": 2045,
+                        "total": 62.2454583246
+                      },
+                      {
+                        "year": 2050,
+                        "total": 61.2153890442
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.1054514873
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.6449826763
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.2818079153
+                      },
+                      {
+                        "year": 2035,
+                        "total": 184.7787615698
+                      },
+                      {
+                        "year": 2040,
+                        "total": 565.9402669824
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1099.7125322834
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5295.8822242251
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.5204156548
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.7696138273
+                      },
+                      {
+                        "year": 2030,
+                        "total": 13.9995949561
+                      },
+                      {
+                        "year": 2035,
+                        "total": 24.5998144378
+                      },
+                      {
+                        "year": 2040,
+                        "total": 40.9762579972
+                      },
+                      {
+                        "year": 2045,
+                        "total": 44.9484456414
+                      },
+                      {
+                        "year": 2050,
+                        "total": 45.5240954732
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.8065958662
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.6712025057
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.3543559795
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.7608714823
+                      },
+                      {
+                        "year": 2040,
+                        "total": 29.4365435151
+                      },
+                      {
+                        "year": 2045,
+                        "total": 45.4611772637
+                      },
+                      {
+                        "year": 2050,
+                        "total": 49.036741334
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.404
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.2976842105
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1913684211
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0850526316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 208.4812116485
+                      },
+                      {
+                        "year": 2020,
+                        "total": 262.0568173491
+                      },
+                      {
+                        "year": 2025,
+                        "total": 327.6117829123
+                      },
+                      {
+                        "year": 2030,
+                        "total": 317.619251373
+                      },
+                      {
+                        "year": 2035,
+                        "total": 275.0675895705
+                      },
+                      {
+                        "year": 2040,
+                        "total": 280.5015504054
+                      },
+                      {
+                        "year": 2045,
+                        "total": 318.0476438171
+                      },
+                      {
+                        "year": 2050,
+                        "total": 362.5378715192
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Coal",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 19.4988216334
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.2340815378
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3187792204
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "District heat",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 111.287240446
+                      },
+                      {
+                        "year": 2020,
+                        "total": 109.4660656208
+                      },
+                      {
+                        "year": 2025,
+                        "total": 114.1797735766
+                      },
+                      {
+                        "year": 2030,
+                        "total": 127.0294087106
+                      },
+                      {
+                        "year": 2035,
+                        "total": 135.8450438288
+                      },
+                      {
+                        "year": 2040,
+                        "total": 144.1217843377
+                      },
+                      {
+                        "year": 2045,
+                        "total": 145.2658303515
+                      },
+                      {
+                        "year": 2050,
+                        "total": 142.0080987919
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 414.7655752055
+                      },
+                      {
+                        "year": 2020,
+                        "total": 430.5411775528
+                      },
+                      {
+                        "year": 2025,
+                        "total": 452.2500929445
+                      },
+                      {
+                        "year": 2030,
+                        "total": 536.219061288
+                      },
+                      {
+                        "year": 2035,
+                        "total": 598.0117044599
+                      },
+                      {
+                        "year": 2040,
+                        "total": 604.6008378094
+                      },
+                      {
+                        "year": 2045,
+                        "total": 619.1717987229
+                      },
+                      {
+                        "year": 2050,
+                        "total": 649.8135221828
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Natural gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 154.7463314303
+                      },
+                      {
+                        "year": 2020,
+                        "total": 157.9059486816
+                      },
+                      {
+                        "year": 2025,
+                        "total": 101.2237436304
+                      },
+                      {
+                        "year": 2030,
+                        "total": 93.6891259744
+                      },
+                      {
+                        "year": 2035,
+                        "total": 97.544004025
+                      },
+                      {
+                        "year": 2040,
+                        "total": 92.7547341329
+                      },
+                      {
+                        "year": 2045,
+                        "total": 130.7390025587
+                      },
+                      {
+                        "year": 2050,
+                        "total": 69.777768966
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 481.4143968725
+                      },
+                      {
+                        "year": 2020,
+                        "total": 392.6896656259
+                      },
+                      {
+                        "year": 2025,
+                        "total": 357.9411589027
+                      },
+                      {
+                        "year": 2030,
+                        "total": 307.4531274713
+                      },
+                      {
+                        "year": 2035,
+                        "total": 236.476705864
+                      },
+                      {
+                        "year": 2040,
+                        "total": 205.596118477
+                      },
+                      {
+                        "year": 2045,
+                        "total": 117.6463341807
+                      },
+                      {
+                        "year": 2050,
+                        "total": 120.4453759403
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Others",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 35.6551980497
+                      },
+                      {
+                        "year": 2025,
+                        "total": 54.8177781063
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1134.8722192839
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2978.2673938197
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5452.7391214289
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6704.51193731
+                      },
+                      {
+                        "year": 2050,
+                        "total": 9231.0424522346
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Solar",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0674978767
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.1999644419
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.2551648675
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.3134019808
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.3369438913
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synthetic fuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 50.197027724
+                      },
+                      {
+                        "year": 2025,
+                        "total": 116.393208958
+                      },
+                      {
+                        "year": 2030,
+                        "total": 123.2842460897
+                      },
+                      {
+                        "year": 2035,
+                        "total": 124.4037855552
+                      },
+                      {
+                        "year": 2040,
+                        "total": 115.3353958269
+                      },
+                      {
+                        "year": 2045,
+                        "total": 115.7181114661
+                      },
+                      {
+                        "year": 2050,
+                        "total": 127.838784284
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "Final energy consumption by sector",
+            "unit": "PJ",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 213.695961161
+                      },
+                      {
+                        "year": 2020,
+                        "total": 200.7336614691
+                      },
+                      {
+                        "year": 2025,
+                        "total": 197.3288265939
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2797.8349711515
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4177.5644781154
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4549.7976052572
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6359.0346749241
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8386.4042693598
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.0858320968
+                      },
+                      {
+                        "year": 2020,
+                        "total": 179.6327020739
+                      },
+                      {
+                        "year": 2025,
+                        "total": 164.1341749178
+                      },
+                      {
+                        "year": 2030,
+                        "total": 150.8624919842
+                      },
+                      {
+                        "year": 2035,
+                        "total": 146.0136695401
+                      },
+                      {
+                        "year": 2040,
+                        "total": 141.6771614157
+                      },
+                      {
+                        "year": 2045,
+                        "total": 141.7307929338
+                      },
+                      {
+                        "year": 2050,
+                        "total": 142.6304002623
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 239.0802112496
+                      },
+                      {
+                        "year": 2020,
+                        "total": 228.4442859154
+                      },
+                      {
+                        "year": 2025,
+                        "total": 217.8468012011
+                      },
+                      {
+                        "year": 2030,
+                        "total": 207.5599800355
+                      },
+                      {
+                        "year": 2035,
+                        "total": 188.5100390568
+                      },
+                      {
+                        "year": 2040,
+                        "total": 186.1298928735
+                      },
+                      {
+                        "year": 2045,
+                        "total": 191.7363101795
+                      },
+                      {
+                        "year": 2050,
+                        "total": 197.824121693
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 641.7413692992
+                      },
+                      {
+                        "year": 2020,
+                        "total": 652.2332391091
+                      },
+                      {
+                        "year": 2025,
+                        "total": 678.1161401057
+                      },
+                      {
+                        "year": 2030,
+                        "total": 693.5732683003
+                      },
+                      {
+                        "year": 2035,
+                        "total": 685.7433215301
+                      },
+                      {
+                        "year": 2040,
+                        "total": 680.4584124159
+                      },
+                      {
+                        "year": 2045,
+                        "total": 672.0078542203
+                      },
+                      {
+                        "year": 2050,
+                        "total": 681.8173096717
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 212.7070167302
+                      },
+                      {
+                        "year": 2020,
+                        "total": 218.6152953331
+                      },
+                      {
+                        "year": 2025,
+                        "total": 209.7174556619
+                      },
+                      {
+                        "year": 2030,
+                        "total": 199.4918338993
+                      },
+                      {
+                        "year": 2035,
+                        "total": 192.2527312045
+                      },
+                      {
+                        "year": 2040,
+                        "total": 180.3441090076
+                      },
+                      {
+                        "year": 2045,
+                        "total": 174.9979766217
+                      },
+                      {
+                        "year": 2050,
+                        "total": 164.3430660313
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 217.1540492147
+                      },
+                      {
+                        "year": 2020,
+                        "total": 213.8585019443
+                      },
+                      {
+                        "year": 2025,
+                        "total": 199.6367151027
+                      },
+                      {
+                        "year": 2030,
+                        "total": 182.6424873378
+                      },
+                      {
+                        "year": 2035,
+                        "total": 166.100988694
+                      },
+                      {
+                        "year": 2040,
+                        "total": 147.9674481655
+                      },
+                      {
+                        "year": 2045,
+                        "total": 129.7226331807
+                      },
+                      {
+                        "year": 2050,
+                        "total": 115.4767135458
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 355.9983980143
+                      },
+                      {
+                        "year": 2020,
+                        "total": 360.030679971
+                      },
+                      {
+                        "year": 2025,
+                        "total": 385.0210776685
+                      },
+                      {
+                        "year": 2030,
+                        "total": 400.0756971738
+                      },
+                      {
+                        "year": 2035,
+                        "total": 583.2891418826
+                      },
+                      {
+                        "year": 2040,
+                        "total": 986.4132286677
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1541.4963227083
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5759.2156402029
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 160.5308226693
+                      },
+                      {
+                        "year": 2020,
+                        "total": 153.7513312569
+                      },
+                      {
+                        "year": 2025,
+                        "total": 142.9794399928
+                      },
+                      {
+                        "year": 2030,
+                        "total": 134.8028708729
+                      },
+                      {
+                        "year": 2035,
+                        "total": 128.4627126019
+                      },
+                      {
+                        "year": 2040,
+                        "total": 131.9013036499
+                      },
+                      {
+                        "year": 2045,
+                        "total": 129.4963743188
+                      },
+                      {
+                        "year": 2050,
+                        "total": 126.058698493
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 238.0700804465
+                      },
+                      {
+                        "year": 2020,
+                        "total": 218.7371942982
+                      },
+                      {
+                        "year": 2025,
+                        "total": 222.3199888231
+                      },
+                      {
+                        "year": 2030,
+                        "total": 222.3987003711
+                      },
+                      {
+                        "year": 2035,
+                        "total": 209.2495530773
+                      },
+                      {
+                        "year": 2040,
+                        "total": 208.6457260803
+                      },
+                      {
+                        "year": 2045,
+                        "total": 216.0093798225
+                      },
+                      {
+                        "year": 2050,
+                        "total": 225.5194687607
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "TFC industry",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 619.0005266215
+                      },
+                      {
+                        "year": 2020,
+                        "total": 636.4016815761
+                      },
+                      {
+                        "year": 2025,
+                        "total": 640.1267553227
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1713.6857290569
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3527.7069619622
+                      },
+                      {
+                        "year": 2040,
+                        "total": 5997.9242390349
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7240.9097035174
+                      },
+                      {
+                        "year": 2050,
+                        "total": 9766.5797876305
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC residential",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 215.4006637898
+                      },
+                      {
+                        "year": 2020,
+                        "total": 206.9641117603
+                      },
+                      {
+                        "year": 2025,
+                        "total": 195.3163516423
+                      },
+                      {
+                        "year": 2030,
+                        "total": 189.7999636529
+                      },
+                      {
+                        "year": 2035,
+                        "total": 189.711913358
+                      },
+                      {
+                        "year": 2040,
+                        "total": 190.6008447837
+                      },
+                      {
+                        "year": 2045,
+                        "total": 190.7079483117
+                      },
+                      {
+                        "year": 2050,
+                        "total": 188.3186450577
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "TFC transport",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 534.3742528751
+                      },
+                      {
+                        "year": 2020,
+                        "total": 503.1418595874
+                      },
+                      {
+                        "year": 2025,
+                        "total": 484.8633427614
+                      },
+                      {
+                        "year": 2030,
+                        "total": 477.5068184037
+                      },
+                      {
+                        "year": 2035,
+                        "total": 425.5965902343
+                      },
+                      {
+                        "year": 2040,
+                        "total": 401.724253483
+                      },
+                      {
+                        "year": 2045,
+                        "total": 410.0262707716
+                      },
+                      {
+                        "year": 2050,
+                        "total": 421.9165410972
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "scenario": "CNNold",
+        "indicators": [
+          {
+            "indicator": "Annual system costs",
+            "unit": "MEUR15",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Fuel costs",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
                         "total": 7487.8885494411
                       },
                       {
@@ -3626,7 +18122,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_Bio",
+        "scenario": "CNNold_Bio",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -7250,7 +21746,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_CCS",
+        "scenario": "CNNold_CCS",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -10874,7 +25370,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_CCS_Bio",
+        "scenario": "CNNold_CCS_Bio",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -14488,7254 +28984,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 430.8775426806
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "CNNold",
-        "indicators": [
-          {
-            "indicator": "Annual system costs",
-            "unit": "MEUR15",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Fuel costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6771.4319952833
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6626.5017461579
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6070.0521755528
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4975.6227255026
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2876.7450013143
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1466.5538186617
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1707.2716083383
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2006.1892860741
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Investment costs Nordic",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1437.2692096339
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3484.0774211898
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6092.6174597635
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8628.710448045
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10420.5634096392
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11748.6357956536
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12299.7014462834
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12855.985549535
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Operation costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1169.9213594995
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1387.0745477722
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1981.4029860722
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2258.5291596764
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2407.9112452758
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2568.0464102777
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2931.8702121596
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3220.7045186886
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Trade costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -218.2326728307
-                      },
-                      {
-                        "year": 2020,
-                        "total": 98.4685987972
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.9087045832
-                      },
-                      {
-                        "year": 2030,
-                        "total": 386.7615735072
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1061.03335911
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1114.4900269244
-                      },
-                      {
-                        "year": 2045,
-                        "total": 263.4488574296
-                      },
-                      {
-                        "year": 2050,
-                        "total": -231.9795926996
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Fuel costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5469.3748016446
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6489.4618791249
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4934.4863467738
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3860.7203165057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2611.2791012757
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1383.858478002
-                      },
-                      {
-                        "year": 2045,
-                        "total": 590.3329882766
-                      },
-                      {
-                        "year": 2050,
-                        "total": 237.5067710966
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Investment costs Nordic",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6273.5517069129
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15946.3765528575
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22518.8930822625
-                      },
-                      {
-                        "year": 2030,
-                        "total": 29514.5493231515
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30902.3822880992
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30892.7187771647
-                      },
-                      {
-                        "year": 2045,
-                        "total": 32663.2819685691
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34015.3826083776
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Operation costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6654.0419838586
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8120.0975613865
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9795.1247353884
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11180.345115176
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11976.0016202091
-                      },
-                      {
-                        "year": 2040,
-                        "total": 12653.414647893
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12909.659132083
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12941.8836609416
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Trade costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1407.7660879882
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1581.0767283887
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2149.1910735294
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2155.9515771924
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2494.8769806838
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2319.4943285301
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2271.5042431877
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2047.091290985
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Fuel costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8678.4056835416
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9571.7142202669
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10507.4148248463
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10353.3847880454
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8842.3955740252
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7412.6421215433
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6543.2091196219
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5470.5089851561
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Investment costs Nordic",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2119.1789212295
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4020.8315980536
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6010.9170304695
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7949.9251683227
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9413.8821946945
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10170.2396672249
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10870.0660252575
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11810.9205233712
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Operation costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4734.9125443058
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5008.4559651541
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5253.135929215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5318.254615892
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5261.7775893725
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5056.454737268
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4961.125235881
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4992.2582904623
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Trade costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -2373.2237367547
-                      },
-                      {
-                        "year": 2020,
-                        "total": -3446.8293697578
-                      },
-                      {
-                        "year": 2025,
-                        "total": -3638.588591047
-                      },
-                      {
-                        "year": 2030,
-                        "total": -3610.6908086165
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3380.9655804981
-                      },
-                      {
-                        "year": 2040,
-                        "total": -2849.0705810745
-                      },
-                      {
-                        "year": 2045,
-                        "total": -1692.8814947225
-                      },
-                      {
-                        "year": 2050,
-                        "total": -510.8029376081
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Fuel costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10725.385394665
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10611.7261144471
-                      },
-                      {
-                        "year": 2025,
-                        "total": 11868.5416842962
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10914.1051530034
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9581.7338400989
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8885.7816431525
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8897.7369135919
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9395.1235789376
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Investment costs Nordic",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3050.3713678907
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7109.2248206369
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13035.5904755803
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17125.3971226058
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20033.1303601418
-                      },
-                      {
-                        "year": 2040,
-                        "total": 20947.6515757678
-                      },
-                      {
-                        "year": 2045,
-                        "total": 21912.9501417697
-                      },
-                      {
-                        "year": 2050,
-                        "total": 22967.4112846393
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Operation costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2260.2699266473
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2745.0532192718
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4422.7697532054
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4633.1103597787
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5113.9393600513
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5683.6583264562
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6108.594560143
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6506.1770978676
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Trade costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1183.6903215972
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1767.2840425719
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1485.4888129344
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1067.9776579169
-                      },
-                      {
-                        "year": 2035,
-                        "total": -174.9447592958
-                      },
-                      {
-                        "year": 2040,
-                        "total": -584.9137743799
-                      },
-                      {
-                        "year": 2045,
-                        "total": -842.0716058947
-                      },
-                      {
-                        "year": 2050,
-                        "total": -1304.3087606772
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "CO2 emissions",
-            "unit": "kt",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "CO2-Captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": -3599.2465113834
-                      },
-                      {
-                        "year": 2035,
-                        "total": -5493.3462690606
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6762.0283588607
-                      },
-                      {
-                        "year": 2045,
-                        "total": -9764.7691040241
-                      },
-                      {
-                        "year": 2050,
-                        "total": -13475.9045133709
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7384.313464504
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5963.3970820889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4929.1540676874
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3241.7368169114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3384.3940494538
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2223.8971100044
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1003.1979735496
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Power and Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10678.7019864527
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9505.4588378375
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1420.9226770492
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1113.7386272945
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1276.0857785018
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1113.7386277023
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1113.7386277023
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1113.7386277023
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2108.3418932
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1985.9695432
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1675.246114281
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1142.2165111396
-                      },
-                      {
-                        "year": 2035,
-                        "total": 710.5920112318
-                      },
-                      {
-                        "year": 2040,
-                        "total": 369.1968851879
-                      },
-                      {
-                        "year": 2045,
-                        "total": 78.5269066342
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.4413109954
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Supply",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1316.4524566635
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1183.9847297872
-                      },
-                      {
-                        "year": 2025,
-                        "total": 771.7007763783
-                      },
-                      {
-                        "year": 2030,
-                        "total": 390.6190332181
-                      },
-                      {
-                        "year": 2035,
-                        "total": 123.0085746083
-                      },
-                      {
-                        "year": 2040,
-                        "total": 51.7068563622
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.8734381207
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.4430432341
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 12792.6580138574
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11961.1898070864
-                      },
-                      {
-                        "year": 2025,
-                        "total": 11357.5953646041
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7420.1735224121
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5455.9467965513
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4119.8060444864
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4006.5759840678
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4113.8388558584
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "CO2-Agriculture",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1862.1570362933
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1589.9639439434
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1358.1084440792
-                      },
-                      {
-                        "year": 2030,
-                        "total": 992.9801999803
-                      },
-                      {
-                        "year": 2035,
-                        "total": 812.4036508054
-                      },
-                      {
-                        "year": 2040,
-                        "total": 645.5667763177
-                      },
-                      {
-                        "year": 2045,
-                        "total": 552.8369424145
-                      },
-                      {
-                        "year": 2050,
-                        "total": 464.7169150222
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": -1144.6358890681
-                      },
-                      {
-                        "year": 2035,
-                        "total": -4135.5406624869
-                      },
-                      {
-                        "year": 2040,
-                        "total": -4361.200842582
-                      },
-                      {
-                        "year": 2045,
-                        "total": -4540.6758970581
-                      },
-                      {
-                        "year": 2050,
-                        "total": -6284.455542279
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11487.0818138347
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9994.7644592905
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9390.2414632093
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8094.0769153245
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5609.2882545518
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5389.0645845212
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5804.9061228729
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5390.7598479023
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Internation transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2839.7507738735
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3122.4177653767
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3011.7496569573
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2776.1783043163
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2530.633496736
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1677.1600921428
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1434.5760638887
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1212.0264453242
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Power and Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16505.2774706579
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13370.2267115052
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7252.0032156716
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3243.0825738124
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2438.8085571709
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2223.4909810269
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2184.0771204277
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1439.1672274893
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1274.9557180234
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1056.3552186725
-                      },
-                      {
-                        "year": 2025,
-                        "total": 887.0941602358
-                      },
-                      {
-                        "year": 2030,
-                        "total": 733.4825486447
-                      },
-                      {
-                        "year": 2035,
-                        "total": 575.2393729052
-                      },
-                      {
-                        "year": 2040,
-                        "total": 420.0972125012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 282.178221448
-                      },
-                      {
-                        "year": 2050,
-                        "total": 144.6044814632
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Service",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 845.6628219078
-                      },
-                      {
-                        "year": 2020,
-                        "total": 816.0647261216
-                      },
-                      {
-                        "year": 2025,
-                        "total": 605.9798214546
-                      },
-                      {
-                        "year": 2030,
-                        "total": 421.3112790227
-                      },
-                      {
-                        "year": 2035,
-                        "total": 285.1193470972
-                      },
-                      {
-                        "year": 2040,
-                        "total": 186.5159989413
-                      },
-                      {
-                        "year": 2045,
-                        "total": 131.3494932247
-                      },
-                      {
-                        "year": 2050,
-                        "total": 88.6860153816
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Supply",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6472.1389475229
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7086.956567023
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7110.3805422014
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8259.0498270985
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6579.196215877
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7747.5808151017
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7664.1253308997
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6711.4417312895
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11703.2777306482
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9937.2057107016
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6633.551809998
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4133.6432158681
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1942.784085488
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1264.5212473221
-                      },
-                      {
-                        "year": 2045,
-                        "total": 754.062000414
-                      },
-                      {
-                        "year": 2050,
-                        "total": 468.4837069249
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "CO2-Captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": -0.0511025617
-                      },
-                      {
-                        "year": 2025,
-                        "total": -1.2377051452
-                      },
-                      {
-                        "year": 2030,
-                        "total": -2.0610907836
-                      },
-                      {
-                        "year": 2035,
-                        "total": -121.6056941923
-                      },
-                      {
-                        "year": 2040,
-                        "total": -496.6926487241
-                      },
-                      {
-                        "year": 2045,
-                        "total": -4067.426974792
-                      },
-                      {
-                        "year": 2050,
-                        "total": -6496.1703705051
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8635.6763201294
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7998.3410184624
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7660.0180015492
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7402.2469178452
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7193.3754221357
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7474.3607360734
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6729.4762768982
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4126.8446661962
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Power and Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 618.3838517535
-                      },
-                      {
-                        "year": 2020,
-                        "total": 621.4382872117
-                      },
-                      {
-                        "year": 2025,
-                        "total": 705.59020561
-                      },
-                      {
-                        "year": 2030,
-                        "total": 627.1561911746
-                      },
-                      {
-                        "year": 2035,
-                        "total": 637.981672071
-                      },
-                      {
-                        "year": 2040,
-                        "total": 619.9352334969
-                      },
-                      {
-                        "year": 2045,
-                        "total": 621.1475625596
-                      },
-                      {
-                        "year": 2050,
-                        "total": 619.9352334969
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 665.5701633706
-                      },
-                      {
-                        "year": 2020,
-                        "total": 597.9639077156
-                      },
-                      {
-                        "year": 2025,
-                        "total": 406.9678245643
-                      },
-                      {
-                        "year": 2030,
-                        "total": 203.0701633706
-                      },
-                      {
-                        "year": 2035,
-                        "total": 53.4159121403
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.0701633706
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.0701633706
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Supply",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 831.7099685755
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2172.7971211421
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3192.4143535017
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3044.6600368593
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2927.897444439
-                      },
-                      {
-                        "year": 2040,
-                        "total": 581.4442226811
-                      },
-                      {
-                        "year": 2045,
-                        "total": 354.0734830404
-                      },
-                      {
-                        "year": 2050,
-                        "total": 356.4209460252
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16110.563277355
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15991.3466381491
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16537.5459444597
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15377.3022944935
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11372.2704316288
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7800.824948206
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6060.0370658908
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4821.6422654416
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "CO2-Captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": -189.5126326277
-                      },
-                      {
-                        "year": 2025,
-                        "total": -325.6523556066
-                      },
-                      {
-                        "year": 2030,
-                        "total": -5300.6033939016
-                      },
-                      {
-                        "year": 2035,
-                        "total": -8582.4379989107
-                      },
-                      {
-                        "year": 2040,
-                        "total": -12086.5786485391
-                      },
-                      {
-                        "year": 2045,
-                        "total": -13581.3141303982
-                      },
-                      {
-                        "year": 2050,
-                        "total": -19226.6786473799
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13124.324336021
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7629.9003970339
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5249.7737037106
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7764.2557955953
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9819.2462150456
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8402.8351177811
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5460.1365155404
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5334.0027155429
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Power and Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4390.0696766806
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3460.5386512002
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3658.856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2697.3
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2789.9016624874
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2697.3
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2697.3
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2697.3
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 61.0032038022
-                      },
-                      {
-                        "year": 2020,
-                        "total": 52.3799191299
-                      },
-                      {
-                        "year": 2025,
-                        "total": 35.9305610392
-                      },
-                      {
-                        "year": 2030,
-                        "total": 27.0845858035
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.061809282
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.5619775136
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.3599321376
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.9357747155
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Supply",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.2761963727
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0760921837
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.087183117
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.0917796771
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.0830788387
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8.0743966917
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6.7566356196
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5.789794801
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 31039.0181893675
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27553.1049404523
-                      },
-                      {
-                        "year": 2025,
-                        "total": 23832.0254334931
-                      },
-                      {
-                        "year": 2030,
-                        "total": 21346.7377420697
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16518.4126926435
-                      },
-                      {
-                        "year": 2040,
-                        "total": 15206.7845592544
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13403.1921489129
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13009.1012847906
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Final energy consumption by energy source",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biofuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 50.8316454066
-                      },
-                      {
-                        "year": 2020,
-                        "total": 55.7286800651
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.1289161968
-                      },
-                      {
-                        "year": 2030,
-                        "total": 77.97210013
-                      },
-                      {
-                        "year": 2035,
-                        "total": 81.5717228076
-                      },
-                      {
-                        "year": 2040,
-                        "total": 105.8227437112
-                      },
-                      {
-                        "year": 2045,
-                        "total": 81.6090900061
-                      },
-                      {
-                        "year": 2050,
-                        "total": 74.3692210113
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 12.1115899002
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.1306
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8027823432
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.09647918
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 91.9003850249
-                      },
-                      {
-                        "year": 2020,
-                        "total": 105.0510666388
-                      },
-                      {
-                        "year": 2025,
-                        "total": 101.3825122888
-                      },
-                      {
-                        "year": 2030,
-                        "total": 99.3324041116
-                      },
-                      {
-                        "year": 2035,
-                        "total": 106.3426266726
-                      },
-                      {
-                        "year": 2040,
-                        "total": 112.0023787198
-                      },
-                      {
-                        "year": 2045,
-                        "total": 116.0036297069
-                      },
-                      {
-                        "year": 2050,
-                        "total": 103.3436056268
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 102.3772054682
-                      },
-                      {
-                        "year": 2020,
-                        "total": 99.5604259946
-                      },
-                      {
-                        "year": 2025,
-                        "total": 111.466948168
-                      },
-                      {
-                        "year": 2030,
-                        "total": 135.5306089172
-                      },
-                      {
-                        "year": 2035,
-                        "total": 146.5034625072
-                      },
-                      {
-                        "year": 2040,
-                        "total": 155.1636085265
-                      },
-                      {
-                        "year": 2045,
-                        "total": 159.5316170042
-                      },
-                      {
-                        "year": 2050,
-                        "total": 154.1816497436
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 94.5849883561
-                      },
-                      {
-                        "year": 2020,
-                        "total": 69.4765609873
-                      },
-                      {
-                        "year": 2025,
-                        "total": 77.2445384734
-                      },
-                      {
-                        "year": 2030,
-                        "total": 52.5494848607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 53.90267851
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.7469531717
-                      },
-                      {
-                        "year": 2045,
-                        "total": 34.2253036581
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.5388970125
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Oil",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 386.387080129
-                      },
-                      {
-                        "year": 2020,
-                        "total": 363.288491261
-                      },
-                      {
-                        "year": 2025,
-                        "total": 325.814956428
-                      },
-                      {
-                        "year": 2030,
-                        "total": 213.2392310752
-                      },
-                      {
-                        "year": 2035,
-                        "total": 153.653073844
-                      },
-                      {
-                        "year": 2040,
-                        "total": 104.9649182473
-                      },
-                      {
-                        "year": 2045,
-                        "total": 97.9504333562
-                      },
-                      {
-                        "year": 2050,
-                        "total": 100.5464115519
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.8701138815
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0210938221
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.1540093568
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.8288281722
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.8335353398
-                      },
-                      {
-                        "year": 2045,
-                        "total": 34.7081394881
-                      },
-                      {
-                        "year": 2050,
-                        "total": 59.9999174421
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.31815
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.2121
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.7748
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.0406312327
-                      },
-                      {
-                        "year": 2035,
-                        "total": 48.798757903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 56.4635307152
-                      },
-                      {
-                        "year": 2045,
-                        "total": 68.4357641162
-                      },
-                      {
-                        "year": 2050,
-                        "total": 85.5453292786
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synthetic fuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.2103494731
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0210938221
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.7294965874
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.7353325894
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.9346988112
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.5009385965
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.1059547553
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.7109709142
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.315987073
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biofuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 304.0255434466
-                      },
-                      {
-                        "year": 2020,
-                        "total": 352.4059359109
-                      },
-                      {
-                        "year": 2025,
-                        "total": 372.5278605799
-                      },
-                      {
-                        "year": 2030,
-                        "total": 401.4831153636
-                      },
-                      {
-                        "year": 2035,
-                        "total": 400.8268569429
-                      },
-                      {
-                        "year": 2040,
-                        "total": 384.0855126561
-                      },
-                      {
-                        "year": 2045,
-                        "total": 365.1464161724
-                      },
-                      {
-                        "year": 2050,
-                        "total": 351.2514606516
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.1858462257
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.3888599893
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.8643224737
-                      },
-                      {
-                        "year": 2030,
-                        "total": 44.9349081917
-                      },
-                      {
-                        "year": 2035,
-                        "total": 26.6124265743
-                      },
-                      {
-                        "year": 2040,
-                        "total": 24.6367100955
-                      },
-                      {
-                        "year": 2045,
-                        "total": 27.8758984052
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.0184383171
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 115.2455567748
-                      },
-                      {
-                        "year": 2020,
-                        "total": 123.9160338277
-                      },
-                      {
-                        "year": 2025,
-                        "total": 120.780645075
-                      },
-                      {
-                        "year": 2030,
-                        "total": 113.534777838
-                      },
-                      {
-                        "year": 2035,
-                        "total": 105.6173530603
-                      },
-                      {
-                        "year": 2040,
-                        "total": 101.6083279166
-                      },
-                      {
-                        "year": 2045,
-                        "total": 100.90215286
-                      },
-                      {
-                        "year": 2050,
-                        "total": 96.9920304019
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 256.4682754685
-                      },
-                      {
-                        "year": 2020,
-                        "total": 258.3217013796
-                      },
-                      {
-                        "year": 2025,
-                        "total": 265.8018851501
-                      },
-                      {
-                        "year": 2030,
-                        "total": 272.7752675654
-                      },
-                      {
-                        "year": 2035,
-                        "total": 283.9374922162
-                      },
-                      {
-                        "year": 2040,
-                        "total": 285.0159682343
-                      },
-                      {
-                        "year": 2045,
-                        "total": 284.7967680912
-                      },
-                      {
-                        "year": 2050,
-                        "total": 291.2599126403
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 42.0835340679
-                      },
-                      {
-                        "year": 2020,
-                        "total": 29.6595028185
-                      },
-                      {
-                        "year": 2025,
-                        "total": 28.3603434999
-                      },
-                      {
-                        "year": 2030,
-                        "total": 22.8240804597
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.1137737663
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.960188056
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.9696680818
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5.5055910636
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Oil",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 297.2214770622
-                      },
-                      {
-                        "year": 2020,
-                        "total": 263.3752780077
-                      },
-                      {
-                        "year": 2025,
-                        "total": 209.4781243883
-                      },
-                      {
-                        "year": 2030,
-                        "total": 146.4423826099
-                      },
-                      {
-                        "year": 2035,
-                        "total": 106.8872419436
-                      },
-                      {
-                        "year": 2040,
-                        "total": 79.859475152
-                      },
-                      {
-                        "year": 2045,
-                        "total": 65.503000534
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.1255158111
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.5
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.7039072106
-                      },
-                      {
-                        "year": 2025,
-                        "total": 21.2851707917
-                      },
-                      {
-                        "year": 2030,
-                        "total": 24.6072205227
-                      },
-                      {
-                        "year": 2035,
-                        "total": 34.1387416974
-                      },
-                      {
-                        "year": 2040,
-                        "total": 35.9059690068
-                      },
-                      {
-                        "year": 2045,
-                        "total": 44.5237592381
-                      },
-                      {
-                        "year": 2050,
-                        "total": 55.7581678862
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.653231217
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.6549704727
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.0059367541
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.8272907899
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.4774644873
-                      },
-                      {
-                        "year": 2040,
-                        "total": 12.0370544823
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.1943345947
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.5010668938
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synthetic fuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.0045356164
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.1097673561
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.3544254974
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.4324076844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 32.948759019
-                      },
-                      {
-                        "year": 2040,
-                        "total": 38.2320011118
-                      },
-                      {
-                        "year": 2045,
-                        "total": 40.8949009413
-                      },
-                      {
-                        "year": 2050,
-                        "total": 43.2506199491
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.2858547442
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.626443108
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.834498604
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.67296294
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.888197612
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8.357326967
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.0806738226
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.7347854639
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biofuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 35.3019510176
-                      },
-                      {
-                        "year": 2020,
-                        "total": 24.78847
-                      },
-                      {
-                        "year": 2025,
-                        "total": 24.9914307811
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.6855052622
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.6855052622
-                      },
-                      {
-                        "year": 2040,
-                        "total": 48.2669400563
-                      },
-                      {
-                        "year": 2045,
-                        "total": 121.5688999424
-                      },
-                      {
-                        "year": 2050,
-                        "total": 195.1344357502
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 26.47412
-                      },
-                      {
-                        "year": 2020,
-                        "total": 19.4626432701
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.5097196789
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.5602242694
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.5882934037
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.1940545482
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.63093958
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.3826390761
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.9032079806
-                      },
-                      {
-                        "year": 2040,
-                        "total": 24.0670812792
-                      },
-                      {
-                        "year": 2045,
-                        "total": 35.2016409217
-                      },
-                      {
-                        "year": 2050,
-                        "total": 38.3288613959
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 316.186567389
-                      },
-                      {
-                        "year": 2020,
-                        "total": 322.4023495531
-                      },
-                      {
-                        "year": 2025,
-                        "total": 324.6211962956
-                      },
-                      {
-                        "year": 2030,
-                        "total": 337.033047141
-                      },
-                      {
-                        "year": 2035,
-                        "total": 376.0666974414
-                      },
-                      {
-                        "year": 2040,
-                        "total": 390.7437290541
-                      },
-                      {
-                        "year": 2045,
-                        "total": 402.6920317943
-                      },
-                      {
-                        "year": 2050,
-                        "total": 413.8750524836
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 81.5443047756
-                      },
-                      {
-                        "year": 2020,
-                        "total": 79.3797018559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 85.0465878848
-                      },
-                      {
-                        "year": 2030,
-                        "total": 91.1798913084
-                      },
-                      {
-                        "year": 2035,
-                        "total": 94.6623375969
-                      },
-                      {
-                        "year": 2040,
-                        "total": 97.9643101646
-                      },
-                      {
-                        "year": 2045,
-                        "total": 82.8469872334
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.4389093592
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Oil",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 460.0198996261
-                      },
-                      {
-                        "year": 2020,
-                        "total": 460.1633445672
-                      },
-                      {
-                        "year": 2025,
-                        "total": 473.2898290532
-                      },
-                      {
-                        "year": 2030,
-                        "total": 438.2147355371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 328.2307014062
-                      },
-                      {
-                        "year": 2040,
-                        "total": 228.4861500491
-                      },
-                      {
-                        "year": 2045,
-                        "total": 182.1763765664
-                      },
-                      {
-                        "year": 2050,
-                        "total": 121.5431645801
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 33.5407834096
-                      },
-                      {
-                        "year": 2025,
-                        "total": 89.052795297
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.7399378166
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 15.1672115876
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6.4258622488
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1585936754
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.4949475248
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.0043942793
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.2108732726
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.0433746495
-                      },
-                      {
-                        "year": 2045,
-                        "total": 31.0083279664
-                      },
-                      {
-                        "year": 2050,
-                        "total": 31.0205869616
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synthetic fuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.1013586458
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.7625307588
-                      },
-                      {
-                        "year": 2050,
-                        "total": 36.7196329436
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.404
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.2976842105
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.1913684211
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0850526316
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biofuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 55.232274363
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.133705952
-                      },
-                      {
-                        "year": 2025,
-                        "total": 94.6133405287
-                      },
-                      {
-                        "year": 2030,
-                        "total": 70.2193793157
-                      },
-                      {
-                        "year": 2035,
-                        "total": 73.3180941286
-                      },
-                      {
-                        "year": 2040,
-                        "total": 88.279014721
-                      },
-                      {
-                        "year": 2045,
-                        "total": 119.3071860683
-                      },
-                      {
-                        "year": 2050,
-                        "total": 108.2717598922
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 20.4129405153
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 129.1458950978
-                      },
-                      {
-                        "year": 2020,
-                        "total": 127.2167840651
-                      },
-                      {
-                        "year": 2025,
-                        "total": 130.7471679148
-                      },
-                      {
-                        "year": 2030,
-                        "total": 129.6917592685
-                      },
-                      {
-                        "year": 2035,
-                        "total": 136.9004264907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 149.4352257931
-                      },
-                      {
-                        "year": 2045,
-                        "total": 151.7629681342
-                      },
-                      {
-                        "year": 2050,
-                        "total": 150.2212747456
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 438.9409309464
-                      },
-                      {
-                        "year": 2020,
-                        "total": 457.9557406693
-                      },
-                      {
-                        "year": 2025,
-                        "total": 479.7312228577
-                      },
-                      {
-                        "year": 2030,
-                        "total": 557.6369367747
-                      },
-                      {
-                        "year": 2035,
-                        "total": 568.303989108
-                      },
-                      {
-                        "year": 2040,
-                        "total": 551.693846889
-                      },
-                      {
-                        "year": 2045,
-                        "total": 530.5764627884
-                      },
-                      {
-                        "year": 2050,
-                        "total": 528.226452976
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 171.0143879628
-                      },
-                      {
-                        "year": 2020,
-                        "total": 101.2126462951
-                      },
-                      {
-                        "year": 2025,
-                        "total": 57.3529144815
-                      },
-                      {
-                        "year": 2030,
-                        "total": 99.7393375342
-                      },
-                      {
-                        "year": 2035,
-                        "total": 134.2079442969
-                      },
-                      {
-                        "year": 2040,
-                        "total": 122.8159511919
-                      },
-                      {
-                        "year": 2045,
-                        "total": 185.7776433299
-                      },
-                      {
-                        "year": 2050,
-                        "total": 175.8540890106
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Oil",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 714.7272507937
-                      },
-                      {
-                        "year": 2020,
-                        "total": 620.387818072
-                      },
-                      {
-                        "year": 2025,
-                        "total": 512.5895127433
-                      },
-                      {
-                        "year": 2030,
-                        "total": 441.2881757433
-                      },
-                      {
-                        "year": 2035,
-                        "total": 326.2596747567
-                      },
-                      {
-                        "year": 2040,
-                        "total": 280.6377678537
-                      },
-                      {
-                        "year": 2045,
-                        "total": 193.3189577175
-                      },
-                      {
-                        "year": 2050,
-                        "total": 199.6332680376
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 48.1370790786
-                      },
-                      {
-                        "year": 2020,
-                        "total": 105.3656178919
-                      },
-                      {
-                        "year": 2025,
-                        "total": 154.6957111957
-                      },
-                      {
-                        "year": 2030,
-                        "total": 80.7201675772
-                      },
-                      {
-                        "year": 2035,
-                        "total": 31.7640394042
-                      },
-                      {
-                        "year": 2040,
-                        "total": 47.804893269
-                      },
-                      {
-                        "year": 2045,
-                        "total": 82.7698581099
-                      },
-                      {
-                        "year": 2050,
-                        "total": 104.419444312
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0271812006
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.1632838671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.2453558563
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2936904736
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.3369438913
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synthetic fuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.336666812
-                      },
-                      {
-                        "year": 2025,
-                        "total": 8.1536612415
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7.287624152
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.0237272857
-                      },
-                      {
-                        "year": 2040,
-                        "total": 15.3660587599
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.6211096752
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.9426117643
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Final energy consumption by sector",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TFC industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TFC industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TFC industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TFC industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "scenario": "CNNold_Bio",
-        "indicators": [
-          {
-            "indicator": "Annual system costs",
-            "unit": "MEUR15",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Fuel costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6616.2501376326
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6436.6233822413
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6123.8699987982
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4893.6525840279
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2752.0344131367
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1226.2857171917
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1047.3434713483
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1003.2652804404
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Investment costs Nordic",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1406.7511578917
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3462.2660946246
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6179.9531454014
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8654.4674059525
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10438.9198918293
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11569.2282407497
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12275.9563932848
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12846.2054242869
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Operation costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 46274.7422593137
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48525.4572455519
-                      },
-                      {
-                        "year": 2025,
-                        "total": 36350.6550663027
-                      },
-                      {
-                        "year": 2030,
-                        "total": 23773.5211669206
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23934.2675442784
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23986.8438532226
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24275.8843886411
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24539.7182262966
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Trade costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -13.1348635251
-                      },
-                      {
-                        "year": 2020,
-                        "total": 279.8543920661
-                      },
-                      {
-                        "year": 2025,
-                        "total": -150.732190733
-                      },
-                      {
-                        "year": 2030,
-                        "total": 514.6634932262
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1163.2876730699
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1522.4498791412
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1526.6310336693
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2316.9011286007
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Fuel costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5514.2161741909
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6538.9108638413
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5055.1716533075
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3567.1596631387
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2679.3883308818
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1576.0452873431
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1582.5080755695
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1440.6909927125
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Investment costs Nordic",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6274.412554074
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15941.606655302
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22522.5800680543
-                      },
-                      {
-                        "year": 2030,
-                        "total": 29474.3003455171
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30925.4801026064
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30932.3308742943
-                      },
-                      {
-                        "year": 2045,
-                        "total": 32777.2150928574
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34393.6017327509
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Operation costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6655.0526669716
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8118.0164003197
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9815.7664148458
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11176.425148199
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11943.6368925449
-                      },
-                      {
-                        "year": 2040,
-                        "total": 12690.1490879036
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13007.732770372
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13045.325837469
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Trade costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1358.786351143
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1546.1347260938
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2001.6356787487
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2459.6783084371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2490.4255459446
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1893.5135697488
-                      },
-                      {
-                        "year": 2045,
-                        "total": 656.1371433822
-                      },
-                      {
-                        "year": 2050,
-                        "total": -699.4051482957
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Fuel costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8796.7697232616
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9608.0031694261
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10429.9993391492
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10428.1891657907
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8884.013081273
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7481.8640821204
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6504.9521466505
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5673.8668598134
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Investment costs Nordic",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2237.3353738372
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4041.1171233723
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6084.2216191972
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7907.5574668159
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9397.7193073611
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10171.3864826072
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10839.2373820237
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11877.4175797961
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Operation costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4811.4085740628
-                      },
-                      {
-                        "year": 2020,
-                        "total": 44280.3872369035
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30873.4911991826
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17024.1044527841
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16969.838519702
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16730.2980236055
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16509.3739030699
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16575.6987130816
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Trade costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": -2605.3984129511
-                      },
-                      {
-                        "year": 2020,
-                        "total": -3605.8174093446
-                      },
-                      {
-                        "year": 2025,
-                        "total": -3809.3880812635
-                      },
-                      {
-                        "year": 2030,
-                        "total": -3887.6390048317
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3450.7134549138
-                      },
-                      {
-                        "year": 2040,
-                        "total": -2893.7038645814
-                      },
-                      {
-                        "year": 2045,
-                        "total": -1346.2188790519
-                      },
-                      {
-                        "year": 2050,
-                        "total": 99.8144828724
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Fuel costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10822.5247136431
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10209.8839904899
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10255.1267414559
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10555.4945949403
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9385.7025609
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8901.3785970693
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9253.6126292143
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9965.0355388822
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Investment costs Nordic",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3049.3065739944
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7410.0971957569
-                      },
-                      {
-                        "year": 2025,
-                        "total": 14342.6149659703
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17303.9346278677
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20114.773723697
-                      },
-                      {
-                        "year": 2040,
-                        "total": 20978.0959533858
-                      },
-                      {
-                        "year": 2045,
-                        "total": 22077.9781055718
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23442.9110401752
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Operation costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2252.5723263456
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3042.1084293328
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4630.7545252394
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4972.6435814008
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5484.8223244558
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5543.5749233982
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5775.4248102852
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6413.8807107716
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Trade costs",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1259.7469253332
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1779.8282911847
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1958.4845932477
-                      },
-                      {
-                        "year": 2030,
-                        "total": 913.2972031685
-                      },
-                      {
-                        "year": 2035,
-                        "total": -202.9997641008
-                      },
-                      {
-                        "year": 2040,
-                        "total": -522.2595843085
-                      },
-                      {
-                        "year": 2045,
-                        "total": -836.5492979996
-                      },
-                      {
-                        "year": 2050,
-                        "total": -1717.3104631774
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "CO2 emissions",
-            "unit": "kt",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "CO2-Captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": -289.2513401506
-                      },
-                      {
-                        "year": 2030,
-                        "total": -3551.951599915
-                      },
-                      {
-                        "year": 2035,
-                        "total": -5289.4333450427
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6236.2629758882
-                      },
-                      {
-                        "year": 2045,
-                        "total": -7088.5123561912
-                      },
-                      {
-                        "year": 2050,
-                        "total": -11287.9846100091
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7398.9384714815
-                      },
-                      {
-                        "year": 2020,
-                        "total": 6007.3573761616
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5020.4675283098
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2959.4044777114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2938.6842631812
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2145.7420315533
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.1890662085
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Power and Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11536.3551129472
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9438.9327445832
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1394.3850245779
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1113.7386274083
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1576.8884602151
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1388.1100326791
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1388.1100326791
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1388.1100326791
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2108.3418932
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1985.9695432
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1671.4070548733
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1157.6067370315
-                      },
-                      {
-                        "year": 2035,
-                        "total": 643.2460356875
-                      },
-                      {
-                        "year": 2040,
-                        "total": 329.16242061
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.7184725887
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Supply",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1263.2692022375
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1131.0847902352
-                      },
-                      {
-                        "year": 2025,
-                        "total": 706.9635380244
-                      },
-                      {
-                        "year": 2030,
-                        "total": 336.3045203559
-                      },
-                      {
-                        "year": 2035,
-                        "total": 93.5524018889
-                      },
-                      {
-                        "year": 2040,
-                        "total": 41.6894772678
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.6372073629
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8700898003
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 12881.4363803922
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12036.6555458201
-                      },
-                      {
-                        "year": 2025,
-                        "total": 11650.6471943652
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7694.1352371139
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5501.68118407
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3551.5590137782
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2604.8575773521
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2526.0044875297
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "CO2-Agriculture",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1862.1570362933
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1589.9639439434
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1358.1084440792
-                      },
-                      {
-                        "year": 2030,
-                        "total": 992.9801999803
-                      },
-                      {
-                        "year": 2035,
-                        "total": 812.4036508054
-                      },
-                      {
-                        "year": 2040,
-                        "total": 645.5667763177
-                      },
-                      {
-                        "year": 2045,
-                        "total": 552.8369424145
-                      },
-                      {
-                        "year": 2050,
-                        "total": 732.7384940906
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": -485.3493672421
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3902.6430467638
-                      },
-                      {
-                        "year": 2040,
-                        "total": -4467.9931521583
-                      },
-                      {
-                        "year": 2045,
-                        "total": -4681.7141057317
-                      },
-                      {
-                        "year": 2050,
-                        "total": -7403.275566072
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11501.6000399519
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10021.086778007
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9255.448039498
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8186.1044190255
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5735.8134300786
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5556.9799218604
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5794.838847431
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5913.2259900968
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Internation transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2839.7507738735
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3122.4177653767
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3011.7496569573
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2776.1783043163
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2530.633496736
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2294.3030613005
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2195.8077745256
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2042.1426036004
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Power and Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16501.9503997203
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13392.1175699231
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7358.3370301247
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3688.8789084152
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2413.2289470024
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2203.9704540492
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2156.3882947592
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1605.8741832089
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1268.2108998818
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1056.3730733522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 883.1576709542
-                      },
-                      {
-                        "year": 2030,
-                        "total": 731.7411239627
-                      },
-                      {
-                        "year": 2035,
-                        "total": 577.0490619577
-                      },
-                      {
-                        "year": 2040,
-                        "total": 420.0972125012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 282.178221448
-                      },
-                      {
-                        "year": 2050,
-                        "total": 144.5737296699
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Service",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 850.6878370234
-                      },
-                      {
-                        "year": 2020,
-                        "total": 816.0647261216
-                      },
-                      {
-                        "year": 2025,
-                        "total": 608.994063404
-                      },
-                      {
-                        "year": 2030,
-                        "total": 424.325520972
-                      },
-                      {
-                        "year": 2035,
-                        "total": 285.1193311113
-                      },
-                      {
-                        "year": 2040,
-                        "total": 186.5159989413
-                      },
-                      {
-                        "year": 2045,
-                        "total": 131.3498127476
-                      },
-                      {
-                        "year": 2050,
-                        "total": 88.6860153816
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Supply",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6457.5937088822
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7086.969727346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7091.708318851
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8058.5909421477
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6222.9567196193
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7696.5833693592
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7585.2477017437
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6593.1917824805
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11703.2777306482
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9946.8334675074
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6684.8901644991
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3153.2338476058
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1942.3964186486
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1263.2783086866
-                      },
-                      {
-                        "year": 2045,
-                        "total": 993.5448643472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 683.5385403848
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "CO2-Captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": -0.7836462599
-                      },
-                      {
-                        "year": 2025,
-                        "total": -1.5839468704
-                      },
-                      {
-                        "year": 2030,
-                        "total": -1.7406634564
-                      },
-                      {
-                        "year": 2035,
-                        "total": -405.5295829562
-                      },
-                      {
-                        "year": 2040,
-                        "total": -1203.3078426496
-                      },
-                      {
-                        "year": 2045,
-                        "total": -5558.2698562212
-                      },
-                      {
-                        "year": 2050,
-                        "total": -8819.8944537632
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8675.9972799521
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7946.1180828617
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7565.3547821305
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7308.739713704
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7054.4522264577
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7335.1043527712
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6294.1508840424
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5391.1371412187
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Power and Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 618.3838517535
-                      },
-                      {
-                        "year": 2020,
-                        "total": 621.5327757365
-                      },
-                      {
-                        "year": 2025,
-                        "total": 693.4903329506
-                      },
-                      {
-                        "year": 2030,
-                        "total": 636.1301339885
-                      },
-                      {
-                        "year": 2035,
-                        "total": 747.3046556161
-                      },
-                      {
-                        "year": 2040,
-                        "total": 619.9352334969
-                      },
-                      {
-                        "year": 2045,
-                        "total": 619.9352334969
-                      },
-                      {
-                        "year": 2050,
-                        "total": 806.0120737268
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 865.7596873198
-                      },
-                      {
-                        "year": 2020,
-                        "total": 597.9639077156
-                      },
-                      {
-                        "year": 2025,
-                        "total": 406.9678245643
-                      },
-                      {
-                        "year": 2030,
-                        "total": 203.0701633706
-                      },
-                      {
-                        "year": 2035,
-                        "total": 53.4159121403
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.0701633706
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.0701633706
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Supply",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 832.2855451891
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3080.9692129085
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4645.181993439
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4605.5976944434
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3601.9893002129
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1131.6925679199
-                      },
-                      {
-                        "year": 2045,
-                        "total": 315.4845092963
-                      },
-                      {
-                        "year": 2050,
-                        "total": 274.7214744814
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16110.563503206
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15991.3466381491
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16537.5459444597
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15377.3022944935
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11012.0267918615
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8097.5097497299
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8205.4535044769
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6138.0237643364
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "CO2-Captured",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": -522.5703111349
-                      },
-                      {
-                        "year": 2025,
-                        "total": -900.3886277668
-                      },
-                      {
-                        "year": 2030,
-                        "total": -5439.0848587783
-                      },
-                      {
-                        "year": 2035,
-                        "total": -7598.6378260076
-                      },
-                      {
-                        "year": 2040,
-                        "total": -12285.9180156029
-                      },
-                      {
-                        "year": 2045,
-                        "total": -15377.074788825
-                      },
-                      {
-                        "year": 2050,
-                        "total": -16460.5285537106
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 14121.7079659532
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9135.5972821939
-                      },
-                      {
-                        "year": 2025,
-                        "total": 8487.1827082995
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8242.1895288218
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8647.8719230981
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8753.4879854044
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7178.2932405957
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3830.6909435691
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Power and Heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4390.0696766806
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3244.9012516423
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2771.8331011226
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2697.3
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2892.3781485244
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2697.3
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2697.3
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2697.3
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 145.9045140733
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.3742939602
-                      },
-                      {
-                        "year": 2025,
-                        "total": 14.367226799
-                      },
-                      {
-                        "year": 2030,
-                        "total": 12.3270910829
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.2143571285
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.2143571285
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Supply",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.2126582501
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0380460918
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.0435915585
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.0458898385
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.0415394194
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0371983459
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.9800682403
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.2051484752
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "CO2-Transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 31044.2500278841
-                      },
-                      {
-                        "year": 2020,
-                        "total": 26301.0891261118
-                      },
-                      {
-                        "year": 2025,
-                        "total": 21509.120235143
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20460.2563261231
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16120.0603944407
-                      },
-                      {
-                        "year": 2040,
-                        "total": 15099.0407455964
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14026.1903320173
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12579.2035363048
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Final energy consumption by energy source",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biofuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 34.8311022855
-                      },
-                      {
-                        "year": 2020,
-                        "total": 37.8267707113
-                      },
-                      {
-                        "year": 2025,
-                        "total": 25.368858369
-                      },
-                      {
-                        "year": 2030,
-                        "total": 64.414869182
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9322875112
-                      },
-                      {
-                        "year": 2040,
-                        "total": 119.3897157966
-                      },
-                      {
-                        "year": 2045,
-                        "total": 136.3926590112
-                      },
-                      {
-                        "year": 2050,
-                        "total": 140.7108361697
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 12.1115899002
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.1306
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8011938187
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.6803227202
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 92.3213940166
-                      },
-                      {
-                        "year": 2020,
-                        "total": 101.7115303848
-                      },
-                      {
-                        "year": 2025,
-                        "total": 96.3648114537
-                      },
-                      {
-                        "year": 2030,
-                        "total": 92.0722077333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 101.419492765
-                      },
-                      {
-                        "year": 2040,
-                        "total": 105.6959034405
-                      },
-                      {
-                        "year": 2045,
-                        "total": 108.0331070301
-                      },
-                      {
-                        "year": 2050,
-                        "total": 100.3747774393
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 103.0659185869
-                      },
-                      {
-                        "year": 2020,
-                        "total": 101.1235193529
-                      },
-                      {
-                        "year": 2025,
-                        "total": 111.3831203832
-                      },
-                      {
-                        "year": 2030,
-                        "total": 136.8275340932
-                      },
-                      {
-                        "year": 2035,
-                        "total": 147.7413970411
-                      },
-                      {
-                        "year": 2040,
-                        "total": 158.5308745867
-                      },
-                      {
-                        "year": 2045,
-                        "total": 179.9742813362
-                      },
-                      {
-                        "year": 2050,
-                        "total": 176.9956420506
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 94.8417025386
-                      },
-                      {
-                        "year": 2020,
-                        "total": 76.6561769458
-                      },
-                      {
-                        "year": 2025,
-                        "total": 78.7826230026
-                      },
-                      {
-                        "year": 2030,
-                        "total": 45.2338149956
-                      },
-                      {
-                        "year": 2035,
-                        "total": 47.1309791618
-                      },
-                      {
-                        "year": 2040,
-                        "total": 47.5839683054
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.3863642679
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Oil",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 388.8619708291
-                      },
-                      {
-                        "year": 2020,
-                        "total": 360.7186561797
-                      },
-                      {
-                        "year": 2025,
-                        "total": 333.7124094353
-                      },
-                      {
-                        "year": 2030,
-                        "total": 220.5703846273
-                      },
-                      {
-                        "year": 2035,
-                        "total": 152.9766812731
-                      },
-                      {
-                        "year": 2040,
-                        "total": 87.572955915
-                      },
-                      {
-                        "year": 2045,
-                        "total": 66.9361976495
-                      },
-                      {
-                        "year": 2050,
-                        "total": 68.8935104054
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.9395585677
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0210938221
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.1008884769
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15.561060034
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.3794035559
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.1038851643
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.1042229888
-                      },
-                      {
-                        "year": 2050,
-                        "total": 20.7299768271
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.31815
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.2121
-                      },
-                      {
-                        "year": 2025,
-                        "total": 8.165877103
-                      },
-                      {
-                        "year": 2030,
-                        "total": 38.4096239179
-                      },
-                      {
-                        "year": 2035,
-                        "total": 54.5808957677
-                      },
-                      {
-                        "year": 2040,
-                        "total": 65.8010244913
-                      },
-                      {
-                        "year": 2045,
-                        "total": 81.2767399992
-                      },
-                      {
-                        "year": 2050,
-                        "total": 93.5831960425
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synthetic fuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.2103494731
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0210938221
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.7318931901
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.6642096914
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.7807977928
-                      },
-                      {
-                        "year": 2050,
-                        "total": 8.6609937903
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.5009385965
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.1059547553
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.7109709142
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.315987073
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biofuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 304.0752845194
-                      },
-                      {
-                        "year": 2020,
-                        "total": 352.0775381095
-                      },
-                      {
-                        "year": 2025,
-                        "total": 373.1884280401
-                      },
-                      {
-                        "year": 2030,
-                        "total": 414.2195309095
-                      },
-                      {
-                        "year": 2035,
-                        "total": 400.3870181979
-                      },
-                      {
-                        "year": 2040,
-                        "total": 378.3601028606
-                      },
-                      {
-                        "year": 2045,
-                        "total": 351.2328196895
-                      },
-                      {
-                        "year": 2050,
-                        "total": 322.8687280122
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.6858138246
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.3888599893
-                      },
-                      {
-                        "year": 2025,
-                        "total": 37.8582077405
-                      },
-                      {
-                        "year": 2030,
-                        "total": 45.339694636
-                      },
-                      {
-                        "year": 2035,
-                        "total": 26.5242564778
-                      },
-                      {
-                        "year": 2040,
-                        "total": 24.872686321
-                      },
-                      {
-                        "year": 2045,
-                        "total": 27.1904718919
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.0692387484
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 115.2479715839
-                      },
-                      {
-                        "year": 2020,
-                        "total": 123.9160338277
-                      },
-                      {
-                        "year": 2025,
-                        "total": 120.780645075
-                      },
-                      {
-                        "year": 2030,
-                        "total": 113.6460100136
-                      },
-                      {
-                        "year": 2035,
-                        "total": 105.9122908426
-                      },
-                      {
-                        "year": 2040,
-                        "total": 100.2196168825
-                      },
-                      {
-                        "year": 2045,
-                        "total": 101.3396539355
-                      },
-                      {
-                        "year": 2050,
-                        "total": 102.7494776972
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 256.4653813307
-                      },
-                      {
-                        "year": 2020,
-                        "total": 258.6030324518
-                      },
-                      {
-                        "year": 2025,
-                        "total": 265.8734731036
-                      },
-                      {
-                        "year": 2030,
-                        "total": 272.5378924102
-                      },
-                      {
-                        "year": 2035,
-                        "total": 281.7876284159
-                      },
-                      {
-                        "year": 2040,
-                        "total": 285.7639186944
-                      },
-                      {
-                        "year": 2045,
-                        "total": 287.1781724196
-                      },
-                      {
-                        "year": 2050,
-                        "total": 293.2521563453
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 42.0528780424
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.0281819188
-                      },
-                      {
-                        "year": 2025,
-                        "total": 28.7349714128
-                      },
-                      {
-                        "year": 2030,
-                        "total": 22.7697485331
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.2026912177
-                      },
-                      {
-                        "year": 2040,
-                        "total": 5.26577303
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.2191813748
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.7692265507
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Oil",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 297.2214770622
-                      },
-                      {
-                        "year": 2020,
-                        "total": 263.6460264706
-                      },
-                      {
-                        "year": 2025,
-                        "total": 210.3463215399
-                      },
-                      {
-                        "year": 2030,
-                        "total": 133.7826292159
-                      },
-                      {
-                        "year": 2035,
-                        "total": 107.0717461624
-                      },
-                      {
-                        "year": 2040,
-                        "total": 90.1885904749
-                      },
-                      {
-                        "year": 2045,
-                        "total": 79.8483180306
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.7396921235
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.5
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.7039072106
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.8752796441
-                      },
-                      {
-                        "year": 2030,
-                        "total": 23.1722016079
-                      },
-                      {
-                        "year": 2035,
-                        "total": 35.8538219981
-                      },
-                      {
-                        "year": 2040,
-                        "total": 37.6210493075
-                      },
-                      {
-                        "year": 2045,
-                        "total": 47.4743370211
-                      },
-                      {
-                        "year": 2050,
-                        "total": 61.8438535822
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.653231217
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.6549704727
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.0059367541
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.8272907899
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.4774644873
-                      },
-                      {
-                        "year": 2040,
-                        "total": 12.0370544823
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.1943345947
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.4270655665
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synthetic fuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.9854505691
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.1097673561
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.3711290963
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.4484315227
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.2195743484
-                      },
-                      {
-                        "year": 2040,
-                        "total": 33.1880148009
-                      },
-                      {
-                        "year": 2045,
-                        "total": 35.2486033251
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34.0349199413
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.2858547442
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.5364776648
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.8322725312
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.998090271
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.8012148908
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.6338302565
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.8914605909
-                      },
-                      {
-                        "year": 2050,
-                        "total": 9.3762828182
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biofuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0212
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.0212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.0212
-                      },
-                      {
-                        "year": 2030,
-                        "total": 13.0212
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.7242544756
-                      },
-                      {
-                        "year": 2040,
-                        "total": 32.2455985914
-                      },
-                      {
-                        "year": 2045,
-                        "total": 71.295155963
-                      },
-                      {
-                        "year": 2050,
-                        "total": 160.5040832715
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 26.47412
-                      },
-                      {
-                        "year": 2020,
-                        "total": 19.4626432701
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.5097196789
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.5602242694
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.9579433211
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.4725490654
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.9161322521
-                      },
-                      {
-                        "year": 2030,
-                        "total": 19.2918132937
-                      },
-                      {
-                        "year": 2035,
-                        "total": 24.3790287907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 29.2312353087
-                      },
-                      {
-                        "year": 2045,
-                        "total": 36.9675490272
-                      },
-                      {
-                        "year": 2050,
-                        "total": 38.491816309
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 322.947986864
-                      },
-                      {
-                        "year": 2020,
-                        "total": 323.2011591559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 326.6745944728
-                      },
-                      {
-                        "year": 2030,
-                        "total": 338.6165712061
-                      },
-                      {
-                        "year": 2035,
-                        "total": 377.4916920189
-                      },
-                      {
-                        "year": 2040,
-                        "total": 393.0102221873
-                      },
-                      {
-                        "year": 2045,
-                        "total": 404.754692299
-                      },
-                      {
-                        "year": 2050,
-                        "total": 417.1307938942
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 81.9840156607
-                      },
-                      {
-                        "year": 2020,
-                        "total": 78.7947419203
-                      },
-                      {
-                        "year": 2025,
-                        "total": 83.3849551059
-                      },
-                      {
-                        "year": 2030,
-                        "total": 89.538550179
-                      },
-                      {
-                        "year": 2035,
-                        "total": 92.2238051118
-                      },
-                      {
-                        "year": 2040,
-                        "total": 95.5199292044
-                      },
-                      {
-                        "year": 2045,
-                        "total": 75.2056778976
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.0478514479
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Oil",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 462.91802049
-                      },
-                      {
-                        "year": 2020,
-                        "total": 459.9247363845
-                      },
-                      {
-                        "year": 2025,
-                        "total": 473.2898290532
-                      },
-                      {
-                        "year": 2030,
-                        "total": 438.2147355371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 318.2221752689
-                      },
-                      {
-                        "year": 2040,
-                        "total": 236.5185594872
-                      },
-                      {
-                        "year": 2045,
-                        "total": 240.9948645111
-                      },
-                      {
-                        "year": 2050,
-                        "total": 194.1763482141
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 62.1352145622
-                      },
-                      {
-                        "year": 2025,
-                        "total": 102.3447167381
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.5529276112
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.6163107165
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.2948673626
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.3272819226
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.05853885
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.4949475248
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5114647753
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.5240529715
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.1774733128
-                      },
-                      {
-                        "year": 2045,
-                        "total": 31.059012654
-                      },
-                      {
-                        "year": 2050,
-                        "total": 31.8779521745
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synthetic fuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.086743759
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.9295312288
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 8.8503939356
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.404
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.2976842105
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.1913684211
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0850526316
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Biofuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 35.328901874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 65.4040958822
-                      },
-                      {
-                        "year": 2025,
-                        "total": 72.7832855983
-                      },
-                      {
-                        "year": 2030,
-                        "total": 74.2604857848
-                      },
-                      {
-                        "year": 2035,
-                        "total": 79.8610669593
-                      },
-                      {
-                        "year": 2040,
-                        "total": 85.2671910254
-                      },
-                      {
-                        "year": 2045,
-                        "total": 89.501388825
-                      },
-                      {
-                        "year": 2050,
-                        "total": 79.6022754784
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Coal",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 20.4129405153
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 100.8937179948
-                      },
-                      {
-                        "year": 2020,
-                        "total": 129.0741283328
-                      },
-                      {
-                        "year": 2025,
-                        "total": 133.5988778913
-                      },
-                      {
-                        "year": 2030,
-                        "total": 133.5446029844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 135.3151438976
-                      },
-                      {
-                        "year": 2040,
-                        "total": 148.9419003179
-                      },
-                      {
-                        "year": 2045,
-                        "total": 155.1306164178
-                      },
-                      {
-                        "year": 2050,
-                        "total": 152.7147061453
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 449.4853170385
-                      },
-                      {
-                        "year": 2020,
-                        "total": 459.7730704709
-                      },
-                      {
-                        "year": 2025,
-                        "total": 523.5999514152
-                      },
-                      {
-                        "year": 2030,
-                        "total": 566.2817355041
-                      },
-                      {
-                        "year": 2035,
-                        "total": 561.3009485673
-                      },
-                      {
-                        "year": 2040,
-                        "total": 549.7259051696
-                      },
-                      {
-                        "year": 2045,
-                        "total": 544.0277436815
-                      },
-                      {
-                        "year": 2050,
-                        "total": 611.7374828978
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Natural gas",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 188.7605447695
-                      },
-                      {
-                        "year": 2020,
-                        "total": 129.6466588124
-                      },
-                      {
-                        "year": 2025,
-                        "total": 115.4421003015
-                      },
-                      {
-                        "year": 2030,
-                        "total": 113.3534736148
-                      },
-                      {
-                        "year": 2035,
-                        "total": 114.6065171644
-                      },
-                      {
-                        "year": 2040,
-                        "total": 118.2975368405
-                      },
-                      {
-                        "year": 2045,
-                        "total": 200.2306612429
-                      },
-                      {
-                        "year": 2050,
-                        "total": 240.6283677426
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Oil",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 715.8478022103
-                      },
-                      {
-                        "year": 2020,
-                        "total": 585.7642952653
-                      },
-                      {
-                        "year": 2025,
-                        "total": 450.6696265575
-                      },
-                      {
-                        "year": 2030,
-                        "total": 413.0582574455
-                      },
-                      {
-                        "year": 2035,
-                        "total": 314.7930143242
-                      },
-                      {
-                        "year": 2040,
-                        "total": 290.1805951778
-                      },
-                      {
-                        "year": 2045,
-                        "total": 234.1576465889
-                      },
-                      {
-                        "year": 2050,
-                        "total": 191.5115303184
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Others",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 48.1370790786
-                      },
-                      {
-                        "year": 2020,
-                        "total": 79.1356474876
-                      },
-                      {
-                        "year": 2025,
-                        "total": 99.3908310294
-                      },
-                      {
-                        "year": 2030,
-                        "total": 70.0661537115
-                      },
-                      {
-                        "year": 2035,
-                        "total": 46.0088726212
-                      },
-                      {
-                        "year": 2040,
-                        "total": 36.2617586641
-                      },
-                      {
-                        "year": 2045,
-                        "total": 35.6413738624
-                      },
-                      {
-                        "year": 2050,
-                        "total": 45.6427807566
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Solar",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0335304581
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.1999644419
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.2446045459
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2899237278
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.3369438913
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Synthetic fuels",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 25.745327967
-                      },
-                      {
-                        "year": 2025,
-                        "total": 38.2592456644
-                      },
-                      {
-                        "year": 2030,
-                        "total": 21.7091924554
-                      },
-                      {
-                        "year": 2035,
-                        "total": 24.7552946972
-                      },
-                      {
-                        "year": 2040,
-                        "total": 19.1465552775
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.7729162244
-                      },
-                      {
-                        "year": 2050,
-                        "total": 29.3252093633
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Final energy consumption by sector",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TFC industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TFC industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TFC industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "TFC industry",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC residential",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TFC transport",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }

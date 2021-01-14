@@ -209,13 +209,13 @@ export default {
 					"opt3": false,
 					}, 
 				"CNNold": { 
-					"opt0": false,
+					"opt0": true,
 					"opt1": true,
 					"opt2": false,
 					"opt3": false,
 					}, 
 				"CNNold_copy": { 
-					"opt0": false,
+					"opt0": true,
 					"opt1": true,
 					"opt2": false,
 					"opt3": false,
