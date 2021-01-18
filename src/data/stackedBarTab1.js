@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNN",
+        "scenario": "1801-CNN",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -3161,7 +3161,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3198,7 +3198,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3235,7 +3235,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3277,7 +3277,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3314,7 +3314,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3351,7 +3351,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3393,7 +3393,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3430,7 +3430,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3467,7 +3467,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3509,7 +3509,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3546,7 +3546,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3583,7 +3583,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3626,7 +3626,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_Bio",
+        "scenario": "1801-CNN_Bio",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -6785,7 +6785,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6822,7 +6822,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6859,7 +6859,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6901,7 +6901,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6938,7 +6938,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6975,7 +6975,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7017,7 +7017,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7054,7 +7054,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7091,7 +7091,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7133,7 +7133,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7170,7 +7170,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7207,7 +7207,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7250,7 +7250,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_CCS",
+        "scenario": "1801-CNN_CCS",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -10409,7 +10409,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10446,7 +10446,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10483,7 +10483,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10525,7 +10525,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10562,7 +10562,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10599,7 +10599,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10641,7 +10641,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10678,7 +10678,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10715,7 +10715,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10757,7 +10757,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10794,7 +10794,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10831,7 +10831,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10874,7 +10874,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_CCS_Bio",
+        "scenario": "1801-CNN_CCS_Bio",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -14033,7 +14033,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14070,7 +14070,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14107,7 +14107,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14149,7 +14149,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14186,7 +14186,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14223,7 +14223,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14265,7 +14265,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14302,7 +14302,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14339,7 +14339,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14381,7 +14381,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14418,7 +14418,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14455,7 +14455,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14498,7 +14498,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold",
+        "scenario": "1801-CNNold",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -17657,7 +17657,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17694,7 +17694,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17731,7 +17731,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17773,7 +17773,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17810,7 +17810,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17847,7 +17847,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17889,7 +17889,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17926,7 +17926,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17963,7 +17963,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18005,7 +18005,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18042,7 +18042,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18079,7 +18079,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18122,7 +18122,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold_Bio",
+        "scenario": "1801-CNNold_Bio",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -21281,7 +21281,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21318,7 +21318,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21355,7 +21355,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21397,7 +21397,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21434,7 +21434,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21471,7 +21471,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21513,7 +21513,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21550,7 +21550,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21587,7 +21587,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21629,7 +21629,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21666,7 +21666,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21703,7 +21703,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21746,7 +21746,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold_CCS",
+        "scenario": "1801-CNNold_CCS",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -24905,7 +24905,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24942,7 +24942,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24979,7 +24979,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25021,7 +25021,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25058,7 +25058,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25095,7 +25095,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25137,7 +25137,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25174,7 +25174,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25211,7 +25211,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25253,7 +25253,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25290,7 +25290,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25327,7 +25327,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25370,7 +25370,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold_CCS_Bio",
+        "scenario": "1801-CNNold_CCS_Bio",
         "indicators": [
           {
             "indicator": "Annual system costs",
@@ -28529,7 +28529,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28566,7 +28566,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28603,7 +28603,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28645,7 +28645,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28682,7 +28682,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28719,7 +28719,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28761,7 +28761,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28798,7 +28798,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28835,7 +28835,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28877,7 +28877,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "TFC industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28914,7 +28914,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC residential",
+                    "indicatorGroup": "Residential and commercial",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28951,7 +28951,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "TFC transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

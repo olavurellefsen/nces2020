@@ -4,8 +4,8 @@ export default {
 			scenarioOptions : [ 
 				{ 
 					"id": 0, 
-					"name": "CNN", 
-					"nameNoOptions": "CNN", 
+					"name": "1801-CNN", 
+					"nameNoOptions": "1801-CNN", 
 					"short_description": "CNN", 
 					"ultra_short_description": "CNN", 
 					"desc": "long and eloquent scenario description", 
@@ -16,8 +16,8 @@ export default {
 				}, 
 				{ 
 					"id": 1, 
-					"name": "CNN_copy", 
-					"nameNoOptions": "CNN_copy", 
+					"name": "1801-CNN_copy", 
+					"nameNoOptions": "1801-CNN_copy", 
 					"short_description": "CNN", 
 					"ultra_short_description": "CNN", 
 					"desc": "long and eloquent scenario description", 
@@ -28,8 +28,8 @@ export default {
 				}, 
 				{ 
 					"id": 2, 
-					"name": "CNN_CCS", 
-					"nameNoOptions": "CNN", 
+					"name": "1801-CNN_CCS", 
+					"nameNoOptions": "1801-CNN", 
 					"short_description": "CNN1 + CCS", 
 					"ultra_short_description": "CNN+C", 
 					"desc": "long and eloquent scenario description", 
@@ -40,8 +40,8 @@ export default {
 				}, 
 				{ 
 					"id": 3, 
-					"name": "CNN_copy_CCS", 
-					"nameNoOptions": "CNN_copy", 
+					"name": "1801-CNN_copy_CCS", 
+					"nameNoOptions": "1801-CNN_copy", 
 					"short_description": "CNN1 + CCS", 
 					"ultra_short_description": "CNN+C", 
 					"desc": "long and eloquent scenario description", 
@@ -52,8 +52,8 @@ export default {
 				}, 
 				{ 
 					"id": 4, 
-					"name": "CNN_CCS_Bio", 
-					"nameNoOptions": "CNN", 
+					"name": "1801-CNN_CCS_Bio", 
+					"nameNoOptions": "1801-CNN", 
 					"short_description": "CNN + CCS + Bio", 
 					"ultra_short_description": "CNN+C+B", 
 					"desc": "long and eloquent scenario description", 
@@ -64,8 +64,8 @@ export default {
 				}, 
 				{ 
 					"id": 5, 
-					"name": "CNN_copy_CCS_Bio", 
-					"nameNoOptions": "CNN_copy", 
+					"name": "1801-CNN_copy_CCS_Bio", 
+					"nameNoOptions": "1801-CNN_copy", 
 					"short_description": "CNN + CCS + Bio", 
 					"ultra_short_description": "CNN+C+B", 
 					"desc": "long and eloquent scenario description", 
@@ -76,8 +76,8 @@ export default {
 				}, 
 				{ 
 					"id": 6, 
-					"name": "CNN_Bio", 
-					"nameNoOptions": "CNN", 
+					"name": "1801-CNN_Bio", 
+					"nameNoOptions": "1801-CNN", 
 					"short_description": "CNN + Bio", 
 					"ultra_short_description": "CNN+B", 
 					"desc": "long and eloquent scenario description", 
@@ -88,8 +88,8 @@ export default {
 				}, 
 				{ 
 					"id": 7, 
-					"name": "CNN_copy_Bio", 
-					"nameNoOptions": "CNN_copy", 
+					"name": "1801-CNN_copy_Bio", 
+					"nameNoOptions": "1801-CNN_copy", 
 					"short_description": "CNN + Bio", 
 					"ultra_short_description": "CNN+B", 
 					"desc": "long and eloquent scenario description", 
@@ -100,8 +100,8 @@ export default {
 				}, 
 				{ 
 					"id": 8, 
-					"name": "CNNold", 
-					"nameNoOptions": "CNNold", 
+					"name": "1801-CNNold", 
+					"nameNoOptions": "1801-CNNold", 
 					"short_description": "CNNold", 
 					"ultra_short_description": "CNNo", 
 					"desc": "long and eloquent scenario description", 
@@ -112,8 +112,8 @@ export default {
 				}, 
 				{ 
 					"id": 9, 
-					"name": "CNNold_copy", 
-					"nameNoOptions": "CNNold_copy", 
+					"name": "1801-CNNold_copy", 
+					"nameNoOptions": "1801-CNNold_copy", 
 					"short_description": "CNNold", 
 					"ultra_short_description": "CNNo", 
 					"desc": "long and eloquent scenario description", 
@@ -124,8 +124,8 @@ export default {
 				}, 
 				{ 
 					"id": 10, 
-					"name": "CNNold_CCS", 
-					"nameNoOptions": "CNNold", 
+					"name": "1801-CNNold_CCS", 
+					"nameNoOptions": "1801-CNNold", 
 					"short_description": "CNNold + CCS", 
 					"ultra_short_description": "CNNo+C", 
 					"desc": "long and eloquent scenario description", 
@@ -136,8 +136,8 @@ export default {
 				}, 
 				{ 
 					"id": 11, 
-					"name": "CNNold_copy_CCS", 
-					"nameNoOptions": "CNNold_copy", 
+					"name": "1801-CNNold_copy_CCS", 
+					"nameNoOptions": "1801-CNNold_copy", 
 					"short_description": "CNNold + CCS", 
 					"ultra_short_description": "CNNo+C", 
 					"desc": "long and eloquent scenario description", 
@@ -148,8 +148,8 @@ export default {
 				}, 
 				{ 
 					"id": 12, 
-					"name": "CNNold_CCS_Bio", 
-					"nameNoOptions": "CNNold", 
+					"name": "1801-CNNold_CCS_Bio", 
+					"nameNoOptions": "1801-CNNold", 
 					"short_description": "CNNold + CCS + Bio", 
 					"ultra_short_description": "CNNo+C+B", 
 					"desc": "long and eloquent scenario description", 
@@ -160,8 +160,8 @@ export default {
 				}, 
 				{ 
 					"id": 13, 
-					"name": "CNNold_copy_CCS_Bio", 
-					"nameNoOptions": "CNNold_copy", 
+					"name": "1801-CNNold_copy_CCS_Bio", 
+					"nameNoOptions": "1801-CNNold_copy", 
 					"short_description": "CNNold + CCS + Bio", 
 					"ultra_short_description": "CNNo+C+B", 
 					"desc": "long and eloquent scenario description", 
@@ -172,8 +172,8 @@ export default {
 				}, 
 				{ 
 					"id": 14, 
-					"name": "CNNold_Bio", 
-					"nameNoOptions": "CNNold", 
+					"name": "1801-CNNold_Bio", 
+					"nameNoOptions": "1801-CNNold", 
 					"short_description": "CNNold + Bio", 
 					"ultra_short_description": "CNNo+B", 
 					"desc": "long and eloquent scenario description", 
@@ -184,8 +184,8 @@ export default {
 				}, 
 				{ 
 					"id": 15, 
-					"name": "CNNold_copy_Bio", 
-					"nameNoOptions": "CNNold_copy", 
+					"name": "1801-CNNold_copy_Bio", 
+					"nameNoOptions": "1801-CNNold_copy", 
 					"short_description": "CNNold + Bio", 
 					"ultra_short_description": "CNNo+B", 
 					"desc": "long and eloquent scenario description", 
@@ -196,25 +196,25 @@ export default {
 				}, 
 			], 
 			optionsAvailable: { 
-				"CNN": { 
+				"1801-CNN": { 
 					"opt0": true,
 					"opt1": true,
 					"opt2": false,
 					"opt3": false,
 					}, 
-				"CNN_copy": { 
+				"1801-CNN_copy": { 
 					"opt0": true,
 					"opt1": true,
 					"opt2": false,
 					"opt3": false,
 					}, 
-				"CNNold": { 
+				"1801-CNNold": { 
 					"opt0": true,
 					"opt1": true,
 					"opt2": false,
 					"opt3": false,
 					}, 
-				"CNNold_copy": { 
+				"1801-CNNold_copy": { 
 					"opt0": true,
 					"opt1": true,
 					"opt2": false,

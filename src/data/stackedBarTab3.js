@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNN",
+        "scenario": "1801-CNN",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -123,43 +123,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.6050217007
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.6433629653
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.968783153
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.2098092807
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.5483822577
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.126211011
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -168,31 +131,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 6.7695295152
+                        "total": 8.7371554063
                       },
                       {
                         "year": 2025,
-                        "total": 7.7023005394
+                        "total": 13.3073222401
                       },
                       {
                         "year": 2030,
-                        "total": 7.7473862927
+                        "total": 13.390749258
                       },
                       {
                         "year": 2035,
-                        "total": 7.7658311015
+                        "total": 11.7346142544
                       },
                       {
                         "year": 2040,
-                        "total": 42.2222484288
+                        "total": 45.4320577095
                       },
                       {
                         "year": 2045,
-                        "total": 63.5300032355
+                        "total": 65.0783854932
                       },
                       {
                         "year": 2050,
-                        "total": 92.5958746475
+                        "total": 94.7220856585
                       }
                     ]
                   },
@@ -688,43 +651,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.8023094748
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.8023094748
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.1682182203
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.6780016692
-                      },
-                      {
-                        "year": 2050,
-                        "total": 5.6672632505
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -741,23 +667,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 4.39855452
+                        "total": 6.2008639948
                       },
                       {
                         "year": 2035,
-                        "total": 4.4017391274
+                        "total": 6.2040486022
                       },
                       {
                         "year": 2040,
-                        "total": 28.6217387462
+                        "total": 31.7899569666
                       },
                       {
                         "year": 2045,
-                        "total": 32.2791800098
+                        "total": 37.957181679
                       },
                       {
                         "year": 2050,
-                        "total": 40.4222980757
+                        "total": 46.0895613262
                       }
                     ]
                   },
@@ -989,43 +915,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.8331858658
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.1933980007
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.8862274107
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.8862274107
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2511067565
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.2265820737
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1433189137
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -1034,31 +923,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 22.4478209931
+                        "total": 23.2810068589
                       },
                       {
                         "year": 2025,
-                        "total": 38.5430607382
+                        "total": 40.7364587389
                       },
                       {
                         "year": 2030,
-                        "total": 38.1430851098
+                        "total": 40.0293125205
                       },
                       {
                         "year": 2035,
-                        "total": 97.3392869154
+                        "total": 99.2255143261
                       },
                       {
                         "year": 2040,
-                        "total": 89.4172265704
+                        "total": 91.6683333269
                       },
                       {
                         "year": 2045,
-                        "total": 113.7337984755
+                        "total": 115.9603805491
                       },
                       {
                         "year": 2050,
-                        "total": 147.9286764849
+                        "total": 150.0719953985
                       }
                     ]
                   },
@@ -3879,7 +3768,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3921,7 +3810,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3963,7 +3852,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4005,7 +3894,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7012,7 +6901,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_Bio",
+        "scenario": "1801-CNN_Bio",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -7133,43 +7022,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.3355574891
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.2630026929
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2630026929
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.4739797791
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1920761318
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -7178,31 +7030,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 15.7328378714
+                        "total": 17.7004637625
                       },
                       {
                         "year": 2025,
-                        "total": 20.5028828255
+                        "total": 22.4705087166
                       },
                       {
                         "year": 2030,
-                        "total": 27.6007631257
+                        "total": 30.9363206148
                       },
                       {
                         "year": 2035,
-                        "total": 32.4701041323
+                        "total": 34.7331068252
                       },
                       {
                         "year": 2040,
-                        "total": 33.5541150809
+                        "total": 35.8171177738
                       },
                       {
                         "year": 2045,
-                        "total": 31.0774410608
+                        "total": 32.5514208399
                       },
                       {
                         "year": 2050,
-                        "total": 14.9840979161
+                        "total": 17.1761740479
                       }
                     ]
                   },
@@ -7698,43 +7550,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0439663238
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.2040572608
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.2040572608
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.743554069
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.7350224939
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.8216773861
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -7747,27 +7562,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 3.119745098
+                        "total": 3.1637114218
                       },
                       {
                         "year": 2030,
-                        "total": 3.6418017723
+                        "total": 3.8458590331
                       },
                       {
                         "year": 2035,
-                        "total": 3.6582932586
+                        "total": 3.8623505194
                       },
                       {
                         "year": 2040,
-                        "total": 25.9761453964
+                        "total": 28.7196994654
                       },
                       {
                         "year": 2045,
-                        "total": 25.6260584329
+                        "total": 28.3610809268
                       },
                       {
                         "year": 2050,
-                        "total": 31.2019888556
+                        "total": 36.0236662417
                       }
                     ]
                   },
@@ -7999,43 +7814,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9188829349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.8574404839
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.1188018516
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.9198471826
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2491070244
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.2245823416
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.2042946898
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -8044,31 +7822,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 14.641152806
+                        "total": 15.5600357409
                       },
                       {
                         "year": 2025,
-                        "total": 31.4854003774
+                        "total": 32.3428408614
                       },
                       {
                         "year": 2030,
-                        "total": 38.003262088
+                        "total": 40.1220639396
                       },
                       {
                         "year": 2035,
-                        "total": 88.981320042
+                        "total": 90.9011672246
                       },
                       {
                         "year": 2040,
-                        "total": 93.3373831986
+                        "total": 95.586490223
                       },
                       {
                         "year": 2045,
-                        "total": 101.5721888224
+                        "total": 103.796771164
                       },
                       {
                         "year": 2050,
-                        "total": 124.9211088952
+                        "total": 127.125403585
                       }
                     ]
                   },
@@ -10889,7 +10667,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10931,7 +10709,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10973,7 +10751,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11015,7 +10793,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14022,7 +13800,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_CCS",
+        "scenario": "1801-CNN_CCS",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -14143,43 +13921,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.2122449766
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.6862247557
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.7810872715
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.7374339208
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.5922042038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1897084968
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -14188,31 +13929,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 15.7328378714
+                        "total": 17.7004637625
                       },
                       {
                         "year": 2025,
-                        "total": 18.5774380354
+                        "total": 20.789683012
                       },
                       {
                         "year": 2030,
-                        "total": 45.194248878
+                        "total": 48.8804736337
                       },
                       {
                         "year": 2035,
-                        "total": 50.2598872953
+                        "total": 53.0409745668
                       },
                       {
                         "year": 2040,
-                        "total": 90.6389372303
+                        "total": 93.3763711511
                       },
                       {
                         "year": 2045,
-                        "total": 101.1450228097
+                        "total": 102.7372270134
                       },
                       {
                         "year": 2050,
-                        "total": 105.5783077335
+                        "total": 107.7680162304
                       }
                     ]
                   },
@@ -14708,43 +14449,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.5689727296
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.1108730079
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.7721492536
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.8836969543
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.880695592
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.186604734
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -14757,27 +14461,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 2.4893498403
+                        "total": 3.0583225699
                       },
                       {
                         "year": 2030,
-                        "total": 2.5576506667
+                        "total": 3.6685236746
                       },
                       {
                         "year": 2035,
-                        "total": 2.5623107252
+                        "total": 4.3344599787
                       },
                       {
                         "year": 2040,
-                        "total": 25.0730696526
+                        "total": 27.9567666068
                       },
                       {
                         "year": 2045,
-                        "total": 41.9994714538
+                        "total": 44.8801670458
                       },
                       {
                         "year": 2050,
-                        "total": 58.4715732023
+                        "total": 60.6581779364
                       }
                     ]
                   },
@@ -15009,43 +14713,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9188829349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.2768753866
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.1308392678
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.9100163556
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2491418588
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.2246171759
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1809748012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -15054,31 +14721,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 14.641152806
+                        "total": 15.5600357409
                       },
                       {
                         "year": 2025,
-                        "total": 37.0356972118
+                        "total": 38.3125725984
                       },
                       {
                         "year": 2030,
-                        "total": 54.1385248383
+                        "total": 56.2693641061
                       },
                       {
                         "year": 2035,
-                        "total": 127.6245299465
+                        "total": 129.5345463021
                       },
                       {
                         "year": 2040,
-                        "total": 124.0760259424
+                        "total": 126.3251678012
                       },
                       {
                         "year": 2045,
-                        "total": 136.9293144361
+                        "total": 139.1539316121
                       },
                       {
                         "year": 2050,
-                        "total": 155.9601636063
+                        "total": 158.1411384074
                       }
                     ]
                   },
@@ -17899,7 +17566,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17941,7 +17608,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17983,7 +17650,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18025,7 +17692,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21032,7 +20699,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_CCS_Bio",
+        "scenario": "1801-CNN_CCS_Bio",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -21153,43 +20820,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.4416056702
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.2615609493
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.5549968814
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.5624238392
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1921002453
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -21198,31 +20828,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 15.7328378714
+                        "total": 17.7004637625
                       },
                       {
                         "year": 2025,
-                        "total": 20.5510889741
+                        "total": 22.5187148652
                       },
                       {
                         "year": 2030,
-                        "total": 38.5128071364
+                        "total": 41.9544128067
                       },
                       {
                         "year": 2035,
-                        "total": 41.3732945777
+                        "total": 43.634855527
                       },
                       {
                         "year": 2040,
-                        "total": 44.7297293694
+                        "total": 47.2847262508
                       },
                       {
                         "year": 2045,
-                        "total": 38.2738971891
+                        "total": 39.8363210283
                       },
                       {
                         "year": 2050,
-                        "total": 16.0035210252
+                        "total": 18.1956212705
                       }
                     ]
                   },
@@ -21718,43 +21348,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0439663238
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.401603861
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4011020424
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.3996050793
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.6573888991
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.7424937888
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -21767,27 +21360,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 3.119745098
+                        "total": 3.1637114218
                       },
                       {
                         "year": 2030,
-                        "total": 3.6412477504
+                        "total": 4.0428516115
                       },
                       {
                         "year": 2035,
-                        "total": 3.6573319691
+                        "total": 4.0584340115
                       },
                       {
                         "year": 2040,
-                        "total": 37.0361321878
+                        "total": 39.4357372671
                       },
                       {
                         "year": 2045,
-                        "total": 38.3365462751
+                        "total": 40.9939351742
                       },
                       {
                         "year": 2050,
-                        "total": 49.8261481208
+                        "total": 52.5686419096
                       }
                     ]
                   },
@@ -22019,43 +21612,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9188829349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.6121676395
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.2926838487
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.8998161896
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2515357954
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.2270111126
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.9930208164
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -22064,31 +21620,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 14.641152806
+                        "total": 15.5600357409
                       },
                       {
                         "year": 2025,
-                        "total": 37.0978936517
+                        "total": 38.7100612911
                       },
                       {
                         "year": 2030,
-                        "total": 55.4830632965
+                        "total": 57.7757471452
                       },
                       {
                         "year": 2035,
-                        "total": 126.3471983932
+                        "total": 128.2470145828
                       },
                       {
                         "year": 2040,
-                        "total": 127.2365307671
+                        "total": 129.4880665626
                       },
                       {
                         "year": 2045,
-                        "total": 127.5754550835
+                        "total": 129.8024661961
                       },
                       {
                         "year": 2050,
-                        "total": 135.8250150959
+                        "total": 137.8180359124
                       }
                     ]
                   },
@@ -24909,7 +24465,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24951,7 +24507,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24993,7 +24549,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25035,7 +24591,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28042,7 +27598,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold",
+        "scenario": "1801-CNNold",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -28163,43 +27719,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.715341888
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.6433629653
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.4912646498
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.5044765188
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.7002567393
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1718611361
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -28208,31 +27727,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 6.9316333184
+                        "total": 8.8992592095
                       },
                       {
                         "year": 2025,
-                        "total": 7.029780128
+                        "total": 11.7451220159
                       },
                       {
                         "year": 2030,
-                        "total": 7.380461481
+                        "total": 13.0238244463
                       },
                       {
                         "year": 2035,
-                        "total": 6.1706247657
+                        "total": 9.6618894155
                       },
                       {
                         "year": 2040,
-                        "total": 23.2425807959
+                        "total": 25.7470573147
                       },
                       {
                         "year": 2045,
-                        "total": 50.8676269587
+                        "total": 52.5678836981
                       },
                       {
                         "year": 2050,
-                        "total": 61.8344865612
+                        "total": 64.0063476973
                       }
                     ]
                   },
@@ -28728,43 +28247,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.7511581094
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.129290233
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.7579585221
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.6183998962
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.8048475652
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -28781,23 +28263,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 13.5780428778
+                        "total": 14.3292009872
                       },
                       {
                         "year": 2035,
-                        "total": 15.5440544481
+                        "total": 16.6733446812
                       },
                       {
                         "year": 2040,
-                        "total": 38.7758840297
+                        "total": 40.5338425518
                       },
                       {
                         "year": 2045,
-                        "total": 33.4098237068
+                        "total": 35.028223603
                       },
                       {
                         "year": 2050,
-                        "total": 52.8944510292
+                        "total": 53.6992985944
                       }
                     ]
                   },
@@ -29029,43 +28511,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9188829349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.2827360816
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.2827360816
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.8898684225
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2512217143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.2266970315
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1432109928
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -29074,31 +28519,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 8.4209951939
+                        "total": 9.3398781288
                       },
                       {
                         "year": 2025,
-                        "total": 16.4359196927
+                        "total": 18.7186557743
                       },
                       {
                         "year": 2030,
-                        "total": 20.3817184312
+                        "total": 22.6644545128
                       },
                       {
                         "year": 2035,
-                        "total": 34.7771680784
+                        "total": 36.6670365009
                       },
                       {
                         "year": 2040,
-                        "total": 45.3190924961
+                        "total": 47.5703142104
                       },
                       {
                         "year": 2045,
-                        "total": 65.7296934825
+                        "total": 67.9563905139
                       },
                       {
                         "year": 2050,
-                        "total": 79.4805275954
+                        "total": 81.6237385883
                       }
                     ]
                   },
@@ -31919,7 +31364,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31961,7 +31406,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -32003,7 +31448,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -32045,7 +31490,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35052,7 +34497,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold_Bio",
+        "scenario": "1801-CNNold_Bio",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -35173,43 +34618,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.2630026929
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.2596374426
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.1006208414
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.6804217559
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1944161072
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -35218,31 +34626,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 16.3457907291
+                        "total": 18.3134166202
                       },
                       {
                         "year": 2025,
-                        "total": 20.3486379566
+                        "total": 22.3162638477
                       },
                       {
                         "year": 2030,
-                        "total": 19.6513699632
+                        "total": 21.914372656
                       },
                       {
                         "year": 2035,
-                        "total": 39.1508152846
+                        "total": 41.4104527272
                       },
                       {
                         "year": 2040,
-                        "total": 30.7036175805
+                        "total": 32.8042384219
                       },
                       {
                         "year": 2045,
-                        "total": 29.5045517755
+                        "total": 31.1849735313
                       },
                       {
                         "year": 2050,
-                        "total": 17.2299386708
+                        "total": 19.424354778
                       }
                     ]
                   },
@@ -35738,43 +35146,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6885649286
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.4305489204
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.0196691576
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.7726348128
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.7327850957
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.6134648755
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -35787,27 +35158,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 5.4256511891
+                        "total": 6.1142161177
                       },
                       {
                         "year": 2030,
-                        "total": 5.5871420895
+                        "total": 7.0176910099
                       },
                       {
                         "year": 2035,
-                        "total": 5.5904018458
+                        "total": 6.6100710034
                       },
                       {
                         "year": 2040,
-                        "total": 24.1546457108
+                        "total": 28.9272805237
                       },
                       {
                         "year": 2045,
-                        "total": 20.8025938833
+                        "total": 25.5353789791
                       },
                       {
                         "year": 2050,
-                        "total": 20.1747149946
+                        "total": 24.7881798702
                       }
                     ]
                   },
@@ -36039,43 +35410,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9188829349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.2535138427
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.2535138427
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.9389808871
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2554784433
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.2262660777
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1445688306
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -36084,31 +35418,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 17.7275450745
+                        "total": 18.6464280094
                       },
                       {
                         "year": 2025,
-                        "total": 28.6061759684
+                        "total": 30.8596898111
                       },
                       {
                         "year": 2030,
-                        "total": 28.6567422502
+                        "total": 30.9102560929
                       },
                       {
                         "year": 2035,
-                        "total": 55.2916812432
+                        "total": 57.2306621303
                       },
                       {
                         "year": 2040,
-                        "total": 67.5560227822
+                        "total": 69.8115012255
                       },
                       {
                         "year": 2045,
-                        "total": 63.9896724228
+                        "total": 66.2159385005
                       },
                       {
                         "year": 2050,
-                        "total": 83.8064837195
+                        "total": 85.9510525502
                       }
                     ]
                   },
@@ -38929,7 +38263,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38971,7 +38305,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39013,7 +38347,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39055,7 +38389,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42062,7 +41396,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold_CCS",
+        "scenario": "1801-CNNold_CCS",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -42183,43 +41517,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.160848151
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.4416056702
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.2594076612
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2595059767
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.7113536717
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1885270763
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -42228,31 +41525,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 16.3457907291
+                        "total": 18.3134166202
                       },
                       {
                         "year": 2025,
-                        "total": 20.6961901689
+                        "total": 22.8570383198
                       },
                       {
                         "year": 2030,
-                        "total": 29.3499757575
+                        "total": 32.7915814278
                       },
                       {
                         "year": 2035,
-                        "total": 60.3088953197
+                        "total": 62.5683029809
                       },
                       {
                         "year": 2040,
-                        "total": 81.8724596317
+                        "total": 84.1319656085
                       },
                       {
                         "year": 2045,
-                        "total": 83.8705188828
+                        "total": 85.5818725545
                       },
                       {
                         "year": 2050,
-                        "total": 96.2351531082
+                        "total": 98.4236801844
                       }
                     ]
                   },
@@ -42748,43 +42045,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.6901801362
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.1429717841
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.1755582225
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.3256897671
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1847033414
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.8774977477
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -42797,27 +42057,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 5.4435799622
+                        "total": 7.1337600984
                       },
                       {
                         "year": 2030,
-                        "total": 5.9258374253
+                        "total": 8.0688092094
                       },
                       {
                         "year": 2035,
-                        "total": 6.1598553115
+                        "total": 9.335413534
                       },
                       {
                         "year": 2040,
-                        "total": 40.9462223349
+                        "total": 44.271912102
                       },
                       {
                         "year": 2045,
-                        "total": 49.6146319605
+                        "total": 52.7993353019
                       },
                       {
                         "year": 2050,
-                        "total": 54.1229673842
+                        "total": 55.0004651318
                       }
                     ]
                   },
@@ -43049,43 +42309,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9188829349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.2538327134
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.1977581803
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.0120072449
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2506045939
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.226079911
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1443631448
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -43094,31 +42317,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 17.7275450745
+                        "total": 18.6464280094
                       },
                       {
                         "year": 2025,
-                        "total": 29.5500283851
+                        "total": 31.8038610985
                       },
                       {
                         "year": 2030,
-                        "total": 25.9253087533
+                        "total": 28.1230669336
                       },
                       {
                         "year": 2035,
-                        "total": 84.2454861934
+                        "total": 86.2574934383
                       },
                       {
                         "year": 2040,
-                        "total": 85.8009854813
+                        "total": 88.0515900752
                       },
                       {
                         "year": 2045,
-                        "total": 85.5153663708
+                        "total": 87.7414462819
                       },
                       {
                         "year": 2050,
-                        "total": 135.0421026092
+                        "total": 137.186465754
                       }
                     ]
                   },
@@ -45939,7 +45162,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -45981,7 +45204,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46023,7 +45246,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46065,7 +45288,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49072,7 +48295,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold_CCS_Bio",
+        "scenario": "1801-CNNold_CCS_Bio",
         "indicators": [
           {
             "indicator": "District heat production",
@@ -49193,43 +48416,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.9676258911
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.3187551516
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.2596230929
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2596230929
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.6813020443
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1964660191
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -49238,31 +48424,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 16.3457907291
+                        "total": 18.3134166202
                       },
                       {
                         "year": 2025,
-                        "total": 20.7479282686
+                        "total": 22.7155541597
                       },
                       {
                         "year": 2030,
-                        "total": 34.3280707226
+                        "total": 36.6468258742
                       },
                       {
                         "year": 2035,
-                        "total": 47.9477278514
+                        "total": 50.2073509442
                       },
                       {
                         "year": 2040,
-                        "total": 46.3785404289
+                        "total": 48.6381635217
                       },
                       {
                         "year": 2045,
-                        "total": 35.8700587573
+                        "total": 37.5513608017
                       },
                       {
                         "year": 2050,
-                        "total": 14.8204717742
+                        "total": 17.0169377933
                       }
                     ]
                   },
@@ -49758,43 +48944,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.1965063696
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.1965063696
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.6629286583
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.9706560948
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.390150132
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.7572573127
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -49807,27 +48956,27 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 7.2186693618
+                        "total": 7.4151757314
                       },
                       {
                         "year": 2030,
-                        "total": 8.6654241667
+                        "total": 8.8619305364
                       },
                       {
                         "year": 2035,
-                        "total": 8.7031092353
+                        "total": 9.3660378936
                       },
                       {
                         "year": 2040,
-                        "total": 34.4244409226
+                        "total": 37.3950970174
                       },
                       {
                         "year": 2045,
-                        "total": 28.8228051927
+                        "total": 34.2129553247
                       },
                       {
                         "year": 2050,
-                        "total": 28.9139087948
+                        "total": 36.6711661075
                       }
                     ]
                   },
@@ -50059,43 +49208,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Data center",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.9188829349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.2538327134
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0711861664
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.8768195479
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.2505594346
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.2260347518
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.1443179856
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Excess heat",
                     "indicatorGroupValues": [
                       {
@@ -50104,31 +49216,31 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 17.7275450745
+                        "total": 18.6464280094
                       },
                       {
                         "year": 2025,
-                        "total": 30.2174851955
+                        "total": 32.471317909
                       },
                       {
                         "year": 2030,
-                        "total": 37.6991093149
+                        "total": 39.7702954813
                       },
                       {
                         "year": 2035,
-                        "total": 87.4062980512
+                        "total": 89.2831175991
                       },
                       {
                         "year": 2040,
-                        "total": 101.3332205058
+                        "total": 103.5837799404
                       },
                       {
                         "year": 2045,
-                        "total": 101.4584214673
+                        "total": 103.6844562191
                       },
                       {
                         "year": 2050,
-                        "total": 118.7616599537
+                        "total": 120.9059779392
                       }
                     ]
                   },
@@ -52949,7 +52061,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -52991,7 +52103,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53033,7 +52145,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53075,7 +52187,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Power and heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

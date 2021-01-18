@@ -2,7 +2,7 @@ export default {
   "data": {
     "scenarios": [
       {
-        "scenario": "CNN",
+        "scenario": "1801-CNN",
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
@@ -1422,6 +1422,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -1533,7 +1570,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1677,43 +1714,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.5728158304
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -2283,7 +2283,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2547,7 +2547,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2780,6 +2780,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -2891,7 +2928,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3035,43 +3072,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.5728158304
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -3678,7 +3678,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3979,7 +3979,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4170,7 +4170,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_Bio",
+        "scenario": "1801-CNN_Bio",
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
@@ -5590,6 +5590,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -5701,7 +5738,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5845,43 +5882,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.6470732074
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -6451,7 +6451,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6715,7 +6715,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6948,6 +6948,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -7059,7 +7096,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7203,43 +7240,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.6470732074
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -7846,7 +7846,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8147,7 +8147,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8338,7 +8338,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_CCS",
+        "scenario": "1801-CNN_CCS",
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
@@ -9758,6 +9758,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -9869,7 +9906,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10013,43 +10050,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.5697179446
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -10619,7 +10619,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10883,7 +10883,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11116,6 +11116,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -11227,7 +11264,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11371,43 +11408,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.5697179446
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -12014,7 +12014,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12315,7 +12315,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12506,7 +12506,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNN_CCS_Bio",
+        "scenario": "1801-CNN_CCS_Bio",
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
@@ -13926,6 +13926,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -14037,7 +14074,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14181,43 +14218,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.6956841434
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -14787,7 +14787,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15051,7 +15051,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15284,6 +15284,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -15395,7 +15432,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15539,43 +15576,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.6956841434
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -16182,7 +16182,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16483,7 +16483,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16674,7 +16674,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold",
+        "scenario": "1801-CNNold",
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
@@ -18094,6 +18094,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -18205,7 +18242,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18349,43 +18386,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.6475263472
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -18955,7 +18955,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19219,7 +19219,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19452,6 +19452,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -19563,7 +19600,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19707,43 +19744,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.6475263472
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -20350,7 +20350,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20651,7 +20651,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20842,7 +20842,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold_Bio",
+        "scenario": "1801-CNNold_Bio",
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
@@ -22262,6 +22262,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -22373,7 +22410,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22517,43 +22554,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.716798676
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -23123,7 +23123,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23387,7 +23387,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23620,6 +23620,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -23731,7 +23768,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23875,43 +23912,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.716798676
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -24518,7 +24518,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24819,7 +24819,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25010,7 +25010,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold_CCS",
+        "scenario": "1801-CNNold_CCS",
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
@@ -26430,6 +26430,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -26541,7 +26578,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26685,43 +26722,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.6465643701
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -27291,7 +27291,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27555,7 +27555,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27788,6 +27788,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -27899,7 +27936,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28043,43 +28080,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.6465643701
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -28686,7 +28686,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28987,7 +28987,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29178,7 +29178,7 @@ export default {
         ]
       },
       {
-        "scenario": "CNNold_CCS_Bio",
+        "scenario": "1801-CNNold_CCS_Bio",
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
@@ -30598,6 +30598,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -30709,7 +30746,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -30853,43 +30890,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.7220020947
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -31459,7 +31459,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31723,7 +31723,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31956,6 +31956,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biofuels",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.9694982524
+                      },
+                      {
+                        "year": 2020,
+                        "total": 1.3129988349
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6564994175
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -32067,7 +32104,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -32211,43 +32248,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 34.7220020947
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Straw",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.9694982524
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.3129988349
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.6564994175
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   },
@@ -32854,7 +32854,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33155,7 +33155,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Electricity for heating",
+                    "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
