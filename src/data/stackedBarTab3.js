@@ -6282,7 +6282,7 @@ export default {
           },
           {
             "indicator": "Power supply by sector",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
