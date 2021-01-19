@@ -37,12 +37,9 @@ const ScenarioSelectionList = props => {
   const { scenarioCombinations, dimensionTitle, narrowVersion } = props;
   let stringValue = props.selectedValue.toString();
   let stringValue2 = props.selectedValue2.toString();
-  //console.log("scenarioSelection from scliist: ", props.scenarioSelection)
-  //console.log("props.options: ", props.options)
   let OptionDisplay = []
-  /* let scenarioOptionsSand = scenarioCombinations.scenarioOptions
+  scenarioCombinations.scenarioOptions
     .filter(s => {
-      //console.log("props.option[s.nameNoOptions]: ", props.options[s.nameNoOptions])
       return (
         !s.opt0 && 
         !s.opt1 && 
@@ -62,10 +59,8 @@ const ScenarioSelectionList = props => {
         )
       })
       OptionDisplay.push(newOption)
-    }) */
-  //console.log("OptionDisplay: ", OptionDisplay)
+    })
   let scenarioOptions = OptionDisplay.map(option => {
-      //console.log("option: ", option)
       let optionValue = option.nameNoOptions;
       if (optionValue === "division_line") {
         return <MenuSeparatorLine key={option.id} />;
@@ -88,11 +83,9 @@ const ScenarioSelectionList = props => {
             >
               {narrowVersion === false &&
                 option.short_description
-                //t("scenario." + option.short_description)
                 }
               {narrowVersion === true &&
                 option.ultra_short_description
-                //t("scenario." + option.ultra_short_description)
                 }
             </ScenarioNameContainer>
             <IconContainer narrowVersion={narrowVersion}>
