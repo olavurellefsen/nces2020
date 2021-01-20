@@ -5108,6 +5108,624 @@ export default {
             ]
           },
           {
+            "indicator": "Power consumption by sector",
+            "unit": "TWh",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4946748479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 66.0695754576
+                      },
+                      {
+                        "year": 2025,
+                        "total": 71.2756209211
+                      },
+                      {
+                        "year": 2030,
+                        "total": 76.467741805
+                      },
+                      {
+                        "year": 2035,
+                        "total": 78.8717955971
+                      },
+                      {
+                        "year": 2040,
+                        "total": 80.90490762
+                      },
+                      {
+                        "year": 2045,
+                        "total": 81.7997806937
+                      },
+                      {
+                        "year": 2050,
+                        "total": 82.5457619697
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 39.0457684335
+                      },
+                      {
+                        "year": 2020,
+                        "total": 34.7817927458
+                      },
+                      {
+                        "year": 2025,
+                        "total": 37.2541946918
+                      },
+                      {
+                        "year": 2030,
+                        "total": 41.0508250299
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.405765204
+                      },
+                      {
+                        "year": 2040,
+                        "total": 47.0241210703
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.6724473246
+                      },
+                      {
+                        "year": 2050,
+                        "total": 53.5191193874
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.4747173541
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.9102271058
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.9024961586
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.4862017478
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.2565353391
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.4404867527
+                      },
+                      {
+                        "year": 2045,
+                        "total": 21.7055783257
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.9658574034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.1800712273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.1649398011
+                      },
+                      {
+                        "year": 2025,
+                        "total": 15.2143530087
+                      },
+                      {
+                        "year": 2030,
+                        "total": 24.2874286196
+                      },
+                      {
+                        "year": 2035,
+                        "total": 34.5210742693
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.8791684647
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.0577972238
+                      },
+                      {
+                        "year": 2050,
+                        "total": 51.6960506648
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 415.5083043242
+                      },
+                      {
+                        "year": 2020,
+                        "total": 415.6884942667
+                      },
+                      {
+                        "year": 2025,
+                        "total": 440.2399122259
+                      },
+                      {
+                        "year": 2030,
+                        "total": 458.935015889
+                      },
+                      {
+                        "year": 2035,
+                        "total": 478.0119495496
+                      },
+                      {
+                        "year": 2040,
+                        "total": 492.7100196545
+                      },
+                      {
+                        "year": 2045,
+                        "total": 474.0827373417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 484.9848745409
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 156.9504690801
+                      },
+                      {
+                        "year": 2020,
+                        "total": 159.4291962231
+                      },
+                      {
+                        "year": 2025,
+                        "total": 160.2701788588
+                      },
+                      {
+                        "year": 2030,
+                        "total": 158.9400069553
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.5183608022
+                      },
+                      {
+                        "year": 2040,
+                        "total": 151.6527174462
+                      },
+                      {
+                        "year": 2045,
+                        "total": 154.9162272868
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.3400350128
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.9525126207
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.0429740427
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.1111839794
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.8500284688
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20.4824948193
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.5924894585
+                      },
+                      {
+                        "year": 2045,
+                        "total": 29.4274162202
+                      },
+                      {
+                        "year": 2050,
+                        "total": 29.4988390919
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7398919452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.1822269875
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.8654152044
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.7691125655
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.8190272602
+                      },
+                      {
+                        "year": 2040,
+                        "total": 21.138185703
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.9620845108
+                      },
+                      {
+                        "year": 2050,
+                        "total": 29.8932862301
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 195.3452249528
+                      },
+                      {
+                        "year": 2020,
+                        "total": 198.9046765523
+                      },
+                      {
+                        "year": 2025,
+                        "total": 212.1680138085
+                      },
+                      {
+                        "year": 2030,
+                        "total": 223.1118178239
+                      },
+                      {
+                        "year": 2035,
+                        "total": 230.9377166009
+                      },
+                      {
+                        "year": 2040,
+                        "total": 239.2815154324
+                      },
+                      {
+                        "year": 2045,
+                        "total": 249.0087503707
+                      },
+                      {
+                        "year": 2050,
+                        "total": 261.8086822072
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 121.109529843
+                      },
+                      {
+                        "year": 2020,
+                        "total": 118.0717988803
+                      },
+                      {
+                        "year": 2025,
+                        "total": 111.6103723457
+                      },
+                      {
+                        "year": 2030,
+                        "total": 102.4156543009
+                      },
+                      {
+                        "year": 2035,
+                        "total": 96.2341909476
+                      },
+                      {
+                        "year": 2040,
+                        "total": 85.523261542
+                      },
+                      {
+                        "year": 2045,
+                        "total": 80.9627841471
+                      },
+                      {
+                        "year": 2050,
+                        "total": 77.8948823139
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.8517327334
+                      },
+                      {
+                        "year": 2020,
+                        "total": 27.5225776128
+                      },
+                      {
+                        "year": 2025,
+                        "total": 31.7819911526
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.2767938467
+                      },
+                      {
+                        "year": 2035,
+                        "total": 24.1576955901
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.6252479123
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.6774599582
+                      },
+                      {
+                        "year": 2050,
+                        "total": 40.1157080158
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.4526159743
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5789929606
+                      },
+                      {
+                        "year": 2025,
+                        "total": 6.5070146585
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.8305866058
+                      },
+                      {
+                        "year": 2035,
+                        "total": 35.0325533696
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.9808311606
+                      },
+                      {
+                        "year": 2045,
+                        "total": 49.5444727722
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.0358240871
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 246.3777723035
+                      },
+                      {
+                        "year": 2020,
+                        "total": 250.8598110999
+                      },
+                      {
+                        "year": 2025,
+                        "total": 252.7913827996
+                      },
+                      {
+                        "year": 2030,
+                        "total": 258.3331382049
+                      },
+                      {
+                        "year": 2035,
+                        "total": 259.1082627599
+                      },
+                      {
+                        "year": 2040,
+                        "total": 259.1276935566
+                      },
+                      {
+                        "year": 2045,
+                        "total": 256.0421585072
+                      },
+                      {
+                        "year": 2050,
+                        "total": 253.3323359192
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 184.9977138234
+                      },
+                      {
+                        "year": 2020,
+                        "total": 196.3046839245
+                      },
+                      {
+                        "year": 2025,
+                        "total": 186.7969946701
+                      },
+                      {
+                        "year": 2030,
+                        "total": 185.6922124427
+                      },
+                      {
+                        "year": 2035,
+                        "total": 183.3795638493
+                      },
+                      {
+                        "year": 2040,
+                        "total": 171.6486413301
+                      },
+                      {
+                        "year": 2045,
+                        "total": 150.0840396717
+                      },
+                      {
+                        "year": 2050,
+                        "total": 145.1494665777
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.4364858962
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7559878293
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.3585320632
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.4563126195
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20.7080661681
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.4703284542
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32.9187945845
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.6068847939
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.8162665878
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.5752010621
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.1444145044
+                      },
+                      {
+                        "year": 2030,
+                        "total": 59.64672171
+                      },
+                      {
+                        "year": 2035,
+                        "total": 64.0513990108
+                      },
+                      {
+                        "year": 2040,
+                        "total": 82.0330331124
+                      },
+                      {
+                        "year": 2045,
+                        "total": 94.6976258407
+                      },
+                      {
+                        "year": 2050,
+                        "total": 99.1406986029
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "Power supply by energy source",
             "unit": "TWh",
             "regions": [
@@ -6273,624 +6891,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 489.0260611737
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power supply by sector",
-            "unit": "TWh",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4946748479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 66.0695754576
-                      },
-                      {
-                        "year": 2025,
-                        "total": 71.2756209211
-                      },
-                      {
-                        "year": 2030,
-                        "total": 76.467741805
-                      },
-                      {
-                        "year": 2035,
-                        "total": 78.8717955971
-                      },
-                      {
-                        "year": 2040,
-                        "total": 80.90490762
-                      },
-                      {
-                        "year": 2045,
-                        "total": 81.7997806937
-                      },
-                      {
-                        "year": 2050,
-                        "total": 82.5457619697
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 39.0457684335
-                      },
-                      {
-                        "year": 2020,
-                        "total": 34.7817927458
-                      },
-                      {
-                        "year": 2025,
-                        "total": 37.2541946918
-                      },
-                      {
-                        "year": 2030,
-                        "total": 41.0508250299
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.405765204
-                      },
-                      {
-                        "year": 2040,
-                        "total": 47.0241210703
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.6724473246
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.5191193874
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.4747173541
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.9102271058
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.9024961586
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.4862017478
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.2565353391
-                      },
-                      {
-                        "year": 2040,
-                        "total": 8.4404867527
-                      },
-                      {
-                        "year": 2045,
-                        "total": 21.7055783257
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.9658574034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.1800712273
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.1649398011
-                      },
-                      {
-                        "year": 2025,
-                        "total": 15.2143530087
-                      },
-                      {
-                        "year": 2030,
-                        "total": 24.2874286196
-                      },
-                      {
-                        "year": 2035,
-                        "total": 34.5210742693
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.8791684647
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.0577972238
-                      },
-                      {
-                        "year": 2050,
-                        "total": 51.6960506648
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 415.5083043242
-                      },
-                      {
-                        "year": 2020,
-                        "total": 415.6884942667
-                      },
-                      {
-                        "year": 2025,
-                        "total": 440.2399122259
-                      },
-                      {
-                        "year": 2030,
-                        "total": 458.935015889
-                      },
-                      {
-                        "year": 2035,
-                        "total": 478.0119495496
-                      },
-                      {
-                        "year": 2040,
-                        "total": 492.7100196545
-                      },
-                      {
-                        "year": 2045,
-                        "total": 474.0827373417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 484.9848745409
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 156.9504690801
-                      },
-                      {
-                        "year": 2020,
-                        "total": 159.4291962231
-                      },
-                      {
-                        "year": 2025,
-                        "total": 160.2701788588
-                      },
-                      {
-                        "year": 2030,
-                        "total": 158.9400069553
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.5183608022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 151.6527174462
-                      },
-                      {
-                        "year": 2045,
-                        "total": 154.9162272868
-                      },
-                      {
-                        "year": 2050,
-                        "total": 146.3400350128
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.9525126207
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.0429740427
-                      },
-                      {
-                        "year": 2025,
-                        "total": 17.1111839794
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.8500284688
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.4824948193
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.5924894585
-                      },
-                      {
-                        "year": 2045,
-                        "total": 29.4274162202
-                      },
-                      {
-                        "year": 2050,
-                        "total": 29.4988390919
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.7398919452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1822269875
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8654152044
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.7691125655
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.8190272602
-                      },
-                      {
-                        "year": 2040,
-                        "total": 21.138185703
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.9620845108
-                      },
-                      {
-                        "year": 2050,
-                        "total": 29.8932862301
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 195.3452249528
-                      },
-                      {
-                        "year": 2020,
-                        "total": 198.9046765523
-                      },
-                      {
-                        "year": 2025,
-                        "total": 212.1680138085
-                      },
-                      {
-                        "year": 2030,
-                        "total": 223.1118178239
-                      },
-                      {
-                        "year": 2035,
-                        "total": 230.9377166009
-                      },
-                      {
-                        "year": 2040,
-                        "total": 239.2815154324
-                      },
-                      {
-                        "year": 2045,
-                        "total": 249.0087503707
-                      },
-                      {
-                        "year": 2050,
-                        "total": 261.8086822072
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 121.109529843
-                      },
-                      {
-                        "year": 2020,
-                        "total": 118.0717988803
-                      },
-                      {
-                        "year": 2025,
-                        "total": 111.6103723457
-                      },
-                      {
-                        "year": 2030,
-                        "total": 102.4156543009
-                      },
-                      {
-                        "year": 2035,
-                        "total": 96.2341909476
-                      },
-                      {
-                        "year": 2040,
-                        "total": 85.523261542
-                      },
-                      {
-                        "year": 2045,
-                        "total": 80.9627841471
-                      },
-                      {
-                        "year": 2050,
-                        "total": 77.8948823139
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.8517327334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.5225776128
-                      },
-                      {
-                        "year": 2025,
-                        "total": 31.7819911526
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.2767938467
-                      },
-                      {
-                        "year": 2035,
-                        "total": 24.1576955901
-                      },
-                      {
-                        "year": 2040,
-                        "total": 33.6252479123
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.6774599582
-                      },
-                      {
-                        "year": 2050,
-                        "total": 40.1157080158
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.4526159743
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.5789929606
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.5070146585
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.8305866058
-                      },
-                      {
-                        "year": 2035,
-                        "total": 35.0325533696
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.9808311606
-                      },
-                      {
-                        "year": 2045,
-                        "total": 49.5444727722
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.0358240871
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 246.3777723035
-                      },
-                      {
-                        "year": 2020,
-                        "total": 250.8598110999
-                      },
-                      {
-                        "year": 2025,
-                        "total": 252.7913827996
-                      },
-                      {
-                        "year": 2030,
-                        "total": 258.3331382049
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.1082627599
-                      },
-                      {
-                        "year": 2040,
-                        "total": 259.1276935566
-                      },
-                      {
-                        "year": 2045,
-                        "total": 256.0421585072
-                      },
-                      {
-                        "year": 2050,
-                        "total": 253.3323359192
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 184.9977138234
-                      },
-                      {
-                        "year": 2020,
-                        "total": 196.3046839245
-                      },
-                      {
-                        "year": 2025,
-                        "total": 186.7969946701
-                      },
-                      {
-                        "year": 2030,
-                        "total": 185.6922124427
-                      },
-                      {
-                        "year": 2035,
-                        "total": 183.3795638493
-                      },
-                      {
-                        "year": 2040,
-                        "total": 171.6486413301
-                      },
-                      {
-                        "year": 2045,
-                        "total": 150.0840396717
-                      },
-                      {
-                        "year": 2050,
-                        "total": 145.1494665777
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.4364858962
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7559878293
-                      },
-                      {
-                        "year": 2025,
-                        "total": 8.3585320632
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.4563126195
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.7080661681
-                      },
-                      {
-                        "year": 2040,
-                        "total": 26.4703284542
-                      },
-                      {
-                        "year": 2045,
-                        "total": 32.9187945845
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.6068847939
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.8162665878
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.5752010621
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.1444145044
-                      },
-                      {
-                        "year": 2030,
-                        "total": 59.64672171
-                      },
-                      {
-                        "year": 2035,
-                        "total": 64.0513990108
-                      },
-                      {
-                        "year": 2040,
-                        "total": 82.0330331124
-                      },
-                      {
-                        "year": 2045,
-                        "total": 94.6976258407
-                      },
-                      {
-                        "year": 2050,
-                        "total": 99.1406986029
                       }
                     ]
                   }
@@ -12007,6 +12007,624 @@ export default {
             ]
           },
           {
+            "indicator": "Power consumption by sector",
+            "unit": "TWh",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.3152673623
+                      },
+                      {
+                        "year": 2020,
+                        "total": 64.8953595399
+                      },
+                      {
+                        "year": 2025,
+                        "total": 68.378162411
+                      },
+                      {
+                        "year": 2030,
+                        "total": 73.606104834
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.2206593243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 85.2480279629
+                      },
+                      {
+                        "year": 2045,
+                        "total": 101.0442376441
+                      },
+                      {
+                        "year": 2050,
+                        "total": 116.3256693557
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 38.0895710436
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32.6094144676
+                      },
+                      {
+                        "year": 2025,
+                        "total": 36.2968613655
+                      },
+                      {
+                        "year": 2030,
+                        "total": 39.1357577526
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.9523728366
+                      },
+                      {
+                        "year": 2040,
+                        "total": 47.9283901505
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.9371599542
+                      },
+                      {
+                        "year": 2050,
+                        "total": 53.4917167583
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.2816065125
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.8564382304
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.0587951118
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7.9814172182
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.4969800217
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.273375574
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2670197743
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.0431004981
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.1426317105
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.6332056397
+                      },
+                      {
+                        "year": 2025,
+                        "total": 15.162433829
+                      },
+                      {
+                        "year": 2030,
+                        "total": 27.1435511259
+                      },
+                      {
+                        "year": 2035,
+                        "total": 35.0218307012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.8424404
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.0566678396
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1364831913
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 415.5306559688
+                      },
+                      {
+                        "year": 2020,
+                        "total": 415.7468504847
+                      },
+                      {
+                        "year": 2025,
+                        "total": 437.0033686543
+                      },
+                      {
+                        "year": 2030,
+                        "total": 457.8894004569
+                      },
+                      {
+                        "year": 2035,
+                        "total": 478.7809711626
+                      },
+                      {
+                        "year": 2040,
+                        "total": 494.1320662598
+                      },
+                      {
+                        "year": 2045,
+                        "total": 476.620518082
+                      },
+                      {
+                        "year": 2050,
+                        "total": 488.8582091977
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 156.9504690801
+                      },
+                      {
+                        "year": 2020,
+                        "total": 159.426258274
+                      },
+                      {
+                        "year": 2025,
+                        "total": 160.2918835714
+                      },
+                      {
+                        "year": 2030,
+                        "total": 159.01407397
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.5225850679
+                      },
+                      {
+                        "year": 2040,
+                        "total": 151.6572358215
+                      },
+                      {
+                        "year": 2045,
+                        "total": 154.9210189936
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.34161065
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.9524811152
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.0426453069
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.1224377289
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.9641112724
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20.2084593501
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.3489405578
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.8100791124
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33.8405385027
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7398919452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.1822269875
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.8212174329
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.7220253249
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.7713423966
+                      },
+                      {
+                        "year": 2040,
+                        "total": 21.1441827272
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.9606466812
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1469711773
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 204.5473792897
+                      },
+                      {
+                        "year": 2020,
+                        "total": 205.3048355995
+                      },
+                      {
+                        "year": 2025,
+                        "total": 217.5016436582
+                      },
+                      {
+                        "year": 2030,
+                        "total": 227.1015242866
+                      },
+                      {
+                        "year": 2035,
+                        "total": 230.9325167826
+                      },
+                      {
+                        "year": 2040,
+                        "total": 240.2659523887
+                      },
+                      {
+                        "year": 2045,
+                        "total": 250.3484999124
+                      },
+                      {
+                        "year": 2050,
+                        "total": 263.5836626403
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 115.6695824794
+                      },
+                      {
+                        "year": 2020,
+                        "total": 116.5841172857
+                      },
+                      {
+                        "year": 2025,
+                        "total": 109.6895048614
+                      },
+                      {
+                        "year": 2030,
+                        "total": 100.7783144323
+                      },
+                      {
+                        "year": 2035,
+                        "total": 96.5406302354
+                      },
+                      {
+                        "year": 2040,
+                        "total": 84.1818583564
+                      },
+                      {
+                        "year": 2045,
+                        "total": 81.1605868279
+                      },
+                      {
+                        "year": 2050,
+                        "total": 77.9166878854
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.8205556137
+                      },
+                      {
+                        "year": 2020,
+                        "total": 23.6777272296
+                      },
+                      {
+                        "year": 2025,
+                        "total": 29.0781356181
+                      },
+                      {
+                        "year": 2030,
+                        "total": 27.2989076815
+                      },
+                      {
+                        "year": 2035,
+                        "total": 22.1137969066
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.5386190292
+                      },
+                      {
+                        "year": 2045,
+                        "total": 19.7972171929
+                      },
+                      {
+                        "year": 2050,
+                        "total": 20.4132932508
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.4914474386
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1873162243
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.7095805438
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.5302623399
+                      },
+                      {
+                        "year": 2035,
+                        "total": 35.7122910817
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.9575448922
+                      },
+                      {
+                        "year": 2045,
+                        "total": 49.5311634722
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.0333821435
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 245.850402659
+                      },
+                      {
+                        "year": 2020,
+                        "total": 250.3247639295
+                      },
+                      {
+                        "year": 2025,
+                        "total": 252.3080501709
+                      },
+                      {
+                        "year": 2030,
+                        "total": 258.3343830377
+                      },
+                      {
+                        "year": 2035,
+                        "total": 259.1026299908
+                      },
+                      {
+                        "year": 2040,
+                        "total": 259.1412060385
+                      },
+                      {
+                        "year": 2045,
+                        "total": 256.0449402263
+                      },
+                      {
+                        "year": 2050,
+                        "total": 259.208504438
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 149.3214919372
+                      },
+                      {
+                        "year": 2020,
+                        "total": 141.4243440822
+                      },
+                      {
+                        "year": 2025,
+                        "total": 158.9155343065
+                      },
+                      {
+                        "year": 2030,
+                        "total": 160.2363623732
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.1816578927
+                      },
+                      {
+                        "year": 2040,
+                        "total": 155.9160261088
+                      },
+                      {
+                        "year": 2045,
+                        "total": 151.8291448571
+                      },
+                      {
+                        "year": 2050,
+                        "total": 151.4316915278
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.9490714962
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.6668118389
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.3283949679
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.6060635543
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.0323240262
+                      },
+                      {
+                        "year": 2040,
+                        "total": 38.2985499224
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32.7755094924
+                      },
+                      {
+                        "year": 2050,
+                        "total": 42.5475337103
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1113582621
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.8872750231
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.0860470246
+                      },
+                      {
+                        "year": 2030,
+                        "total": 58.7930747412
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.9553579581
+                      },
+                      {
+                        "year": 2040,
+                        "total": 83.4722762842
+                      },
+                      {
+                        "year": 2045,
+                        "total": 94.6868710674
+                      },
+                      {
+                        "year": 2050,
+                        "total": 99.1409306884
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "Power supply by energy source",
             "unit": "TWh",
             "regions": [
@@ -13172,624 +13790,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 500.173923591
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power supply by sector",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.3152673623
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.8953595399
-                      },
-                      {
-                        "year": 2025,
-                        "total": 68.378162411
-                      },
-                      {
-                        "year": 2030,
-                        "total": 73.606104834
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.2206593243
-                      },
-                      {
-                        "year": 2040,
-                        "total": 85.2480279629
-                      },
-                      {
-                        "year": 2045,
-                        "total": 101.0442376441
-                      },
-                      {
-                        "year": 2050,
-                        "total": 116.3256693557
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 38.0895710436
-                      },
-                      {
-                        "year": 2020,
-                        "total": 32.6094144676
-                      },
-                      {
-                        "year": 2025,
-                        "total": 36.2968613655
-                      },
-                      {
-                        "year": 2030,
-                        "total": 39.1357577526
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.9523728366
-                      },
-                      {
-                        "year": 2040,
-                        "total": 47.9283901505
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.9371599542
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.4917167583
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.2816065125
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.8564382304
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.0587951118
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7.9814172182
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.4969800217
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.273375574
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2670197743
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.0431004981
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.1426317105
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.6332056397
-                      },
-                      {
-                        "year": 2025,
-                        "total": 15.162433829
-                      },
-                      {
-                        "year": 2030,
-                        "total": 27.1435511259
-                      },
-                      {
-                        "year": 2035,
-                        "total": 35.0218307012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.8424404
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.0566678396
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.1364831913
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 415.5306559688
-                      },
-                      {
-                        "year": 2020,
-                        "total": 415.7468504847
-                      },
-                      {
-                        "year": 2025,
-                        "total": 437.0033686543
-                      },
-                      {
-                        "year": 2030,
-                        "total": 457.8894004569
-                      },
-                      {
-                        "year": 2035,
-                        "total": 478.7809711626
-                      },
-                      {
-                        "year": 2040,
-                        "total": 494.1320662598
-                      },
-                      {
-                        "year": 2045,
-                        "total": 476.620518082
-                      },
-                      {
-                        "year": 2050,
-                        "total": 488.8582091977
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 156.9504690801
-                      },
-                      {
-                        "year": 2020,
-                        "total": 159.426258274
-                      },
-                      {
-                        "year": 2025,
-                        "total": 160.2918835714
-                      },
-                      {
-                        "year": 2030,
-                        "total": 159.01407397
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.5225850679
-                      },
-                      {
-                        "year": 2040,
-                        "total": 151.6572358215
-                      },
-                      {
-                        "year": 2045,
-                        "total": 154.9210189936
-                      },
-                      {
-                        "year": 2050,
-                        "total": 146.34161065
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.9524811152
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.0426453069
-                      },
-                      {
-                        "year": 2025,
-                        "total": 17.1224377289
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.9641112724
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.2084593501
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.3489405578
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.8100791124
-                      },
-                      {
-                        "year": 2050,
-                        "total": 33.8405385027
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.7398919452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1822269875
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8212174329
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.7220253249
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.7713423966
-                      },
-                      {
-                        "year": 2040,
-                        "total": 21.1441827272
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.9606466812
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1469711773
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 204.5473792897
-                      },
-                      {
-                        "year": 2020,
-                        "total": 205.3048355995
-                      },
-                      {
-                        "year": 2025,
-                        "total": 217.5016436582
-                      },
-                      {
-                        "year": 2030,
-                        "total": 227.1015242866
-                      },
-                      {
-                        "year": 2035,
-                        "total": 230.9325167826
-                      },
-                      {
-                        "year": 2040,
-                        "total": 240.2659523887
-                      },
-                      {
-                        "year": 2045,
-                        "total": 250.3484999124
-                      },
-                      {
-                        "year": 2050,
-                        "total": 263.5836626403
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 115.6695824794
-                      },
-                      {
-                        "year": 2020,
-                        "total": 116.5841172857
-                      },
-                      {
-                        "year": 2025,
-                        "total": 109.6895048614
-                      },
-                      {
-                        "year": 2030,
-                        "total": 100.7783144323
-                      },
-                      {
-                        "year": 2035,
-                        "total": 96.5406302354
-                      },
-                      {
-                        "year": 2040,
-                        "total": 84.1818583564
-                      },
-                      {
-                        "year": 2045,
-                        "total": 81.1605868279
-                      },
-                      {
-                        "year": 2050,
-                        "total": 77.9166878854
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.8205556137
-                      },
-                      {
-                        "year": 2020,
-                        "total": 23.6777272296
-                      },
-                      {
-                        "year": 2025,
-                        "total": 29.0781356181
-                      },
-                      {
-                        "year": 2030,
-                        "total": 27.2989076815
-                      },
-                      {
-                        "year": 2035,
-                        "total": 22.1137969066
-                      },
-                      {
-                        "year": 2040,
-                        "total": 26.5386190292
-                      },
-                      {
-                        "year": 2045,
-                        "total": 19.7972171929
-                      },
-                      {
-                        "year": 2050,
-                        "total": 20.4132932508
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.4914474386
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1873162243
-                      },
-                      {
-                        "year": 2025,
-                        "total": 11.7095805438
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.5302623399
-                      },
-                      {
-                        "year": 2035,
-                        "total": 35.7122910817
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.9575448922
-                      },
-                      {
-                        "year": 2045,
-                        "total": 49.5311634722
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.0333821435
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 245.850402659
-                      },
-                      {
-                        "year": 2020,
-                        "total": 250.3247639295
-                      },
-                      {
-                        "year": 2025,
-                        "total": 252.3080501709
-                      },
-                      {
-                        "year": 2030,
-                        "total": 258.3343830377
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.1026299908
-                      },
-                      {
-                        "year": 2040,
-                        "total": 259.1412060385
-                      },
-                      {
-                        "year": 2045,
-                        "total": 256.0449402263
-                      },
-                      {
-                        "year": 2050,
-                        "total": 259.208504438
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 149.3214919372
-                      },
-                      {
-                        "year": 2020,
-                        "total": 141.4243440822
-                      },
-                      {
-                        "year": 2025,
-                        "total": 158.9155343065
-                      },
-                      {
-                        "year": 2030,
-                        "total": 160.2363623732
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.1816578927
-                      },
-                      {
-                        "year": 2040,
-                        "total": 155.9160261088
-                      },
-                      {
-                        "year": 2045,
-                        "total": 151.8291448571
-                      },
-                      {
-                        "year": 2050,
-                        "total": 151.4316915278
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.9490714962
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.6668118389
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.3283949679
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.6060635543
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.0323240262
-                      },
-                      {
-                        "year": 2040,
-                        "total": 38.2985499224
-                      },
-                      {
-                        "year": 2045,
-                        "total": 32.7755094924
-                      },
-                      {
-                        "year": 2050,
-                        "total": 42.5475337103
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1113582621
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.8872750231
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.0860470246
-                      },
-                      {
-                        "year": 2030,
-                        "total": 58.7930747412
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.9553579581
-                      },
-                      {
-                        "year": 2040,
-                        "total": 83.4722762842
-                      },
-                      {
-                        "year": 2045,
-                        "total": 94.6868710674
-                      },
-                      {
-                        "year": 2050,
-                        "total": 99.1409306884
                       }
                     ]
                   }
@@ -18906,6 +18906,624 @@ export default {
             ]
           },
           {
+            "indicator": "Power consumption by sector",
+            "unit": "TWh",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.3152673623
+                      },
+                      {
+                        "year": 2020,
+                        "total": 64.8953595399
+                      },
+                      {
+                        "year": 2025,
+                        "total": 68.378162411
+                      },
+                      {
+                        "year": 2030,
+                        "total": 73.5953788932
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.2206593243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 83.56930653
+                      },
+                      {
+                        "year": 2045,
+                        "total": 84.7683048984
+                      },
+                      {
+                        "year": 2050,
+                        "total": 84.9315171876
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 38.0895710436
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32.6094144676
+                      },
+                      {
+                        "year": 2025,
+                        "total": 35.9331485712
+                      },
+                      {
+                        "year": 2030,
+                        "total": 40.0088515462
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.9607497368
+                      },
+                      {
+                        "year": 2040,
+                        "total": 47.5707466788
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.9748417111
+                      },
+                      {
+                        "year": 2050,
+                        "total": 53.4988200774
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.2816065125
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.8564382304
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.0436827758
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.29591172
+                      },
+                      {
+                        "year": 2035,
+                        "total": 27.0800184514
+                      },
+                      {
+                        "year": 2040,
+                        "total": 37.8729915968
+                      },
+                      {
+                        "year": 2045,
+                        "total": 37.7788737349
+                      },
+                      {
+                        "year": 2050,
+                        "total": 43.6342872003
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.1426317105
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.6332056397
+                      },
+                      {
+                        "year": 2025,
+                        "total": 15.160741402
+                      },
+                      {
+                        "year": 2030,
+                        "total": 24.4019930556
+                      },
+                      {
+                        "year": 2035,
+                        "total": 38.2276555264
+                      },
+                      {
+                        "year": 2040,
+                        "total": 45.662770875
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.056671291
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.0823834331
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 415.5306559688
+                      },
+                      {
+                        "year": 2020,
+                        "total": 415.7468504847
+                      },
+                      {
+                        "year": 2025,
+                        "total": 437.27171407
+                      },
+                      {
+                        "year": 2030,
+                        "total": 455.8914178199
+                      },
+                      {
+                        "year": 2035,
+                        "total": 478.4853569778
+                      },
+                      {
+                        "year": 2040,
+                        "total": 492.9645491064
+                      },
+                      {
+                        "year": 2045,
+                        "total": 475.2477000901
+                      },
+                      {
+                        "year": 2050,
+                        "total": 488.0386254758
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 156.9504690801
+                      },
+                      {
+                        "year": 2020,
+                        "total": 159.426258274
+                      },
+                      {
+                        "year": 2025,
+                        "total": 160.5559627731
+                      },
+                      {
+                        "year": 2030,
+                        "total": 159.2867611547
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.8028252981
+                      },
+                      {
+                        "year": 2040,
+                        "total": 151.9417129817
+                      },
+                      {
+                        "year": 2045,
+                        "total": 155.2094337543
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.34161065
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.9524811152
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.0426453069
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.8788974237
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.6727799551
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20.75737069
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.83316
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.9118701922
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.2579534565
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7398919452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.1822269875
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.8212174329
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.724914794
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.7713351175
+                      },
+                      {
+                        "year": 2040,
+                        "total": 21.1441754482
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.7658350725
+                      },
+                      {
+                        "year": 2050,
+                        "total": 29.7010907642
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 204.5473792897
+                      },
+                      {
+                        "year": 2020,
+                        "total": 205.3048355995
+                      },
+                      {
+                        "year": 2025,
+                        "total": 216.8869665235
+                      },
+                      {
+                        "year": 2030,
+                        "total": 227.1021996989
+                      },
+                      {
+                        "year": 2035,
+                        "total": 230.9325167826
+                      },
+                      {
+                        "year": 2040,
+                        "total": 239.2782825781
+                      },
+                      {
+                        "year": 2045,
+                        "total": 248.564197253
+                      },
+                      {
+                        "year": 2050,
+                        "total": 260.1315519189
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 115.6695824794
+                      },
+                      {
+                        "year": 2020,
+                        "total": 116.5841172857
+                      },
+                      {
+                        "year": 2025,
+                        "total": 109.8665229788
+                      },
+                      {
+                        "year": 2030,
+                        "total": 100.785183211
+                      },
+                      {
+                        "year": 2035,
+                        "total": 96.5757083814
+                      },
+                      {
+                        "year": 2040,
+                        "total": 84.0210473237
+                      },
+                      {
+                        "year": 2045,
+                        "total": 80.8493127888
+                      },
+                      {
+                        "year": 2050,
+                        "total": 77.5898698706
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.8205556137
+                      },
+                      {
+                        "year": 2020,
+                        "total": 23.6777272296
+                      },
+                      {
+                        "year": 2025,
+                        "total": 31.7406534964
+                      },
+                      {
+                        "year": 2030,
+                        "total": 27.722010031
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.2542819803
+                      },
+                      {
+                        "year": 2040,
+                        "total": 29.4013938074
+                      },
+                      {
+                        "year": 2045,
+                        "total": 32.1509541487
+                      },
+                      {
+                        "year": 2050,
+                        "total": 36.5717700344
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.4914474386
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1873162243
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.7095805438
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.5302623399
+                      },
+                      {
+                        "year": 2035,
+                        "total": 35.7122910817
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.9575448922
+                      },
+                      {
+                        "year": 2045,
+                        "total": 49.5311634722
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.0333821435
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 245.850402659
+                      },
+                      {
+                        "year": 2020,
+                        "total": 250.3247639295
+                      },
+                      {
+                        "year": 2025,
+                        "total": 252.3078536513
+                      },
+                      {
+                        "year": 2030,
+                        "total": 255.1189709415
+                      },
+                      {
+                        "year": 2035,
+                        "total": 255.0088761492
+                      },
+                      {
+                        "year": 2040,
+                        "total": 255.0292643284
+                      },
+                      {
+                        "year": 2045,
+                        "total": 254.4753658089
+                      },
+                      {
+                        "year": 2050,
+                        "total": 252.9504149562
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 149.3214919372
+                      },
+                      {
+                        "year": 2020,
+                        "total": 141.4243440822
+                      },
+                      {
+                        "year": 2025,
+                        "total": 157.8727886605
+                      },
+                      {
+                        "year": 2030,
+                        "total": 160.1035711558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.0574084655
+                      },
+                      {
+                        "year": 2040,
+                        "total": 155.1354774002
+                      },
+                      {
+                        "year": 2045,
+                        "total": 154.105433051
+                      },
+                      {
+                        "year": 2050,
+                        "total": 154.0656096762
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.9490714962
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.6668118389
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.518271468
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.5711998567
+                      },
+                      {
+                        "year": 2035,
+                        "total": 45.333717941
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.0564519259
+                      },
+                      {
+                        "year": 2045,
+                        "total": 42.7884280393
+                      },
+                      {
+                        "year": 2050,
+                        "total": 63.7897902389
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1113582621
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.8872750231
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.9191478719
+                      },
+                      {
+                        "year": 2030,
+                        "total": 59.619171709
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.2711175686
+                      },
+                      {
+                        "year": 2040,
+                        "total": 84.6170985702
+                      },
+                      {
+                        "year": 2045,
+                        "total": 94.6868710674
+                      },
+                      {
+                        "year": 2050,
+                        "total": 99.1409306884
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "Power supply by energy source",
             "unit": "TWh",
             "regions": [
@@ -20071,624 +20689,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 522.3149917878
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power supply by sector",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.3152673623
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.8953595399
-                      },
-                      {
-                        "year": 2025,
-                        "total": 68.378162411
-                      },
-                      {
-                        "year": 2030,
-                        "total": 73.5953788932
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.2206593243
-                      },
-                      {
-                        "year": 2040,
-                        "total": 83.56930653
-                      },
-                      {
-                        "year": 2045,
-                        "total": 84.7683048984
-                      },
-                      {
-                        "year": 2050,
-                        "total": 84.9315171876
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 38.0895710436
-                      },
-                      {
-                        "year": 2020,
-                        "total": 32.6094144676
-                      },
-                      {
-                        "year": 2025,
-                        "total": 35.9331485712
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.0088515462
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.9607497368
-                      },
-                      {
-                        "year": 2040,
-                        "total": 47.5707466788
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.9748417111
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.4988200774
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.2816065125
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.8564382304
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.0436827758
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.29591172
-                      },
-                      {
-                        "year": 2035,
-                        "total": 27.0800184514
-                      },
-                      {
-                        "year": 2040,
-                        "total": 37.8729915968
-                      },
-                      {
-                        "year": 2045,
-                        "total": 37.7788737349
-                      },
-                      {
-                        "year": 2050,
-                        "total": 43.6342872003
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.1426317105
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.6332056397
-                      },
-                      {
-                        "year": 2025,
-                        "total": 15.160741402
-                      },
-                      {
-                        "year": 2030,
-                        "total": 24.4019930556
-                      },
-                      {
-                        "year": 2035,
-                        "total": 38.2276555264
-                      },
-                      {
-                        "year": 2040,
-                        "total": 45.662770875
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.056671291
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.0823834331
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 415.5306559688
-                      },
-                      {
-                        "year": 2020,
-                        "total": 415.7468504847
-                      },
-                      {
-                        "year": 2025,
-                        "total": 437.27171407
-                      },
-                      {
-                        "year": 2030,
-                        "total": 455.8914178199
-                      },
-                      {
-                        "year": 2035,
-                        "total": 478.4853569778
-                      },
-                      {
-                        "year": 2040,
-                        "total": 492.9645491064
-                      },
-                      {
-                        "year": 2045,
-                        "total": 475.2477000901
-                      },
-                      {
-                        "year": 2050,
-                        "total": 488.0386254758
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 156.9504690801
-                      },
-                      {
-                        "year": 2020,
-                        "total": 159.426258274
-                      },
-                      {
-                        "year": 2025,
-                        "total": 160.5559627731
-                      },
-                      {
-                        "year": 2030,
-                        "total": 159.2867611547
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.8028252981
-                      },
-                      {
-                        "year": 2040,
-                        "total": 151.9417129817
-                      },
-                      {
-                        "year": 2045,
-                        "total": 155.2094337543
-                      },
-                      {
-                        "year": 2050,
-                        "total": 146.34161065
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.9524811152
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.0426453069
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.8788974237
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.6727799551
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.75737069
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.83316
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.9118701922
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.2579534565
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.7398919452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1822269875
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8212174329
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.724914794
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.7713351175
-                      },
-                      {
-                        "year": 2040,
-                        "total": 21.1441754482
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.7658350725
-                      },
-                      {
-                        "year": 2050,
-                        "total": 29.7010907642
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 204.5473792897
-                      },
-                      {
-                        "year": 2020,
-                        "total": 205.3048355995
-                      },
-                      {
-                        "year": 2025,
-                        "total": 216.8869665235
-                      },
-                      {
-                        "year": 2030,
-                        "total": 227.1021996989
-                      },
-                      {
-                        "year": 2035,
-                        "total": 230.9325167826
-                      },
-                      {
-                        "year": 2040,
-                        "total": 239.2782825781
-                      },
-                      {
-                        "year": 2045,
-                        "total": 248.564197253
-                      },
-                      {
-                        "year": 2050,
-                        "total": 260.1315519189
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 115.6695824794
-                      },
-                      {
-                        "year": 2020,
-                        "total": 116.5841172857
-                      },
-                      {
-                        "year": 2025,
-                        "total": 109.8665229788
-                      },
-                      {
-                        "year": 2030,
-                        "total": 100.785183211
-                      },
-                      {
-                        "year": 2035,
-                        "total": 96.5757083814
-                      },
-                      {
-                        "year": 2040,
-                        "total": 84.0210473237
-                      },
-                      {
-                        "year": 2045,
-                        "total": 80.8493127888
-                      },
-                      {
-                        "year": 2050,
-                        "total": 77.5898698706
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.8205556137
-                      },
-                      {
-                        "year": 2020,
-                        "total": 23.6777272296
-                      },
-                      {
-                        "year": 2025,
-                        "total": 31.7406534964
-                      },
-                      {
-                        "year": 2030,
-                        "total": 27.722010031
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.2542819803
-                      },
-                      {
-                        "year": 2040,
-                        "total": 29.4013938074
-                      },
-                      {
-                        "year": 2045,
-                        "total": 32.1509541487
-                      },
-                      {
-                        "year": 2050,
-                        "total": 36.5717700344
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.4914474386
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1873162243
-                      },
-                      {
-                        "year": 2025,
-                        "total": 11.7095805438
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.5302623399
-                      },
-                      {
-                        "year": 2035,
-                        "total": 35.7122910817
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.9575448922
-                      },
-                      {
-                        "year": 2045,
-                        "total": 49.5311634722
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.0333821435
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 245.850402659
-                      },
-                      {
-                        "year": 2020,
-                        "total": 250.3247639295
-                      },
-                      {
-                        "year": 2025,
-                        "total": 252.3078536513
-                      },
-                      {
-                        "year": 2030,
-                        "total": 255.1189709415
-                      },
-                      {
-                        "year": 2035,
-                        "total": 255.0088761492
-                      },
-                      {
-                        "year": 2040,
-                        "total": 255.0292643284
-                      },
-                      {
-                        "year": 2045,
-                        "total": 254.4753658089
-                      },
-                      {
-                        "year": 2050,
-                        "total": 252.9504149562
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 149.3214919372
-                      },
-                      {
-                        "year": 2020,
-                        "total": 141.4243440822
-                      },
-                      {
-                        "year": 2025,
-                        "total": 157.8727886605
-                      },
-                      {
-                        "year": 2030,
-                        "total": 160.1035711558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.0574084655
-                      },
-                      {
-                        "year": 2040,
-                        "total": 155.1354774002
-                      },
-                      {
-                        "year": 2045,
-                        "total": 154.105433051
-                      },
-                      {
-                        "year": 2050,
-                        "total": 154.0656096762
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.9490714962
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.6668118389
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.518271468
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.5711998567
-                      },
-                      {
-                        "year": 2035,
-                        "total": 45.333717941
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.0564519259
-                      },
-                      {
-                        "year": 2045,
-                        "total": 42.7884280393
-                      },
-                      {
-                        "year": 2050,
-                        "total": 63.7897902389
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1113582621
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.8872750231
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.9191478719
-                      },
-                      {
-                        "year": 2030,
-                        "total": 59.619171709
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.2711175686
-                      },
-                      {
-                        "year": 2040,
-                        "total": 84.6170985702
-                      },
-                      {
-                        "year": 2045,
-                        "total": 94.6868710674
-                      },
-                      {
-                        "year": 2050,
-                        "total": 99.1409306884
                       }
                     ]
                   }
@@ -25805,6 +25805,624 @@ export default {
             ]
           },
           {
+            "indicator": "Power consumption by sector",
+            "unit": "TWh",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.3152673623
+                      },
+                      {
+                        "year": 2020,
+                        "total": 64.8953595399
+                      },
+                      {
+                        "year": 2025,
+                        "total": 68.378162411
+                      },
+                      {
+                        "year": 2030,
+                        "total": 74.491783648
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.6832503775
+                      },
+                      {
+                        "year": 2040,
+                        "total": 87.1864947768
+                      },
+                      {
+                        "year": 2045,
+                        "total": 116.5783413297
+                      },
+                      {
+                        "year": 2050,
+                        "total": 117.4885539862
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 38.0895710436
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32.6094144676
+                      },
+                      {
+                        "year": 2025,
+                        "total": 36.3107421064
+                      },
+                      {
+                        "year": 2030,
+                        "total": 39.4358994842
+                      },
+                      {
+                        "year": 2035,
+                        "total": 43.2502224718
+                      },
+                      {
+                        "year": 2040,
+                        "total": 48.4221144479
+                      },
+                      {
+                        "year": 2045,
+                        "total": 51.1750196452
+                      },
+                      {
+                        "year": 2050,
+                        "total": 53.7970688781
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.2816065125
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.8564382304
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.0567032443
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.8110791914
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20.1701571377
+                      },
+                      {
+                        "year": 2040,
+                        "total": 19.85752038
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7510106484
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.4457296829
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.1426317105
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.6332056397
+                      },
+                      {
+                        "year": 2025,
+                        "total": 15.160741402
+                      },
+                      {
+                        "year": 2030,
+                        "total": 28.0556807979
+                      },
+                      {
+                        "year": 2035,
+                        "total": 38.4849825377
+                      },
+                      {
+                        "year": 2040,
+                        "total": 45.5478985861
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.056671291
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1364831913
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 415.5306559688
+                      },
+                      {
+                        "year": 2020,
+                        "total": 415.7468504847
+                      },
+                      {
+                        "year": 2025,
+                        "total": 439.1702655734
+                      },
+                      {
+                        "year": 2030,
+                        "total": 456.0188623268
+                      },
+                      {
+                        "year": 2035,
+                        "total": 478.6447112791
+                      },
+                      {
+                        "year": 2040,
+                        "total": 494.0676720705
+                      },
+                      {
+                        "year": 2045,
+                        "total": 476.6494838837
+                      },
+                      {
+                        "year": 2050,
+                        "total": 489.0755399048
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 156.9504690801
+                      },
+                      {
+                        "year": 2020,
+                        "total": 159.426258274
+                      },
+                      {
+                        "year": 2025,
+                        "total": 160.6300978532
+                      },
+                      {
+                        "year": 2030,
+                        "total": 159.2036101905
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.8814972714
+                      },
+                      {
+                        "year": 2040,
+                        "total": 152.0215743904
+                      },
+                      {
+                        "year": 2045,
+                        "total": 155.2904005674
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.34161065
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.9524811152
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.0426453069
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.9965748859
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.9535225239
+                      },
+                      {
+                        "year": 2035,
+                        "total": 20.2704095768
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.4195768351
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.8653885085
+                      },
+                      {
+                        "year": 2050,
+                        "total": 34.0879297375
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7398919452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.1822269875
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.8212174329
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.724914794
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.7713351175
+                      },
+                      {
+                        "year": 2040,
+                        "total": 21.1441754482
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.9606394022
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1424362047
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 204.5473792897
+                      },
+                      {
+                        "year": 2020,
+                        "total": 205.3048355995
+                      },
+                      {
+                        "year": 2025,
+                        "total": 218.1813319234
+                      },
+                      {
+                        "year": 2030,
+                        "total": 227.1022964769
+                      },
+                      {
+                        "year": 2035,
+                        "total": 230.9325167826
+                      },
+                      {
+                        "year": 2040,
+                        "total": 240.0805858099
+                      },
+                      {
+                        "year": 2045,
+                        "total": 249.3665004848
+                      },
+                      {
+                        "year": 2050,
+                        "total": 263.176123491
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 115.6695824794
+                      },
+                      {
+                        "year": 2020,
+                        "total": 116.5841172857
+                      },
+                      {
+                        "year": 2025,
+                        "total": 109.6894391327
+                      },
+                      {
+                        "year": 2030,
+                        "total": 100.6334988397
+                      },
+                      {
+                        "year": 2035,
+                        "total": 96.3956815412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 84.2011137791
+                      },
+                      {
+                        "year": 2045,
+                        "total": 81.0924270259
+                      },
+                      {
+                        "year": 2050,
+                        "total": 77.8414094665
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.8205556137
+                      },
+                      {
+                        "year": 2020,
+                        "total": 23.6777272296
+                      },
+                      {
+                        "year": 2025,
+                        "total": 31.6239742297
+                      },
+                      {
+                        "year": 2030,
+                        "total": 28.5802012306
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.7928869865
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.6269135557
+                      },
+                      {
+                        "year": 2045,
+                        "total": 22.5414074533
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.0533920271
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.4914474386
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1873162243
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.7095805438
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.5302623399
+                      },
+                      {
+                        "year": 2035,
+                        "total": 35.7205935724
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.9653701378
+                      },
+                      {
+                        "year": 2045,
+                        "total": 49.5409276292
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1154327479
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 245.850402659
+                      },
+                      {
+                        "year": 2020,
+                        "total": 250.3247639295
+                      },
+                      {
+                        "year": 2025,
+                        "total": 252.3075747044
+                      },
+                      {
+                        "year": 2030,
+                        "total": 255.1962697932
+                      },
+                      {
+                        "year": 2035,
+                        "total": 255.099472087
+                      },
+                      {
+                        "year": 2040,
+                        "total": 255.1198407159
+                      },
+                      {
+                        "year": 2045,
+                        "total": 253.5583059038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 261.4349989509
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 149.3214919372
+                      },
+                      {
+                        "year": 2020,
+                        "total": 141.4243440822
+                      },
+                      {
+                        "year": 2025,
+                        "total": 157.8212829783
+                      },
+                      {
+                        "year": 2030,
+                        "total": 158.788574597
+                      },
+                      {
+                        "year": 2035,
+                        "total": 157.6628670784
+                      },
+                      {
+                        "year": 2040,
+                        "total": 154.2914253749
+                      },
+                      {
+                        "year": 2045,
+                        "total": 151.274232782
+                      },
+                      {
+                        "year": 2050,
+                        "total": 151.6677110306
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.9490714962
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.6668118389
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.3540456486
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.5735545594
+                      },
+                      {
+                        "year": 2035,
+                        "total": 46.8209970346
+                      },
+                      {
+                        "year": 2040,
+                        "total": 55.8483323716
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.4497516057
+                      },
+                      {
+                        "year": 2050,
+                        "total": 59.0375426512
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1113582621
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.8872750231
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.77671076
+                      },
+                      {
+                        "year": 2030,
+                        "total": 59.4777939391
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.1325649746
+                      },
+                      {
+                        "year": 2040,
+                        "total": 84.587844404
+                      },
+                      {
+                        "year": 2045,
+                        "total": 94.6868710674
+                      },
+                      {
+                        "year": 2050,
+                        "total": 99.1409306884
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "Power supply by energy source",
             "unit": "TWh",
             "regions": [
@@ -26970,624 +27588,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 513.5396770908
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power supply by sector",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.3152673623
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.8953595399
-                      },
-                      {
-                        "year": 2025,
-                        "total": 68.378162411
-                      },
-                      {
-                        "year": 2030,
-                        "total": 74.491783648
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.6832503775
-                      },
-                      {
-                        "year": 2040,
-                        "total": 87.1864947768
-                      },
-                      {
-                        "year": 2045,
-                        "total": 116.5783413297
-                      },
-                      {
-                        "year": 2050,
-                        "total": 117.4885539862
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 38.0895710436
-                      },
-                      {
-                        "year": 2020,
-                        "total": 32.6094144676
-                      },
-                      {
-                        "year": 2025,
-                        "total": 36.3107421064
-                      },
-                      {
-                        "year": 2030,
-                        "total": 39.4358994842
-                      },
-                      {
-                        "year": 2035,
-                        "total": 43.2502224718
-                      },
-                      {
-                        "year": 2040,
-                        "total": 48.4221144479
-                      },
-                      {
-                        "year": 2045,
-                        "total": 51.1750196452
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.7970688781
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.2816065125
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.8564382304
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.0567032443
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.8110791914
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.1701571377
-                      },
-                      {
-                        "year": 2040,
-                        "total": 19.85752038
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7510106484
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.4457296829
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.1426317105
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.6332056397
-                      },
-                      {
-                        "year": 2025,
-                        "total": 15.160741402
-                      },
-                      {
-                        "year": 2030,
-                        "total": 28.0556807979
-                      },
-                      {
-                        "year": 2035,
-                        "total": 38.4849825377
-                      },
-                      {
-                        "year": 2040,
-                        "total": 45.5478985861
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.056671291
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.1364831913
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 415.5306559688
-                      },
-                      {
-                        "year": 2020,
-                        "total": 415.7468504847
-                      },
-                      {
-                        "year": 2025,
-                        "total": 439.1702655734
-                      },
-                      {
-                        "year": 2030,
-                        "total": 456.0188623268
-                      },
-                      {
-                        "year": 2035,
-                        "total": 478.6447112791
-                      },
-                      {
-                        "year": 2040,
-                        "total": 494.0676720705
-                      },
-                      {
-                        "year": 2045,
-                        "total": 476.6494838837
-                      },
-                      {
-                        "year": 2050,
-                        "total": 489.0755399048
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 156.9504690801
-                      },
-                      {
-                        "year": 2020,
-                        "total": 159.426258274
-                      },
-                      {
-                        "year": 2025,
-                        "total": 160.6300978532
-                      },
-                      {
-                        "year": 2030,
-                        "total": 159.2036101905
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.8814972714
-                      },
-                      {
-                        "year": 2040,
-                        "total": 152.0215743904
-                      },
-                      {
-                        "year": 2045,
-                        "total": 155.2904005674
-                      },
-                      {
-                        "year": 2050,
-                        "total": 146.34161065
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.9524811152
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.0426453069
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.9965748859
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.9535225239
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.2704095768
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.4195768351
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.8653885085
-                      },
-                      {
-                        "year": 2050,
-                        "total": 34.0879297375
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.7398919452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1822269875
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.8212174329
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.724914794
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.7713351175
-                      },
-                      {
-                        "year": 2040,
-                        "total": 21.1441754482
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.9606394022
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1424362047
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 204.5473792897
-                      },
-                      {
-                        "year": 2020,
-                        "total": 205.3048355995
-                      },
-                      {
-                        "year": 2025,
-                        "total": 218.1813319234
-                      },
-                      {
-                        "year": 2030,
-                        "total": 227.1022964769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 230.9325167826
-                      },
-                      {
-                        "year": 2040,
-                        "total": 240.0805858099
-                      },
-                      {
-                        "year": 2045,
-                        "total": 249.3665004848
-                      },
-                      {
-                        "year": 2050,
-                        "total": 263.176123491
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 115.6695824794
-                      },
-                      {
-                        "year": 2020,
-                        "total": 116.5841172857
-                      },
-                      {
-                        "year": 2025,
-                        "total": 109.6894391327
-                      },
-                      {
-                        "year": 2030,
-                        "total": 100.6334988397
-                      },
-                      {
-                        "year": 2035,
-                        "total": 96.3956815412
-                      },
-                      {
-                        "year": 2040,
-                        "total": 84.2011137791
-                      },
-                      {
-                        "year": 2045,
-                        "total": 81.0924270259
-                      },
-                      {
-                        "year": 2050,
-                        "total": 77.8414094665
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.8205556137
-                      },
-                      {
-                        "year": 2020,
-                        "total": 23.6777272296
-                      },
-                      {
-                        "year": 2025,
-                        "total": 31.6239742297
-                      },
-                      {
-                        "year": 2030,
-                        "total": 28.5802012306
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.7928869865
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.6269135557
-                      },
-                      {
-                        "year": 2045,
-                        "total": 22.5414074533
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.0533920271
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.4914474386
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1873162243
-                      },
-                      {
-                        "year": 2025,
-                        "total": 11.7095805438
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.5302623399
-                      },
-                      {
-                        "year": 2035,
-                        "total": 35.7205935724
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.9653701378
-                      },
-                      {
-                        "year": 2045,
-                        "total": 49.5409276292
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.1154327479
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 245.850402659
-                      },
-                      {
-                        "year": 2020,
-                        "total": 250.3247639295
-                      },
-                      {
-                        "year": 2025,
-                        "total": 252.3075747044
-                      },
-                      {
-                        "year": 2030,
-                        "total": 255.1962697932
-                      },
-                      {
-                        "year": 2035,
-                        "total": 255.099472087
-                      },
-                      {
-                        "year": 2040,
-                        "total": 255.1198407159
-                      },
-                      {
-                        "year": 2045,
-                        "total": 253.5583059038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 261.4349989509
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 149.3214919372
-                      },
-                      {
-                        "year": 2020,
-                        "total": 141.4243440822
-                      },
-                      {
-                        "year": 2025,
-                        "total": 157.8212829783
-                      },
-                      {
-                        "year": 2030,
-                        "total": 158.788574597
-                      },
-                      {
-                        "year": 2035,
-                        "total": 157.6628670784
-                      },
-                      {
-                        "year": 2040,
-                        "total": 154.2914253749
-                      },
-                      {
-                        "year": 2045,
-                        "total": 151.274232782
-                      },
-                      {
-                        "year": 2050,
-                        "total": 151.6677110306
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.9490714962
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.6668118389
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.3540456486
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.5735545594
-                      },
-                      {
-                        "year": 2035,
-                        "total": 46.8209970346
-                      },
-                      {
-                        "year": 2040,
-                        "total": 55.8483323716
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.4497516057
-                      },
-                      {
-                        "year": 2050,
-                        "total": 59.0375426512
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1113582621
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.8872750231
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.77671076
-                      },
-                      {
-                        "year": 2030,
-                        "total": 59.4777939391
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.1325649746
-                      },
-                      {
-                        "year": 2040,
-                        "total": 84.587844404
-                      },
-                      {
-                        "year": 2045,
-                        "total": 94.6868710674
-                      },
-                      {
-                        "year": 2050,
-                        "total": 99.1409306884
                       }
                     ]
                   }
@@ -32704,6 +32704,624 @@ export default {
             ]
           },
           {
+            "indicator": "Power consumption by sector",
+            "unit": "TWh",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.3152673623
+                      },
+                      {
+                        "year": 2020,
+                        "total": 64.8953595399
+                      },
+                      {
+                        "year": 2025,
+                        "total": 72.1864165537
+                      },
+                      {
+                        "year": 2030,
+                        "total": 77.3777073053
+                      },
+                      {
+                        "year": 2035,
+                        "total": 80.0289134671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 82.9851629848
+                      },
+                      {
+                        "year": 2045,
+                        "total": 78.3463478941
+                      },
+                      {
+                        "year": 2050,
+                        "total": 78.1225184089
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 37.8418256609
+                      },
+                      {
+                        "year": 2020,
+                        "total": 34.5080709902
+                      },
+                      {
+                        "year": 2025,
+                        "total": 37.0379896647
+                      },
+                      {
+                        "year": 2030,
+                        "total": 41.9502989113
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.8547743946
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.8479493922
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.4913933997
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.188609325
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.5293687534
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.4373991648
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.6375476284
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.7752469703
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.2402477882
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.166843606
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.8134243086
+                      },
+                      {
+                        "year": 2050,
+                        "total": 42.2086661577
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.1800712273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.9358819414
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.3710343169
+                      },
+                      {
+                        "year": 2030,
+                        "total": 24.1535312557
+                      },
+                      {
+                        "year": 2035,
+                        "total": 32.1472911257
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.3849786471
+                      },
+                      {
+                        "year": 2045,
+                        "total": 47.5308518319
+                      },
+                      {
+                        "year": 2050,
+                        "total": 49.8337507125
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 415.4224563693
+                      },
+                      {
+                        "year": 2020,
+                        "total": 416.7213255258
+                      },
+                      {
+                        "year": 2025,
+                        "total": 437.8793053049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 455.9182266705
+                      },
+                      {
+                        "year": 2035,
+                        "total": 477.1420698726
+                      },
+                      {
+                        "year": 2040,
+                        "total": 493.7433080645
+                      },
+                      {
+                        "year": 2045,
+                        "total": 473.2125449092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 486.0765158991
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 156.9504690801
+                      },
+                      {
+                        "year": 2020,
+                        "total": 159.4291962231
+                      },
+                      {
+                        "year": 2025,
+                        "total": 160.2519975784
+                      },
+                      {
+                        "year": 2030,
+                        "total": 159.0084177095
+                      },
+                      {
+                        "year": 2035,
+                        "total": 160.0500846524
+                      },
+                      {
+                        "year": 2040,
+                        "total": 152.1924803875
+                      },
+                      {
+                        "year": 2045,
+                        "total": 155.4634613755
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.8158015469
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.9523819312
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.0429740427
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.901343797
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.6731197586
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.6949209959
+                      },
+                      {
+                        "year": 2040,
+                        "total": 24.6778233369
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.2321702806
+                      },
+                      {
+                        "year": 2050,
+                        "total": 22.2786931882
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7313407939
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.1831619552
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7031085277
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.3854823928
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.5079902787
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20.9483672507
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.7695304961
+                      },
+                      {
+                        "year": 2050,
+                        "total": 29.7763091402
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 195.1065251595
+                      },
+                      {
+                        "year": 2020,
+                        "total": 198.9014732047
+                      },
+                      {
+                        "year": 2025,
+                        "total": 212.1629505561
+                      },
+                      {
+                        "year": 2030,
+                        "total": 223.1118178239
+                      },
+                      {
+                        "year": 2035,
+                        "total": 230.9325167826
+                      },
+                      {
+                        "year": 2040,
+                        "total": 239.2782825781
+                      },
+                      {
+                        "year": 2045,
+                        "total": 248.6212900848
+                      },
+                      {
+                        "year": 2050,
+                        "total": 261.7461937145
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 118.3959531404
+                      },
+                      {
+                        "year": 2020,
+                        "total": 115.7026755691
+                      },
+                      {
+                        "year": 2025,
+                        "total": 107.9937190396
+                      },
+                      {
+                        "year": 2030,
+                        "total": 100.0253009675
+                      },
+                      {
+                        "year": 2035,
+                        "total": 95.8193693756
+                      },
+                      {
+                        "year": 2040,
+                        "total": 85.0330069898
+                      },
+                      {
+                        "year": 2045,
+                        "total": 79.6255919491
+                      },
+                      {
+                        "year": 2050,
+                        "total": 76.182519444
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.7997305882
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.767403655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 36.064146424
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.2483699098
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.625679766
+                      },
+                      {
+                        "year": 2040,
+                        "total": 21.7724873939
+                      },
+                      {
+                        "year": 2045,
+                        "total": 24.2608153628
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.7422670431
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.4526159743
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5319733613
+                      },
+                      {
+                        "year": 2025,
+                        "total": 7.1910783633
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21.5626048387
+                      },
+                      {
+                        "year": 2035,
+                        "total": 36.8687270138
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.2260856668
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.0820967881
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1127983827
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 245.7885145748
+                      },
+                      {
+                        "year": 2020,
+                        "total": 250.3880236245
+                      },
+                      {
+                        "year": 2025,
+                        "total": 252.3241380506
+                      },
+                      {
+                        "year": 2030,
+                        "total": 257.6682493876
+                      },
+                      {
+                        "year": 2035,
+                        "total": 258.2625503435
+                      },
+                      {
+                        "year": 2040,
+                        "total": 258.9451969635
+                      },
+                      {
+                        "year": 2045,
+                        "total": 255.9844335672
+                      },
+                      {
+                        "year": 2050,
+                        "total": 253.2560979404
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 185.4200889784
+                      },
+                      {
+                        "year": 2020,
+                        "total": 191.2746843261
+                      },
+                      {
+                        "year": 2025,
+                        "total": 180.7965306134
+                      },
+                      {
+                        "year": 2030,
+                        "total": 179.3126709245
+                      },
+                      {
+                        "year": 2035,
+                        "total": 176.5835289318
+                      },
+                      {
+                        "year": 2040,
+                        "total": 166.5758629422
+                      },
+                      {
+                        "year": 2045,
+                        "total": 146.2256765498
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.5523729819
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.4239155007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.9755814075
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0118762718
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0157872982
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.1589608068
+                      },
+                      {
+                        "year": 2040,
+                        "total": 42.1589438676
+                      },
+                      {
+                        "year": 2045,
+                        "total": 54.1270016682
+                      },
+                      {
+                        "year": 2050,
+                        "total": 70.3492307728
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.8020710181
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.6363047629
+                      },
+                      {
+                        "year": 2025,
+                        "total": 20.9579919189
+                      },
+                      {
+                        "year": 2030,
+                        "total": 57.4572693977
+                      },
+                      {
+                        "year": 2035,
+                        "total": 58.7981405733
+                      },
+                      {
+                        "year": 2040,
+                        "total": 84.5274454708
+                      },
+                      {
+                        "year": 2045,
+                        "total": 95.6435246535
+                      },
+                      {
+                        "year": 2050,
+                        "total": 98.9979128968
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "Power supply by energy source",
             "unit": "TWh",
             "regions": [
@@ -33869,624 +34487,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 523.2598374405
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power supply by sector",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.3152673623
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.8953595399
-                      },
-                      {
-                        "year": 2025,
-                        "total": 72.1864165537
-                      },
-                      {
-                        "year": 2030,
-                        "total": 77.3777073053
-                      },
-                      {
-                        "year": 2035,
-                        "total": 80.0289134671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 82.9851629848
-                      },
-                      {
-                        "year": 2045,
-                        "total": 78.3463478941
-                      },
-                      {
-                        "year": 2050,
-                        "total": 78.1225184089
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 37.8418256609
-                      },
-                      {
-                        "year": 2020,
-                        "total": 34.5080709902
-                      },
-                      {
-                        "year": 2025,
-                        "total": 37.0379896647
-                      },
-                      {
-                        "year": 2030,
-                        "total": 41.9502989113
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.8547743946
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.8479493922
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.4913933997
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.188609325
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.5293687534
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.4373991648
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.6375476284
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.7752469703
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.2402477882
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.166843606
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.8134243086
-                      },
-                      {
-                        "year": 2050,
-                        "total": 42.2086661577
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.1800712273
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.9358819414
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.3710343169
-                      },
-                      {
-                        "year": 2030,
-                        "total": 24.1535312557
-                      },
-                      {
-                        "year": 2035,
-                        "total": 32.1472911257
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.3849786471
-                      },
-                      {
-                        "year": 2045,
-                        "total": 47.5308518319
-                      },
-                      {
-                        "year": 2050,
-                        "total": 49.8337507125
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 415.4224563693
-                      },
-                      {
-                        "year": 2020,
-                        "total": 416.7213255258
-                      },
-                      {
-                        "year": 2025,
-                        "total": 437.8793053049
-                      },
-                      {
-                        "year": 2030,
-                        "total": 455.9182266705
-                      },
-                      {
-                        "year": 2035,
-                        "total": 477.1420698726
-                      },
-                      {
-                        "year": 2040,
-                        "total": 493.7433080645
-                      },
-                      {
-                        "year": 2045,
-                        "total": 473.2125449092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 486.0765158991
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 156.9504690801
-                      },
-                      {
-                        "year": 2020,
-                        "total": 159.4291962231
-                      },
-                      {
-                        "year": 2025,
-                        "total": 160.2519975784
-                      },
-                      {
-                        "year": 2030,
-                        "total": 159.0084177095
-                      },
-                      {
-                        "year": 2035,
-                        "total": 160.0500846524
-                      },
-                      {
-                        "year": 2040,
-                        "total": 152.1924803875
-                      },
-                      {
-                        "year": 2045,
-                        "total": 155.4634613755
-                      },
-                      {
-                        "year": 2050,
-                        "total": 146.8158015469
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.9523819312
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.0429740427
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.901343797
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.6731197586
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.6949209959
-                      },
-                      {
-                        "year": 2040,
-                        "total": 24.6778233369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.2321702806
-                      },
-                      {
-                        "year": 2050,
-                        "total": 22.2786931882
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.7313407939
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1831619552
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.7031085277
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.3854823928
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.5079902787
-                      },
-                      {
-                        "year": 2040,
-                        "total": 20.9483672507
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.7695304961
-                      },
-                      {
-                        "year": 2050,
-                        "total": 29.7763091402
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 195.1065251595
-                      },
-                      {
-                        "year": 2020,
-                        "total": 198.9014732047
-                      },
-                      {
-                        "year": 2025,
-                        "total": 212.1629505561
-                      },
-                      {
-                        "year": 2030,
-                        "total": 223.1118178239
-                      },
-                      {
-                        "year": 2035,
-                        "total": 230.9325167826
-                      },
-                      {
-                        "year": 2040,
-                        "total": 239.2782825781
-                      },
-                      {
-                        "year": 2045,
-                        "total": 248.6212900848
-                      },
-                      {
-                        "year": 2050,
-                        "total": 261.7461937145
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 118.3959531404
-                      },
-                      {
-                        "year": 2020,
-                        "total": 115.7026755691
-                      },
-                      {
-                        "year": 2025,
-                        "total": 107.9937190396
-                      },
-                      {
-                        "year": 2030,
-                        "total": 100.0253009675
-                      },
-                      {
-                        "year": 2035,
-                        "total": 95.8193693756
-                      },
-                      {
-                        "year": 2040,
-                        "total": 85.0330069898
-                      },
-                      {
-                        "year": 2045,
-                        "total": 79.6255919491
-                      },
-                      {
-                        "year": 2050,
-                        "total": 76.182519444
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.7997305882
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.767403655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 36.064146424
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.2483699098
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.625679766
-                      },
-                      {
-                        "year": 2040,
-                        "total": 21.7724873939
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.2608153628
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.7422670431
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.4526159743
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.5319733613
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.1910783633
-                      },
-                      {
-                        "year": 2030,
-                        "total": 21.5626048387
-                      },
-                      {
-                        "year": 2035,
-                        "total": 36.8687270138
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.2260856668
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.0820967881
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.1127983827
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 245.7885145748
-                      },
-                      {
-                        "year": 2020,
-                        "total": 250.3880236245
-                      },
-                      {
-                        "year": 2025,
-                        "total": 252.3241380506
-                      },
-                      {
-                        "year": 2030,
-                        "total": 257.6682493876
-                      },
-                      {
-                        "year": 2035,
-                        "total": 258.2625503435
-                      },
-                      {
-                        "year": 2040,
-                        "total": 258.9451969635
-                      },
-                      {
-                        "year": 2045,
-                        "total": 255.9844335672
-                      },
-                      {
-                        "year": 2050,
-                        "total": 253.2560979404
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 185.4200889784
-                      },
-                      {
-                        "year": 2020,
-                        "total": 191.2746843261
-                      },
-                      {
-                        "year": 2025,
-                        "total": 180.7965306134
-                      },
-                      {
-                        "year": 2030,
-                        "total": 179.3126709245
-                      },
-                      {
-                        "year": 2035,
-                        "total": 176.5835289318
-                      },
-                      {
-                        "year": 2040,
-                        "total": 166.5758629422
-                      },
-                      {
-                        "year": 2045,
-                        "total": 146.2256765498
-                      },
-                      {
-                        "year": 2050,
-                        "total": 146.5523729819
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.4239155007
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.9755814075
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0118762718
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0157872982
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.1589608068
-                      },
-                      {
-                        "year": 2040,
-                        "total": 42.1589438676
-                      },
-                      {
-                        "year": 2045,
-                        "total": 54.1270016682
-                      },
-                      {
-                        "year": 2050,
-                        "total": 70.3492307728
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.8020710181
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.6363047629
-                      },
-                      {
-                        "year": 2025,
-                        "total": 20.9579919189
-                      },
-                      {
-                        "year": 2030,
-                        "total": 57.4572693977
-                      },
-                      {
-                        "year": 2035,
-                        "total": 58.7981405733
-                      },
-                      {
-                        "year": 2040,
-                        "total": 84.5274454708
-                      },
-                      {
-                        "year": 2045,
-                        "total": 95.6435246535
-                      },
-                      {
-                        "year": 2050,
-                        "total": 98.9979128968
                       }
                     ]
                   }
@@ -39603,6 +39603,624 @@ export default {
             ]
           },
           {
+            "indicator": "Power consumption by sector",
+            "unit": "TWh",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.3152673623
+                      },
+                      {
+                        "year": 2020,
+                        "total": 64.8953595399
+                      },
+                      {
+                        "year": 2025,
+                        "total": 68.378162411
+                      },
+                      {
+                        "year": 2030,
+                        "total": 73.5702832948
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.2206593243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 79.2208528124
+                      },
+                      {
+                        "year": 2045,
+                        "total": 91.2735314108
+                      },
+                      {
+                        "year": 2050,
+                        "total": 113.9548425201
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 38.1866316741
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32.7064750981
+                      },
+                      {
+                        "year": 2025,
+                        "total": 35.5074883682
+                      },
+                      {
+                        "year": 2030,
+                        "total": 38.7499204059
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.2940261187
+                      },
+                      {
+                        "year": 2040,
+                        "total": 47.1997468101
+                      },
+                      {
+                        "year": 2045,
+                        "total": 51.6356092099
+                      },
+                      {
+                        "year": 2050,
+                        "total": 54.1027138693
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.3823962992
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.8737721835
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.0837019119
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.0132376997
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.3049492588
+                      },
+                      {
+                        "year": 2040,
+                        "total": 14.3451725457
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14.6477232879
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.5203834729
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.1426317105
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.6338319931
+                      },
+                      {
+                        "year": 2025,
+                        "total": 15.1613677553
+                      },
+                      {
+                        "year": 2030,
+                        "total": 24.2794635657
+                      },
+                      {
+                        "year": 2035,
+                        "total": 34.4032095894
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.8424492757
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.056671291
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1364831913
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 415.4331614249
+                      },
+                      {
+                        "year": 2020,
+                        "total": 415.759863608
+                      },
+                      {
+                        "year": 2025,
+                        "total": 436.3548163287
+                      },
+                      {
+                        "year": 2030,
+                        "total": 456.6603000836
+                      },
+                      {
+                        "year": 2035,
+                        "total": 478.2382160585
+                      },
+                      {
+                        "year": 2040,
+                        "total": 494.0350279723
+                      },
+                      {
+                        "year": 2045,
+                        "total": 473.1203775758
+                      },
+                      {
+                        "year": 2050,
+                        "total": 489.5537426467
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 156.9504690801
+                      },
+                      {
+                        "year": 2020,
+                        "total": 159.426258274
+                      },
+                      {
+                        "year": 2025,
+                        "total": 160.3246358039
+                      },
+                      {
+                        "year": 2030,
+                        "total": 159.0478938014
+                      },
+                      {
+                        "year": 2035,
+                        "total": 160.0695383733
+                      },
+                      {
+                        "year": 2040,
+                        "total": 152.212458471
+                      },
+                      {
+                        "year": 2045,
+                        "total": 155.4839267765
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.7823914477
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.9525195197
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.0426450453
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.9354765192
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.6827366899
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.6572604317
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.8002309566
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.7365943902
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.9420703513
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7313407939
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.1849345448
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7026042821
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.3838999056
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.5064077915
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20.9450121739
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.7688018722
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.3081387817
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 203.3311665681
+                      },
+                      {
+                        "year": 2020,
+                        "total": 205.2927420428
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.8555667796
+                      },
+                      {
+                        "year": 2030,
+                        "total": 227.0961458653
+                      },
+                      {
+                        "year": 2035,
+                        "total": 230.9325167826
+                      },
+                      {
+                        "year": 2040,
+                        "total": 239.2782825781
+                      },
+                      {
+                        "year": 2045,
+                        "total": 249.7004540902
+                      },
+                      {
+                        "year": 2050,
+                        "total": 261.8086822072
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 115.2780768852
+                      },
+                      {
+                        "year": 2020,
+                        "total": 113.9209749617
+                      },
+                      {
+                        "year": 2025,
+                        "total": 108.3069750499
+                      },
+                      {
+                        "year": 2030,
+                        "total": 100.6128946038
+                      },
+                      {
+                        "year": 2035,
+                        "total": 96.5098979017
+                      },
+                      {
+                        "year": 2040,
+                        "total": 85.003440219
+                      },
+                      {
+                        "year": 2045,
+                        "total": 81.3241174037
+                      },
+                      {
+                        "year": 2050,
+                        "total": 78.0785285662
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.8205556137
+                      },
+                      {
+                        "year": 2020,
+                        "total": 22.9097469575
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.6113052802
+                      },
+                      {
+                        "year": 2030,
+                        "total": 29.3713981915
+                      },
+                      {
+                        "year": 2035,
+                        "total": 22.7599241485
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.0697979667
+                      },
+                      {
+                        "year": 2045,
+                        "total": 20.9316459835
+                      },
+                      {
+                        "year": 2050,
+                        "total": 26.8264241079
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.4914474386
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.350397978
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3046556044
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.4487266355
+                      },
+                      {
+                        "year": 2035,
+                        "total": 36.5252490354
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.2126459277
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.0798430294
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1127983827
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 246.3344346949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 250.3218197296
+                      },
+                      {
+                        "year": 2025,
+                        "total": 252.3094122309
+                      },
+                      {
+                        "year": 2030,
+                        "total": 258.3297250523
+                      },
+                      {
+                        "year": 2035,
+                        "total": 259.1059861904
+                      },
+                      {
+                        "year": 2040,
+                        "total": 259.1447623154
+                      },
+                      {
+                        "year": 2045,
+                        "total": 256.1666781565
+                      },
+                      {
+                        "year": 2050,
+                        "total": 254.8472099009
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 151.4066141757
+                      },
+                      {
+                        "year": 2020,
+                        "total": 143.3745654905
+                      },
+                      {
+                        "year": 2025,
+                        "total": 159.0340887779
+                      },
+                      {
+                        "year": 2030,
+                        "total": 159.8291998602
+                      },
+                      {
+                        "year": 2035,
+                        "total": 158.6511084886
+                      },
+                      {
+                        "year": 2040,
+                        "total": 155.2776629409
+                      },
+                      {
+                        "year": 2045,
+                        "total": 152.7562057224
+                      },
+                      {
+                        "year": 2050,
+                        "total": 152.2794123378
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.878191454
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8.3548936884
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.9501658382
+                      },
+                      {
+                        "year": 2030,
+                        "total": 7.3329927834
+                      },
+                      {
+                        "year": 2035,
+                        "total": 43.2547465157
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.5578916479
+                      },
+                      {
+                        "year": 2045,
+                        "total": 49.4361716803
+                      },
+                      {
+                        "year": 2050,
+                        "total": 60.6703320646
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1113582621
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.9436292641
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.2508567629
+                      },
+                      {
+                        "year": 2030,
+                        "total": 57.6480336772
+                      },
+                      {
+                        "year": 2035,
+                        "total": 73.173849584
+                      },
+                      {
+                        "year": 2040,
+                        "total": 84.6277257688
+                      },
+                      {
+                        "year": 2045,
+                        "total": 94.9920210759
+                      },
+                      {
+                        "year": 2050,
+                        "total": 99.1574453284
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "Power supply by energy source",
             "unit": "TWh",
             "regions": [
@@ -40768,624 +41386,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 523.3819004102
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power supply by sector",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.3152673623
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.8953595399
-                      },
-                      {
-                        "year": 2025,
-                        "total": 68.378162411
-                      },
-                      {
-                        "year": 2030,
-                        "total": 73.5702832948
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.2206593243
-                      },
-                      {
-                        "year": 2040,
-                        "total": 79.2208528124
-                      },
-                      {
-                        "year": 2045,
-                        "total": 91.2735314108
-                      },
-                      {
-                        "year": 2050,
-                        "total": 113.9548425201
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 38.1866316741
-                      },
-                      {
-                        "year": 2020,
-                        "total": 32.7064750981
-                      },
-                      {
-                        "year": 2025,
-                        "total": 35.5074883682
-                      },
-                      {
-                        "year": 2030,
-                        "total": 38.7499204059
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.2940261187
-                      },
-                      {
-                        "year": 2040,
-                        "total": 47.1997468101
-                      },
-                      {
-                        "year": 2045,
-                        "total": 51.6356092099
-                      },
-                      {
-                        "year": 2050,
-                        "total": 54.1027138693
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.3823962992
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.8737721835
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.0837019119
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.0132376997
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.3049492588
-                      },
-                      {
-                        "year": 2040,
-                        "total": 14.3451725457
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.6477232879
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.5203834729
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.1426317105
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.6338319931
-                      },
-                      {
-                        "year": 2025,
-                        "total": 15.1613677553
-                      },
-                      {
-                        "year": 2030,
-                        "total": 24.2794635657
-                      },
-                      {
-                        "year": 2035,
-                        "total": 34.4032095894
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.8424492757
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.056671291
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.1364831913
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 415.4331614249
-                      },
-                      {
-                        "year": 2020,
-                        "total": 415.759863608
-                      },
-                      {
-                        "year": 2025,
-                        "total": 436.3548163287
-                      },
-                      {
-                        "year": 2030,
-                        "total": 456.6603000836
-                      },
-                      {
-                        "year": 2035,
-                        "total": 478.2382160585
-                      },
-                      {
-                        "year": 2040,
-                        "total": 494.0350279723
-                      },
-                      {
-                        "year": 2045,
-                        "total": 473.1203775758
-                      },
-                      {
-                        "year": 2050,
-                        "total": 489.5537426467
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 156.9504690801
-                      },
-                      {
-                        "year": 2020,
-                        "total": 159.426258274
-                      },
-                      {
-                        "year": 2025,
-                        "total": 160.3246358039
-                      },
-                      {
-                        "year": 2030,
-                        "total": 159.0478938014
-                      },
-                      {
-                        "year": 2035,
-                        "total": 160.0695383733
-                      },
-                      {
-                        "year": 2040,
-                        "total": 152.212458471
-                      },
-                      {
-                        "year": 2045,
-                        "total": 155.4839267765
-                      },
-                      {
-                        "year": 2050,
-                        "total": 146.7823914477
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.9525195197
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.0426450453
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.9354765192
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.6827366899
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.6572604317
-                      },
-                      {
-                        "year": 2040,
-                        "total": 26.8002309566
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.7365943902
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.9420703513
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.7313407939
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1849345448
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.7026042821
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.3838999056
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.5064077915
-                      },
-                      {
-                        "year": 2040,
-                        "total": 20.9450121739
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.7688018722
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.3081387817
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 203.3311665681
-                      },
-                      {
-                        "year": 2020,
-                        "total": 205.2927420428
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.8555667796
-                      },
-                      {
-                        "year": 2030,
-                        "total": 227.0961458653
-                      },
-                      {
-                        "year": 2035,
-                        "total": 230.9325167826
-                      },
-                      {
-                        "year": 2040,
-                        "total": 239.2782825781
-                      },
-                      {
-                        "year": 2045,
-                        "total": 249.7004540902
-                      },
-                      {
-                        "year": 2050,
-                        "total": 261.8086822072
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 115.2780768852
-                      },
-                      {
-                        "year": 2020,
-                        "total": 113.9209749617
-                      },
-                      {
-                        "year": 2025,
-                        "total": 108.3069750499
-                      },
-                      {
-                        "year": 2030,
-                        "total": 100.6128946038
-                      },
-                      {
-                        "year": 2035,
-                        "total": 96.5098979017
-                      },
-                      {
-                        "year": 2040,
-                        "total": 85.003440219
-                      },
-                      {
-                        "year": 2045,
-                        "total": 81.3241174037
-                      },
-                      {
-                        "year": 2050,
-                        "total": 78.0785285662
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.8205556137
-                      },
-                      {
-                        "year": 2020,
-                        "total": 22.9097469575
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.6113052802
-                      },
-                      {
-                        "year": 2030,
-                        "total": 29.3713981915
-                      },
-                      {
-                        "year": 2035,
-                        "total": 22.7599241485
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.0697979667
-                      },
-                      {
-                        "year": 2045,
-                        "total": 20.9316459835
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.8264241079
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.4914474386
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.350397978
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3046556044
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.4487266355
-                      },
-                      {
-                        "year": 2035,
-                        "total": 36.5252490354
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.2126459277
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.0798430294
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.1127983827
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 246.3344346949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 250.3218197296
-                      },
-                      {
-                        "year": 2025,
-                        "total": 252.3094122309
-                      },
-                      {
-                        "year": 2030,
-                        "total": 258.3297250523
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.1059861904
-                      },
-                      {
-                        "year": 2040,
-                        "total": 259.1447623154
-                      },
-                      {
-                        "year": 2045,
-                        "total": 256.1666781565
-                      },
-                      {
-                        "year": 2050,
-                        "total": 254.8472099009
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 151.4066141757
-                      },
-                      {
-                        "year": 2020,
-                        "total": 143.3745654905
-                      },
-                      {
-                        "year": 2025,
-                        "total": 159.0340887779
-                      },
-                      {
-                        "year": 2030,
-                        "total": 159.8291998602
-                      },
-                      {
-                        "year": 2035,
-                        "total": 158.6511084886
-                      },
-                      {
-                        "year": 2040,
-                        "total": 155.2776629409
-                      },
-                      {
-                        "year": 2045,
-                        "total": 152.7562057224
-                      },
-                      {
-                        "year": 2050,
-                        "total": 152.2794123378
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.878191454
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.3548936884
-                      },
-                      {
-                        "year": 2025,
-                        "total": 2.9501658382
-                      },
-                      {
-                        "year": 2030,
-                        "total": 7.3329927834
-                      },
-                      {
-                        "year": 2035,
-                        "total": 43.2547465157
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.5578916479
-                      },
-                      {
-                        "year": 2045,
-                        "total": 49.4361716803
-                      },
-                      {
-                        "year": 2050,
-                        "total": 60.6703320646
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1113582621
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.9436292641
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.2508567629
-                      },
-                      {
-                        "year": 2030,
-                        "total": 57.6480336772
-                      },
-                      {
-                        "year": 2035,
-                        "total": 73.173849584
-                      },
-                      {
-                        "year": 2040,
-                        "total": 84.6277257688
-                      },
-                      {
-                        "year": 2045,
-                        "total": 94.9920210759
-                      },
-                      {
-                        "year": 2050,
-                        "total": 99.1574453284
                       }
                     ]
                   }
@@ -46502,6 +46502,624 @@ export default {
             ]
           },
           {
+            "indicator": "Power consumption by sector",
+            "unit": "TWh",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.3152673623
+                      },
+                      {
+                        "year": 2020,
+                        "total": 64.8953595399
+                      },
+                      {
+                        "year": 2025,
+                        "total": 68.378162411
+                      },
+                      {
+                        "year": 2030,
+                        "total": 73.5705767448
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.2206593243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 79.176908842
+                      },
+                      {
+                        "year": 2045,
+                        "total": 78.3463478941
+                      },
+                      {
+                        "year": 2050,
+                        "total": 77.4996109906
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 38.1866316741
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32.7064750981
+                      },
+                      {
+                        "year": 2025,
+                        "total": 35.3506107895
+                      },
+                      {
+                        "year": 2030,
+                        "total": 41.0556875704
+                      },
+                      {
+                        "year": 2035,
+                        "total": 44.0818253252
+                      },
+                      {
+                        "year": 2040,
+                        "total": 48.2240333913
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.5368474946
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.3354383391
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.3823962992
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.8737721835
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1581862751
+                      },
+                      {
+                        "year": 2030,
+                        "total": 19.2692226303
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.8423381597
+                      },
+                      {
+                        "year": 2040,
+                        "total": 43.096780539
+                      },
+                      {
+                        "year": 2045,
+                        "total": 47.2104726541
+                      },
+                      {
+                        "year": 2050,
+                        "total": 48.5302496515
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.1426317105
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.6338319931
+                      },
+                      {
+                        "year": 2025,
+                        "total": 15.1613677553
+                      },
+                      {
+                        "year": 2030,
+                        "total": 24.4025107192
+                      },
+                      {
+                        "year": 2035,
+                        "total": 34.4297862499
+                      },
+                      {
+                        "year": 2040,
+                        "total": 41.1913511895
+                      },
+                      {
+                        "year": 2045,
+                        "total": 47.8674784186
+                      },
+                      {
+                        "year": 2050,
+                        "total": 51.2644340324
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 415.4331614249
+                      },
+                      {
+                        "year": 2020,
+                        "total": 415.759863608
+                      },
+                      {
+                        "year": 2025,
+                        "total": 438.8057647082
+                      },
+                      {
+                        "year": 2030,
+                        "total": 456.0063445136
+                      },
+                      {
+                        "year": 2035,
+                        "total": 476.5941700059
+                      },
+                      {
+                        "year": 2040,
+                        "total": 492.6312582459
+                      },
+                      {
+                        "year": 2045,
+                        "total": 472.6677623542
+                      },
+                      {
+                        "year": 2050,
+                        "total": 485.120679231
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 156.9504690801
+                      },
+                      {
+                        "year": 2020,
+                        "total": 159.426258274
+                      },
+                      {
+                        "year": 2025,
+                        "total": 161.0613013679
+                      },
+                      {
+                        "year": 2030,
+                        "total": 159.8085718759
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.9290559619
+                      },
+                      {
+                        "year": 2040,
+                        "total": 152.0698521171
+                      },
+                      {
+                        "year": 2045,
+                        "total": 155.7613405645
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.34161065
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.9525195197
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.0426450453
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.8842170242
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.64172659
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.7183843092
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.4397309691
+                      },
+                      {
+                        "year": 2045,
+                        "total": 24.8269290061
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8815132303
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7313407939
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.1849345448
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7026042821
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.3835462966
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.5060541826
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20.944658565
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.7684482632
+                      },
+                      {
+                        "year": 2050,
+                        "total": 29.7464683213
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 203.3311665681
+                      },
+                      {
+                        "year": 2020,
+                        "total": 205.2927420428
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.7221474535
+                      },
+                      {
+                        "year": 2030,
+                        "total": 227.0366139162
+                      },
+                      {
+                        "year": 2035,
+                        "total": 230.9325167826
+                      },
+                      {
+                        "year": 2040,
+                        "total": 239.2782825781
+                      },
+                      {
+                        "year": 2045,
+                        "total": 246.8567570607
+                      },
+                      {
+                        "year": 2050,
+                        "total": 256.1989367553
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 115.2780768852
+                      },
+                      {
+                        "year": 2020,
+                        "total": 113.9209749617
+                      },
+                      {
+                        "year": 2025,
+                        "total": 108.3112414034
+                      },
+                      {
+                        "year": 2030,
+                        "total": 100.1266838765
+                      },
+                      {
+                        "year": 2035,
+                        "total": 96.0195343827
+                      },
+                      {
+                        "year": 2040,
+                        "total": 84.7379513118
+                      },
+                      {
+                        "year": 2045,
+                        "total": 79.5350279589
+                      },
+                      {
+                        "year": 2050,
+                        "total": 76.4436652514
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.8205556137
+                      },
+                      {
+                        "year": 2020,
+                        "total": 22.9097469575
+                      },
+                      {
+                        "year": 2025,
+                        "total": 31.4570094485
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.2176860736
+                      },
+                      {
+                        "year": 2035,
+                        "total": 22.9996607608
+                      },
+                      {
+                        "year": 2040,
+                        "total": 24.7495112876
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.2324568271
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.7703010375
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.4914474386
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.350397978
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3046556044
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.4487266355
+                      },
+                      {
+                        "year": 2035,
+                        "total": 36.5252490354
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.2126459277
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.0798430294
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1127983827
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 246.3344346949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 250.3218197296
+                      },
+                      {
+                        "year": 2025,
+                        "total": 252.30968714
+                      },
+                      {
+                        "year": 2030,
+                        "total": 255.1217611712
+                      },
+                      {
+                        "year": 2035,
+                        "total": 255.0175940499
+                      },
+                      {
+                        "year": 2040,
+                        "total": 255.0349064041
+                      },
+                      {
+                        "year": 2045,
+                        "total": 252.0265418003
+                      },
+                      {
+                        "year": 2050,
+                        "total": 249.4886296947
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 151.4066141757
+                      },
+                      {
+                        "year": 2020,
+                        "total": 143.3745654905
+                      },
+                      {
+                        "year": 2025,
+                        "total": 159.086264608
+                      },
+                      {
+                        "year": 2030,
+                        "total": 159.6288333295
+                      },
+                      {
+                        "year": 2035,
+                        "total": 158.4143418728
+                      },
+                      {
+                        "year": 2040,
+                        "total": 155.096013294
+                      },
+                      {
+                        "year": 2045,
+                        "total": 153.2779317852
+                      },
+                      {
+                        "year": 2050,
+                        "total": 153.6138036425
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.878191454
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8.3548936884
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.2182362037
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12.8870438564
+                      },
+                      {
+                        "year": 2035,
+                        "total": 60.8765946508
+                      },
+                      {
+                        "year": 2040,
+                        "total": 60.1628134125
+                      },
+                      {
+                        "year": 2045,
+                        "total": 65.4919603523
+                      },
+                      {
+                        "year": 2050,
+                        "total": 74.0583630168
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1113582621
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.9436292641
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.2507753562
+                      },
+                      {
+                        "year": 2030,
+                        "total": 57.6480160943
+                      },
+                      {
+                        "year": 2035,
+                        "total": 77.0671437723
+                      },
+                      {
+                        "year": 2040,
+                        "total": 84.0114279766
+                      },
+                      {
+                        "year": 2045,
+                        "total": 94.2555861944
+                      },
+                      {
+                        "year": 2050,
+                        "total": 97.0693216505
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "Power supply by energy source",
             "unit": "TWh",
             "regions": [
@@ -47667,624 +48285,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 522.9963606791
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power supply by sector",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.3152673623
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.8953595399
-                      },
-                      {
-                        "year": 2025,
-                        "total": 68.378162411
-                      },
-                      {
-                        "year": 2030,
-                        "total": 73.5705767448
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.2206593243
-                      },
-                      {
-                        "year": 2040,
-                        "total": 79.176908842
-                      },
-                      {
-                        "year": 2045,
-                        "total": 78.3463478941
-                      },
-                      {
-                        "year": 2050,
-                        "total": 77.4996109906
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 38.1866316741
-                      },
-                      {
-                        "year": 2020,
-                        "total": 32.7064750981
-                      },
-                      {
-                        "year": 2025,
-                        "total": 35.3506107895
-                      },
-                      {
-                        "year": 2030,
-                        "total": 41.0556875704
-                      },
-                      {
-                        "year": 2035,
-                        "total": 44.0818253252
-                      },
-                      {
-                        "year": 2040,
-                        "total": 48.2240333913
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.5368474946
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.3354383391
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.3823962992
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.8737721835
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1581862751
-                      },
-                      {
-                        "year": 2030,
-                        "total": 19.2692226303
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.8423381597
-                      },
-                      {
-                        "year": 2040,
-                        "total": 43.096780539
-                      },
-                      {
-                        "year": 2045,
-                        "total": 47.2104726541
-                      },
-                      {
-                        "year": 2050,
-                        "total": 48.5302496515
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.1426317105
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.6338319931
-                      },
-                      {
-                        "year": 2025,
-                        "total": 15.1613677553
-                      },
-                      {
-                        "year": 2030,
-                        "total": 24.4025107192
-                      },
-                      {
-                        "year": 2035,
-                        "total": 34.4297862499
-                      },
-                      {
-                        "year": 2040,
-                        "total": 41.1913511895
-                      },
-                      {
-                        "year": 2045,
-                        "total": 47.8674784186
-                      },
-                      {
-                        "year": 2050,
-                        "total": 51.2644340324
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 415.4331614249
-                      },
-                      {
-                        "year": 2020,
-                        "total": 415.759863608
-                      },
-                      {
-                        "year": 2025,
-                        "total": 438.8057647082
-                      },
-                      {
-                        "year": 2030,
-                        "total": 456.0063445136
-                      },
-                      {
-                        "year": 2035,
-                        "total": 476.5941700059
-                      },
-                      {
-                        "year": 2040,
-                        "total": 492.6312582459
-                      },
-                      {
-                        "year": 2045,
-                        "total": 472.6677623542
-                      },
-                      {
-                        "year": 2050,
-                        "total": 485.120679231
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 156.9504690801
-                      },
-                      {
-                        "year": 2020,
-                        "total": 159.426258274
-                      },
-                      {
-                        "year": 2025,
-                        "total": 161.0613013679
-                      },
-                      {
-                        "year": 2030,
-                        "total": 159.8085718759
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.9290559619
-                      },
-                      {
-                        "year": 2040,
-                        "total": 152.0698521171
-                      },
-                      {
-                        "year": 2045,
-                        "total": 155.7613405645
-                      },
-                      {
-                        "year": 2050,
-                        "total": 146.34161065
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.9525195197
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.0426450453
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.8842170242
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.64172659
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.7183843092
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.4397309691
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.8269290061
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8815132303
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.7313407939
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1849345448
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.7026042821
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.3835462966
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.5060541826
-                      },
-                      {
-                        "year": 2040,
-                        "total": 20.944658565
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.7684482632
-                      },
-                      {
-                        "year": 2050,
-                        "total": 29.7464683213
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 203.3311665681
-                      },
-                      {
-                        "year": 2020,
-                        "total": 205.2927420428
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.7221474535
-                      },
-                      {
-                        "year": 2030,
-                        "total": 227.0366139162
-                      },
-                      {
-                        "year": 2035,
-                        "total": 230.9325167826
-                      },
-                      {
-                        "year": 2040,
-                        "total": 239.2782825781
-                      },
-                      {
-                        "year": 2045,
-                        "total": 246.8567570607
-                      },
-                      {
-                        "year": 2050,
-                        "total": 256.1989367553
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 115.2780768852
-                      },
-                      {
-                        "year": 2020,
-                        "total": 113.9209749617
-                      },
-                      {
-                        "year": 2025,
-                        "total": 108.3112414034
-                      },
-                      {
-                        "year": 2030,
-                        "total": 100.1266838765
-                      },
-                      {
-                        "year": 2035,
-                        "total": 96.0195343827
-                      },
-                      {
-                        "year": 2040,
-                        "total": 84.7379513118
-                      },
-                      {
-                        "year": 2045,
-                        "total": 79.5350279589
-                      },
-                      {
-                        "year": 2050,
-                        "total": 76.4436652514
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.8205556137
-                      },
-                      {
-                        "year": 2020,
-                        "total": 22.9097469575
-                      },
-                      {
-                        "year": 2025,
-                        "total": 31.4570094485
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.2176860736
-                      },
-                      {
-                        "year": 2035,
-                        "total": 22.9996607608
-                      },
-                      {
-                        "year": 2040,
-                        "total": 24.7495112876
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.2324568271
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.7703010375
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.4914474386
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.350397978
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3046556044
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.4487266355
-                      },
-                      {
-                        "year": 2035,
-                        "total": 36.5252490354
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.2126459277
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.0798430294
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.1127983827
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 246.3344346949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 250.3218197296
-                      },
-                      {
-                        "year": 2025,
-                        "total": 252.30968714
-                      },
-                      {
-                        "year": 2030,
-                        "total": 255.1217611712
-                      },
-                      {
-                        "year": 2035,
-                        "total": 255.0175940499
-                      },
-                      {
-                        "year": 2040,
-                        "total": 255.0349064041
-                      },
-                      {
-                        "year": 2045,
-                        "total": 252.0265418003
-                      },
-                      {
-                        "year": 2050,
-                        "total": 249.4886296947
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 151.4066141757
-                      },
-                      {
-                        "year": 2020,
-                        "total": 143.3745654905
-                      },
-                      {
-                        "year": 2025,
-                        "total": 159.086264608
-                      },
-                      {
-                        "year": 2030,
-                        "total": 159.6288333295
-                      },
-                      {
-                        "year": 2035,
-                        "total": 158.4143418728
-                      },
-                      {
-                        "year": 2040,
-                        "total": 155.096013294
-                      },
-                      {
-                        "year": 2045,
-                        "total": 153.2779317852
-                      },
-                      {
-                        "year": 2050,
-                        "total": 153.6138036425
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.878191454
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.3548936884
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.2182362037
-                      },
-                      {
-                        "year": 2030,
-                        "total": 12.8870438564
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.8765946508
-                      },
-                      {
-                        "year": 2040,
-                        "total": 60.1628134125
-                      },
-                      {
-                        "year": 2045,
-                        "total": 65.4919603523
-                      },
-                      {
-                        "year": 2050,
-                        "total": 74.0583630168
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1113582621
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.9436292641
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.2507753562
-                      },
-                      {
-                        "year": 2030,
-                        "total": 57.6480160943
-                      },
-                      {
-                        "year": 2035,
-                        "total": 77.0671437723
-                      },
-                      {
-                        "year": 2040,
-                        "total": 84.0114279766
-                      },
-                      {
-                        "year": 2045,
-                        "total": 94.2555861944
-                      },
-                      {
-                        "year": 2050,
-                        "total": 97.0693216505
                       }
                     ]
                   }
@@ -53401,6 +53401,624 @@ export default {
             ]
           },
           {
+            "indicator": "Power consumption by sector",
+            "unit": "TWh",
+            "regions": [
+              {
+                "region": "DK",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.3152673623
+                      },
+                      {
+                        "year": 2020,
+                        "total": 64.8953595399
+                      },
+                      {
+                        "year": 2025,
+                        "total": 68.378162411
+                      },
+                      {
+                        "year": 2030,
+                        "total": 73.6289082674
+                      },
+                      {
+                        "year": 2035,
+                        "total": 76.2206593243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 79.176908842
+                      },
+                      {
+                        "year": 2045,
+                        "total": 92.5074672435
+                      },
+                      {
+                        "year": 2050,
+                        "total": 113.3934374192
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 38.1866316741
+                      },
+                      {
+                        "year": 2020,
+                        "total": 32.7064750981
+                      },
+                      {
+                        "year": 2025,
+                        "total": 35.4986390168
+                      },
+                      {
+                        "year": 2030,
+                        "total": 39.7051743769
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.6575709953
+                      },
+                      {
+                        "year": 2040,
+                        "total": 47.591421008
+                      },
+                      {
+                        "year": 2045,
+                        "total": 51.6942819931
+                      },
+                      {
+                        "year": 2050,
+                        "total": 54.0702595246
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.3823962992
+                      },
+                      {
+                        "year": 2020,
+                        "total": 10.8737721835
+                      },
+                      {
+                        "year": 2025,
+                        "total": 8.9994172859
+                      },
+                      {
+                        "year": 2030,
+                        "total": 15.6975116933
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.5249290085
+                      },
+                      {
+                        "year": 2040,
+                        "total": 19.3959546855
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.4311348149
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.9957953591
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.1426317105
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.6338319931
+                      },
+                      {
+                        "year": 2025,
+                        "total": 15.1613677553
+                      },
+                      {
+                        "year": 2030,
+                        "total": 27.8084563262
+                      },
+                      {
+                        "year": 2035,
+                        "total": 35.1654282997
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.8424492757
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.056671291
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1364831913
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "FI",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 415.4331614249
+                      },
+                      {
+                        "year": 2020,
+                        "total": 415.759863608
+                      },
+                      {
+                        "year": 2025,
+                        "total": 437.0441604361
+                      },
+                      {
+                        "year": 2030,
+                        "total": 457.6395532731
+                      },
+                      {
+                        "year": 2035,
+                        "total": 477.4685890984
+                      },
+                      {
+                        "year": 2040,
+                        "total": 493.290468129
+                      },
+                      {
+                        "year": 2045,
+                        "total": 472.9189156688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 488.8790232649
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 156.9504690801
+                      },
+                      {
+                        "year": 2020,
+                        "total": 159.426258274
+                      },
+                      {
+                        "year": 2025,
+                        "total": 160.5481798983
+                      },
+                      {
+                        "year": 2030,
+                        "total": 159.2787245876
+                      },
+                      {
+                        "year": 2035,
+                        "total": 159.7945661296
+                      },
+                      {
+                        "year": 2040,
+                        "total": 151.9333289435
+                      },
+                      {
+                        "year": 2045,
+                        "total": 155.2009336681
+                      },
+                      {
+                        "year": 2050,
+                        "total": 146.34161065
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.9525195197
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.0426450453
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.8883386532
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.6685620194
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.60242949
+                      },
+                      {
+                        "year": 2040,
+                        "total": 26.6994551878
+                      },
+                      {
+                        "year": 2045,
+                        "total": 29.7744085636
+                      },
+                      {
+                        "year": 2050,
+                        "total": 33.1118960634
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7313407939
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.1849345448
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7026042821
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.3838999056
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.5064077915
+                      },
+                      {
+                        "year": 2040,
+                        "total": 20.9450121739
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.8022255935
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.4161946669
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "NO",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 203.3311665681
+                      },
+                      {
+                        "year": 2020,
+                        "total": 205.2927420428
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.8555667796
+                      },
+                      {
+                        "year": 2030,
+                        "total": 227.0961458653
+                      },
+                      {
+                        "year": 2035,
+                        "total": 230.9325167826
+                      },
+                      {
+                        "year": 2040,
+                        "total": 239.2782825781
+                      },
+                      {
+                        "year": 2045,
+                        "total": 245.1914417038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 258.5837922704
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 115.2780768852
+                      },
+                      {
+                        "year": 2020,
+                        "total": 113.9209749617
+                      },
+                      {
+                        "year": 2025,
+                        "total": 108.3138854809
+                      },
+                      {
+                        "year": 2030,
+                        "total": 100.1286348903
+                      },
+                      {
+                        "year": 2035,
+                        "total": 96.0199577491
+                      },
+                      {
+                        "year": 2040,
+                        "total": 83.6871437684
+                      },
+                      {
+                        "year": 2045,
+                        "total": 81.1310002932
+                      },
+                      {
+                        "year": 2050,
+                        "total": 78.1465370539
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 23.8205556137
+                      },
+                      {
+                        "year": 2020,
+                        "total": 22.9097469575
+                      },
+                      {
+                        "year": 2025,
+                        "total": 32.4251886563
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.1852815677
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.3614502107
+                      },
+                      {
+                        "year": 2040,
+                        "total": 33.1187032933
+                      },
+                      {
+                        "year": 2045,
+                        "total": 27.2268974228
+                      },
+                      {
+                        "year": 2050,
+                        "total": 36.4994608513
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.4914474386
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.350397978
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3046556044
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.4487266355
+                      },
+                      {
+                        "year": 2035,
+                        "total": 36.5252490354
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.2126459277
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.0798430294
+                      },
+                      {
+                        "year": 2050,
+                        "total": 52.1127983827
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "region": "SE",
+                "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 246.3344346949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 250.3218197296
+                      },
+                      {
+                        "year": 2025,
+                        "total": 252.3103611932
+                      },
+                      {
+                        "year": 2030,
+                        "total": 255.1131256145
+                      },
+                      {
+                        "year": 2035,
+                        "total": 255.0035062431
+                      },
+                      {
+                        "year": 2040,
+                        "total": 255.0240194603
+                      },
+                      {
+                        "year": 2045,
+                        "total": 252.8178156046
+                      },
+                      {
+                        "year": 2050,
+                        "total": 273.514759421
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 151.4066141757
+                      },
+                      {
+                        "year": 2020,
+                        "total": 143.3745654905
+                      },
+                      {
+                        "year": 2025,
+                        "total": 159.0364356739
+                      },
+                      {
+                        "year": 2030,
+                        "total": 160.0640561138
+                      },
+                      {
+                        "year": 2035,
+                        "total": 158.7317657296
+                      },
+                      {
+                        "year": 2040,
+                        "total": 154.6480896662
+                      },
+                      {
+                        "year": 2045,
+                        "total": 153.09125327
+                      },
+                      {
+                        "year": 2050,
+                        "total": 153.5866659533
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.878191454
+                      },
+                      {
+                        "year": 2020,
+                        "total": 8.3548936884
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.0937328632
+                      },
+                      {
+                        "year": 2030,
+                        "total": 12.9696131311
+                      },
+                      {
+                        "year": 2035,
+                        "total": 60.4431144921
+                      },
+                      {
+                        "year": 2040,
+                        "total": 61.3413558031
+                      },
+                      {
+                        "year": 2045,
+                        "total": 61.7643123275
+                      },
+                      {
+                        "year": 2050,
+                        "total": 67.0875732373
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1113582621
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.9436292641
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.2508567629
+                      },
+                      {
+                        "year": 2030,
+                        "total": 57.6480336772
+                      },
+                      {
+                        "year": 2035,
+                        "total": 75.5524350186
+                      },
+                      {
+                        "year": 2040,
+                        "total": 82.8771769346
+                      },
+                      {
+                        "year": 2045,
+                        "total": 94.5029616673
+                      },
+                      {
+                        "year": 2050,
+                        "total": 99.1574453284
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "Power supply by energy source",
             "unit": "TWh",
             "regions": [
@@ -54566,624 +55184,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 523.2117003136
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "indicator": "Power supply by sector",
-            "unit": "PJ",
-            "regions": [
-              {
-                "region": "DK",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.3152673623
-                      },
-                      {
-                        "year": 2020,
-                        "total": 64.8953595399
-                      },
-                      {
-                        "year": 2025,
-                        "total": 68.378162411
-                      },
-                      {
-                        "year": 2030,
-                        "total": 73.6289082674
-                      },
-                      {
-                        "year": 2035,
-                        "total": 76.2206593243
-                      },
-                      {
-                        "year": 2040,
-                        "total": 79.176908842
-                      },
-                      {
-                        "year": 2045,
-                        "total": 92.5074672435
-                      },
-                      {
-                        "year": 2050,
-                        "total": 113.3934374192
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 38.1866316741
-                      },
-                      {
-                        "year": 2020,
-                        "total": 32.7064750981
-                      },
-                      {
-                        "year": 2025,
-                        "total": 35.4986390168
-                      },
-                      {
-                        "year": 2030,
-                        "total": 39.7051743769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.6575709953
-                      },
-                      {
-                        "year": 2040,
-                        "total": 47.591421008
-                      },
-                      {
-                        "year": 2045,
-                        "total": 51.6942819931
-                      },
-                      {
-                        "year": 2050,
-                        "total": 54.0702595246
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.3823962992
-                      },
-                      {
-                        "year": 2020,
-                        "total": 10.8737721835
-                      },
-                      {
-                        "year": 2025,
-                        "total": 8.9994172859
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15.6975116933
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.5249290085
-                      },
-                      {
-                        "year": 2040,
-                        "total": 19.3959546855
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.4311348149
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.9957953591
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.1426317105
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.6338319931
-                      },
-                      {
-                        "year": 2025,
-                        "total": 15.1613677553
-                      },
-                      {
-                        "year": 2030,
-                        "total": 27.8084563262
-                      },
-                      {
-                        "year": 2035,
-                        "total": 35.1654282997
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.8424492757
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.056671291
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.1364831913
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "FI",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 415.4331614249
-                      },
-                      {
-                        "year": 2020,
-                        "total": 415.759863608
-                      },
-                      {
-                        "year": 2025,
-                        "total": 437.0441604361
-                      },
-                      {
-                        "year": 2030,
-                        "total": 457.6395532731
-                      },
-                      {
-                        "year": 2035,
-                        "total": 477.4685890984
-                      },
-                      {
-                        "year": 2040,
-                        "total": 493.290468129
-                      },
-                      {
-                        "year": 2045,
-                        "total": 472.9189156688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 488.8790232649
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 156.9504690801
-                      },
-                      {
-                        "year": 2020,
-                        "total": 159.426258274
-                      },
-                      {
-                        "year": 2025,
-                        "total": 160.5481798983
-                      },
-                      {
-                        "year": 2030,
-                        "total": 159.2787245876
-                      },
-                      {
-                        "year": 2035,
-                        "total": 159.7945661296
-                      },
-                      {
-                        "year": 2040,
-                        "total": 151.9333289435
-                      },
-                      {
-                        "year": 2045,
-                        "total": 155.2009336681
-                      },
-                      {
-                        "year": 2050,
-                        "total": 146.34161065
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.9525195197
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.0426450453
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.8883386532
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.6685620194
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.60242949
-                      },
-                      {
-                        "year": 2040,
-                        "total": 26.6994551878
-                      },
-                      {
-                        "year": 2045,
-                        "total": 29.7744085636
-                      },
-                      {
-                        "year": 2050,
-                        "total": 33.1118960634
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.7313407939
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.1849345448
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.7026042821
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.3838999056
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.5064077915
-                      },
-                      {
-                        "year": 2040,
-                        "total": 20.9450121739
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.8022255935
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.4161946669
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "NO",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 203.3311665681
-                      },
-                      {
-                        "year": 2020,
-                        "total": 205.2927420428
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.8555667796
-                      },
-                      {
-                        "year": 2030,
-                        "total": 227.0961458653
-                      },
-                      {
-                        "year": 2035,
-                        "total": 230.9325167826
-                      },
-                      {
-                        "year": 2040,
-                        "total": 239.2782825781
-                      },
-                      {
-                        "year": 2045,
-                        "total": 245.1914417038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 258.5837922704
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 115.2780768852
-                      },
-                      {
-                        "year": 2020,
-                        "total": 113.9209749617
-                      },
-                      {
-                        "year": 2025,
-                        "total": 108.3138854809
-                      },
-                      {
-                        "year": 2030,
-                        "total": 100.1286348903
-                      },
-                      {
-                        "year": 2035,
-                        "total": 96.0199577491
-                      },
-                      {
-                        "year": 2040,
-                        "total": 83.6871437684
-                      },
-                      {
-                        "year": 2045,
-                        "total": 81.1310002932
-                      },
-                      {
-                        "year": 2050,
-                        "total": 78.1465370539
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 23.8205556137
-                      },
-                      {
-                        "year": 2020,
-                        "total": 22.9097469575
-                      },
-                      {
-                        "year": 2025,
-                        "total": 32.4251886563
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.1852815677
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.3614502107
-                      },
-                      {
-                        "year": 2040,
-                        "total": 33.1187032933
-                      },
-                      {
-                        "year": 2045,
-                        "total": 27.2268974228
-                      },
-                      {
-                        "year": 2050,
-                        "total": 36.4994608513
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.4914474386
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.350397978
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3046556044
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.4487266355
-                      },
-                      {
-                        "year": 2035,
-                        "total": 36.5252490354
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.2126459277
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.0798430294
-                      },
-                      {
-                        "year": 2050,
-                        "total": 52.1127983827
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "region": "SE",
-                "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Industry electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 246.3344346949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 250.3218197296
-                      },
-                      {
-                        "year": 2025,
-                        "total": 252.3103611932
-                      },
-                      {
-                        "year": 2030,
-                        "total": 255.1131256145
-                      },
-                      {
-                        "year": 2035,
-                        "total": 255.0035062431
-                      },
-                      {
-                        "year": 2040,
-                        "total": 255.0240194603
-                      },
-                      {
-                        "year": 2045,
-                        "total": 252.8178156046
-                      },
-                      {
-                        "year": 2050,
-                        "total": 273.514759421
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Residential electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 151.4066141757
-                      },
-                      {
-                        "year": 2020,
-                        "total": 143.3745654905
-                      },
-                      {
-                        "year": 2025,
-                        "total": 159.0364356739
-                      },
-                      {
-                        "year": 2030,
-                        "total": 160.0640561138
-                      },
-                      {
-                        "year": 2035,
-                        "total": 158.7317657296
-                      },
-                      {
-                        "year": 2040,
-                        "total": 154.6480896662
-                      },
-                      {
-                        "year": 2045,
-                        "total": 153.09125327
-                      },
-                      {
-                        "year": 2050,
-                        "total": 153.5866659533
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Supply electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.878191454
-                      },
-                      {
-                        "year": 2020,
-                        "total": 8.3548936884
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.0937328632
-                      },
-                      {
-                        "year": 2030,
-                        "total": 12.9696131311
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.4431144921
-                      },
-                      {
-                        "year": 2040,
-                        "total": 61.3413558031
-                      },
-                      {
-                        "year": 2045,
-                        "total": 61.7643123275
-                      },
-                      {
-                        "year": 2050,
-                        "total": 67.0875732373
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Transport electricity",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1113582621
-                      },
-                      {
-                        "year": 2020,
-                        "total": 17.9436292641
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.2508567629
-                      },
-                      {
-                        "year": 2030,
-                        "total": 57.6480336772
-                      },
-                      {
-                        "year": 2035,
-                        "total": 75.5524350186
-                      },
-                      {
-                        "year": 2040,
-                        "total": 82.8771769346
-                      },
-                      {
-                        "year": 2045,
-                        "total": 94.5029616673
-                      },
-                      {
-                        "year": 2050,
-                        "total": 99.1574453284
                       }
                     ]
                   }

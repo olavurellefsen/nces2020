@@ -7,6 +7,6 @@ export default
 		"Power Trade",
 		"Power and heat CO2 emissions",
 		"Power capacity",
+		"Power consumption by sector",
 		"Power supply by energy source",
-		"Power supply by sector",
 	 ]
