@@ -43,8 +43,8 @@ const StackedBarChart = props => {
     process.env.NODE_ENV === 'development' ||
     process.env.NODE_ENV === 'test'
   ) {
-    gutter = 0
-    rowGutter = 0
+    gutter = -40
+    rowGutter = -5
   } else {
     gutter = -40
     rowGutter = -5
@@ -264,7 +264,7 @@ StackedBarChart.propTypes = {
   maxY: PropTypes.number.isRequired,
   minY2: PropTypes.number,
   maxY2: PropTypes.number,
-  label: PropTypes.string.isRequired,
+  label: PropTypes.string,
   divideValues: PropTypes.number,
   label2: PropTypes.string,
   YPercentage: PropTypes.bool,

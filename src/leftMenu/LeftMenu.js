@@ -207,6 +207,7 @@ function ScenarioSelectionMenu(props) {
           narrowVersion={false}
           options={props.options}
           toggleOption={props.toggleOption}
+          scenarioSelection={props.scenarioSelection}
         />
       </ScenarioSelection>
       <MenuSeparatorLine />
