@@ -69,7 +69,8 @@
     "tab6": "Households",
     "tab7": "Transport",
     "tab8": "Historical Data",
-    "mobile": {
+    "tab9": "KPIs",
+	"mobile": {
       "tab1": "Main results",
       "tab2": "Supply",
       "tab3": "Power & DH",
@@ -78,6 +79,7 @@
       "tab6": "Households",
       "tab7": "Transport",
       "tab8": "Historical"
+	  "tab9": "KPIs",
     }
   },
   "welcome-text": {
