@@ -46,10 +46,7 @@ const ScenarioSelectionList = props => {
         !s.opt2 && 
         !s.opt3) //ensure that each scenario is only listed once
     }).forEach((element)=>{
-      console.log("nameNoOption: ", element.nameNoOptions)
       let newOption = scenarioCombinations.scenarioOptions.find((option) => {
-        console.log("option.nameNoOptions: ", option.nameNoOptions)
-        console.log("element.nameNoOptions : ", element.nameNoOptions)
         return(
           option.nameNoOptions === element.nameNoOptions &&
           option.opt0===props.options[element.nameNoOptions].opt0 && 
