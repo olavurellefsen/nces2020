@@ -79,7 +79,11 @@
       "tab6": "Households",
       "tab7": "Transport",
       "tab8": "Historical",
+<<<<<<< HEAD
 	  "tab9": "KPIs",
+=======
+	    "tab9": "KPIs"
+>>>>>>> 83a091597718b1f6087e906b2144cb95e9e4d524
     }
   },
   "welcome-text": {

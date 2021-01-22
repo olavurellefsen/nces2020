@@ -15,6 +15,7 @@ import ChartsTab5 from './charts/ChartsTab5'
 import ChartsTab6 from './charts/ChartsTab6'
 import ChartsTab7 from './charts/ChartsTab7'
 import ChartsTab8 from './charts/ChartsTab8'
+import ChartsTab9 from './charts/ChartsTab9'
 import PageRenderer from './pages/PageRenderer'
 import scenarioCombinations from './data/scenarioCombinations'
 
@@ -297,6 +298,16 @@ export class App extends React.Component {
                 path="/tab8"
                 render={() => (
                   <ChartsTab8
+                    scenarioSelection={this.state}
+                    closeWelcome={this.CloseWelcomeWidget}
+                    selectedCountries={this.state.selectedCountries}
+                  />
+                )}
+              />
+              <Route
+                path="/tab9"
+                render={() => (
+                  <ChartsTab9
                     scenarioSelection={this.state}
                     closeWelcome={this.CloseWelcomeWidget}
                     selectedCountries={this.state.selectedCountries}
