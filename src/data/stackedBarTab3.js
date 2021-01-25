@@ -1074,7 +1074,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1116,7 +1116,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1158,7 +1158,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1200,7 +1200,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1248,7 +1248,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1290,7 +1290,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1332,7 +1332,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1374,7 +1374,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3768,7 +3768,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3810,7 +3810,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3852,7 +3852,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3894,7 +3894,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7973,7 +7973,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8015,7 +8015,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8057,7 +8057,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8099,7 +8099,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8147,7 +8147,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8189,7 +8189,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8231,7 +8231,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8273,7 +8273,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10667,7 +10667,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10709,7 +10709,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10751,7 +10751,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10793,7 +10793,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14872,7 +14872,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14914,7 +14914,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14956,7 +14956,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14998,7 +14998,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15046,7 +15046,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15088,7 +15088,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15130,7 +15130,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15172,7 +15172,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17566,7 +17566,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17608,7 +17608,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17650,7 +17650,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17692,7 +17692,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21771,7 +21771,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21813,7 +21813,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21855,7 +21855,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21897,7 +21897,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21945,7 +21945,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21987,7 +21987,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22029,7 +22029,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22071,7 +22071,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24465,7 +24465,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24507,7 +24507,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24549,7 +24549,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24591,7 +24591,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28670,7 +28670,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28712,7 +28712,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28754,7 +28754,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28796,7 +28796,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28844,7 +28844,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28886,7 +28886,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28928,7 +28928,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28970,7 +28970,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31364,7 +31364,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31406,7 +31406,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31448,7 +31448,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31490,7 +31490,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35569,7 +35569,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35611,7 +35611,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35653,7 +35653,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35695,7 +35695,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35743,7 +35743,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35785,7 +35785,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35827,7 +35827,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35869,7 +35869,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38263,7 +38263,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38305,7 +38305,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38347,7 +38347,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38389,7 +38389,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42468,7 +42468,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42510,7 +42510,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42552,7 +42552,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42594,7 +42594,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42642,7 +42642,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42684,7 +42684,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42726,7 +42726,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42768,7 +42768,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -45162,7 +45162,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -45204,7 +45204,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -45246,7 +45246,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -45288,7 +45288,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49367,7 +49367,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49409,7 +49409,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49451,7 +49451,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49493,7 +49493,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "District heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49541,7 +49541,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49583,7 +49583,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49625,7 +49625,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49667,7 +49667,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -52061,7 +52061,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -52103,7 +52103,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -52145,7 +52145,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -52187,7 +52187,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Power and heat",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

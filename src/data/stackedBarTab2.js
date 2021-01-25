@@ -7668,7 +7668,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7710,7 +7710,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7752,7 +7752,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7794,7 +7794,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15503,7 +15503,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15545,7 +15545,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15587,7 +15587,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15629,7 +15629,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23338,7 +23338,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23380,7 +23380,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23422,7 +23422,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23464,7 +23464,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31173,7 +31173,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31215,7 +31215,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31257,7 +31257,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31299,7 +31299,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39008,7 +39008,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39050,7 +39050,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39092,7 +39092,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39134,7 +39134,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46843,7 +46843,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46885,7 +46885,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46927,7 +46927,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46969,7 +46969,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54678,7 +54678,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54720,7 +54720,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54762,7 +54762,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54804,7 +54804,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62513,7 +62513,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62555,7 +62555,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62597,7 +62597,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62639,7 +62639,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Supply",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

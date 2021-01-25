@@ -7350,7 +7350,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7392,7 +7392,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7434,7 +7434,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7476,7 +7476,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15929,7 +15929,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15971,7 +15971,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16013,7 +16013,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16055,7 +16055,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24508,7 +24508,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24550,7 +24550,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24592,7 +24592,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24634,7 +24634,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33087,7 +33087,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33129,7 +33129,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33171,7 +33171,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33213,7 +33213,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41666,7 +41666,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41708,7 +41708,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41750,7 +41750,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41792,7 +41792,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50245,7 +50245,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50287,7 +50287,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50329,7 +50329,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50371,7 +50371,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58824,7 +58824,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58866,7 +58866,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58908,7 +58908,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58950,7 +58950,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67403,7 +67403,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "DK",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67445,7 +67445,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "FI",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67487,7 +67487,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67529,7 +67529,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "SE",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
