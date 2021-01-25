@@ -771,7 +771,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -945,7 +945,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -1415,7 +1415,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -2773,7 +2773,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -5013,7 +5013,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -5187,7 +5187,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -5657,7 +5657,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -7015,7 +7015,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -9255,7 +9255,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -9429,7 +9429,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -9899,7 +9899,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -11257,7 +11257,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -13497,7 +13497,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -13671,7 +13671,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -14141,7 +14141,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -15499,7 +15499,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -17739,7 +17739,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -17913,7 +17913,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -18383,7 +18383,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -19741,7 +19741,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -21981,7 +21981,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -22155,7 +22155,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -22625,7 +22625,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -23983,7 +23983,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -26223,7 +26223,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -26397,7 +26397,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -26867,7 +26867,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -28225,7 +28225,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -30465,7 +30465,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -30639,7 +30639,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -31109,7 +31109,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -32467,7 +32467,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -34707,7 +34707,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -34881,7 +34881,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -35351,7 +35351,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -36709,7 +36709,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -38949,7 +38949,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -39123,7 +39123,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -39593,7 +39593,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -40951,7 +40951,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -43191,7 +43191,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -43365,7 +43365,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -43835,7 +43835,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -45193,7 +45193,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -47433,7 +47433,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -47607,7 +47607,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -48077,7 +48077,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -49435,7 +49435,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -51675,7 +51675,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -51849,7 +51849,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -52319,7 +52319,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -53677,7 +53677,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -55917,7 +55917,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -56091,7 +56091,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -56561,7 +56561,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -57919,7 +57919,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -60159,7 +60159,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -60333,7 +60333,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -60803,7 +60803,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -62161,7 +62161,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
@@ -64401,7 +64401,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households CO2 emissions",
+            "indicator": "Residential CO2 emissions",
             "unit": "kt",
             "regions": [
               {
@@ -64575,7 +64575,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households annual costs",
+            "indicator": "Residential annual costs",
             "unit": "MEUR15",
             "regions": [
               {
@@ -65045,7 +65045,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households heating",
+            "indicator": "Residential heating",
             "unit": "PJ",
             "regions": [
               {
@@ -66403,7 +66403,7 @@ export default {
             ]
           },
           {
-            "indicator": "Households total fuel consumption",
+            "indicator": "Residential total fuel consumption",
             "unit": "PJ",
             "regions": [
               {
