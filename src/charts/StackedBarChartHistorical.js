@@ -1,6 +1,6 @@
 import React from 'react'
 //import PropTypes from 'prop-types'
-//import styled from 'styled-components'
+import styled from 'styled-components'
 //import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
@@ -18,6 +18,13 @@ import {createAccumulatedHistoricalData} from './Tools'
 import {colors} from './chartColors'
 //import periods from './../data/historicalyears'
 
+const ChartTitle = styled.div`
+  margin-left: 70px;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Ropa Sans;
+`
 const StackedBarChartHistorical = ({
   chartName = "nces_eleproduction",
   stackedBar = [],
@@ -34,8 +41,8 @@ const StackedBarChartHistorical = ({
   
 
   const accumulatedData = dataScenario1[0]
-  //const totalYearValuesScenario1 = dataScenario1[1]
-  const legends = dataScenario1[1]
+  const totalYearValuesScenario1 = dataScenario1[1]
+  const legends = dataScenario1[2]
   let gutter, rowGutter
   if (
     !process.env.NODE_ENV ||
@@ -50,20 +57,21 @@ const StackedBarChartHistorical = ({
   }
 
   let maxY = -Infinity
-  /* Object.keys(totalYearValuesScenario1).forEach(year => {
+  Object.keys(totalYearValuesScenario1).forEach(year => {
     //if(chartName==="Cement fuel consumption (PJ)")
       console.log("maxY: ", maxY)
-    maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year],
-      scenario2 ? totalYearValuesScenario2[year] : -Infinity))
-  }) */
-  maxY = 600000
+      console.log("totalYearValuesScenario1[year]: ", totalYearValuesScenario1[year])
+    maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year]))
+  })
+  //maxY = 600000
+  //console.log("maxY: ", maxY)
   return (
     <div>
-    <div>{chartName}</div>
+    <ChartTitle>{chartName}</ChartTitle>
       <VictoryChart
         domainPadding={20}
-        width={380}
-        height={380}
+        width={550}
+        height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
         theme={VictoryTheme.material}
         // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated
@@ -109,7 +117,7 @@ const StackedBarChartHistorical = ({
         )}
         <VictoryLegend
           x={90}
-          y={0}
+          y={5}
           orientation="horizontal"
           gutter={gutter}
           rowGutter={rowGutter}
@@ -137,6 +145,7 @@ const StackedBarChartHistorical = ({
                       return({
                       ...chartGroupValue,
                       label:
+                       chartGroupValue.year + ' - ' +
                         chartGroupName +
                         ': ' +
                         (YPercentage
