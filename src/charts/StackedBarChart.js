@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-//import styled from 'styled-components'
+import styled from 'styled-components'
+import parseHtml from 'html-react-parser'
 //import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
@@ -43,11 +44,11 @@ const StackedBarChart = props => {
     process.env.NODE_ENV === 'development' ||
     process.env.NODE_ENV === 'test'
   ) {
-    gutter = -40
-    rowGutter = -5
+    gutter = 0
+    rowGutter = 0
   } else {
-    gutter = -40
-    rowGutter = -5
+    gutter = 0
+    rowGutter = 0
   }
 
    let maxY2 = 1
@@ -86,21 +87,11 @@ const StackedBarChart = props => {
   let i = 0
   let range = [2,4,10]
   while(t < maxY) {
-    //console.log("i: ", i)
-    //console.log("i%3: ", i%3)
-    //console.log("i/3: ", Math.floor(i/3))
     t = range[i%3]*Math.pow(range[2], Math.floor(i/3))
     i++
-    //console.log("temp t: ", t)
   }
-  /* console.log("-*-*-*-*-")
-  console.log("temp t: ", t)
-  console.log("chartName: ", chartName)
-  console.log("maxY", maxY) */
   maxY = t
   let legends = new Set()
-  //console.log("stackedbar sens: ", stackedBar.data.scenarios)
-  //console.log("scenario name: ", scenario)
   stackedBar.data.scenarios
   .find(o => o.scenario.toLowerCase() === scenario.toLowerCase())
   .indicators.find(o => o.indicator === chartName).regions.forEach((reg)=>{
@@ -108,19 +99,35 @@ const StackedBarChart = props => {
       legends.add(group.indicatorGroup)
     })
   })
+  const ChartTitle = styled.div`
+  margin-left: 70px;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Ropa Sans;
+`
+const MyCustomHTMLLabel = props => {
+  const text = props.text.replaceAll('§', '')
+
+  return (
+    <foreignObject x={props.x+3} y={props.y-9} width={600} height={700}>
+      <div style={{ fontSize: '12px', fontFamily: "Open Sans" }}>{parseHtml(text)}</div>
+    </foreignObject>
+  );
+};
+
   
   return (
     <div>
-    <div>{chartTitle}</div>
+    <ChartTitle>{chartTitle}</ChartTitle>
       <VictoryChart
         domainPadding={20}
-        width={380}
-        height={380}
+        width={550}
+        height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
         theme={VictoryTheme.material}
         // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated
       >
-        {/* <ChartHeader x={90} y={0} text={chartTitle} /> */}
         <VictoryAxis key={0} tickValues={periods} tickFormat={periods} />
         <VictoryAxis
           dependentAxis
@@ -161,12 +168,12 @@ const StackedBarChart = props => {
         )}
         <VictoryLegend
           x={90}
-          y={0}
+          y={10}
           orientation="horizontal"
           gutter={gutter}
           rowGutter={rowGutter}
           symbolSpacer={4}
-          itemsPerRow={3}
+          itemsPerRow={4}
           style={{
             title: { fontSize: 14, leftPadding: -10 },
           }}
@@ -177,9 +184,9 @@ const StackedBarChart = props => {
                 .substr(0, 16),
               fill: colors[i],
             }))}
-          labelComponent={<VictoryLabel style={{ fontSize: '9px' }} />}
+          labelComponent={<MyCustomHTMLLabel />}
         />
-        <VictoryGroup offset={10} style={{ data: { width: 10 } }}>
+        <VictoryGroup offset={10} style={{ data: { width: 15 } }}>
           <VictoryStack>
             {Object.keys(accumulatedDataScenario1).map((chartGroupName, i) => (
                 <VictoryBar

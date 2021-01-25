@@ -32,7 +32,7 @@ const MenuHeader = styled.div`
 
 const AppLogo = styled.img`
   padding: 0px;
-  max-width: 160px;
+  max-width: 180px;
   border: 0;
   align-self: center;
 `;
@@ -105,6 +105,7 @@ const ScenarioDifferenceText = styled.div`
 const MenuFooter = styled.div`
   padding: 10px 0;
   margin: 0;
+  margin-top: auto;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -112,17 +113,16 @@ const MenuFooter = styled.div`
 `;
 
 const CopyrightNotice = styled.div`
-  padding: 20px 12px 5px 15px;
-  margin: 10px 0 0 0;
-  height: 26px;
   display: flex;
   flex-direction: column;
   align-items: center;
 `;
 
 const CopyrightItem = styled.div`
-  align-self: center;
   padding: 5px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   text-align: center;
 `;
 
@@ -133,12 +133,18 @@ const ExternalLink = styled.a`
     text-decoration: underline;
   }
 `;
+const LinkLogo = styled.img`
+  padding: 0px;
+  max-width: 100px;
+  border: 0;
+  align-self: center;
+`;
 const Header = styled.h1`
   font-size: ${props => (props.narrowVersion ? "0.9em" : "1em")};
   padding: ${props => (props.narrowVersion ? "5px" : "0 12px 0 15px")};
   margin: 0;
   height: 26px;
-  align-self: center;
+  align-self: flex-start;
 `;
 function ScenarioSelectionMenu(props) {
   const { t } = useTranslation();
@@ -241,15 +247,10 @@ function ScenarioSelectionMenu(props) {
           <Header> {t("general.developed-by")}</Header>
           <CopyrightItem>
             <ExternalLink href="http://www.tokni.com">
-              <AppLogo src="./images/tokni.png" alt="Tøkni" data-tip="Tøkni - Nordic Software Consultancy"/>
-            </ExternalLink>
-          </CopyrightItem>
-          <CopyrightItem>
-            <ExternalLink href="https://energymodelling.club/">
-              <AppLogo src="./images/emc.png" alt="Energy Modelling Club" maxWidth="75px" data-tip="Energy Modelling Club"/>
+              <LinkLogo src="./images/tokni.png" alt="Tøkni" data-tip="Tøkni - Nordic Software Consultancy"/>
             </ExternalLink>
             <ExternalLink href="https://energymodellinglab.com/">
-              <AppLogo src="./images/eml.png" alt="Energy Modelling Lab" maxWidth="75px" data-tip="Energy Modelling Lab"/>
+              <LinkLogo src="./images/eml.png" alt="Energy Modelling Lab" maxWidth="75px" data-tip="Energy Modelling Lab"/>
             </ExternalLink>
           </CopyrightItem>
         </CopyrightNotice>
