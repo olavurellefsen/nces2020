@@ -3936,7 +3936,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -10835,7 +10835,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -17734,7 +17734,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -24633,7 +24633,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -31532,7 +31532,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -38431,7 +38431,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -45330,7 +45330,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -52229,7 +52229,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -59128,7 +59128,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -66027,7 +66027,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -72926,7 +72926,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -79825,7 +79825,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -86724,7 +86724,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -93623,7 +93623,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -100522,7 +100522,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
@@ -107421,7 +107421,7 @@ export default {
           },
           {
             "indicator": "Power capacity",
-            "unit": "GW",
+            "unit": "MW",
             "regions": [
               {
                 "region": "DK",
