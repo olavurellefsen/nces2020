@@ -794,43 +794,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 165.1483380828
-                      },
-                      {
-                        "year": 2020,
-                        "total": 177.4869785904
-                      },
-                      {
-                        "year": 2025,
-                        "total": 203.8972815354
-                      },
-                      {
-                        "year": 2030,
-                        "total": 205.8185571406
-                      },
-                      {
-                        "year": 2035,
-                        "total": 208.9000162057
-                      },
-                      {
-                        "year": 2040,
-                        "total": 248.0934037522
-                      },
-                      {
-                        "year": 2045,
-                        "total": 263.8225771722
-                      },
-                      {
-                        "year": 2050,
-                        "total": 267.1540215113
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -1204,43 +1167,6 @@ export default {
                         "total": 3.3954270858
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.1186653158
-                      },
-                      {
-                        "year": 2020,
-                        "total": 53.6969939821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 52.1023747562
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5306556074
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.7435326576
-                      },
-                      {
-                        "year": 2040,
-                        "total": 15.0485226488
-                      },
-                      {
-                        "year": 2045,
-                        "total": 15.5409530285
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.2445173187
-                      }
-                    ]
                   }
                 ]
               },
@@ -1479,43 +1405,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 4.633403108
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.6244265645
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0873457108
                       },
                       {
                         "year": 2025,
@@ -3865,43 +3754,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.9084211444
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -8666,43 +8518,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 165.922826622
-                      },
-                      {
-                        "year": 2020,
-                        "total": 178.0929142805
-                      },
-                      {
-                        "year": 2025,
-                        "total": 203.4498287356
-                      },
-                      {
-                        "year": 2030,
-                        "total": 207.9289463116
-                      },
-                      {
-                        "year": 2035,
-                        "total": 214.2458709151
-                      },
-                      {
-                        "year": 2040,
-                        "total": 244.4944286419
-                      },
-                      {
-                        "year": 2045,
-                        "total": 264.1128043714
-                      },
-                      {
-                        "year": 2050,
-                        "total": 267.4648191882
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -9076,43 +8891,6 @@ export default {
                         "total": 3.6551631644
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2412715764
-                      },
-                      {
-                        "year": 2020,
-                        "total": 53.6974224055
-                      },
-                      {
-                        "year": 2025,
-                        "total": 43.6194839765
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.6417120364
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.7966051495
-                      },
-                      {
-                        "year": 2040,
-                        "total": 20.5555350757
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.2506055669
-                      },
-                      {
-                        "year": 2050,
-                        "total": 15.3341637684
-                      }
-                    ]
                   }
                 ]
               },
@@ -9351,43 +9129,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 3.3485711484
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.7027549529
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.5085295756
                       },
                       {
                         "year": 2025,
@@ -11737,43 +11478,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 9.3353413815
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -16538,43 +16242,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 165.922826622
-                      },
-                      {
-                        "year": 2020,
-                        "total": 178.0929142805
-                      },
-                      {
-                        "year": 2025,
-                        "total": 200.9549939782
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.0612685513
-                      },
-                      {
-                        "year": 2035,
-                        "total": 220.6889769517
-                      },
-                      {
-                        "year": 2040,
-                        "total": 263.1059309703
-                      },
-                      {
-                        "year": 2045,
-                        "total": 264.1128043714
-                      },
-                      {
-                        "year": 2050,
-                        "total": 267.3198656252
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -16948,43 +16615,6 @@ export default {
                         "total": 3.3954270858
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2412715764
-                      },
-                      {
-                        "year": 2020,
-                        "total": 53.6974224055
-                      },
-                      {
-                        "year": 2025,
-                        "total": 43.6194839765
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.6417120364
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.7966051495
-                      },
-                      {
-                        "year": 2040,
-                        "total": 27.0457877394
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.2506055669
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.2445173187
-                      }
-                    ]
                   }
                 ]
               },
@@ -17223,43 +16853,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 3.3485711484
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.7027549529
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.5085295756
                       },
                       {
                         "year": 2025,
@@ -19609,43 +19202,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 9.057348919
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -24410,43 +23966,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 165.922826622
-                      },
-                      {
-                        "year": 2020,
-                        "total": 178.0929142805
-                      },
-                      {
-                        "year": 2025,
-                        "total": 202.9830811636
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.06149116
-                      },
-                      {
-                        "year": 2035,
-                        "total": 220.8880507911
-                      },
-                      {
-                        "year": 2040,
-                        "total": 262.0128897431
-                      },
-                      {
-                        "year": 2045,
-                        "total": 264.1128043714
-                      },
-                      {
-                        "year": 2050,
-                        "total": 267.4648191882
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -24820,43 +24339,6 @@ export default {
                         "total": 3.6127699853
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2412715764
-                      },
-                      {
-                        "year": 2020,
-                        "total": 53.6974224055
-                      },
-                      {
-                        "year": 2025,
-                        "total": 43.6194839765
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.6417120364
-                      },
-                      {
-                        "year": 2035,
-                        "total": 33.7966051495
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.0133290971
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.2506055669
-                      },
-                      {
-                        "year": 2050,
-                        "total": 15.1563156339
-                      }
-                    ]
                   }
                 ]
               },
@@ -25095,43 +24577,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 3.3485711484
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 5.7027549529
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.5085295756
                       },
                       {
                         "year": 2025,
@@ -27481,43 +26926,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 9.0864176201
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -32282,43 +31690,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.289959723
-                      },
-                      {
-                        "year": 2030,
-                        "total": 257.3379767684
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8641068427
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.6415849572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.847755244
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -32692,43 +32063,6 @@ export default {
                         "total": 12.7995871924
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.7816371025
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.2369373474
-                      },
-                      {
-                        "year": 2035,
-                        "total": 18.6248075962
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7055820823
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.1149677564
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.6969096456
-                      }
-                    ]
                   }
                 ]
               },
@@ -32987,43 +32321,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.5068103205
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.6210632296
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.228317788
                       },
                       {
                         "year": 2050,
@@ -35353,43 +34650,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 297.3542824143
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -40154,43 +39414,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2879897706
-                      },
-                      {
-                        "year": 2030,
-                        "total": 257.3468462635
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8641068427
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.6415849572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.9698410153
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -40564,43 +39787,6 @@ export default {
                         "total": 12.7995871924
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.7825130813
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.5774975444
-                      },
-                      {
-                        "year": 2035,
-                        "total": 18.6383787619
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7055820823
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.0848196086
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.6969096456
-                      }
-                    ]
                   }
                 ]
               },
@@ -40859,43 +40045,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.5099948624
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.6224978641
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2297524225
                       },
                       {
                         "year": 2050,
@@ -43225,43 +42374,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 286.3717616846
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -48026,43 +47138,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2901632118
-                      },
-                      {
-                        "year": 2030,
-                        "total": 257.338129385
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8641068427
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.3819170165
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.5410314144
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -48436,43 +47511,6 @@ export default {
                         "total": 12.7995871924
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.7816371025
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.2369373474
-                      },
-                      {
-                        "year": 2035,
-                        "total": 18.6248075962
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7055820823
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.1149677564
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.6969096456
-                      }
-                    ]
                   }
                 ]
               },
@@ -48731,43 +47769,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.5068103205
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.6210632296
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.228317788
                       },
                       {
                         "year": 2050,
@@ -51097,43 +50098,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 298.2719014487
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -55898,43 +54862,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2903208016
-                      },
-                      {
-                        "year": 2030,
-                        "total": 257.3490735525
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8641068427
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.6415849572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.9698410153
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -56308,43 +55235,6 @@ export default {
                         "total": 12.7995871924
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.7823353689
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.5684575937
-                      },
-                      {
-                        "year": 2035,
-                        "total": 18.6352062415
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7055820823
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.0848196086
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.6969096456
-                      }
-                    ]
                   }
                 ]
               },
@@ -56603,43 +55493,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.5099948624
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.6224978641
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2297524225
                       },
                       {
                         "year": 2050,
@@ -58969,43 +57822,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 289.2760936108
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -63770,43 +62586,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2882732427
-                      },
-                      {
-                        "year": 2030,
-                        "total": 256.7082974186
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8557750345
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.6415849572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.847755244
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -64180,43 +62959,6 @@ export default {
                         "total": 6.4038712885
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.796600939
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1103306398
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.7499949891
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7575700338
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.9397196221
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.8655615835
-                      }
-                    ]
                   }
                 ]
               },
@@ -64471,43 +63213,6 @@ export default {
                       {
                         "year": 2040,
                         "total": 0.3700966378
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.1667283445
                       },
                       {
                         "year": 2045,
@@ -66841,43 +65546,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 305.2048075495
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -71642,43 +70310,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2876775546
-                      },
-                      {
-                        "year": 2030,
-                        "total": 256.7723504645
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8557750345
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.6415849572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.9700215143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -72052,43 +70683,6 @@ export default {
                         "total": 7.9435430782
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.8000027011
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.5043838176
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.0792142927
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7575700338
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.9397196221
-                      },
-                      {
-                        "year": 2050,
-                        "total": 33.3248024742
-                      }
-                    ]
                   }
                 ]
               },
@@ -72343,43 +70937,6 @@ export default {
                       {
                         "year": 2040,
                         "total": 0.3701503334
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.1667525343
                       },
                       {
                         "year": 2045,
@@ -74713,43 +73270,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 277.798522281
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -79514,43 +78034,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2987368035
-                      },
-                      {
-                        "year": 2030,
-                        "total": 256.7204681216
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8557750345
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.3819170165
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.5410314144
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -79924,43 +78407,6 @@ export default {
                         "total": 6.2627165062
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.7991803722
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1103306398
-                      },
-                      {
-                        "year": 2035,
-                        "total": 20.7508215282
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7575700338
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.5918523726
-                      },
-                      {
-                        "year": 2050,
-                        "total": 26.2733881426
-                      }
-                    ]
                   }
                 ]
               },
@@ -80199,43 +78645,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 9.0566627449
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
                       },
                       {
                         "year": 2025,
@@ -82585,43 +80994,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 302.1233724496
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -87386,43 +85758,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2987368035
-                      },
-                      {
-                        "year": 2030,
-                        "total": 256.8417287564
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8557750345
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.6415849572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.9698410153
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -87796,43 +86131,6 @@ export default {
                         "total": 7.9435430782
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.8000027011
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.5043838176
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.9291031509
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7575700338
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.9075947081
-                      },
-                      {
-                        "year": 2050,
-                        "total": 33.3248024742
-                      }
-                    ]
                   }
                 ]
               },
@@ -88071,43 +86369,6 @@ export default {
                       {
                         "year": 2020,
                         "total": 9.0566627449
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
                       },
                       {
                         "year": 2025,
@@ -90457,43 +88718,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 276.9524698316
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -95258,43 +93482,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2876775546
-                      },
-                      {
-                        "year": 2030,
-                        "total": 257.2335970144
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8783668628
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.6415849572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.847755244
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -95668,43 +93855,6 @@ export default {
                         "total": 12.7995871924
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.775396321
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1100463188
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.2803778696
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7573127213
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.1249892253
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.6969096456
-                      }
-                    ]
                   }
                 ]
               },
@@ -95967,43 +94117,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.5874235461
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.1929332143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.0721544174
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.7151334889
                       }
                     ]
                   }
@@ -98329,43 +96442,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 265.8547792388
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -103130,43 +101206,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2876775546
-                      },
-                      {
-                        "year": 2030,
-                        "total": 257.3293595421
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8783668628
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.6415849572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.9698410153
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -103540,43 +101579,6 @@ export default {
                         "total": 12.7995871924
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.66763944
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.4878585881
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.2803778696
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7573127213
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.9394540541
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.6969096456
-                      }
-                    ]
                   }
                 ]
               },
@@ -103839,43 +101841,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.5665273827
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.1929403704
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.0721615735
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.7057197781
                       }
                     ]
                   }
@@ -106201,43 +104166,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 250.4710614292
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -111002,43 +108930,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2929021617
-                      },
-                      {
-                        "year": 2030,
-                        "total": 257.2334342467
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8783668628
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.3819170165
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.5410314144
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -111412,43 +109303,6 @@ export default {
                         "total": 12.7995871924
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.775396321
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1100463188
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.2803778696
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.7573127213
-                      },
-                      {
-                        "year": 2045,
-                        "total": 33.1249892253
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.6969096456
-                      }
-                    ]
                   }
                 ]
               },
@@ -111711,43 +109565,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.587422348
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.1929332143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.0721544174
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.7151329492
                       }
                     ]
                   }
@@ -114073,43 +111890,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 264.5200120377
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
@@ -118874,43 +116654,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 174.3763668819
-                      },
-                      {
-                        "year": 2020,
-                        "total": 211.2554108278
-                      },
-                      {
-                        "year": 2025,
-                        "total": 254.2929021617
-                      },
-                      {
-                        "year": 2030,
-                        "total": 257.3293751629
-                      },
-                      {
-                        "year": 2035,
-                        "total": 259.8783668628
-                      },
-                      {
-                        "year": 2040,
-                        "total": 260.623993551
-                      },
-                      {
-                        "year": 2045,
-                        "total": 261.6415849572
-                      },
-                      {
-                        "year": 2050,
-                        "total": 264.9698410153
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Oil",
                     "indicatorGroupValues": [
                       {
@@ -119284,43 +117027,6 @@ export default {
                         "total": 12.7995871924
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.2407284802
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4666791823
-                      },
-                      {
-                        "year": 2025,
-                        "total": 39.7225424091
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.4878585881
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.2803778696
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.6966227152
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.9394540541
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.6969096456
-                      }
-                    ]
                   }
                 ]
               },
@@ -119583,43 +117289,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.5810672491
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 4.3861168108
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0800218962
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.191725015
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.0709462181
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.7122699804
                       }
                     ]
                   }
@@ -121945,43 +119614,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 259.9150746682
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Non-energy products",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.1698015563
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.3360835408
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4074525333
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4074525333
                       }
                     ]
                   },
