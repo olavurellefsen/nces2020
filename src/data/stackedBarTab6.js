@@ -2780,43 +2780,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -2969,35 +2932,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 7.5259302005
+                        "total": 37.8418256609
                       },
                       {
                         "year": 2020,
-                        "total": 6.6595277846
+                        "total": 34.5080709902
                       },
                       {
                         "year": 2025,
-                        "total": 10.4066074553
+                        "total": 37.0379896647
                       },
                       {
                         "year": 2030,
-                        "total": 16.0973591344
+                        "total": 41.9502989113
                       },
                       {
                         "year": 2035,
-                        "total": 17.8527564039
+                        "total": 42.8547743946
                       },
                       {
                         "year": 2040,
-                        "total": 21.5567270819
+                        "total": 46.8479493922
                       },
                       {
                         "year": 2045,
-                        "total": 25.523970237
+                        "total": 50.4913933997
                       },
                       {
                         "year": 2050,
-                        "total": 27.4372478003
+                        "total": 52.188609325
                       }
                     ]
                   },
@@ -3567,43 +3530,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -3719,35 +3645,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 77.5804491455
+                        "total": 118.3959531404
                       },
                       {
                         "year": 2020,
-                        "total": 74.753886677
+                        "total": 115.7026755691
                       },
                       {
                         "year": 2025,
-                        "total": 67.2346567194
+                        "total": 107.9937190396
                       },
                       {
                         "year": 2030,
-                        "total": 59.4835694618
+                        "total": 100.0253009675
                       },
                       {
                         "year": 2035,
-                        "total": 55.7257814727
+                        "total": 95.8193693756
                       },
                       {
                         "year": 2040,
-                        "total": 45.6687729579
+                        "total": 85.0330069898
                       },
                       {
                         "year": 2045,
-                        "total": 41.2140435019
+                        "total": 79.6255919491
                       },
                       {
                         "year": 2050,
-                        "total": 38.6438072323
+                        "total": 76.182519444
                       }
                     ]
                   },
@@ -3809,7 +3735,7 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 0.1585936754
+                        "total": 0.3171873507
                       },
                       {
                         "year": 2040,
@@ -3904,43 +3830,6 @@ export default {
               {
                 "region": "SE",
                 "indicatorGroups": [
-                  {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
                   {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
@@ -4057,35 +3946,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 118.5522047077
+                        "total": 185.4200889784
                       },
                       {
                         "year": 2020,
-                        "total": 124.242452244
+                        "total": 191.2746843261
                       },
                       {
                         "year": 2025,
-                        "total": 117.4296076717
+                        "total": 180.7965306134
                       },
                       {
                         "year": 2030,
-                        "total": 117.1600454399
+                        "total": 179.3126709245
                       },
                       {
                         "year": 2035,
-                        "total": 116.2103577522
+                        "total": 176.5835289318
                       },
                       {
                         "year": 2040,
-                        "total": 106.9902642053
+                        "total": 166.5758629422
                       },
                       {
                         "year": 2045,
-                        "total": 87.6040842313
+                        "total": 146.2256765498
                       },
                       {
                         "year": 2050,
-                        "total": 88.4246766676
+                        "total": 146.5523729819
                       }
                     ]
                   },
@@ -7022,43 +6911,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -7211,35 +7063,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 7.8707362137
+                        "total": 38.1866316741
                       },
                       {
                         "year": 2020,
-                        "total": 4.8579318924
+                        "total": 32.7064750981
                       },
                       {
                         "year": 2025,
-                        "total": 8.8761061589
+                        "total": 35.5074883682
                       },
                       {
                         "year": 2030,
-                        "total": 12.896980629
+                        "total": 38.7499204059
                       },
                       {
                         "year": 2035,
-                        "total": 17.292008128
+                        "total": 42.2940261187
                       },
                       {
                         "year": 2040,
-                        "total": 21.9085244997
+                        "total": 47.1997468101
                       },
                       {
                         "year": 2045,
-                        "total": 26.6681860473
+                        "total": 51.6356092099
                       },
                       {
                         "year": 2050,
-                        "total": 29.3513523446
+                        "total": 54.1027138693
                       }
                     ]
                   },
@@ -7809,43 +7661,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -7961,35 +7776,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 74.4625728902
+                        "total": 115.2780768852
                       },
                       {
                         "year": 2020,
-                        "total": 72.9721860696
+                        "total": 113.9209749617
                       },
                       {
                         "year": 2025,
-                        "total": 67.5479127298
+                        "total": 108.3069750499
                       },
                       {
                         "year": 2030,
-                        "total": 60.0711630981
+                        "total": 100.6128946038
                       },
                       {
                         "year": 2035,
-                        "total": 56.4163099987
+                        "total": 96.5098979017
                       },
                       {
                         "year": 2040,
-                        "total": 45.639206187
+                        "total": 85.003440219
                       },
                       {
                         "year": 2045,
-                        "total": 42.9125689564
+                        "total": 81.3241174037
                       },
                       {
                         "year": 2050,
-                        "total": 40.5398163545
+                        "total": 78.0785285662
                       }
                     ]
                   },
@@ -8147,43 +7962,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -8299,35 +8077,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 84.538729905
+                        "total": 151.4066141757
                       },
                       {
                         "year": 2020,
-                        "total": 76.3423334084
+                        "total": 143.3745654905
                       },
                       {
                         "year": 2025,
-                        "total": 95.6671658362
+                        "total": 159.0340887779
                       },
                       {
                         "year": 2030,
-                        "total": 97.6765743755
+                        "total": 159.8291998602
                       },
                       {
                         "year": 2035,
-                        "total": 98.277937309
+                        "total": 158.6511084886
                       },
                       {
                         "year": 2040,
-                        "total": 95.692064204
+                        "total": 155.2776629409
                       },
                       {
                         "year": 2045,
-                        "total": 94.1346134039
+                        "total": 152.7562057224
                       },
                       {
                         "year": 2050,
-                        "total": 94.1517160234
+                        "total": 152.2794123378
                       }
                     ]
                   },
@@ -10853,7 +10631,7 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 0.1585936754
+                        "total": 0.3171873507
                       },
                       {
                         "year": 2030,
@@ -11264,43 +11042,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -11453,35 +11194,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 7.8707362137
+                        "total": 38.1866316741
                       },
                       {
                         "year": 2020,
-                        "total": 4.8579318924
+                        "total": 32.7064750981
                       },
                       {
                         "year": 2025,
-                        "total": 8.7192285801
+                        "total": 35.3506107895
                       },
                       {
                         "year": 2030,
-                        "total": 15.2027477935
+                        "total": 41.0556875704
                       },
                       {
                         "year": 2035,
-                        "total": 19.0798073344
+                        "total": 44.0818253252
                       },
                       {
                         "year": 2040,
-                        "total": 22.932811081
+                        "total": 48.2240333913
                       },
                       {
                         "year": 2045,
-                        "total": 25.569424332
+                        "total": 50.5368474946
                       },
                       {
                         "year": 2050,
-                        "total": 27.5840768145
+                        "total": 52.3354383391
                       }
                     ]
                   },
@@ -12051,43 +11792,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -12203,35 +11907,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 74.4625728902
+                        "total": 115.2780768852
                       },
                       {
                         "year": 2020,
-                        "total": 72.9721860696
+                        "total": 113.9209749617
                       },
                       {
                         "year": 2025,
-                        "total": 67.5521790833
+                        "total": 108.3112414034
                       },
                       {
                         "year": 2030,
-                        "total": 59.5849523708
+                        "total": 100.1266838765
                       },
                       {
                         "year": 2035,
-                        "total": 55.9259464797
+                        "total": 96.0195343827
                       },
                       {
                         "year": 2040,
-                        "total": 45.3737172799
+                        "total": 84.7379513118
                       },
                       {
                         "year": 2045,
-                        "total": 41.1234795117
+                        "total": 79.5350279589
                       },
                       {
                         "year": 2050,
-                        "total": 38.9049530397
+                        "total": 76.4436652514
                       }
                     ]
                   },
@@ -12389,43 +12093,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -12541,35 +12208,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 84.538729905
+                        "total": 151.4066141757
                       },
                       {
                         "year": 2020,
-                        "total": 76.3423334084
+                        "total": 143.3745654905
                       },
                       {
                         "year": 2025,
-                        "total": 95.7193416662
+                        "total": 159.086264608
                       },
                       {
                         "year": 2030,
-                        "total": 97.4762078448
+                        "total": 159.6288333295
                       },
                       {
                         "year": 2035,
-                        "total": 98.0411706931
+                        "total": 158.4143418728
                       },
                       {
                         "year": 2040,
-                        "total": 95.5104145571
+                        "total": 155.096013294
                       },
                       {
                         "year": 2045,
-                        "total": 94.6563394667
+                        "total": 153.2779317852
                       },
                       {
                         "year": 2050,
-                        "total": 95.4861073281
+                        "total": 153.6138036425
                       }
                     ]
                   },
@@ -15095,7 +14762,7 @@ export default {
                       },
                       {
                         "year": 2025,
-                        "total": 0.1585936754
+                        "total": 0.3171873507
                       },
                       {
                         "year": 2030,
@@ -15506,43 +15173,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -15695,35 +15325,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 7.8707362137
+                        "total": 38.1866316741
                       },
                       {
                         "year": 2020,
-                        "total": 4.8579318924
+                        "total": 32.7064750981
                       },
                       {
                         "year": 2025,
-                        "total": 8.8672568074
+                        "total": 35.4986390168
                       },
                       {
                         "year": 2030,
-                        "total": 13.8522346
+                        "total": 39.7051743769
                       },
                       {
                         "year": 2035,
-                        "total": 17.6555530046
+                        "total": 42.6575709953
                       },
                       {
                         "year": 2040,
-                        "total": 22.3001986977
+                        "total": 47.591421008
                       },
                       {
                         "year": 2045,
-                        "total": 26.7268588305
+                        "total": 51.6942819931
                       },
                       {
                         "year": 2050,
-                        "total": 29.3188979999
+                        "total": 54.0702595246
                       }
                     ]
                   },
@@ -16293,43 +15923,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -16445,35 +16038,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 74.4625728902
+                        "total": 115.2780768852
                       },
                       {
                         "year": 2020,
-                        "total": 72.9721860696
+                        "total": 113.9209749617
                       },
                       {
                         "year": 2025,
-                        "total": 67.5548231608
+                        "total": 108.3138854809
                       },
                       {
                         "year": 2030,
-                        "total": 59.5869033846
+                        "total": 100.1286348903
                       },
                       {
                         "year": 2035,
-                        "total": 55.9263698461
+                        "total": 96.0199577491
                       },
                       {
                         "year": 2040,
-                        "total": 44.3229097365
+                        "total": 83.6871437684
                       },
                       {
                         "year": 2045,
-                        "total": 42.719451846
+                        "total": 81.1310002932
                       },
                       {
                         "year": 2050,
-                        "total": 40.6078248421
+                        "total": 78.1465370539
                       }
                     ]
                   },
@@ -16631,43 +16224,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -16783,35 +16339,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 84.538729905
+                        "total": 151.4066141757
                       },
                       {
                         "year": 2020,
-                        "total": 76.3423334084
+                        "total": 143.3745654905
                       },
                       {
                         "year": 2025,
-                        "total": 95.6695127321
+                        "total": 159.0364356739
                       },
                       {
                         "year": 2030,
-                        "total": 97.9114306291
+                        "total": 160.0640561138
                       },
                       {
                         "year": 2035,
-                        "total": 98.35859455
+                        "total": 158.7317657296
                       },
                       {
                         "year": 2040,
-                        "total": 95.0624909293
+                        "total": 154.6480896662
                       },
                       {
                         "year": 2045,
-                        "total": 94.4696609515
+                        "total": 153.09125327
                       },
                       {
                         "year": 2050,
-                        "total": 95.4589696389
+                        "total": 153.5866659533
                       }
                     ]
                   },
@@ -19748,43 +19304,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -19937,35 +19456,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.6639786298
+                        "total": 34.2953608392
                       },
                       {
                         "year": 2030,
-                        "total": 12.6330954177
+                        "total": 38.4860351946
                       },
                       {
                         "year": 2035,
-                        "total": 14.7240647075
+                        "total": 39.7260826982
                       },
                       {
                         "year": 2040,
-                        "total": 14.0795049612
+                        "total": 39.3707272715
                       },
                       {
                         "year": 2045,
-                        "total": 14.4575932373
+                        "total": 39.4250163999
                       },
                       {
                         "year": 2050,
-                        "total": 14.3836970427
+                        "total": 39.1350585674
                       }
                     ]
                   },
@@ -20535,43 +20054,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -20687,35 +20169,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.8736358284
+                        "total": 125.6326981486
                       },
                       {
                         "year": 2030,
-                        "total": 67.8273005712
+                        "total": 108.3690320769
                       },
                       {
                         "year": 2035,
-                        "total": 48.4795925549
+                        "total": 88.5731804579
                       },
                       {
                         "year": 2040,
-                        "total": 42.762998433
+                        "total": 82.1272324649
                       },
                       {
                         "year": 2045,
-                        "total": 34.1061444518
+                        "total": 72.5176928991
                       },
                       {
                         "year": 2050,
-                        "total": 27.4017188377
+                        "total": 64.9404310495
                       }
                     ]
                   },
@@ -20873,43 +20355,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -21025,35 +20470,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.9088878344
+                        "total": 128.2758107761
                       },
                       {
                         "year": 2030,
-                        "total": 64.1687487107
+                        "total": 126.3213741954
                       },
                       {
                         "year": 2035,
-                        "total": 63.2060815195
+                        "total": 123.5792526991
                       },
                       {
                         "year": 2040,
-                        "total": 62.0549530428
+                        "total": 121.6405517797
                       },
                       {
                         "year": 2045,
-                        "total": 55.2447035155
+                        "total": 113.8662958339
                       },
                       {
                         "year": 2050,
-                        "total": 49.463126928
+                        "total": 107.5908232423
                       }
                     ]
                   },
@@ -23990,43 +23435,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -24179,35 +23587,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.6408928665
+                        "total": 34.2722750758
                       },
                       {
                         "year": 2030,
-                        "total": 11.362432272
+                        "total": 37.215372049
                       },
                       {
                         "year": 2035,
-                        "total": 12.1196590311
+                        "total": 37.1216770219
                       },
                       {
                         "year": 2040,
-                        "total": 12.7139320871
+                        "total": 38.0051543974
                       },
                       {
                         "year": 2045,
-                        "total": 13.4699437657
+                        "total": 38.4373669284
                       },
                       {
                         "year": 2050,
-                        "total": 14.9618579197
+                        "total": 39.7132194444
                       }
                     ]
                   },
@@ -24777,43 +24185,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -24929,35 +24300,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.8720384675
+                        "total": 125.6311007876
                       },
                       {
                         "year": 2030,
-                        "total": 69.4337004026
+                        "total": 109.9754319083
                       },
                       {
                         "year": 2035,
-                        "total": 61.0758687038
+                        "total": 101.1694566068
                       },
                       {
                         "year": 2040,
-                        "total": 51.2146163325
+                        "total": 90.5788503644
                       },
                       {
                         "year": 2045,
-                        "total": 41.288728118
+                        "total": 79.7002765653
                       },
                       {
                         "year": 2050,
-                        "total": 35.5263825972
+                        "total": 73.0650948089
                       }
                     ]
                   },
@@ -25115,43 +24486,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -25267,35 +24601,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.2741338988
+                        "total": 127.6410568406
                       },
                       {
                         "year": 2030,
-                        "total": 63.7439978126
+                        "total": 125.8966232973
                       },
                       {
                         "year": 2035,
-                        "total": 62.6560019552
+                        "total": 123.0291731348
                       },
                       {
                         "year": 2040,
-                        "total": 62.1563612782
+                        "total": 121.7419600151
                       },
                       {
                         "year": 2045,
-                        "total": 55.1662021689
+                        "total": 113.7877944873
                       },
                       {
                         "year": 2050,
-                        "total": 49.8963318031
+                        "total": 108.0240281175
                       }
                     ]
                   },
@@ -28232,43 +27566,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -28421,35 +27718,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.6639786298
+                        "total": 34.2953608392
                       },
                       {
                         "year": 2030,
-                        "total": 12.6330954913
+                        "total": 38.4860352682
                       },
                       {
                         "year": 2035,
-                        "total": 14.7240647842
+                        "total": 39.7260827749
                       },
                       {
                         "year": 2040,
-                        "total": 14.0795051381
+                        "total": 39.3707274484
                       },
                       {
                         "year": 2045,
-                        "total": 14.457593302
+                        "total": 39.4250164647
                       },
                       {
                         "year": 2050,
-                        "total": 14.3836970366
+                        "total": 39.1350585613
                       }
                     ]
                   },
@@ -29019,43 +28316,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -29171,35 +28431,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.8736358284
+                        "total": 125.6326981486
                       },
                       {
                         "year": 2030,
-                        "total": 67.8273005712
+                        "total": 108.3690320769
                       },
                       {
                         "year": 2035,
-                        "total": 48.4795925267
+                        "total": 88.5731804297
                       },
                       {
                         "year": 2040,
-                        "total": 42.76299844
+                        "total": 82.1272324719
                       },
                       {
                         "year": 2045,
-                        "total": 34.1061442332
+                        "total": 72.5176926805
                       },
                       {
                         "year": 2050,
-                        "total": 27.4017188111
+                        "total": 64.9404310229
                       }
                     ]
                   },
@@ -29357,43 +28617,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -29509,35 +28732,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.9088878348
+                        "total": 128.2758107765
                       },
                       {
                         "year": 2030,
-                        "total": 64.1687487399
+                        "total": 126.3213742246
                       },
                       {
                         "year": 2035,
-                        "total": 63.2060815487
+                        "total": 123.5792527283
                       },
                       {
                         "year": 2040,
-                        "total": 62.054953044
+                        "total": 121.6405517809
                       },
                       {
                         "year": 2045,
-                        "total": 55.2447035151
+                        "total": 113.8662958335
                       },
                       {
                         "year": 2050,
-                        "total": 49.4631269313
+                        "total": 107.5908232457
                       }
                     ]
                   },
@@ -32474,43 +31697,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -32663,35 +31849,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.6408949462
+                        "total": 34.2722771555
                       },
                       {
                         "year": 2030,
-                        "total": 11.3605110133
+                        "total": 37.2134507903
                       },
                       {
                         "year": 2035,
-                        "total": 12.1168287599
+                        "total": 37.1188467506
                       },
                       {
                         "year": 2040,
-                        "total": 12.7143978492
+                        "total": 38.0056201595
                       },
                       {
                         "year": 2045,
-                        "total": 13.4734743053
+                        "total": 38.440897468
                       },
                       {
                         "year": 2050,
-                        "total": 14.9872193637
+                        "total": 39.7385808884
                       }
                     ]
                   },
@@ -33261,43 +32447,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -33413,35 +32562,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.8720384675
+                        "total": 125.6311007876
                       },
                       {
                         "year": 2030,
-                        "total": 69.4337004026
+                        "total": 109.9754319083
                       },
                       {
                         "year": 2035,
-                        "total": 61.0758687038
+                        "total": 101.1694566068
                       },
                       {
                         "year": 2040,
-                        "total": 51.2146163325
+                        "total": 90.5788503644
                       },
                       {
                         "year": 2045,
-                        "total": 41.288728118
+                        "total": 79.7002765653
                       },
                       {
                         "year": 2050,
-                        "total": 35.5268235885
+                        "total": 73.0655358002
                       }
                     ]
                   },
@@ -33599,43 +32748,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -33751,35 +32863,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.2759607385
+                        "total": 127.6428836802
                       },
                       {
                         "year": 2030,
-                        "total": 63.7396790556
+                        "total": 125.8923045402
                       },
                       {
                         "year": 2035,
-                        "total": 62.6585377141
+                        "total": 123.0317088938
                       },
                       {
                         "year": 2040,
-                        "total": 62.1567109129
+                        "total": 121.7423096498
                       },
                       {
                         "year": 2045,
-                        "total": 55.1662992053
+                        "total": 113.7878915237
                       },
                       {
                         "year": 2050,
-                        "total": 49.8964585719
+                        "total": 108.0241548863
                       }
                     ]
                   },
@@ -36716,43 +35828,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -36905,35 +35980,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.8760557111
+                        "total": 34.5074379205
                       },
                       {
                         "year": 2030,
-                        "total": 11.991735473
+                        "total": 37.8446752499
                       },
                       {
                         "year": 2035,
-                        "total": 12.7739240325
+                        "total": 37.7759420232
                       },
                       {
                         "year": 2040,
-                        "total": 14.0122075031
+                        "total": 39.3034298134
                       },
                       {
                         "year": 2045,
-                        "total": 11.7169388419
+                        "total": 36.6843620045
                       },
                       {
                         "year": 2050,
-                        "total": 12.8065544687
+                        "total": 37.5579159934
                       }
                     ]
                   },
@@ -37503,43 +36578,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -37655,35 +36693,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.8736358284
+                        "total": 125.6326981486
                       },
                       {
                         "year": 2030,
-                        "total": 68.5851654566
+                        "total": 109.1268969623
                       },
                       {
                         "year": 2035,
-                        "total": 48.2336328437
+                        "total": 88.3272207467
                       },
                       {
                         "year": 2040,
-                        "total": 42.4918148633
+                        "total": 81.8560488953
                       },
                       {
                         "year": 2045,
-                        "total": 32.1852317267
+                        "total": 70.5967801739
                       },
                       {
                         "year": 2050,
-                        "total": 29.4415312253
+                        "total": 66.9802434371
                       }
                     ]
                   },
@@ -37841,43 +36879,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -37993,35 +36994,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.9134391607
+                        "total": 128.2803621025
                       },
                       {
                         "year": 2030,
-                        "total": 64.2726343796
+                        "total": 126.4252598643
                       },
                       {
                         "year": 2035,
-                        "total": 63.0201942018
+                        "total": 123.3933653815
                       },
                       {
                         "year": 2040,
-                        "total": 62.0174206866
+                        "total": 121.6030194235
                       },
                       {
                         "year": 2045,
-                        "total": 55.0646986533
+                        "total": 113.6862909718
                       },
                       {
                         "year": 2050,
-                        "total": 49.0644328941
+                        "total": 107.1921292084
                       }
                     ]
                   },
@@ -40958,43 +39959,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -41147,35 +40111,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.8950484565
+                        "total": 34.5264306658
                       },
                       {
                         "year": 2030,
-                        "total": 11.7119866622
+                        "total": 37.5649264391
                       },
                       {
                         "year": 2035,
-                        "total": 12.0386635166
+                        "total": 37.0406815073
                       },
                       {
                         "year": 2040,
-                        "total": 12.4554971725
+                        "total": 37.7467194828
                       },
                       {
                         "year": 2045,
-                        "total": 12.4181184576
+                        "total": 37.3855416202
                       },
                       {
                         "year": 2050,
-                        "total": 13.771236672
+                        "total": 38.5225981967
                       }
                     ]
                   },
@@ -41745,43 +40709,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -41897,35 +40824,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.8736358284
+                        "total": 125.6326981486
                       },
                       {
                         "year": 2030,
-                        "total": 69.9115741887
+                        "total": 110.4533056944
                       },
                       {
                         "year": 2035,
-                        "total": 61.0206883686
+                        "total": 101.1142762716
                       },
                       {
                         "year": 2040,
-                        "total": 51.1506201042
+                        "total": 90.5148541362
                       },
                       {
                         "year": 2045,
-                        "total": 41.2808515438
+                        "total": 79.692399991
                       },
                       {
                         "year": 2050,
-                        "total": 38.200189084
+                        "total": 75.7389012957
                       }
                     ]
                   },
@@ -42083,43 +41010,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -42235,35 +41125,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.2947293293
+                        "total": 127.661652271
                       },
                       {
                         "year": 2030,
-                        "total": 63.8846396922
+                        "total": 126.0372651769
                       },
                       {
                         "year": 2035,
-                        "total": 62.8440339838
+                        "total": 123.2172051635
                       },
                       {
                         "year": 2040,
-                        "total": 62.1493595631
+                        "total": 121.7349583
                       },
                       {
                         "year": 2045,
-                        "total": 54.8911230926
+                        "total": 113.5127154111
                       },
                       {
                         "year": 2050,
-                        "total": 49.0137417664
+                        "total": 107.1414380807
                       }
                     ]
                   },
@@ -45200,43 +44090,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -45389,35 +44242,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.8774777791
+                        "total": 34.5088599884
                       },
                       {
                         "year": 2030,
-                        "total": 13.1199153314
+                        "total": 38.9728551084
                       },
                       {
                         "year": 2035,
-                        "total": 14.2511886622
+                        "total": 39.2532066529
                       },
                       {
                         "year": 2040,
-                        "total": 14.1311111958
+                        "total": 39.4223335061
                       },
                       {
                         "year": 2045,
-                        "total": 13.1299491486
+                        "total": 38.0973723113
                       },
                       {
                         "year": 2050,
-                        "total": 13.0951435396
+                        "total": 37.8465050643
                       }
                     ]
                   },
@@ -45987,43 +44840,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -46139,35 +44955,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.8736358284
+                        "total": 125.6326981486
                       },
                       {
                         "year": 2030,
-                        "total": 68.5398676616
+                        "total": 109.0815991673
                       },
                       {
                         "year": 2035,
-                        "total": 48.2380050292
+                        "total": 88.3315929321
                       },
                       {
                         "year": 2040,
-                        "total": 42.2375366347
+                        "total": 81.6017706666
                       },
                       {
                         "year": 2045,
-                        "total": 31.8427517084
+                        "total": 70.2543001557
                       },
                       {
                         "year": 2050,
-                        "total": 29.8228815649
+                        "total": 67.3615937767
                       }
                     ]
                   },
@@ -46325,43 +45141,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -46477,35 +45256,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 65.1424733231
+                        "total": 128.5093962649
                       },
                       {
                         "year": 2030,
-                        "total": 64.2993367963
+                        "total": 126.451962281
                       },
                       {
                         "year": 2035,
-                        "total": 63.040709442
+                        "total": 123.4138806216
                       },
                       {
                         "year": 2040,
-                        "total": 61.8279327951
+                        "total": 121.413531532
                       },
                       {
                         "year": 2045,
-                        "total": 54.5373360623
+                        "total": 113.1589283808
                       },
                       {
                         "year": 2050,
-                        "total": 49.1230366052
+                        "total": 107.2507329195
                       }
                     ]
                   },
@@ -48866,7 +47645,7 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 0.1585936754
+                        "total": 0.3171873507
                       }
                     ]
                   },
@@ -49442,43 +48221,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -49631,35 +48373,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.7258404657
+                        "total": 34.3572226751
                       },
                       {
                         "year": 2030,
-                        "total": 12.4024934489
+                        "total": 38.2554332258
                       },
                       {
                         "year": 2035,
-                        "total": 12.7878191506
+                        "total": 37.7898371414
                       },
                       {
                         "year": 2040,
-                        "total": 13.0895391932
+                        "total": 38.3807615035
                       },
                       {
                         "year": 2045,
-                        "total": 12.7526370126
+                        "total": 37.7200601753
                       },
                       {
                         "year": 2050,
-                        "total": 14.0109797994
+                        "total": 38.7623413241
                       }
                     ]
                   },
@@ -50229,43 +48971,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -50298,7 +49003,7 @@ export default {
                       },
                       {
                         "year": 2050,
-                        "total": 0.1585936754
+                        "total": 0.3171873507
                       }
                     ]
                   },
@@ -50381,35 +49086,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.8736358284
+                        "total": 125.6326981486
                       },
                       {
                         "year": 2030,
-                        "total": 69.9108234939
+                        "total": 110.4525549996
                       },
                       {
                         "year": 2035,
-                        "total": 61.027065305
+                        "total": 101.120653208
                       },
                       {
                         "year": 2040,
-                        "total": 51.1221753604
+                        "total": 90.4864093923
                       },
                       {
                         "year": 2045,
-                        "total": 41.2628126065
+                        "total": 79.6743610537
                       },
                       {
                         "year": 2050,
-                        "total": 38.192144955
+                        "total": 75.7308571668
                       }
                     ]
                   },
@@ -50567,43 +49272,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -50719,35 +49387,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.3022157701
+                        "total": 127.6691387119
                       },
                       {
                         "year": 2030,
-                        "total": 63.7934754232
+                        "total": 125.9461009078
                       },
                       {
                         "year": 2035,
-                        "total": 62.6950306978
+                        "total": 123.0682018774
                       },
                       {
                         "year": 2040,
-                        "total": 62.0238248784
+                        "total": 121.6094236153
                       },
                       {
                         "year": 2045,
-                        "total": 54.5270240805
+                        "total": 113.1486163989
                       },
                       {
                         "year": 2050,
-                        "total": 49.0719725224
+                        "total": 107.1996688367
                       }
                     ]
                   },
@@ -53684,43 +52352,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -53873,35 +52504,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.6620092531
+                        "total": 34.2933914625
                       },
                       {
                         "year": 2030,
-                        "total": 10.9208015665
+                        "total": 36.7737413434
                       },
                       {
                         "year": 2035,
-                        "total": 12.4548648253
+                        "total": 37.4568828161
                       },
                       {
                         "year": 2040,
-                        "total": 13.459381474
+                        "total": 38.7506037843
                       },
                       {
                         "year": 2045,
-                        "total": 14.033281095
+                        "total": 39.0007042577
                       },
                       {
                         "year": 2050,
-                        "total": 14.1770714935
+                        "total": 38.9284330182
                       }
                     ]
                   },
@@ -54471,43 +53102,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -54623,35 +53217,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.6100318584
+                        "total": 125.3690941785
                       },
                       {
                         "year": 2030,
-                        "total": 67.6306105276
+                        "total": 108.1723420333
                       },
                       {
                         "year": 2035,
-                        "total": 48.2258877903
+                        "total": 88.3194756933
                       },
                       {
                         "year": 2040,
-                        "total": 42.4030644754
+                        "total": 81.7672985074
                       },
                       {
                         "year": 2045,
-                        "total": 31.2723696429
+                        "total": 69.6839180901
                       },
                       {
                         "year": 2050,
-                        "total": 26.0985969777
+                        "total": 63.6373091895
                       }
                     ]
                   },
@@ -54809,43 +53403,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -54961,35 +53518,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.2630478818
+                        "total": 127.6299708235
                       },
                       {
                         "year": 2030,
-                        "total": 63.6924009038
+                        "total": 125.8450263885
                       },
                       {
                         "year": 2035,
-                        "total": 62.5777909375
+                        "total": 122.9509621171
                       },
                       {
                         "year": 2040,
-                        "total": 61.9096106661
+                        "total": 121.495209403
                       },
                       {
                         "year": 2045,
-                        "total": 55.0553621762
+                        "total": 113.6769544947
                       },
                       {
                         "year": 2050,
-                        "total": 50.6429639601
+                        "total": 108.7706602744
                       }
                     ]
                   },
@@ -57926,43 +56483,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -58115,35 +56635,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.6313834382
+                        "total": 34.2627656476
                       },
                       {
                         "year": 2030,
-                        "total": 10.7233982297
+                        "total": 36.5763380066
                       },
                       {
                         "year": 2035,
-                        "total": 11.5028887054
+                        "total": 36.5049066961
                       },
                       {
                         "year": 2040,
-                        "total": 12.2924515674
+                        "total": 37.5836738778
                       },
                       {
                         "year": 2045,
-                        "total": 13.0139112424
+                        "total": 37.981334405
                       },
                       {
                         "year": 2050,
-                        "total": 14.3749603002
+                        "total": 39.1263218249
                       }
                     ]
                   },
@@ -58713,43 +57233,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -58865,35 +57348,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.5869863705
+                        "total": 125.3460486907
                       },
                       {
                         "year": 2030,
-                        "total": 67.6236930421
+                        "total": 108.1654245478
                       },
                       {
                         "year": 2035,
-                        "total": 58.8496624953
+                        "total": 98.9432503983
                       },
                       {
                         "year": 2040,
-                        "total": 51.3125023647
+                        "total": 90.6767363966
                       },
                       {
                         "year": 2045,
-                        "total": 41.8614439228
+                        "total": 80.2729923701
                       },
                       {
                         "year": 2050,
-                        "total": 39.7946170081
+                        "total": 77.3333292199
                       }
                     ]
                   },
@@ -59051,43 +57534,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -59203,35 +57649,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.2112096845
+                        "total": 127.5781326263
                       },
                       {
                         "year": 2030,
-                        "total": 63.6777324074
+                        "total": 125.8303578921
                       },
                       {
                         "year": 2035,
-                        "total": 62.5340002207
+                        "total": 122.9071714003
                       },
                       {
                         "year": 2040,
-                        "total": 62.136343798
+                        "total": 121.7219425349
                       },
                       {
                         "year": 2045,
-                        "total": 54.9732611978
+                        "total": 113.5948535162
                       },
                       {
                         "year": 2050,
-                        "total": 50.5765455849
+                        "total": 108.7042418993
                       }
                     ]
                   },
@@ -62168,43 +60614,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -62357,35 +60766,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.6620092531
+                        "total": 34.2933914625
                       },
                       {
                         "year": 2030,
-                        "total": 10.9208015665
+                        "total": 36.7737413434
                       },
                       {
                         "year": 2035,
-                        "total": 12.4548648253
+                        "total": 37.4568828161
                       },
                       {
                         "year": 2040,
-                        "total": 13.4593643539
+                        "total": 38.7505866642
                       },
                       {
                         "year": 2045,
-                        "total": 14.0333796988
+                        "total": 39.0008028615
                       },
                       {
                         "year": 2050,
-                        "total": 14.1770902376
+                        "total": 38.9284517623
                       }
                     ]
                   },
@@ -62955,43 +61364,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -63107,35 +61479,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.6100318584
+                        "total": 125.3690941785
                       },
                       {
                         "year": 2030,
-                        "total": 67.6306104756
+                        "total": 108.1723419813
                       },
                       {
                         "year": 2035,
-                        "total": 48.2258908831
+                        "total": 88.3194787861
                       },
                       {
                         "year": 2040,
-                        "total": 42.4029944585
+                        "total": 81.7672284905
                       },
                       {
                         "year": 2045,
-                        "total": 31.2724552863
+                        "total": 69.6840037335
                       },
                       {
                         "year": 2050,
-                        "total": 26.0986278402
+                        "total": 63.6373400519
                       }
                     ]
                   },
@@ -63293,43 +61665,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -63445,35 +61780,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.2630478818
+                        "total": 127.6299708235
                       },
                       {
                         "year": 2030,
-                        "total": 63.6929256484
+                        "total": 125.8455511331
                       },
                       {
                         "year": 2035,
-                        "total": 62.5777909375
+                        "total": 122.9509621171
                       },
                       {
                         "year": 2040,
-                        "total": 61.9090964815
+                        "total": 121.4946952184
                       },
                       {
                         "year": 2045,
-                        "total": 55.0553566578
+                        "total": 113.6769489763
                       },
                       {
                         "year": 2050,
-                        "total": 50.6429367462
+                        "total": 108.7706330605
                       }
                     ]
                   },
@@ -66410,43 +64745,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 30.3158954604
-                      },
-                      {
-                        "year": 2020,
-                        "total": 27.8485432056
-                      },
-                      {
-                        "year": 2025,
-                        "total": 26.6313822094
-                      },
-                      {
-                        "year": 2030,
-                        "total": 25.8529397769
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.0020179907
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.2912223103
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.9674231627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.7513615247
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biofuels",
                     "indicatorGroupValues": [
                       {
@@ -66599,35 +64897,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 8.2243013444
+                        "total": 38.5401968048
                       },
                       {
                         "year": 2020,
-                        "total": 5.856328588
+                        "total": 33.7048717937
                       },
                       {
                         "year": 2025,
-                        "total": 7.6307664583
+                        "total": 34.2621486676
                       },
                       {
                         "year": 2030,
-                        "total": 10.724838523
+                        "total": 36.5777782999
                       },
                       {
                         "year": 2035,
-                        "total": 11.5027801651
+                        "total": 36.5047981558
                       },
                       {
                         "year": 2040,
-                        "total": 12.2925630848
+                        "total": 37.5837853951
                       },
                       {
                         "year": 2045,
-                        "total": 13.0122701188
+                        "total": 37.9796932814
                       },
                       {
                         "year": 2050,
-                        "total": 14.3796975682
+                        "total": 39.1310590929
                       }
                     ]
                   },
@@ -67197,43 +65495,6 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 40.8155039949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 40.9487888921
-                      },
-                      {
-                        "year": 2025,
-                        "total": 40.7590623201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 40.5417315057
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.093587903
-                      },
-                      {
-                        "year": 2040,
-                        "total": 39.3642340319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.4115484472
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5387122118
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -67349,35 +65610,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 101.5279093078
+                        "total": 142.3434133027
                       },
                       {
                         "year": 2020,
-                        "total": 95.8748833198
+                        "total": 136.8236722119
                       },
                       {
                         "year": 2025,
-                        "total": 84.598923717
+                        "total": 125.3579860371
                       },
                       {
                         "year": 2030,
-                        "total": 68.0563176014
+                        "total": 108.5980491071
                       },
                       {
                         "year": 2035,
-                        "total": 60.839629085
+                        "total": 100.933216988
                       },
                       {
                         "year": 2040,
-                        "total": 51.247383595
+                        "total": 90.6116176269
                       },
                       {
                         "year": 2045,
-                        "total": 41.6970504788
+                        "total": 80.108598926
                       },
                       {
                         "year": 2050,
-                        "total": 39.6574915982
+                        "total": 77.19620381
                       }
                     ]
                   },
@@ -67535,43 +65796,6 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Appliances Electricity consumption",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.8678842707
-                      },
-                      {
-                        "year": 2020,
-                        "total": 67.0322320821
-                      },
-                      {
-                        "year": 2025,
-                        "total": 63.3669229418
-                      },
-                      {
-                        "year": 2030,
-                        "total": 62.1526254847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.3731711796
-                      },
-                      {
-                        "year": 2040,
-                        "total": 59.5855987369
-                      },
-                      {
-                        "year": 2045,
-                        "total": 58.6215923185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 58.1276963143
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Biomethane",
                     "indicatorGroupValues": [
                       {
@@ -67687,35 +65911,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 75.5784161442
+                        "total": 142.4463004149
                       },
                       {
                         "year": 2020,
-                        "total": 69.877976906
+                        "total": 136.9102089881
                       },
                       {
                         "year": 2025,
-                        "total": 64.2143213727
+                        "total": 127.5812443144
                       },
                       {
                         "year": 2030,
-                        "total": 63.6058910012
+                        "total": 125.7585164859
                       },
                       {
                         "year": 2035,
-                        "total": 62.4695331976
+                        "total": 122.8427043773
                       },
                       {
                         "year": 2040,
-                        "total": 62.1328289901
+                        "total": 121.718427727
                       },
                       {
                         "year": 2045,
-                        "total": 55.0325189316
+                        "total": 113.6541112501
                       },
                       {
                         "year": 2050,
-                        "total": 50.578185269
+                        "total": 108.7058815833
                       }
                     ]
                   },

@@ -16,35 +16,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 57.9727250579
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 45.4266037487
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 31.9118439028
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 15.8605880628
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 9.3295911898
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 1.8508096453
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": -4.0269871941
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": -8.9312220583
+                        "total": null
                       }
                     ]
                   }
@@ -58,35 +58,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 49.5441665142
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 43.6269511666
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 33.3165535094
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 25.6298344335
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 16.0751713515
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 15.0229119611
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 14.5762596303
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 10.0395688765
+                        "total": null
                       }
                     ]
                   }
@@ -100,35 +100,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 37.423493526
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 37.2706880624
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 36.183502171
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 31.8321745569
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 26.9051557433
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 19.7271264166
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 11.3552688312
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 3.7083791193
+                        "total": null
                       }
                     ]
                   }
@@ -142,35 +142,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 38.8619288008
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 26.1255849972
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 21.6757700573
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 18.0193549694
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 14.3792541293
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 10.7619060758
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 6.2823534514
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 2.1168513334
+                        "total": null
                       }
                     ]
                   }
@@ -369,35 +369,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.5082336308
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 43.1961932548
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 28.9744257608
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 14.8581313208
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 8.8970392005
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 1.936611221
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": -4.7149758289
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": -11.4553644484
+                        "total": null
                       }
                     ]
                   }
@@ -411,35 +411,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 49.5646775214
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 43.9945942728
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 33.2823608398
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 25.6173578077
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 15.5799787222
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 15.038014291
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 14.5789079529
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 10.8765574654
+                        "total": null
                       }
                     ]
                   }
@@ -453,35 +453,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 34.8833521312
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 30.5586521095
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 33.8006388935
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 31.5399296124
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 26.6008715117
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 19.6696226024
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 11.3023267154
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 4.1369360306
+                        "total": null
                       }
                     ]
                   }
@@ -495,35 +495,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 36.002607291
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 30.5390750121
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 22.8516515235
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 18.5306981176
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 14.7325073351
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 11.0716336849
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 6.5129417672
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 2.2001666245
+                        "total": null
                       }
                     ]
                   }
@@ -722,35 +722,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.5082336308
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 43.1961932548
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 28.8152809859
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 14.2710607797
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 8.2813680671
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 1.6416327012
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": -3.7317184683
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": -8.4632924056
+                        "total": null
                       }
                     ]
                   }
@@ -764,35 +764,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 49.5646775214
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 43.9945942728
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 33.3403463742
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 25.645331631
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 15.5912182316
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 15.0424247732
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 14.5556715073
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 10.0249634151
+                        "total": null
                       }
                     ]
                   }
@@ -806,35 +806,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 34.8833521312
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 30.5586521095
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 34.0321306656
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 32.42233007
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 26.7060913847
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 19.4645466864
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 11.0751859877
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 3.3416122366
+                        "total": null
                       }
                     ]
                   }
@@ -848,35 +848,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 36.002607291
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 30.5390750121
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 22.1796321769
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 17.7563399376
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 14.1398535925
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 10.4360450264
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 6.1577901128
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 2.1029368001
+                        "total": null
                       }
                     ]
                   }
@@ -1075,35 +1075,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.5082336308
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 43.1961932548
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 29.0294811924
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 14.6813092222
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 8.6412078519
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 1.903688106
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": -4.8111514129
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": -11.4844448711
+                        "total": null
                       }
                     ]
                   }
@@ -1117,35 +1117,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 49.5646775214
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 43.9945942728
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 33.3364419278
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 25.6940397621
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 15.5856652202
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 15.03992289
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 14.8206674749
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 10.8387749366
+                        "total": null
                       }
                     ]
                   }
@@ -1159,35 +1159,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 34.8833521312
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 30.5586521095
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 34.011048353
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 32.0562363528
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 26.4731078685
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 19.0057754
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 10.9787064172
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 4.0415613914
+                        "total": null
                       }
                     ]
                   }
@@ -1201,35 +1201,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 36.002607291
+                        "total": null
                       },
                       {
                         "year": 2020,
-                        "total": 30.5390750121
+                        "total": null
                       },
                       {
                         "year": 2025,
-                        "total": 22.2697562528
+                        "total": null
                       },
                       {
                         "year": 2030,
-                        "total": 17.8207464454
+                        "total": null
                       },
                       {
                         "year": 2035,
-                        "total": 14.24274021
+                        "total": null
                       },
                       {
                         "year": 2040,
-                        "total": 10.3784183147
+                        "total": null
                       },
                       {
                         "year": 2045,
-                        "total": 6.2903564684
+                        "total": null
                       },
                       {
                         "year": 2050,
-                        "total": 2.1899794001
+                        "total": null
                       }
                     ]
                   }
@@ -1428,35 +1428,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 40.5349491861
+                        "total": 39.583801188
                       },
                       {
                         "year": 2030,
-                        "total": 40.8162375411
+                        "total": 40.2460708752
                       },
                       {
                         "year": 2035,
-                        "total": 34.7343500322
+                        "total": 32.8104082226
                       },
                       {
                         "year": 2040,
-                        "total": 28.8988683346
+                        "total": 28.4425813801
                       },
                       {
                         "year": 2045,
-                        "total": 27.4540742388
+                        "total": 26.9175828314
                       },
                       {
                         "year": 2050,
-                        "total": 26.7866163402
+                        "total": 26.1710524846
                       }
                     ]
                   }
@@ -1470,35 +1470,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.136199734
+                        "total": 49.2642639684
                       },
                       {
                         "year": 2020,
-                        "total": 40.9149108591
+                        "total": 42.9385699986
                       },
                       {
                         "year": 2025,
-                        "total": 25.9645434007
+                        "total": 41.7146626006
                       },
                       {
                         "year": 2030,
-                        "total": 20.9871451496
+                        "total": 41.5522729978
                       },
                       {
                         "year": 2035,
-                        "total": 14.4780429905
+                        "total": 33.4032598622
                       },
                       {
                         "year": 2040,
-                        "total": 14.0834895443
+                        "total": 37.3300208981
                       },
                       {
                         "year": 2045,
-                        "total": 12.1140802098
+                        "total": 37.3618993578
                       },
                       {
                         "year": 2050,
-                        "total": 9.2602412051
+                        "total": 59.332769919
                       }
                     ]
                   }
@@ -1512,35 +1512,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.507199936
+                        "total": 26.1710960782
                       },
                       {
                         "year": 2030,
-                        "total": 27.9028017916
+                        "total": 26.6628050716
                       },
                       {
                         "year": 2035,
-                        "total": 23.6336756495
+                        "total": 22.4008905212
                       },
                       {
                         "year": 2040,
-                        "total": 21.3539106758
+                        "total": 20.2483812141
                       },
                       {
                         "year": 2045,
-                        "total": 20.7448652476
+                        "total": 19.6559629513
                       },
                       {
                         "year": 2050,
-                        "total": 20.6650066083
+                        "total": 19.5948446616
                       }
                     ]
                   }
@@ -1554,35 +1554,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 20.4887746171
+                        "total": 16.4254157067
                       },
                       {
                         "year": 2030,
-                        "total": 19.7613586229
+                        "total": 16.1597686932
                       },
                       {
                         "year": 2035,
-                        "total": 19.6881813165
+                        "total": 15.8075264267
                       },
                       {
                         "year": 2040,
-                        "total": 22.1704567111
+                        "total": 17.5407458456
                       },
                       {
                         "year": 2045,
-                        "total": 22.2146020658
+                        "total": 18.6111336331
                       },
                       {
                         "year": 2050,
-                        "total": 20.1849484075
+                        "total": 18.4660434877
                       }
                     ]
                   }
@@ -1781,35 +1781,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 41.5752235765
+                        "total": 39.8976469496
                       },
                       {
                         "year": 2030,
-                        "total": 42.0461357649
+                        "total": 41.1874062613
                       },
                       {
                         "year": 2035,
-                        "total": 37.2703754417
+                        "total": 35.1270997217
                       },
                       {
                         "year": 2040,
-                        "total": 29.7709810075
+                        "total": 29.3430113582
                       },
                       {
                         "year": 2045,
-                        "total": 28.2582959532
+                        "total": 27.9626151745
                       },
                       {
                         "year": 2050,
-                        "total": 26.9964817627
+                        "total": 26.9281397806
                       }
                     ]
                   }
@@ -1823,35 +1823,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.136199734
+                        "total": 49.2642639684
                       },
                       {
                         "year": 2020,
-                        "total": 40.9149108591
+                        "total": 42.9385699986
                       },
                       {
                         "year": 2025,
-                        "total": 25.801771228
+                        "total": 41.489436607
                       },
                       {
                         "year": 2030,
-                        "total": 23.6124500514
+                        "total": 46.9112729733
                       },
                       {
                         "year": 2035,
-                        "total": 14.5532634738
+                        "total": 33.7378788963
                       },
                       {
                         "year": 2040,
-                        "total": 14.0860742334
+                        "total": 37.4531928765
                       },
                       {
                         "year": 2045,
-                        "total": 12.0384569919
+                        "total": 36.9460391246
                       },
                       {
                         "year": 2050,
-                        "total": 9.1926411703
+                        "total": 55.5205050357
                       }
                     ]
                   }
@@ -1865,35 +1865,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.5339758681
+                        "total": 26.1896414947
                       },
                       {
                         "year": 2030,
-                        "total": 29.0935030292
+                        "total": 27.7975093328
                       },
                       {
                         "year": 2035,
-                        "total": 24.6393772544
+                        "total": 23.2700917783
                       },
                       {
                         "year": 2040,
-                        "total": 21.6146857716
+                        "total": 20.4433463539
                       },
                       {
                         "year": 2045,
-                        "total": 21.0427012823
+                        "total": 19.9110561655
                       },
                       {
                         "year": 2050,
-                        "total": 20.7686040272
+                        "total": 19.7882439587
                       }
                     ]
                   }
@@ -1907,35 +1907,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 20.2164755696
+                        "total": 16.5115510563
                       },
                       {
                         "year": 2030,
-                        "total": 19.4086346891
+                        "total": 16.3805784251
                       },
                       {
                         "year": 2035,
-                        "total": 19.1611479806
+                        "total": 15.8992024183
                       },
                       {
                         "year": 2040,
-                        "total": 21.4472970254
+                        "total": 17.5902098101
                       },
                       {
                         "year": 2045,
-                        "total": 21.9778015279
+                        "total": 18.6923140113
                       },
                       {
                         "year": 2050,
-                        "total": 20.2685353263
+                        "total": 18.5618332732
                       }
                     ]
                   }
@@ -2134,35 +2134,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 40.5349492765
+                        "total": 39.5838012583
                       },
                       {
                         "year": 2030,
-                        "total": 40.8162375511
+                        "total": 40.2460708734
                       },
                       {
                         "year": 2035,
-                        "total": 34.7343500434
+                        "total": 32.8104082372
                       },
                       {
                         "year": 2040,
-                        "total": 28.8988682979
+                        "total": 28.4425813415
                       },
                       {
                         "year": 2045,
-                        "total": 27.4540741922
+                        "total": 26.9175827759
                       },
                       {
                         "year": 2050,
-                        "total": 26.7866163429
+                        "total": 26.1710524847
                       }
                     ]
                   }
@@ -2176,35 +2176,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.136199734
+                        "total": 49.2642639684
                       },
                       {
                         "year": 2020,
-                        "total": 40.9149108591
+                        "total": 42.9385699986
                       },
                       {
                         "year": 2025,
-                        "total": 25.9583216545
+                        "total": 41.6881185836
                       },
                       {
                         "year": 2030,
-                        "total": 20.9150431549
+                        "total": 41.4889186418
                       },
                       {
                         "year": 2035,
-                        "total": 14.4310657432
+                        "total": 33.6995990487
                       },
                       {
                         "year": 2040,
-                        "total": 14.0871318529
+                        "total": 37.6128467062
                       },
                       {
                         "year": 2045,
-                        "total": 12.0756752783
+                        "total": 37.3421000794
                       },
                       {
                         "year": 2050,
-                        "total": 9.2022273361
+                        "total": 59.9764159178
                       }
                     ]
                   }
@@ -2218,35 +2218,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.507199936
+                        "total": 26.1710960782
                       },
                       {
                         "year": 2030,
-                        "total": 27.9028017916
+                        "total": 26.6628050717
                       },
                       {
                         "year": 2035,
-                        "total": 23.6322147806
+                        "total": 22.3995058543
                       },
                       {
                         "year": 2040,
-                        "total": 21.3539830199
+                        "total": 20.2484498122
                       },
                       {
                         "year": 2045,
-                        "total": 20.7448661854
+                        "total": 19.6559638407
                       },
                       {
                         "year": 2050,
-                        "total": 20.665895756
+                        "total": 19.5956877638
                       }
                     ]
                   }
@@ -2260,35 +2260,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 20.4887746171
+                        "total": 16.4254157067
                       },
                       {
                         "year": 2030,
-                        "total": 19.7613586237
+                        "total": 16.1597686937
                       },
                       {
                         "year": 2035,
-                        "total": 19.6881813175
+                        "total": 15.8075264272
                       },
                       {
                         "year": 2040,
-                        "total": 22.1704567111
+                        "total": 17.5407458453
                       },
                       {
                         "year": 2045,
-                        "total": 22.2142444744
+                        "total": 18.6108340473
                       },
                       {
                         "year": 2050,
-                        "total": 20.1849484074
+                        "total": 18.4660434877
                       }
                     ]
                   }
@@ -2487,35 +2487,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 41.576129618
+                        "total": 39.898575953
                       },
                       {
                         "year": 2030,
-                        "total": 42.0471708209
+                        "total": 41.1885361338
                       },
                       {
                         "year": 2035,
-                        "total": 37.2702498287
+                        "total": 35.1270796717
                       },
                       {
                         "year": 2040,
-                        "total": 29.7706051524
+                        "total": 29.3452453806
                       },
                       {
                         "year": 2045,
-                        "total": 28.2496534047
+                        "total": 27.9551494695
                       },
                       {
                         "year": 2050,
-                        "total": 27.0429054826
+                        "total": 26.9449107646
                       }
                     ]
                   }
@@ -2529,35 +2529,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.136199734
+                        "total": 49.2642639684
                       },
                       {
                         "year": 2020,
-                        "total": 40.9149108591
+                        "total": 42.9385699986
                       },
                       {
                         "year": 2025,
-                        "total": 25.7938682492
+                        "total": 41.4800178227
                       },
                       {
                         "year": 2030,
-                        "total": 23.5523180336
+                        "total": 46.8729306419
                       },
                       {
                         "year": 2035,
-                        "total": 14.5061584447
+                        "total": 34.0002643512
                       },
                       {
                         "year": 2040,
-                        "total": 14.0845314562
+                        "total": 37.7202605555
                       },
                       {
                         "year": 2045,
-                        "total": 12.0158250281
+                        "total": 36.9325571357
                       },
                       {
                         "year": 2050,
-                        "total": 9.1245008395
+                        "total": 57.249754731
                       }
                     ]
                   }
@@ -2571,35 +2571,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.5339728304
+                        "total": 26.1889599812
                       },
                       {
                         "year": 2030,
-                        "total": 29.0941993873
+                        "total": 27.7969010822
                       },
                       {
                         "year": 2035,
-                        "total": 24.6340966006
+                        "total": 23.2639446947
                       },
                       {
                         "year": 2040,
-                        "total": 21.6161517727
+                        "total": 20.4453387908
                       },
                       {
                         "year": 2045,
-                        "total": 21.0427660073
+                        "total": 19.9104373635
                       },
                       {
                         "year": 2050,
-                        "total": 20.7695881455
+                        "total": 19.7896285699
                       }
                     ]
                   }
@@ -2613,35 +2613,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 20.2166487032
+                        "total": 16.511282423
                       },
                       {
                         "year": 2030,
-                        "total": 19.2732729871
+                        "total": 16.2660763254
                       },
                       {
                         "year": 2035,
-                        "total": 19.1592637617
+                        "total": 15.8995721732
                       },
                       {
                         "year": 2040,
-                        "total": 21.4261870001
+                        "total": 17.5774967625
                       },
                       {
                         "year": 2045,
-                        "total": 21.9496020569
+                        "total": 18.6729840728
                       },
                       {
                         "year": 2050,
-                        "total": 20.2544529393
+                        "total": 18.5583072456
                       }
                     ]
                   }
@@ -2840,35 +2840,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 36.279485447
+                        "total": 36.3015261981
                       },
                       {
                         "year": 2030,
-                        "total": 24.2556700389
+                        "total": 24.8388973497
                       },
                       {
                         "year": 2035,
-                        "total": 18.7904247025
+                        "total": 18.3859526899
                       },
                       {
                         "year": 2040,
-                        "total": 10.9045061659
+                        "total": 10.7399054181
                       },
                       {
                         "year": 2045,
-                        "total": 2.3791298795
+                        "total": 2.5385781561
                       },
                       {
                         "year": 2050,
-                        "total": -8.7910221063
+                        "total": -9.0962405991
                       }
                     ]
                   }
@@ -2882,35 +2882,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.1360644605
+                        "total": 49.2641255248
                       },
                       {
                         "year": 2020,
-                        "total": 40.9112572631
+                        "total": 42.934735695
                       },
                       {
                         "year": 2025,
-                        "total": 25.9408893424
+                        "total": 41.6760974103
                       },
                       {
                         "year": 2030,
-                        "total": 20.7049678677
+                        "total": 43.2466405944
                       },
                       {
                         "year": 2035,
-                        "total": 14.4219624835
+                        "total": 34.9074323096
                       },
                       {
                         "year": 2040,
-                        "total": 13.9183913661
+                        "total": 39.0158867539
                       },
                       {
                         "year": 2045,
-                        "total": 11.8794521744
+                        "total": 38.9188638052
                       },
                       {
                         "year": 2050,
-                        "total": 9.0583347866
+                        "total": 55.1464254016
                       }
                     ]
                   }
@@ -2924,35 +2924,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 29.3202571997
+                        "total": 27.9079272016
                       },
                       {
                         "year": 2030,
-                        "total": 29.7838828317
+                        "total": 28.8387202726
                       },
                       {
                         "year": 2035,
-                        "total": 25.8640622325
+                        "total": 24.8601979874
                       },
                       {
                         "year": 2040,
-                        "total": 21.8548283898
+                        "total": 20.9125240287
                       },
                       {
                         "year": 2045,
-                        "total": 13.7916860764
+                        "total": 13.1845965175
                       },
                       {
                         "year": 2050,
-                        "total": 5.6142379784
+                        "total": 5.5048742856
                       }
                     ]
                   }
@@ -2966,35 +2966,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 20.2658349161
+                        "total": 16.2969030785
                       },
                       {
                         "year": 2030,
-                        "total": 19.4354633951
+                        "total": 16.0739057512
                       },
                       {
                         "year": 2035,
-                        "total": 19.5014298907
+                        "total": 15.8698452016
                       },
                       {
                         "year": 2040,
-                        "total": 17.4511440402
+                        "total": 13.9995278637
                       },
                       {
                         "year": 2045,
-                        "total": 12.58001361
+                        "total": 10.574395937
                       },
                       {
                         "year": 2050,
-                        "total": 5.9462181687
+                        "total": 5.4901511667
                       }
                     ]
                   }
@@ -3193,35 +3193,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 37.1510466494
+                        "total": 36.1560486756
                       },
                       {
                         "year": 2030,
-                        "total": 24.6342940757
+                        "total": 24.7586021864
                       },
                       {
                         "year": 2035,
-                        "total": 18.9673542479
+                        "total": 18.2653499853
                       },
                       {
                         "year": 2040,
-                        "total": 11.1328155156
+                        "total": 10.6688207404
                       },
                       {
                         "year": 2045,
-                        "total": 2.7996766441
+                        "total": 2.7959476238
                       },
                       {
                         "year": 2050,
-                        "total": -8.9559103708
+                        "total": -8.9393972251
                       }
                     ]
                   }
@@ -3235,35 +3235,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.1360644605
+                        "total": 49.2641255248
                       },
                       {
                         "year": 2020,
-                        "total": 40.9112572631
+                        "total": 42.934735695
                       },
                       {
                         "year": 2025,
-                        "total": 25.8155496289
+                        "total": 41.5017605245
                       },
                       {
                         "year": 2030,
-                        "total": 23.3471439901
+                        "total": 48.8912414064
                       },
                       {
                         "year": 2035,
-                        "total": 14.5068103662
+                        "total": 35.2336434067
                       },
                       {
                         "year": 2040,
-                        "total": 13.9169516501
+                        "total": 39.037218721
                       },
                       {
                         "year": 2045,
-                        "total": 11.8187989892
+                        "total": 37.8463114528
                       },
                       {
                         "year": 2050,
-                        "total": 8.9914714196
+                        "total": 47.4395884591
                       }
                     ]
                   }
@@ -3277,35 +3277,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 29.3329333815
+                        "total": 27.9133404124
                       },
                       {
                         "year": 2030,
-                        "total": 31.0261325863
+                        "total": 30.0215360787
                       },
                       {
                         "year": 2035,
-                        "total": 26.6511519338
+                        "total": 25.5575555253
                       },
                       {
                         "year": 2040,
-                        "total": 22.0920061634
+                        "total": 21.0976207904
                       },
                       {
                         "year": 2045,
-                        "total": 14.0474078843
+                        "total": 13.3796888172
                       },
                       {
                         "year": 2050,
-                        "total": 5.6905162731
+                        "total": 5.5421264012
                       }
                     ]
                   }
@@ -3319,35 +3319,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 19.9164121619
+                        "total": 16.4018038329
                       },
                       {
                         "year": 2030,
-                        "total": 19.1377679617
+                        "total": 16.3901410665
                       },
                       {
                         "year": 2035,
-                        "total": 18.9711373593
+                        "total": 15.9592808654
                       },
                       {
                         "year": 2040,
-                        "total": 16.743227353
+                        "total": 13.9123410898
                       },
                       {
                         "year": 2045,
-                        "total": 12.37409186
+                        "total": 10.5482651288
                       },
                       {
                         "year": 2050,
-                        "total": 5.8456819134
+                        "total": 5.4786985532
                       }
                     ]
                   }
@@ -3546,35 +3546,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 36.3232233699
+                        "total": 36.3093768726
                       },
                       {
                         "year": 2030,
-                        "total": 24.0017232184
+                        "total": 25.0040371139
                       },
                       {
                         "year": 2035,
-                        "total": 18.3532682323
+                        "total": 18.5795067767
                       },
                       {
                         "year": 2040,
-                        "total": 10.4318619589
+                        "total": 10.72056848
                       },
                       {
                         "year": 2045,
-                        "total": 2.3742344028
+                        "total": 2.5611375786
                       },
                       {
                         "year": 2050,
-                        "total": -8.8131741398
+                        "total": -9.1306659324
                       }
                     ]
                   }
@@ -3588,35 +3588,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.1360644605
+                        "total": 49.2641255248
                       },
                       {
                         "year": 2020,
-                        "total": 40.9112572631
+                        "total": 42.934735695
                       },
                       {
                         "year": 2025,
-                        "total": 25.9239624405
+                        "total": 41.6110332073
                       },
                       {
                         "year": 2030,
-                        "total": 20.7189860999
+                        "total": 43.2046008022
                       },
                       {
                         "year": 2035,
-                        "total": 14.3396120437
+                        "total": 35.2772343097
                       },
                       {
                         "year": 2040,
-                        "total": 13.9107291205
+                        "total": 39.4315398737
                       },
                       {
                         "year": 2045,
-                        "total": 11.8570901968
+                        "total": 39.1471551987
                       },
                       {
                         "year": 2050,
-                        "total": 9.0058275516
+                        "total": 55.3974333829
                       }
                     ]
                   }
@@ -3630,35 +3630,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.9225538417
+                        "total": 26.6372947617
                       },
                       {
                         "year": 2030,
-                        "total": 28.3856258386
+                        "total": 27.4763469242
                       },
                       {
                         "year": 2035,
-                        "total": 24.4027328333
+                        "total": 23.4456305261
                       },
                       {
                         "year": 2040,
-                        "total": 22.5800148995
+                        "total": 21.6934481701
                       },
                       {
                         "year": 2045,
-                        "total": 13.6760657127
+                        "total": 13.1256649273
                       },
                       {
                         "year": 2050,
-                        "total": 5.6680243707
+                        "total": 5.5598342557
                       }
                     ]
                   }
@@ -3672,35 +3672,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 20.2333547503
+                        "total": 16.2562028985
                       },
                       {
                         "year": 2030,
-                        "total": 19.6478199458
+                        "total": 16.0692067662
                       },
                       {
                         "year": 2035,
-                        "total": 19.9673023396
+                        "total": 15.9564779185
                       },
                       {
                         "year": 2040,
-                        "total": 17.8520445001
+                        "total": 14.1846076716
                       },
                       {
                         "year": 2045,
-                        "total": 12.5976895994
+                        "total": 10.6250813648
                       },
                       {
                         "year": 2050,
-                        "total": 5.9051973164
+                        "total": 5.5154500151
                       }
                     ]
                   }
@@ -3899,35 +3899,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 37.3705923599
+                        "total": 36.2235227292
                       },
                       {
                         "year": 2030,
-                        "total": 25.0041261507
+                        "total": 25.1037029199
                       },
                       {
                         "year": 2035,
-                        "total": 19.3105783644
+                        "total": 18.6351381598
                       },
                       {
                         "year": 2040,
-                        "total": 11.4841857086
+                        "total": 11.1795965619
                       },
                       {
                         "year": 2045,
-                        "total": 3.0347715475
+                        "total": 3.043287227
                       },
                       {
                         "year": 2050,
-                        "total": -8.7085892226
+                        "total": -8.7156548799
                       }
                     ]
                   }
@@ -3941,35 +3941,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.1360644605
+                        "total": 49.2641255248
                       },
                       {
                         "year": 2020,
-                        "total": 40.9112572631
+                        "total": 42.934735695
                       },
                       {
                         "year": 2025,
-                        "total": 25.8165001271
+                        "total": 41.5009102598
                       },
                       {
                         "year": 2030,
-                        "total": 23.3486002501
+                        "total": 48.8119147772
                       },
                       {
                         "year": 2035,
-                        "total": 14.410229477
+                        "total": 35.6300080906
                       },
                       {
                         "year": 2040,
-                        "total": 13.9130066015
+                        "total": 39.4102473535
                       },
                       {
                         "year": 2045,
-                        "total": 11.8061555759
+                        "total": 38.0056451834
                       },
                       {
                         "year": 2050,
-                        "total": 8.9230642544
+                        "total": 47.7074853859
                       }
                     ]
                   }
@@ -3983,35 +3983,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.9000372687
+                        "total": 26.5809337529
                       },
                       {
                         "year": 2030,
-                        "total": 29.6365246674
+                        "total": 28.6710012096
                       },
                       {
                         "year": 2035,
-                        "total": 25.1823725482
+                        "total": 24.1457696675
                       },
                       {
                         "year": 2040,
-                        "total": 22.8446311849
+                        "total": 21.9192060218
                       },
                       {
                         "year": 2045,
-                        "total": 13.7840994709
+                        "total": 13.2953625346
                       },
                       {
                         "year": 2050,
-                        "total": 5.7650814855
+                        "total": 5.6312428899
                       }
                     ]
                   }
@@ -4025,35 +4025,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 19.8002774951
+                        "total": 16.3478795907
                       },
                       {
                         "year": 2030,
-                        "total": 18.8405579329
+                        "total": 16.1736714923
                       },
                       {
                         "year": 2035,
-                        "total": 18.6380769945
+                        "total": 15.6963513845
                       },
                       {
                         "year": 2040,
-                        "total": 16.9331469393
+                        "total": 14.0843242489
                       },
                       {
                         "year": 2045,
-                        "total": 12.4355662276
+                        "total": 10.6442778532
                       },
                       {
                         "year": 2050,
-                        "total": 5.6700022708
+                        "total": 5.4997272282
                       }
                     ]
                   }
@@ -4252,35 +4252,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 40.0466940716
+                        "total": 39.2044236723
                       },
                       {
                         "year": 2030,
-                        "total": 40.1442006829
+                        "total": 40.0445257871
                       },
                       {
                         "year": 2035,
-                        "total": 34.9438692131
+                        "total": 33.8393782378
                       },
                       {
                         "year": 2040,
-                        "total": 27.3332701485
+                        "total": 27.4387867197
                       },
                       {
                         "year": 2045,
-                        "total": 25.6974414486
+                        "total": 25.689520412
                       },
                       {
                         "year": 2050,
-                        "total": 25.4917906701
+                        "total": 25.3371389203
                       }
                     ]
                   }
@@ -4294,35 +4294,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.1360441695
+                        "total": 49.2641047582
                       },
                       {
                         "year": 2020,
-                        "total": 40.9107092237
+                        "total": 42.9341605495
                       },
                       {
                         "year": 2025,
-                        "total": 25.7399439528
+                        "total": 40.7653235201
                       },
                       {
                         "year": 2030,
-                        "total": 20.4422995558
+                        "total": 44.9614897095
                       },
                       {
                         "year": 2035,
-                        "total": 14.1362463012
+                        "total": 38.5738175238
                       },
                       {
                         "year": 2040,
-                        "total": 13.5360076654
+                        "total": 52.0057122753
                       },
                       {
                         "year": 2045,
-                        "total": 11.4907838196
+                        "total": 92.8579058803
                       },
                       {
                         "year": 2050,
-                        "total": 8.7559076925
+                        "total": -80.6859923477
                       }
                     ]
                   }
@@ -4336,35 +4336,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.8656289459
+                        "total": 26.5825577287
                       },
                       {
                         "year": 2030,
-                        "total": 28.0914244336
+                        "total": 27.1284158608
                       },
                       {
                         "year": 2035,
-                        "total": 23.7909163924
+                        "total": 22.7748266631
                       },
                       {
                         "year": 2040,
-                        "total": 20.9995902482
+                        "total": 20.180756868
                       },
                       {
                         "year": 2045,
-                        "total": 20.527225262
+                        "total": 19.73379363
                       },
                       {
                         "year": 2050,
-                        "total": 20.7570126046
+                        "total": 19.9894607427
                       }
                     ]
                   }
@@ -4378,35 +4378,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 20.2444565542
+                        "total": 16.3360549897
                       },
                       {
                         "year": 2030,
-                        "total": 19.2423682013
+                        "total": 16.0022987006
                       },
                       {
                         "year": 2035,
-                        "total": 19.4826096461
+                        "total": 16.0117790187
                       },
                       {
                         "year": 2040,
-                        "total": 21.8591547205
+                        "total": 17.7088404271
                       },
                       {
                         "year": 2045,
-                        "total": 22.1058254112
+                        "total": 18.7566265236
                       },
                       {
                         "year": 2050,
-                        "total": 20.6220271866
+                        "total": 18.9293046693
                       }
                     ]
                   }
@@ -4605,35 +4605,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 41.2555613688
+                        "total": 39.6584970011
                       },
                       {
                         "year": 2030,
-                        "total": 40.9130581186
+                        "total": 40.5645289774
                       },
                       {
                         "year": 2035,
-                        "total": 35.4431832644
+                        "total": 34.1190941834
                       },
                       {
                         "year": 2040,
-                        "total": 27.2985777591
+                        "total": 27.4085083832
                       },
                       {
                         "year": 2045,
-                        "total": 25.6119162086
+                        "total": 25.8271573603
                       },
                       {
                         "year": 2050,
-                        "total": 25.0154071042
+                        "total": 25.3751888338
                       }
                     ]
                   }
@@ -4647,35 +4647,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.1360441695
+                        "total": 49.2641047582
                       },
                       {
                         "year": 2020,
-                        "total": 40.9107092237
+                        "total": 42.9341605495
                       },
                       {
                         "year": 2025,
-                        "total": 25.5997653321
+                        "total": 40.579419695
                       },
                       {
                         "year": 2030,
-                        "total": 23.0205579218
+                        "total": 50.7609150099
                       },
                       {
                         "year": 2035,
-                        "total": 14.1842443739
+                        "total": 38.9444561868
                       },
                       {
                         "year": 2040,
-                        "total": 13.5312236736
+                        "total": 52.2658561614
                       },
                       {
                         "year": 2045,
-                        "total": 11.4280624117
+                        "total": 90.6715362715
                       },
                       {
                         "year": 2050,
-                        "total": 8.6931683274
+                        "total": -93.4180010715
                       }
                     ]
                   }
@@ -4689,35 +4689,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.9769155853
+                        "total": 26.6816364075
                       },
                       {
                         "year": 2030,
-                        "total": 29.3272880452
+                        "total": 28.324624958
                       },
                       {
                         "year": 2035,
-                        "total": 24.4111656136
+                        "total": 23.3279815819
                       },
                       {
                         "year": 2040,
-                        "total": 21.2237404143
+                        "total": 20.3774241817
                       },
                       {
                         "year": 2045,
-                        "total": 20.9045663983
+                        "total": 20.0148542072
                       },
                       {
                         "year": 2050,
-                        "total": 21.0823017479
+                        "total": 20.3623703885
                       }
                     ]
                   }
@@ -4731,35 +4731,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 19.9509022061
+                        "total": 16.386981241
                       },
                       {
                         "year": 2030,
-                        "total": 18.9931565232
+                        "total": 16.283468457
                       },
                       {
                         "year": 2035,
-                        "total": 18.9660020571
+                        "total": 16.1063761767
                       },
                       {
                         "year": 2040,
-                        "total": 21.2106353865
+                        "total": 17.7677284894
                       },
                       {
                         "year": 2045,
-                        "total": 21.8098816469
+                        "total": 18.7841888819
                       },
                       {
                         "year": 2050,
-                        "total": 20.7185285432
+                        "total": 18.9922680078
                       }
                     ]
                   }
@@ -4958,35 +4958,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 40.0466940716
+                        "total": 39.2044236723
                       },
                       {
                         "year": 2030,
-                        "total": 40.1442006829
+                        "total": 40.0445558218
                       },
                       {
                         "year": 2035,
-                        "total": 34.9438692131
+                        "total": 33.8393782378
                       },
                       {
                         "year": 2040,
-                        "total": 27.3333219764
+                        "total": 27.4388166937
                       },
                       {
                         "year": 2045,
-                        "total": 25.6974505668
+                        "total": 25.6895243076
                       },
                       {
                         "year": 2050,
-                        "total": 25.4917818403
+                        "total": 25.337122215
                       }
                     ]
                   }
@@ -5000,35 +5000,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.1360441695
+                        "total": 49.2641047582
                       },
                       {
                         "year": 2020,
-                        "total": 40.9107092237
+                        "total": 42.9341605495
                       },
                       {
                         "year": 2025,
-                        "total": 25.7125090675
+                        "total": 40.7047724409
                       },
                       {
                         "year": 2030,
-                        "total": 20.4360370647
+                        "total": 44.9146241868
                       },
                       {
                         "year": 2035,
-                        "total": 14.0438769833
+                        "total": 39.2174054341
                       },
                       {
                         "year": 2040,
-                        "total": 13.5474827942
+                        "total": 53.1508365166
                       },
                       {
                         "year": 2045,
-                        "total": 11.4888021857
+                        "total": 95.6896452621
                       },
                       {
                         "year": 2050,
-                        "total": 8.700489472
+                        "total": -78.6976860014
                       }
                     ]
                   }
@@ -5042,35 +5042,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.8656289459
+                        "total": 26.5827598549
                       },
                       {
                         "year": 2030,
-                        "total": 28.090687627
+                        "total": 27.1282731422
                       },
                       {
                         "year": 2035,
-                        "total": 23.7854816782
+                        "total": 22.7702701879
                       },
                       {
                         "year": 2040,
-                        "total": 20.9988187967
+                        "total": 20.1805645789
                       },
                       {
                         "year": 2045,
-                        "total": 20.5263011083
+                        "total": 19.7334023436
                       },
                       {
                         "year": 2050,
-                        "total": 20.7548010455
+                        "total": 19.9893771677
                       }
                     ]
                   }
@@ -5084,35 +5084,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 20.2444565542
+                        "total": 16.3359964731
                       },
                       {
                         "year": 2030,
-                        "total": 19.242360076
+                        "total": 16.0022740385
                       },
                       {
                         "year": 2035,
-                        "total": 19.4824692158
+                        "total": 16.0117075951
                       },
                       {
                         "year": 2040,
-                        "total": 21.8592776086
+                        "total": 17.7088825271
                       },
                       {
                         "year": 2045,
-                        "total": 22.1057519757
+                        "total": 18.7566972779
                       },
                       {
                         "year": 2050,
-                        "total": 20.6220243568
+                        "total": 18.9293261102
                       }
                     ]
                   }
@@ -5311,35 +5311,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 50.0908777121
+                        "total": 46.3332967318
                       },
                       {
                         "year": 2020,
-                        "total": 46.6252150577
+                        "total": 44.0115975535
                       },
                       {
                         "year": 2025,
-                        "total": 41.2555948023
+                        "total": 39.6552225457
                       },
                       {
                         "year": 2030,
-                        "total": 40.9133799028
+                        "total": 40.5655600369
                       },
                       {
                         "year": 2035,
-                        "total": 35.453966893
+                        "total": 34.1288731534
                       },
                       {
                         "year": 2040,
-                        "total": 27.298580001
+                        "total": 27.4080791771
                       },
                       {
                         "year": 2045,
-                        "total": 25.6129492548
+                        "total": 25.829985209
                       },
                       {
                         "year": 2050,
-                        "total": 25.0945902029
+                        "total": 25.4171869402
                       }
                     ]
                   }
@@ -5353,35 +5353,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 48.1360441695
+                        "total": 49.2641047582
                       },
                       {
                         "year": 2020,
-                        "total": 40.9107092237
+                        "total": 42.9341605495
                       },
                       {
                         "year": 2025,
-                        "total": 25.5996529274
+                        "total": 40.5790584317
                       },
                       {
                         "year": 2030,
-                        "total": 23.0177535271
+                        "total": 50.685009727
                       },
                       {
                         "year": 2035,
-                        "total": 14.1143935109
+                        "total": 39.5799498675
                       },
                       {
                         "year": 2040,
-                        "total": 13.5346944177
+                        "total": 53.2824780101
                       },
                       {
                         "year": 2045,
-                        "total": 11.4231956389
+                        "total": 93.6903590172
                       },
                       {
                         "year": 2050,
-                        "total": 8.6220904204
+                        "total": -82.9913224116
                       }
                     ]
                   }
@@ -5395,35 +5395,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 29.9694301725
+                        "total": 28.4508978286
                       },
                       {
                         "year": 2020,
-                        "total": 29.1587951303
+                        "total": 27.5549684857
                       },
                       {
                         "year": 2025,
-                        "total": 27.9763223264
+                        "total": 26.6819678074
                       },
                       {
                         "year": 2030,
-                        "total": 29.3495966117
+                        "total": 28.3419667914
                       },
                       {
                         "year": 2035,
-                        "total": 24.4774417725
+                        "total": 23.3811426668
                       },
                       {
                         "year": 2040,
-                        "total": 21.2160090091
+                        "total": 20.3548722248
                       },
                       {
                         "year": 2045,
-                        "total": 20.908988906
+                        "total": 20.0170180323
                       },
                       {
                         "year": 2050,
-                        "total": 21.0897600838
+                        "total": 20.3691108346
                       }
                     ]
                   }
@@ -5437,35 +5437,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": 30.7690742579
+                        "total": 22.4316600621
                       },
                       {
                         "year": 2020,
-                        "total": 25.3893520053
+                        "total": 18.7387787714
                       },
                       {
                         "year": 2025,
-                        "total": 19.9508399505
+                        "total": 16.386727078
                       },
                       {
                         "year": 2030,
-                        "total": 18.8528783789
+                        "total": 16.1631668825
                       },
                       {
                         "year": 2035,
-                        "total": 18.9635474921
+                        "total": 16.1087388369
                       },
                       {
                         "year": 2040,
-                        "total": 21.1955584836
+                        "total": 17.7575148574
                       },
                       {
                         "year": 2045,
-                        "total": 21.7848379894
+                        "total": 18.7724330823
                       },
                       {
                         "year": 2050,
-                        "total": 20.6741383443
+                        "total": 18.9795332447
                       }
                     ]
                   }

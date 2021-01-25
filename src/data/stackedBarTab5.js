@@ -39672,7 +39672,7 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 1.0
+                        "total": 2.0
                       },
                       {
                         "year": 2025,
@@ -84750,7 +84750,7 @@ export default {
                       },
                       {
                         "year": 2020,
-                        "total": 1.0
+                        "total": 2.0
                       },
                       {
                         "year": 2025,
