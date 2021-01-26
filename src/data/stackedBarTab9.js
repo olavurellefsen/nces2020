@@ -16,35 +16,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -58,35 +58,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -100,35 +100,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -142,35 +142,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -369,35 +369,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -411,35 +411,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -453,35 +453,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -495,35 +495,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -722,35 +722,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -764,35 +764,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -806,35 +806,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -848,35 +848,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -1075,35 +1075,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -1117,35 +1117,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -1159,35 +1159,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }
@@ -1201,35 +1201,35 @@ export default {
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2020,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2030,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": null
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": null
+                        "total": 0.0
                       }
                     ]
                   }

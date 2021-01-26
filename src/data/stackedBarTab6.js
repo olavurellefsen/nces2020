@@ -952,7 +952,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1068,7 +1068,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1184,7 +1184,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1300,7 +1300,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5083,7 +5083,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5199,7 +5199,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5315,7 +5315,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5431,7 +5431,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9214,7 +9214,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9330,7 +9330,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9446,7 +9446,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9562,7 +9562,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13345,7 +13345,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13461,7 +13461,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13577,7 +13577,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13693,7 +13693,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17476,7 +17476,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17592,7 +17592,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17708,7 +17708,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17824,7 +17824,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21607,7 +21607,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21723,7 +21723,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21839,7 +21839,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21955,7 +21955,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25738,7 +25738,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25854,7 +25854,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25970,7 +25970,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26086,7 +26086,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29869,7 +29869,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29985,7 +29985,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -30101,7 +30101,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -30217,7 +30217,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34000,7 +34000,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34116,7 +34116,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34232,7 +34232,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34348,7 +34348,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38131,7 +38131,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38247,7 +38247,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38363,7 +38363,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38479,7 +38479,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42262,7 +42262,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42378,7 +42378,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42494,7 +42494,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42610,7 +42610,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46393,7 +46393,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46509,7 +46509,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46625,7 +46625,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46741,7 +46741,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50524,7 +50524,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50640,7 +50640,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50756,7 +50756,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50872,7 +50872,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54655,7 +54655,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54771,7 +54771,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54887,7 +54887,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55003,7 +55003,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58786,7 +58786,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58902,7 +58902,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -59018,7 +59018,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -59134,7 +59134,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62917,7 +62917,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -63033,7 +63033,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -63149,7 +63149,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -63265,7 +63265,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

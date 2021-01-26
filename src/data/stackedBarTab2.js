@@ -1671,7 +1671,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2363,6 +2363,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4368817806
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.912423864
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.2591529638
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8601734936
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.5362451524
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.3097964078
+                      },
+                      {
+                        "year": 2045,
+                        "total": 68.127427116
+                      },
+                      {
+                        "year": 2050,
+                        "total": 68.0576524287
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -2396,43 +2433,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.2299995422
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4368817806
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.912423864
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.2591529638
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8601734936
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.5362451524
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.3097964078
-                      },
-                      {
-                        "year": 2045,
-                        "total": 68.127427116
-                      },
-                      {
-                        "year": 2050,
-                        "total": 68.0576524287
                       }
                     ]
                   },
@@ -3161,7 +3161,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3346,43 +3346,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.5018883198
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -3416,6 +3379,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 6.0484983921
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.5018883198
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -3610,7 +3610,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3874,7 +3874,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4212,7 +4212,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4815,7 +4815,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5264,7 +5264,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5676,7 +5676,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6088,7 +6088,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7087,7 +7087,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7203,7 +7203,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7319,7 +7319,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7435,7 +7435,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9395,7 +9395,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10087,6 +10087,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4372025952
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.6143968254
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.2591529638
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8601734936
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.5362451524
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.3097964078
+                      },
+                      {
+                        "year": 2045,
+                        "total": 68.127427116
+                      },
+                      {
+                        "year": 2050,
+                        "total": 69.0475587398
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -10120,43 +10157,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.2299995422
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4372025952
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.6143968254
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.2591529638
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8601734936
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.5362451524
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.3097964078
-                      },
-                      {
-                        "year": 2045,
-                        "total": 68.127427116
-                      },
-                      {
-                        "year": 2050,
-                        "total": 69.0475587398
                       }
                     ]
                   },
@@ -10885,7 +10885,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11070,43 +11070,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.8722126912
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -11140,6 +11103,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.2748867869
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.8722126912
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -11334,7 +11334,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11598,7 +11598,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11936,7 +11936,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12539,7 +12539,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12988,7 +12988,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13400,7 +13400,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13812,7 +13812,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14811,7 +14811,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14927,7 +14927,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15043,7 +15043,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15159,7 +15159,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17119,7 +17119,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17811,6 +17811,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4372025952
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.6143968254
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.2591529638
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8601734936
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.5362451524
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.3097964078
+                      },
+                      {
+                        "year": 2045,
+                        "total": 68.127427116
+                      },
+                      {
+                        "year": 2050,
+                        "total": 68.0576524287
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -17844,43 +17881,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.2299995422
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4372025952
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.6143968254
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.2591529638
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8601734936
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.5362451524
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.3097964078
-                      },
-                      {
-                        "year": 2045,
-                        "total": 68.127427116
-                      },
-                      {
-                        "year": 2050,
-                        "total": 68.0576524287
                       }
                     ]
                   },
@@ -18609,7 +18609,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18794,43 +18794,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.8722126912
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -18864,6 +18827,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.6002452374
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.8722126912
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -19058,7 +19058,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19322,7 +19322,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19660,7 +19660,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20263,7 +20263,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20712,7 +20712,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21124,7 +21124,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21536,7 +21536,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22535,7 +22535,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22651,7 +22651,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22767,7 +22767,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22883,7 +22883,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24843,7 +24843,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25535,6 +25535,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4372025952
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.6143968254
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.2591529638
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8601734936
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.5362451524
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.3097964078
+                      },
+                      {
+                        "year": 2045,
+                        "total": 68.127427116
+                      },
+                      {
+                        "year": 2050,
+                        "total": 69.0475587398
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -25568,43 +25605,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.2299995422
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4372025952
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.6143968254
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.2591529638
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8601734936
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.5362451524
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.3097964078
-                      },
-                      {
-                        "year": 2045,
-                        "total": 68.127427116
-                      },
-                      {
-                        "year": 2050,
-                        "total": 69.0475587398
                       }
                     ]
                   },
@@ -26333,7 +26333,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26518,43 +26518,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.8722126912
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -26588,6 +26551,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.2748867869
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.8722126912
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -26782,7 +26782,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27046,7 +27046,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27384,7 +27384,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27987,7 +27987,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28436,7 +28436,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28848,7 +28848,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29260,7 +29260,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -30259,7 +30259,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -30375,7 +30375,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -30491,7 +30491,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -30607,7 +30607,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -32567,7 +32567,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33259,6 +33259,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 66.9566361755
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 69.8110698462
+                      },
+                      {
+                        "year": 2040,
+                        "total": 67.0777686983
+                      },
+                      {
+                        "year": 2045,
+                        "total": 66.4690964818
+                      },
+                      {
+                        "year": 2050,
+                        "total": 65.8477289528
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -33292,43 +33329,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.5638365746
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 66.9566361755
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 69.8110698462
-                      },
-                      {
-                        "year": 2040,
-                        "total": 67.0777686983
-                      },
-                      {
-                        "year": 2045,
-                        "total": 66.4690964818
-                      },
-                      {
-                        "year": 2050,
-                        "total": 65.8477289528
                       }
                     ]
                   },
@@ -34057,7 +34057,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34242,43 +34242,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -34300,6 +34263,43 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0625121854
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -34506,7 +34506,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34770,7 +34770,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35108,7 +35108,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35711,7 +35711,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36160,7 +36160,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36572,7 +36572,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36984,7 +36984,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -37983,7 +37983,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38099,7 +38099,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38215,7 +38215,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38331,7 +38331,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -40291,7 +40291,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -40983,6 +40983,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.25332807
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.1202586889
+                      },
+                      {
+                        "year": 2040,
+                        "total": 67.7168830782
+                      },
+                      {
+                        "year": 2045,
+                        "total": 67.4477494359
+                      },
+                      {
+                        "year": 2050,
+                        "total": 67.2125055641
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -41016,43 +41053,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.6728773117
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.25332807
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.1202586889
-                      },
-                      {
-                        "year": 2040,
-                        "total": 67.7168830782
-                      },
-                      {
-                        "year": 2045,
-                        "total": 67.4477494359
-                      },
-                      {
-                        "year": 2050,
-                        "total": 67.2125055641
                       }
                     ]
                   },
@@ -41781,7 +41781,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41966,43 +41966,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -42024,6 +41987,43 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0625121854
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -42230,7 +42230,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42494,7 +42494,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42832,7 +42832,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -43435,7 +43435,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -43884,7 +43884,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -44296,7 +44296,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -44708,7 +44708,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -45707,7 +45707,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -45823,7 +45823,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -45939,7 +45939,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46055,7 +46055,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48015,7 +48015,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48707,6 +48707,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 66.9866883606
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 69.8084682226
+                      },
+                      {
+                        "year": 2040,
+                        "total": 67.0777686983
+                      },
+                      {
+                        "year": 2045,
+                        "total": 66.4690964818
+                      },
+                      {
+                        "year": 2050,
+                        "total": 65.8477289528
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -48740,43 +48777,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.5638365746
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 66.9866883606
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 69.8084682226
-                      },
-                      {
-                        "year": 2040,
-                        "total": 67.0777686983
-                      },
-                      {
-                        "year": 2045,
-                        "total": 66.4690964818
-                      },
-                      {
-                        "year": 2050,
-                        "total": 65.8477289528
                       }
                     ]
                   },
@@ -49505,7 +49505,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49690,43 +49690,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -49748,6 +49711,43 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0625121854
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -49954,7 +49954,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50218,7 +50218,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50556,7 +50556,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -51159,7 +51159,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -51608,7 +51608,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -52020,7 +52020,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -52432,7 +52432,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53431,7 +53431,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53547,7 +53547,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53663,7 +53663,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53779,7 +53779,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55739,7 +55739,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56431,6 +56431,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.25332807
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.1242516786
+                      },
+                      {
+                        "year": 2040,
+                        "total": 67.7168830782
+                      },
+                      {
+                        "year": 2045,
+                        "total": 67.4477494359
+                      },
+                      {
+                        "year": 2050,
+                        "total": 67.2125055641
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -56464,43 +56501,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.6728773117
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.25332807
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.1242516786
-                      },
-                      {
-                        "year": 2040,
-                        "total": 67.7168830782
-                      },
-                      {
-                        "year": 2045,
-                        "total": 67.4477494359
-                      },
-                      {
-                        "year": 2050,
-                        "total": 67.2125055641
                       }
                     ]
                   },
@@ -57229,7 +57229,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -57414,43 +57414,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -57472,6 +57435,43 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0625121854
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -57678,7 +57678,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -57942,7 +57942,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58280,7 +58280,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58883,7 +58883,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -59332,7 +59332,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -59744,7 +59744,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -60156,7 +60156,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61155,7 +61155,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61271,7 +61271,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61387,7 +61387,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61503,7 +61503,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -63463,7 +63463,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -64155,6 +64155,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 66.9412400573
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.4933219105
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.3028129488
+                      },
+                      {
+                        "year": 2045,
+                        "total": 68.2015107274
+                      },
+                      {
+                        "year": 2050,
+                        "total": 68.1314051002
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -64188,43 +64225,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.5638365746
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 66.9412400573
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.4933219105
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.3028129488
-                      },
-                      {
-                        "year": 2045,
-                        "total": 68.2015107274
-                      },
-                      {
-                        "year": 2050,
-                        "total": 68.1314051002
                       }
                     ]
                   },
@@ -64953,7 +64953,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -65138,43 +65138,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -65208,6 +65171,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.6002452374
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -65402,7 +65402,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -65666,7 +65666,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -66004,7 +66004,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -66607,7 +66607,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67056,7 +67056,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67468,7 +67468,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67880,7 +67880,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68879,7 +68879,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68995,7 +68995,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69111,7 +69111,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69227,7 +69227,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -71187,7 +71187,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -71879,6 +71879,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.25332807
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.7993053198
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.9531577975
+                      },
+                      {
+                        "year": 2045,
+                        "total": 69.2046006322
+                      },
+                      {
+                        "year": 2050,
+                        "total": 69.5409815162
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -71912,43 +71949,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.9817504883
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.25332807
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.7993053198
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.9531577975
-                      },
-                      {
-                        "year": 2045,
-                        "total": 69.2046006322
-                      },
-                      {
-                        "year": 2050,
-                        "total": 69.5409815162
                       }
                     ]
                   },
@@ -72677,7 +72677,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -72862,43 +72862,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -72932,6 +72895,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.700184226
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -73126,7 +73126,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -73390,7 +73390,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -73728,7 +73728,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74331,7 +74331,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74780,7 +74780,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75192,7 +75192,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75604,7 +75604,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76603,7 +76603,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76719,7 +76719,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76835,7 +76835,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76951,7 +76951,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -78911,7 +78911,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -79603,6 +79603,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.0171601623
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.4947870225
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.3028129488
+                      },
+                      {
+                        "year": 2045,
+                        "total": 68.2015107274
+                      },
+                      {
+                        "year": 2050,
+                        "total": 68.1314051002
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -79636,43 +79673,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.5638365746
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.0171601623
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.4947870225
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.3028129488
-                      },
-                      {
-                        "year": 2045,
-                        "total": 68.2015107274
-                      },
-                      {
-                        "year": 2050,
-                        "total": 68.1314051002
                       }
                     ]
                   },
@@ -80401,7 +80401,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -80586,43 +80586,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -80656,6 +80619,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.6002452374
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -80850,7 +80850,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81114,7 +81114,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81452,7 +81452,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -82055,7 +82055,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -82504,7 +82504,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -82916,7 +82916,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -83328,7 +83328,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -84327,7 +84327,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -84443,7 +84443,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -84559,7 +84559,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -84675,7 +84675,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -86635,7 +86635,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -87327,6 +87327,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.25332807
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.8068368882
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.9531577975
+                      },
+                      {
+                        "year": 2045,
+                        "total": 69.2046006322
+                      },
+                      {
+                        "year": 2050,
+                        "total": 69.5409815162
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -87360,43 +87397,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.6728773117
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.25332807
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.8068368882
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.9531577975
-                      },
-                      {
-                        "year": 2045,
-                        "total": 69.2046006322
-                      },
-                      {
-                        "year": 2050,
-                        "total": 69.5409815162
                       }
                     ]
                   },
@@ -88125,7 +88125,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88310,43 +88310,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -88380,6 +88343,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.700184226
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -88574,7 +88574,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88838,7 +88838,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -89176,7 +89176,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -89779,7 +89779,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -90228,7 +90228,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -90640,7 +90640,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -91052,7 +91052,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -92051,7 +92051,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -92167,7 +92167,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -92283,7 +92283,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -92399,7 +92399,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -94359,7 +94359,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -95051,6 +95051,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 66.9618317932
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.4933852702
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.3028129488
+                      },
+                      {
+                        "year": 2045,
+                        "total": 68.2015107274
+                      },
+                      {
+                        "year": 2050,
+                        "total": 68.1314051002
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -95084,43 +95121,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.5638365746
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 66.9618317932
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.4933852702
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.3028129488
-                      },
-                      {
-                        "year": 2045,
-                        "total": 68.2015107274
-                      },
-                      {
-                        "year": 2050,
-                        "total": 68.1314051002
                       }
                     ]
                   },
@@ -95849,7 +95849,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96034,43 +96034,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -96092,6 +96055,43 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0625121854
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -96298,7 +96298,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96562,7 +96562,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96900,7 +96900,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -97503,7 +97503,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -97952,7 +97952,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -98364,7 +98364,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -98776,7 +98776,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -99775,7 +99775,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -99891,7 +99891,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -100007,7 +100007,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -100123,7 +100123,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -102083,7 +102083,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -102775,6 +102775,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.25332807
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.8068368882
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.9531577975
+                      },
+                      {
+                        "year": 2045,
+                        "total": 69.2046006322
+                      },
+                      {
+                        "year": 2050,
+                        "total": 69.5409815162
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -102808,43 +102845,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.6728773117
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.25332807
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.8068368882
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.9531577975
-                      },
-                      {
-                        "year": 2045,
-                        "total": 69.2046006322
-                      },
-                      {
-                        "year": 2050,
-                        "total": 69.5409815162
                       }
                     ]
                   },
@@ -103573,7 +103573,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -103758,43 +103758,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -103828,6 +103791,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1707588732
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -104022,7 +104022,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -104286,7 +104286,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -104624,7 +104624,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -105227,7 +105227,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -105676,7 +105676,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -106088,7 +106088,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -106500,7 +106500,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -107499,7 +107499,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -107615,7 +107615,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -107731,7 +107731,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -107847,7 +107847,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -109807,7 +109807,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -110499,6 +110499,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.0130402893
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.4947870225
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.3028129488
+                      },
+                      {
+                        "year": 2045,
+                        "total": 68.2015107274
+                      },
+                      {
+                        "year": 2050,
+                        "total": 68.1314051002
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -110532,43 +110569,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.5638365746
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.0130402893
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.4947870225
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.3028129488
-                      },
-                      {
-                        "year": 2045,
-                        "total": 68.2015107274
-                      },
-                      {
-                        "year": 2050,
-                        "total": 68.1314051002
                       }
                     ]
                   },
@@ -111297,7 +111297,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -111482,43 +111482,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -111540,6 +111503,43 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0625121854
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
@@ -111746,7 +111746,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -112010,7 +112010,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -112348,7 +112348,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -112951,7 +112951,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -113400,7 +113400,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -113812,7 +113812,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -114224,7 +114224,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -115223,7 +115223,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -115339,7 +115339,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -115455,7 +115455,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -115571,7 +115571,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -117531,7 +117531,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Waste",
+                    "indicatorGroup": "Solid biowaste",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -118223,6 +118223,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Solid biowaste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 63.4374461919
+                      },
+                      {
+                        "year": 2020,
+                        "total": 70.0549506396
+                      },
+                      {
+                        "year": 2025,
+                        "total": 67.25332807
+                      },
+                      {
+                        "year": 2030,
+                        "total": 68.8538519293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 70.8068368882
+                      },
+                      {
+                        "year": 2040,
+                        "total": 68.9531577975
+                      },
+                      {
+                        "year": 2045,
+                        "total": 69.2046006322
+                      },
+                      {
+                        "year": 2050,
+                        "total": 69.5409815162
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -118256,43 +118293,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.6728773117
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 63.4374461919
-                      },
-                      {
-                        "year": 2020,
-                        "total": 70.0549506396
-                      },
-                      {
-                        "year": 2025,
-                        "total": 67.25332807
-                      },
-                      {
-                        "year": 2030,
-                        "total": 68.8538519293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 70.8068368882
-                      },
-                      {
-                        "year": 2040,
-                        "total": 68.9531577975
-                      },
-                      {
-                        "year": 2045,
-                        "total": 69.2046006322
-                      },
-                      {
-                        "year": 2050,
-                        "total": 69.5409815162
                       }
                     ]
                   },
@@ -119021,7 +119021,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -119206,43 +119206,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.954284817
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Straw",
                     "indicatorGroupValues": [
                       {
@@ -119276,6 +119239,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0678811744
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.954284817
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -119470,7 +119470,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -119734,7 +119734,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -120072,7 +120072,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "CO2-captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -120675,7 +120675,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -121124,7 +121124,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -121536,7 +121536,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -121948,7 +121948,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Natural gas",
+                    "indicatorGroup": "Synth. natural gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -122947,7 +122947,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -123063,7 +123063,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -123179,7 +123179,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -123295,7 +123295,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CAPEX",
+                    "indicatorGroup": "Investment costs",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,

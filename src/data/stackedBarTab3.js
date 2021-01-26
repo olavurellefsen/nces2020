@@ -197,43 +197,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 29.3073616028
-                      },
-                      {
-                        "year": 2020,
-                        "total": 21.5865087509
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.4900331497
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0964689255
-                      },
-                      {
-                        "year": 2035,
-                        "total": 28.159444809
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.9615983963
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.9615983963
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.9574575424
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -343,6 +306,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 29.3073616028
+                      },
+                      {
+                        "year": 2020,
+                        "total": 21.5865087509
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.4900331497
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0964689255
+                      },
+                      {
+                        "year": 2035,
+                        "total": 28.159444809
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.9615983963
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.9615983963
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.9574575424
+                      }
+                    ]
                   }
                 ]
               },
@@ -383,43 +383,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 4.8590979576
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.0532779694
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.2359266281
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.1984791756
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.9022059441
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.8810360432
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.3605556488
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.3817504644
                       }
                     ]
                   },
@@ -570,6 +533,43 @@ export default {
                         "total": 68.7230358124
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.0532779694
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.2359266281
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.1984791756
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.9022059441
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.8810360432
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.3605556488
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.3817504644
+                      }
+                    ]
                   }
                 ]
               },
@@ -688,43 +688,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.1167283058
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9849960804
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.5193557739
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.2345225811
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2430393696
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.2150962353
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -795,6 +758,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.1167283058
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9849960804
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.5193557739
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2345225811
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2430393696
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.2150962353
                       }
                     ]
                   }
@@ -952,43 +952,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 60.6458957195
-                      },
-                      {
-                        "year": 2020,
-                        "total": 59.946716547
-                      },
-                      {
-                        "year": 2025,
-                        "total": 60.2068953514
-                      },
-                      {
-                        "year": 2030,
-                        "total": 57.3335088491
-                      },
-                      {
-                        "year": 2035,
-                        "total": 59.3397394419
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8464761972
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8464761972
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8462090492
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -1059,6 +1022,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 60.6458957195
+                      },
+                      {
+                        "year": 2020,
+                        "total": 59.946716547
+                      },
+                      {
+                        "year": 2025,
+                        "total": 60.2068953514
+                      },
+                      {
+                        "year": 2030,
+                        "total": 57.3335088491
+                      },
+                      {
+                        "year": 2035,
+                        "total": 59.3397394419
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8464761972
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8464761972
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8462090492
                       }
                     ]
                   }
@@ -1607,43 +1607,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 51.0346603394
-                      },
-                      {
-                        "year": 2020,
-                        "total": 33.0780057907
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 35.5656490326
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -1788,6 +1751,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 75.0797939301
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 51.0346603394
+                      },
+                      {
+                        "year": 2020,
+                        "total": 33.0780057907
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 35.5656490326
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -2019,43 +2019,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.3633613586
-                      },
-                      {
-                        "year": 2020,
-                        "total": 21.5587277412
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.2494373322
-                      },
-                      {
-                        "year": 2030,
-                        "total": 19.2235741615
-                      },
-                      {
-                        "year": 2035,
-                        "total": 18.1763448715
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.9796066284
-                      },
-                      {
-                        "year": 2045,
-                        "total": 15.9661445618
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.2062036991
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -2241,6 +2204,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.3633613586
+                      },
+                      {
+                        "year": 2020,
+                        "total": 21.5587277412
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.2494373322
+                      },
+                      {
+                        "year": 2030,
+                        "total": 19.2235741615
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.1763448715
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.9796066284
+                      },
+                      {
+                        "year": 2045,
+                        "total": 15.9661445618
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.2062036991
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -2394,43 +2394,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.1474781036
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.8151769638
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -2575,6 +2538,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1233359985
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.1474781036
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.8151769638
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -2769,43 +2769,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 90.2430000305
-                      },
-                      {
-                        "year": 2020,
-                        "total": 89.4330325127
-                      },
-                      {
-                        "year": 2025,
-                        "total": 89.7962889671
-                      },
-                      {
-                        "year": 2030,
-                        "total": 83.709004879
-                      },
-                      {
-                        "year": 2035,
-                        "total": 77.9288172722
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -2950,6 +2913,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.5188999176
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 90.2430000305
+                      },
+                      {
+                        "year": 2020,
+                        "total": 89.4330325127
+                      },
+                      {
+                        "year": 2025,
+                        "total": 89.7962889671
+                      },
+                      {
+                        "year": 2030,
+                        "total": 83.709004879
+                      },
+                      {
+                        "year": 2035,
+                        "total": 77.9288172722
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -4053,43 +4053,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 221.8675537109
-                      },
-                      {
-                        "year": 2030,
-                        "total": 193.8352203369
-                      },
-                      {
-                        "year": 2035,
-                        "total": 221.9082565308
-                      },
-                      {
-                        "year": 2040,
-                        "total": 169.8854827881
-                      },
-                      {
-                        "year": 2045,
-                        "total": 169.8854827881
-                      },
-                      {
-                        "year": 2050,
-                        "total": 156.9514312744
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -4201,6 +4164,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 221.8675537109
+                      },
+                      {
+                        "year": 2030,
+                        "total": 193.8352203369
+                      },
+                      {
+                        "year": 2035,
+                        "total": 221.9082565308
+                      },
+                      {
+                        "year": 2040,
+                        "total": 169.8854827881
+                      },
+                      {
+                        "year": 2045,
+                        "total": 169.8854827881
+                      },
+                      {
+                        "year": 2050,
+                        "total": 156.9514312744
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -4276,43 +4276,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3415.5295410156
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 188.5783920288
-                      },
-                      {
-                        "year": 2050,
-                        "total": 202.1641693115
                       }
                     ]
                   },
@@ -4502,6 +4465,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 188.5783920288
+                      },
+                      {
+                        "year": 2050,
+                        "total": 202.1641693115
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -4618,43 +4618,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 127.5691633224
-                      },
-                      {
-                        "year": 2030,
-                        "total": 103.7241640091
-                      },
-                      {
-                        "year": 2035,
-                        "total": 95.4008131027
-                      },
-                      {
-                        "year": 2040,
-                        "total": 100.8839111328
-                      },
-                      {
-                        "year": 2045,
-                        "total": 98.4762401581
-                      },
-                      {
-                        "year": 2050,
-                        "total": 91.6375179291
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -4725,6 +4688,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 127.5691633224
+                      },
+                      {
+                        "year": 2030,
+                        "total": 103.7241640091
+                      },
+                      {
+                        "year": 2035,
+                        "total": 95.4008131027
+                      },
+                      {
+                        "year": 2040,
+                        "total": 100.8839111328
+                      },
+                      {
+                        "year": 2045,
+                        "total": 98.4762401581
+                      },
+                      {
+                        "year": 2050,
+                        "total": 91.6375179291
                       }
                     ]
                   },
@@ -4882,43 +4882,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.5266704559
-                      },
-                      {
-                        "year": 2030,
-                        "total": 542.6842813492
-                      },
-                      {
-                        "year": 2035,
-                        "total": 273.7605676651
-                      },
-                      {
-                        "year": 2040,
-                        "total": 342.1907262802
-                      },
-                      {
-                        "year": 2045,
-                        "total": 342.1907262802
-                      },
-                      {
-                        "year": 2050,
-                        "total": 342.1253538132
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -5067,6 +5030,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.5266704559
+                      },
+                      {
+                        "year": 2030,
+                        "total": 542.6842813492
+                      },
+                      {
+                        "year": 2035,
+                        "total": 273.7605676651
+                      },
+                      {
+                        "year": 2040,
+                        "total": 342.1907262802
+                      },
+                      {
+                        "year": 2045,
+                        "total": 342.1907262802
+                      },
+                      {
+                        "year": 2050,
+                        "total": 342.1253538132
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -5115,7 +5115,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5268,7 +5268,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5421,7 +5421,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5574,7 +5574,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5844,43 +5844,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.4973578453
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.8262116909
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1842589378
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.2097752094
-                      },
-                      {
-                        "year": 2035,
-                        "total": 5.2567954063
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.3673756123
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.3673756123
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.336139679
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -5988,6 +5951,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 75.0797939301
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.4973578453
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.8262116909
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1842589378
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.2097752094
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.2567954063
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.3673756123
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.3673756123
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.336139679
                       }
                     ]
                   },
@@ -6182,43 +6182,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0978902578
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.0125157833
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.8157074451
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.6041947603
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.5039194822
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.5444167852
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8252695799
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -6404,6 +6367,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0978902578
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.0125157833
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.8157074451
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.6041947603
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.5039194822
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.5444167852
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.8252695799
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -6520,43 +6520,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.6080736518
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.0648340583
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.882704556
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.0400447845
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.9659022093
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.7551317215
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -6590,6 +6553,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1233359985
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.6080736518
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.0648340583
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.882704556
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.0400447845
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9659022093
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.7551317215
                       }
                     ]
                   },
@@ -6747,43 +6747,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.4653188288
-                      },
-                      {
-                        "year": 2020,
-                        "total": 13.3876754045
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.4928210974
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.717064634
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.0304144025
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.2519100606
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.2519100606
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.2498952448
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -6854,6 +6817,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.5188999176
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.4653188288
+                      },
+                      {
+                        "year": 2020,
+                        "total": 13.3876754045
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.4928210974
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.717064634
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.0304144025
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.2519100606
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.2519100606
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.2498952448
                       }
                     ]
                   },
@@ -7096,43 +7096,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 27.1234779358
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.767932415
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.4541435242
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.098608017
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.2931261063
-                      },
-                      {
-                        "year": 2040,
-                        "total": 24.0269145966
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.9729671478
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.9715089798
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -7242,6 +7205,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 27.1234779358
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.767932415
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.4541435242
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.098608017
+                      },
+                      {
+                        "year": 2035,
+                        "total": 25.2931261063
+                      },
+                      {
+                        "year": 2040,
+                        "total": 24.0269145966
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.9729671478
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.9715089798
+                      }
+                    ]
                   }
                 ]
               },
@@ -7282,43 +7282,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.008954525
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.988945961
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.7352733612
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.5906252861
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.6199197769
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.6425225735
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.8678503036
-                      },
-                      {
-                        "year": 2050,
-                        "total": 8.9521574974
                       }
                     ]
                   },
@@ -7469,6 +7432,43 @@ export default {
                         "total": 56.6857357025
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.988945961
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.7352733612
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.5906252861
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.6199197769
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.6425225735
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.8678503036
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8.9521574974
+                      }
+                    ]
                   }
                 ]
               },
@@ -7587,43 +7587,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.9567697048
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9904768467
-                      },
-                      {
-                        "year": 2035,
-                        "total": 15.5003466606
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.2518484592
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2566637993
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.206805706
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -7694,6 +7657,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.9567697048
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9904768467
+                      },
+                      {
+                        "year": 2035,
+                        "total": 15.5003466606
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2518484592
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2566637993
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.206805706
                       }
                     ]
                   }
@@ -7851,43 +7851,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 59.925681591
-                      },
-                      {
-                        "year": 2020,
-                        "total": 65.5971431732
-                      },
-                      {
-                        "year": 2025,
-                        "total": 49.4351961613
-                      },
-                      {
-                        "year": 2030,
-                        "total": 50.0806913376
-                      },
-                      {
-                        "year": 2035,
-                        "total": 59.3749401569
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8483140469
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8483140469
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8483140469
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -7958,6 +7921,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 59.925681591
+                      },
+                      {
+                        "year": 2020,
+                        "total": 65.5971431732
+                      },
+                      {
+                        "year": 2025,
+                        "total": 49.4351961613
+                      },
+                      {
+                        "year": 2030,
+                        "total": 50.0806913376
+                      },
+                      {
+                        "year": 2035,
+                        "total": 59.3749401569
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8483140469
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8483140469
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8483140469
                       }
                     ]
                   }
@@ -8506,43 +8506,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 45.472574234
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 32.0310764313
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1693191528
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -8687,6 +8650,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 72.5200023651
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 45.472574234
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 32.0310764313
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1693191528
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -8918,43 +8918,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.3633613586
-                      },
-                      {
-                        "year": 2020,
-                        "total": 21.420238018
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.7009267807
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.50604105
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.896021843
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.8276834488
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.8153805733
-                      },
-                      {
-                        "year": 2050,
-                        "total": 15.8493700027
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -9140,6 +9103,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.3633613586
+                      },
+                      {
+                        "year": 2020,
+                        "total": 21.420238018
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.7009267807
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.50604105
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.896021843
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.8276834488
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.8153805733
+                      },
+                      {
+                        "year": 2050,
+                        "total": 15.8493700027
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -9293,43 +9293,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.9437146187
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 19.1367154121
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -9474,6 +9437,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1233371943
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.9437146187
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.1367154121
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -9668,43 +9668,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 90.2430009842
-                      },
-                      {
-                        "year": 2020,
-                        "total": 98.8880031109
-                      },
-                      {
-                        "year": 2025,
-                        "total": 73.6420021057
-                      },
-                      {
-                        "year": 2030,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2035,
-                        "total": 77.9288172722
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -9849,6 +9812,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.5190134048
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 90.2430009842
+                      },
+                      {
+                        "year": 2020,
+                        "total": 98.8880031109
+                      },
+                      {
+                        "year": 2025,
+                        "total": 73.6420021057
+                      },
+                      {
+                        "year": 2030,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2035,
+                        "total": 77.9288172722
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -10952,43 +10952,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 221.2394943237
-                      },
-                      {
-                        "year": 2030,
-                        "total": 193.1601715088
-                      },
-                      {
-                        "year": 2035,
-                        "total": 225.6163330078
-                      },
-                      {
-                        "year": 2040,
-                        "total": 173.9481964111
-                      },
-                      {
-                        "year": 2045,
-                        "total": 175.811126709
-                      },
-                      {
-                        "year": 2050,
-                        "total": 163.0620803833
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -11100,6 +11063,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 221.2394943237
+                      },
+                      {
+                        "year": 2030,
+                        "total": 193.1601715088
+                      },
+                      {
+                        "year": 2035,
+                        "total": 225.6163330078
+                      },
+                      {
+                        "year": 2040,
+                        "total": 173.9481964111
+                      },
+                      {
+                        "year": 2045,
+                        "total": 175.811126709
+                      },
+                      {
+                        "year": 2050,
+                        "total": 163.0620803833
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -11175,43 +11175,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3415.5297851562
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 200.9461975098
-                      },
-                      {
-                        "year": 2050,
-                        "total": 241.1437835693
                       }
                     ]
                   },
@@ -11401,6 +11364,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 200.9461975098
+                      },
+                      {
+                        "year": 2050,
+                        "total": 241.1437835693
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -11517,43 +11517,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 125.9601068497
-                      },
-                      {
-                        "year": 2030,
-                        "total": 101.9947214127
-                      },
-                      {
-                        "year": 2035,
-                        "total": 102.9220542908
-                      },
-                      {
-                        "year": 2040,
-                        "total": 98.9616508484
-                      },
-                      {
-                        "year": 2045,
-                        "total": 96.6027698517
-                      },
-                      {
-                        "year": 2050,
-                        "total": 108.0329837799
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -11624,6 +11587,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 125.9601068497
+                      },
+                      {
+                        "year": 2030,
+                        "total": 101.9947214127
+                      },
+                      {
+                        "year": 2035,
+                        "total": 102.9220542908
+                      },
+                      {
+                        "year": 2040,
+                        "total": 98.9616508484
+                      },
+                      {
+                        "year": 2045,
+                        "total": 96.6027698517
+                      },
+                      {
+                        "year": 2050,
+                        "total": 108.0329837799
                       }
                     ]
                   },
@@ -11781,43 +11781,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 542.4924507141
-                      },
-                      {
-                        "year": 2035,
-                        "total": 274.5806236267
-                      },
-                      {
-                        "year": 2040,
-                        "total": 341.9787330627
-                      },
-                      {
-                        "year": 2045,
-                        "total": 341.9787330627
-                      },
-                      {
-                        "year": 2050,
-                        "total": 341.9787330627
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -11966,6 +11929,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 542.4924507141
+                      },
+                      {
+                        "year": 2035,
+                        "total": 274.5806236267
+                      },
+                      {
+                        "year": 2040,
+                        "total": 341.9787330627
+                      },
+                      {
+                        "year": 2045,
+                        "total": 341.9787330627
+                      },
+                      {
+                        "year": 2050,
+                        "total": 341.9787330627
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -12014,7 +12014,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12167,7 +12167,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12320,7 +12320,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12473,7 +12473,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12743,43 +12743,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.4868266582
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.611112833
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1784958839
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.1890254021
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.4912781715
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.2642533779
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.212389946
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.1880795956
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -12887,6 +12850,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 72.5200023651
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.4868266582
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.611112833
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1784958839
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.1890254021
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.4912781715
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.2642533779
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.212389946
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.1880795956
                       }
                     ]
                   },
@@ -13081,43 +13081,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0625103712
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.9002642632
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.8481435776
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.652082324
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.5970827341
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.7768752575
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.5628259182
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -13303,6 +13266,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0625103712
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.9002642632
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.8481435776
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.652082324
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.5970827341
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.7768752575
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.5628259182
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -13419,43 +13419,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.5593601465
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.0116741359
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.1066877246
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.9811081886
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.9084275961
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3905901909
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -13489,6 +13452,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1233371943
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.5593601465
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.0116741359
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.1066877246
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.9811081886
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9084275961
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3905901909
                       }
                     ]
                   },
@@ -13646,43 +13646,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 14.8009197712
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.2329055071
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.8471958041
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.9505972117
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.0237388611
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.2454094887
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.2454094887
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.2454094887
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -13753,6 +13716,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.5190134048
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 14.8009197712
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.2329055071
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.8471958041
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.9505972117
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.0237388611
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.2454094887
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.2454094887
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.2454094887
                       }
                     ]
                   },
@@ -13995,43 +13995,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 27.1234779358
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.767932415
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.8019285202
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.092508316
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.8107948303
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.9401464462
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.9397306442
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.919965744
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -14141,6 +14104,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 27.1234779358
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.767932415
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.8019285202
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.092508316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.8107948303
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.9401464462
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.9397306442
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.919965744
+                      }
+                    ]
                   }
                 ]
               },
@@ -14181,43 +14181,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.3892455101
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.988945961
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.4751501083
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.1098594666
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.998726368
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.9906704426
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.7186069489
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.3499563932
                       }
                     ]
                   },
@@ -14368,6 +14331,43 @@ export default {
                         "total": 66.8711681366
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.988945961
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.4751501083
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.1098594666
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.998726368
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.9906704426
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.7186069489
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.3499563932
+                      }
+                    ]
                   }
                 ]
               },
@@ -14486,43 +14486,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.0018594265
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9834835529
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.1617803574
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.2305400372
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2361748219
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.2215354443
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -14593,6 +14556,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.0018594265
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9834835529
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.1617803574
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2305400372
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2361748219
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.2215354443
                       }
                     ]
                   }
@@ -14750,43 +14750,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 59.925681591
-                      },
-                      {
-                        "year": 2020,
-                        "total": 65.5971431732
-                      },
-                      {
-                        "year": 2025,
-                        "total": 52.0183496475
-                      },
-                      {
-                        "year": 2030,
-                        "total": 50.0915067196
-                      },
-                      {
-                        "year": 2035,
-                        "total": 57.4700729847
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8433448076
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8433448076
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8426225185
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -14857,6 +14820,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 59.925681591
+                      },
+                      {
+                        "year": 2020,
+                        "total": 65.5971431732
+                      },
+                      {
+                        "year": 2025,
+                        "total": 52.0183496475
+                      },
+                      {
+                        "year": 2030,
+                        "total": 50.0915067196
+                      },
+                      {
+                        "year": 2035,
+                        "total": 57.4700729847
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8433448076
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8433448076
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8426225185
                       }
                     ]
                   }
@@ -15405,43 +15405,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 45.472574234
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 31.1068019867
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -15586,6 +15549,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 74.8687782288
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 45.472574234
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 31.1068019867
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -15817,43 +15817,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.3633613586
-                      },
-                      {
-                        "year": 2020,
-                        "total": 21.420238018
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.57280159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 19.1636157036
-                      },
-                      {
-                        "year": 2035,
-                        "total": 18.3022069931
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.1184511185
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.56553936
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1526911259
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -16039,6 +16002,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.3633613586
+                      },
+                      {
+                        "year": 2020,
+                        "total": 21.420238018
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.57280159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 19.1636157036
+                      },
+                      {
+                        "year": 2035,
+                        "total": 18.3022069931
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.1184511185
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.56553936
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1526911259
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -16192,43 +16192,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.0296115875
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.3591976166
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -16373,6 +16336,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1233371943
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.0296115875
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.3591976166
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -16567,43 +16567,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 90.2430009842
-                      },
-                      {
-                        "year": 2020,
-                        "total": 98.8880031109
-                      },
-                      {
-                        "year": 2025,
-                        "total": 77.6390461922
-                      },
-                      {
-                        "year": 2030,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2035,
-                        "total": 75.5933566093
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -16748,6 +16711,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.5190134048
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 90.2430009842
+                      },
+                      {
+                        "year": 2020,
+                        "total": 98.8880031109
+                      },
+                      {
+                        "year": 2025,
+                        "total": 77.6390461922
+                      },
+                      {
+                        "year": 2030,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2035,
+                        "total": 75.5933566093
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -17851,43 +17851,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 223.0303878784
-                      },
-                      {
-                        "year": 2030,
-                        "total": 195.0850448608
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0428085327
-                      },
-                      {
-                        "year": 2040,
-                        "total": 163.02003479
-                      },
-                      {
-                        "year": 2045,
-                        "total": 163.3938751221
-                      },
-                      {
-                        "year": 2050,
-                        "total": 156.7856140137
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -17999,6 +17962,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 223.0303878784
+                      },
+                      {
+                        "year": 2030,
+                        "total": 195.0850448608
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0428085327
+                      },
+                      {
+                        "year": 2040,
+                        "total": 163.02003479
+                      },
+                      {
+                        "year": 2045,
+                        "total": 163.3938751221
+                      },
+                      {
+                        "year": 2050,
+                        "total": 156.7856140137
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -18074,43 +18074,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3415.5297851562
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 197.3076477051
-                      },
-                      {
-                        "year": 2050,
-                        "total": 201.375
                       }
                     ]
                   },
@@ -18300,6 +18263,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 197.3076477051
+                      },
+                      {
+                        "year": 2050,
+                        "total": 201.375
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -18416,43 +18416,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.013133049
-                      },
-                      {
-                        "year": 2030,
-                        "total": 104.2013444901
-                      },
-                      {
-                        "year": 2035,
-                        "total": 93.4606275558
-                      },
-                      {
-                        "year": 2040,
-                        "total": 101.4026412964
-                      },
-                      {
-                        "year": 2045,
-                        "total": 99.0329647064
-                      },
-                      {
-                        "year": 2050,
-                        "total": 91.8638286591
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -18523,6 +18486,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.013133049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 104.2013444901
+                      },
+                      {
+                        "year": 2035,
+                        "total": 93.4606275558
+                      },
+                      {
+                        "year": 2040,
+                        "total": 101.4026412964
+                      },
+                      {
+                        "year": 2045,
+                        "total": 99.0329647064
+                      },
+                      {
+                        "year": 2050,
+                        "total": 91.8638286591
                       }
                     ]
                   },
@@ -18680,43 +18680,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.8307676315
-                      },
-                      {
-                        "year": 2030,
-                        "total": 543.0111293793
-                      },
-                      {
-                        "year": 2035,
-                        "total": 272.3633289337
-                      },
-                      {
-                        "year": 2040,
-                        "total": 342.5519266129
-                      },
-                      {
-                        "year": 2045,
-                        "total": 342.5519266129
-                      },
-                      {
-                        "year": 2050,
-                        "total": 342.3751688004
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -18865,6 +18828,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.8307676315
+                      },
+                      {
+                        "year": 2030,
+                        "total": 543.0111293793
+                      },
+                      {
+                        "year": 2035,
+                        "total": 272.3633289337
+                      },
+                      {
+                        "year": 2040,
+                        "total": 342.5519266129
+                      },
+                      {
+                        "year": 2045,
+                        "total": 342.5519266129
+                      },
+                      {
+                        "year": 2050,
+                        "total": 342.3751688004
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -18913,7 +18913,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19066,7 +19066,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19219,7 +19219,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19372,7 +19372,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19642,43 +19642,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.4868266582
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.611112833
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.28698349
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.2481925488
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.3578505516
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.5754575729
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.5685219765
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.4026694298
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -19786,6 +19749,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 74.8687782288
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.4868266582
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.611112833
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.28698349
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.2481925488
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.3578505516
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.5754575729
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.5685219765
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.4026694298
                       }
                     ]
                   },
@@ -19980,43 +19980,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0625103712
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.025177002
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.8481435776
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.6064447165
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.5039194822
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.7084872723
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8103371859
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -20202,6 +20165,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0625103712
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.025177002
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.8481435776
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.6064447165
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.5039194822
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.7084872723
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.8103371859
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -20318,43 +20318,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.6215144992
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.0795018077
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.8249500394
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.0559573174
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.9829529524
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.7621436119
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -20388,6 +20351,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1233371943
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.6215144992
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.0795018077
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.8249500394
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.0559573174
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9829529524
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.7621436119
                       }
                     ]
                   },
@@ -20545,43 +20545,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 14.8009197712
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.2329055071
-                      },
-                      {
-                        "year": 2025,
-                        "total": 11.4913585782
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.9523632526
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.0031550825
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.2629859447
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.2629859447
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.257538259
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -20652,6 +20615,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.5190134048
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 14.8009197712
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.2329055071
+                      },
+                      {
+                        "year": 2025,
+                        "total": 11.4913585782
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.9523632526
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.0031550825
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.2629859447
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.2629859447
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.257538259
                       }
                     ]
                   },
@@ -20894,43 +20894,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 27.1234779358
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.767932415
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5435695648
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0931606293
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.8205108643
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.9437589645
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.9419755936
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.9325408936
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -21040,6 +21003,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 27.1234779358
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.767932415
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5435695648
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0931606293
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.8205108643
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.9437589645
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.9419755936
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.9325408936
+                      }
+                    ]
                   }
                 ]
               },
@@ -21080,43 +21080,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.6788262427
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 12.988945961
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.4808483124
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.7777013779
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.5753936768
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.2422177792
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.8869643211
-                      },
-                      {
-                        "year": 2050,
-                        "total": 8.9759020805
                       }
                     ]
                   },
@@ -21267,6 +21230,43 @@ export default {
                         "total": 56.0786170959
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 12.988945961
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.4808483124
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.7777013779
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.5753936768
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.2422177792
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.8869643211
+                      },
+                      {
+                        "year": 2050,
+                        "total": 8.9759020805
+                      }
+                    ]
                   }
                 ]
               },
@@ -21385,43 +21385,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 13.0705034733
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9834673405
-                      },
-                      {
-                        "year": 2035,
-                        "total": 14.1712069511
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.2306563854
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2354729176
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1816442013
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -21492,6 +21455,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 13.0705034733
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9834673405
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.1712069511
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2306563854
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2354729176
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1816442013
                       }
                     ]
                   }
@@ -21649,43 +21649,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 59.925681591
-                      },
-                      {
-                        "year": 2020,
-                        "total": 65.5971431732
-                      },
-                      {
-                        "year": 2025,
-                        "total": 49.8593277931
-                      },
-                      {
-                        "year": 2030,
-                        "total": 50.0754048824
-                      },
-                      {
-                        "year": 2035,
-                        "total": 57.5868136883
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8433448076
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8433448076
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.841427207
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -21756,6 +21719,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 59.925681591
+                      },
+                      {
+                        "year": 2020,
+                        "total": 65.5971431732
+                      },
+                      {
+                        "year": 2025,
+                        "total": 49.8593277931
+                      },
+                      {
+                        "year": 2030,
+                        "total": 50.0754048824
+                      },
+                      {
+                        "year": 2035,
+                        "total": 57.5868136883
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8433448076
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8433448076
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.841427207
                       }
                     ]
                   }
@@ -22304,43 +22304,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 45.472574234
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -22485,6 +22448,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 73.4965572357
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 45.472574234
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -22716,43 +22716,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.3633613586
-                      },
-                      {
-                        "year": 2020,
-                        "total": 21.420238018
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.57280159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.7429594994
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.7381544113
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.170586586
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.8473782539
-                      },
-                      {
-                        "year": 2050,
-                        "total": 15.8893342018
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -22938,6 +22901,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.3633613586
+                      },
+                      {
+                        "year": 2020,
+                        "total": 21.420238018
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.57280159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.7429594994
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.7381544113
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.170586586
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.8473782539
+                      },
+                      {
+                        "year": 2050,
+                        "total": 15.8893342018
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -23091,43 +23091,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.1048550606
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.3695735931
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -23272,6 +23235,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1233371943
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.1048550606
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.3695735931
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -23466,43 +23466,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 90.2430009842
-                      },
-                      {
-                        "year": 2020,
-                        "total": 98.8880031109
-                      },
-                      {
-                        "year": 2025,
-                        "total": 74.3550209999
-                      },
-                      {
-                        "year": 2030,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2035,
-                        "total": 75.735273838
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -23647,6 +23610,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.5190134048
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 90.2430009842
+                      },
+                      {
+                        "year": 2020,
+                        "total": 98.8880031109
+                      },
+                      {
+                        "year": 2025,
+                        "total": 74.3550209999
+                      },
+                      {
+                        "year": 2030,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2035,
+                        "total": 75.735273838
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -24750,43 +24750,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 222.8389053345
-                      },
-                      {
-                        "year": 2030,
-                        "total": 194.8792419434
-                      },
-                      {
-                        "year": 2035,
-                        "total": 216.1733016968
-                      },
-                      {
-                        "year": 2040,
-                        "total": 165.5168228149
-                      },
-                      {
-                        "year": 2045,
-                        "total": 173.4702148438
-                      },
-                      {
-                        "year": 2050,
-                        "total": 166.2880706787
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -24898,6 +24861,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 222.8389053345
+                      },
+                      {
+                        "year": 2030,
+                        "total": 194.8792419434
+                      },
+                      {
+                        "year": 2035,
+                        "total": 216.1733016968
+                      },
+                      {
+                        "year": 2040,
+                        "total": 165.5168228149
+                      },
+                      {
+                        "year": 2045,
+                        "total": 173.4702148438
+                      },
+                      {
+                        "year": 2050,
+                        "total": 166.2880706787
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -24973,43 +24973,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3415.5297851562
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 201.4122009277
-                      },
-                      {
-                        "year": 2050,
-                        "total": 241.7331619263
                       }
                     ]
                   },
@@ -25199,6 +25162,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 201.4122009277
+                      },
+                      {
+                        "year": 2050,
+                        "total": 241.7331619263
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -25315,43 +25315,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.0180311203
-                      },
-                      {
-                        "year": 2030,
-                        "total": 104.2066164017
-                      },
-                      {
-                        "year": 2035,
-                        "total": 93.4664564133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 101.4060134888
-                      },
-                      {
-                        "year": 2045,
-                        "total": 99.0471401215
-                      },
-                      {
-                        "year": 2050,
-                        "total": 110.1005840302
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -25422,6 +25385,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.0180311203
+                      },
+                      {
+                        "year": 2030,
+                        "total": 104.2066164017
+                      },
+                      {
+                        "year": 2035,
+                        "total": 93.4664564133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 101.4060134888
+                      },
+                      {
+                        "year": 2045,
+                        "total": 99.0471401215
+                      },
+                      {
+                        "year": 2050,
+                        "total": 110.1005840302
                       }
                     ]
                   },
@@ -25579,43 +25579,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.8307676315
-                      },
-                      {
-                        "year": 2030,
-                        "total": 543.0111293793
-                      },
-                      {
-                        "year": 2035,
-                        "total": 272.3633289337
-                      },
-                      {
-                        "year": 2040,
-                        "total": 342.5519266129
-                      },
-                      {
-                        "year": 2045,
-                        "total": 342.5519266129
-                      },
-                      {
-                        "year": 2050,
-                        "total": 342.8813152313
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -25764,6 +25727,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.8307676315
+                      },
+                      {
+                        "year": 2030,
+                        "total": 543.0111293793
+                      },
+                      {
+                        "year": 2035,
+                        "total": 272.3633289337
+                      },
+                      {
+                        "year": 2040,
+                        "total": 342.5519266129
+                      },
+                      {
+                        "year": 2045,
+                        "total": 342.5519266129
+                      },
+                      {
+                        "year": 2050,
+                        "total": 342.8813152313
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -25812,7 +25812,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25965,7 +25965,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26118,7 +26118,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26271,7 +26271,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26541,43 +26541,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.4868266582
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.611112833
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1916954517
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.2418665886
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.2730731964
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.5148086548
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.36267519
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.205422163
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -26685,6 +26648,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 73.4965572357
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.4868266582
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.611112833
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1916954517
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.2418665886
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.2730731964
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.5148086548
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.36267519
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.205422163
                       }
                     ]
                   },
@@ -26879,43 +26879,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.0625103712
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.0206987858
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.8481435776
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.5891131163
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.5039194822
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.7856340408
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.5739780664
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -27101,6 +27064,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.0625103712
+                      },
+                      {
+                        "year": 2025,
+                        "total": 4.0206987858
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.8481435776
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.5891131163
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.5039194822
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.7856340408
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.5739780664
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -27217,43 +27217,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.621663034
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.0796636939
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.8251286149
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.0560624599
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.9833818674
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.4355971813
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -27287,6 +27250,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1233371943
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.621663034
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.0796636939
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.8251286149
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.0560624599
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9833818674
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.4355971813
                       }
                     ]
                   },
@@ -27444,43 +27444,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 14.8009197712
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.2329055071
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.921681881
-                      },
-                      {
-                        "year": 2030,
-                        "total": 9.9706165195
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.0031550825
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.2629859447
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.2629859447
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.2485219836
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -27551,6 +27514,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.5190134048
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 14.8009197712
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.2329055071
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.921681881
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.9706165195
+                      },
+                      {
+                        "year": 2035,
+                        "total": 8.0031550825
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.2629859447
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.2629859447
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.2485219836
                       }
                     ]
                   },
@@ -27793,43 +27793,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5733222961
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0795736313
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.164264679
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8430480957
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.843047142
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8136425018
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -27939,6 +27902,43 @@ export default {
                         "total": 0.9024637938
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5733222961
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0795736313
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.164264679
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8430480957
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.843047142
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8136425018
+                      }
+                    ]
                   }
                 ]
               },
@@ -27979,43 +27979,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2033371925
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.5990343094
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.2984514236
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.5440881252
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -28166,6 +28129,43 @@ export default {
                         "total": 69.8400592804
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2033371925
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.5990343094
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.2984514236
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.5440881252
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -28284,43 +28284,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3026332855
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9818880558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6038694382
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.218914032
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2268958092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1975872517
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -28391,6 +28354,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3026332855
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9818880558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6038694382
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.218914032
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2268958092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1975872517
                       }
                     ]
                   }
@@ -28548,43 +28548,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.7134460211
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.8915240765
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.7650482655
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8419774771
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8419774771
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8419774771
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -28655,6 +28618,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.7134460211
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.8915240765
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.7650482655
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8419774771
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8419774771
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8419774771
                       }
                     ]
                   }
@@ -29203,43 +29203,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -29384,6 +29347,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 61.1365318298
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -29615,43 +29615,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.8004870415
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.2916989326
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.6364650726
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.157087326
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.935236454
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7628157139
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -29837,6 +29800,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.8004870415
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.2916989326
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.6364650726
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.157087326
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.935236454
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7628157139
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -29990,43 +29990,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -30171,6 +30134,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -30365,43 +30365,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8879992962
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -30546,6 +30509,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.7049508095
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8879992962
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -31649,43 +31649,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 226.82787323
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.6203689575
-                      },
-                      {
-                        "year": 2035,
-                        "total": 217.0232315063
-                      },
-                      {
-                        "year": 2040,
-                        "total": 233.214630127
-                      },
-                      {
-                        "year": 2045,
-                        "total": 233.2146453857
-                      },
-                      {
-                        "year": 2050,
-                        "total": 234.2136764526
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -31797,6 +31760,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 226.82787323
+                      },
+                      {
+                        "year": 2030,
+                        "total": 210.6203689575
+                      },
+                      {
+                        "year": 2035,
+                        "total": 217.0232315063
+                      },
+                      {
+                        "year": 2040,
+                        "total": 233.214630127
+                      },
+                      {
+                        "year": 2045,
+                        "total": 233.2146453857
+                      },
+                      {
+                        "year": 2050,
+                        "total": 234.2136764526
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -31872,43 +31872,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -32098,6 +32061,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -32214,43 +32214,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.4816999435
-                      },
-                      {
-                        "year": 2030,
-                        "total": 105.1787614822
-                      },
-                      {
-                        "year": 2035,
-                        "total": 101.4308309555
-                      },
-                      {
-                        "year": 2040,
-                        "total": 121.3274002075
-                      },
-                      {
-                        "year": 2045,
-                        "total": 121.6147136688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 122.6104698181
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -32321,6 +32284,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.4816999435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 105.1787614822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.4308309555
+                      },
+                      {
+                        "year": 2040,
+                        "total": 121.3274002075
+                      },
+                      {
+                        "year": 2045,
+                        "total": 121.6147136688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 122.6104698181
                       }
                     ]
                   },
@@ -32478,43 +32478,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 545.3835725784
-                      },
-                      {
-                        "year": 2035,
-                        "total": 365.0910682678
-                      },
-                      {
-                        "year": 2040,
-                        "total": 464.6588382721
-                      },
-                      {
-                        "year": 2045,
-                        "total": 464.6588382721
-                      },
-                      {
-                        "year": 2050,
-                        "total": 464.6588382721
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -32663,6 +32626,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 545.3835725784
+                      },
+                      {
+                        "year": 2035,
+                        "total": 365.0910682678
+                      },
+                      {
+                        "year": 2040,
+                        "total": 464.6588382721
+                      },
+                      {
+                        "year": 2045,
+                        "total": 464.6588382721
+                      },
+                      {
+                        "year": 2050,
+                        "total": 464.6588382721
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -32711,7 +32711,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -32864,7 +32864,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33017,7 +33017,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33170,7 +33170,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33440,43 +33440,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1984233856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.7255587578
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.4432296753
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.0582780838
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.0582785606
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.0885238647
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -33584,6 +33547,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 60.2340679169
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1984233856
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.7255587578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4432296753
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.0582780838
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.0582785606
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.0885238647
                       }
                     ]
                   },
@@ -33778,43 +33778,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.6295704842
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.2883336544
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.1231281757
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.2583192587
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -34000,6 +33963,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.6295704842
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.2883336544
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.1231281757
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.2583192587
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -34116,43 +34116,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1804866195
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1095392108
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.069861412
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.668192029
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.6768903136
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7070365548
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -34186,6 +34149,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1804866195
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.1095392108
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.069861412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.668192029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.6768903136
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7070365548
                       }
                     ]
                   },
@@ -34343,43 +34343,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2092134655
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.3709340096
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.8170439303
-                      },
-                      {
-                        "year": 2040,
-                        "total": 14.0156927407
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.0156927407
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.0156927407
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -34450,6 +34413,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.7049508095
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2092134655
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.3709340096
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.8170439303
+                      },
+                      {
+                        "year": 2040,
+                        "total": 14.0156927407
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14.0156927407
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.0156927407
                       }
                     ]
                   },
@@ -34692,43 +34692,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5733222961
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0795736313
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.1352739334
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8432226181
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.8432226181
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8138170242
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -34838,6 +34801,43 @@ export default {
                         "total": 0.1096525639
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5733222961
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0795736313
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.1352739334
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8432226181
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.8432226181
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8138170242
+                      }
+                    ]
                   }
                 ]
               },
@@ -34878,43 +34878,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3967051506
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.5990343094
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.5891795158
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.1075108051
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -35065,6 +35028,43 @@ export default {
                         "total": 69.6841926575
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3967051506
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.5990343094
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.5891795158
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.1075108051
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -35183,43 +35183,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3026332855
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9818880558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6038694382
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.218914032
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2268958092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1975872517
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -35290,6 +35253,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3026332855
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9818880558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6038694382
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.218914032
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2268958092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1975872517
                       }
                     ]
                   }
@@ -35447,43 +35447,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.7138305902
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.7628967762
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.758450985
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8394345045
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8394345045
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8394345045
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -35554,6 +35517,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.7138305902
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.7628967762
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.758450985
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8394345045
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8394345045
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8394345045
                       }
                     ]
                   }
@@ -36102,43 +36102,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -36283,6 +36246,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 65.0842552185
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -36514,43 +36514,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 20.2167544365
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.2916989326
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.2623205185
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.7170495987
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.2792682648
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.0975048542
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -36736,6 +36699,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 20.2167544365
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.2916989326
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.2623205185
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.7170495987
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.2792682648
+                      },
+                      {
+                        "year": 2050,
+                        "total": 18.0975048542
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -36889,43 +36889,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -37070,6 +37033,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -37264,43 +37264,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8880012035
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -37445,6 +37408,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8880012035
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -38548,43 +38548,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 226.82787323
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.6203689575
-                      },
-                      {
-                        "year": 2035,
-                        "total": 216.2531661987
-                      },
-                      {
-                        "year": 2040,
-                        "total": 232.0386886597
-                      },
-                      {
-                        "year": 2045,
-                        "total": 232.0387039185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 233.0377426147
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -38696,6 +38659,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 226.82787323
+                      },
+                      {
+                        "year": 2030,
+                        "total": 210.6203689575
+                      },
+                      {
+                        "year": 2035,
+                        "total": 216.2531661987
+                      },
+                      {
+                        "year": 2040,
+                        "total": 232.0386886597
+                      },
+                      {
+                        "year": 2045,
+                        "total": 232.0387039185
+                      },
+                      {
+                        "year": 2050,
+                        "total": 233.0377426147
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -38771,43 +38771,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -38997,6 +38960,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -39113,43 +39113,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.4816999435
-                      },
-                      {
-                        "year": 2030,
-                        "total": 105.1787614822
-                      },
-                      {
-                        "year": 2035,
-                        "total": 101.4308309555
-                      },
-                      {
-                        "year": 2040,
-                        "total": 121.3274002075
-                      },
-                      {
-                        "year": 2045,
-                        "total": 121.6147136688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 122.6104698181
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -39220,6 +39183,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.4816999435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 105.1787614822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.4308309555
+                      },
+                      {
+                        "year": 2040,
+                        "total": 121.3274002075
+                      },
+                      {
+                        "year": 2045,
+                        "total": 121.6147136688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 122.6104698181
                       }
                     ]
                   },
@@ -39377,43 +39377,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 545.1230745316
-                      },
-                      {
-                        "year": 2035,
-                        "total": 369.0072898865
-                      },
-                      {
-                        "year": 2040,
-                        "total": 472.4123077393
-                      },
-                      {
-                        "year": 2045,
-                        "total": 472.4123077393
-                      },
-                      {
-                        "year": 2050,
-                        "total": 472.4123077393
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -39562,6 +39525,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 545.1230745316
+                      },
+                      {
+                        "year": 2035,
+                        "total": 369.0072898865
+                      },
+                      {
+                        "year": 2040,
+                        "total": 472.4123077393
+                      },
+                      {
+                        "year": 2045,
+                        "total": 472.4123077393
+                      },
+                      {
+                        "year": 2050,
+                        "total": 472.4123077393
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -39610,7 +39610,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39763,7 +39763,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39916,7 +39916,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -40069,7 +40069,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -40339,43 +40339,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1984233856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.7255587578
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.4329032898
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.0221395493
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.0221402645
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.0523855686
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -40483,6 +40446,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.974603653
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1984233856
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.7255587578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4329032898
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.0221395493
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.0221402645
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.0523855686
                       }
                     ]
                   },
@@ -40677,43 +40677,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.7359144688
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.2883336544
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.283015728
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.7835422754
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -40899,6 +40862,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.7359144688
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.2883336544
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.283015728
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.7835422754
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -41015,43 +41015,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1804866195
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1095392108
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.069861412
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.668192029
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.6768903136
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7070365548
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -41085,6 +41048,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1804866195
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.1095392108
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.069861412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.668192029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.6768903136
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7070365548
                       }
                     ]
                   },
@@ -41242,43 +41242,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2091355026
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.3895418048
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.936619401
-                      },
-                      {
-                        "year": 2040,
-                        "total": 14.2539516389
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.2539516389
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.2539516389
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -41349,6 +41312,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2091355026
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.3895418048
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.936619401
+                      },
+                      {
+                        "year": 2040,
+                        "total": 14.2539516389
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14.2539516389
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.2539516389
                       }
                     ]
                   },
@@ -41591,43 +41591,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5733222961
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0795736313
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.164264679
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8430480957
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.8430480957
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8136425018
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -41737,6 +41700,43 @@ export default {
                         "total": 0.9024637938
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5733222961
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0795736313
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.164264679
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8430480957
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.8430480957
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8136425018
+                      }
+                    ]
                   }
                 ]
               },
@@ -41777,43 +41777,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2033371925
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.5990343094
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.2984514236
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.5440881252
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -41964,6 +41927,43 @@ export default {
                         "total": 69.8283195496
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2033371925
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.5990343094
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.2984514236
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.5440881252
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -42082,43 +42082,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3026332855
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9818880558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6038694382
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.218914032
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2268958092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1975872517
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -42189,6 +42152,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3026332855
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9818880558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6038694382
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.218914032
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2268958092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1975872517
                       }
                     ]
                   }
@@ -42346,43 +42346,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.7134460211
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.8915240765
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.7650482655
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8419774771
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8419774771
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8419774771
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -42453,6 +42416,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.7134460211
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.8915240765
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.7650482655
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8419774771
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8419774771
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8419774771
                       }
                     ]
                   }
@@ -43001,43 +43001,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -43182,6 +43145,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 61.1365318298
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -43413,43 +43413,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.8004870415
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.2916989326
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.6364650726
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.157087326
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.9521975517
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7941277027
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -43635,6 +43598,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.8004870415
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.2916989326
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.6364650726
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.157087326
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.9521975517
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7941277027
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -43788,43 +43788,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -43969,6 +43932,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -44163,43 +44163,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8879992962
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -44344,6 +44307,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.7049508095
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8879992962
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -45447,43 +45447,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 226.82787323
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.6203689575
-                      },
-                      {
-                        "year": 2035,
-                        "total": 217.0232315063
-                      },
-                      {
-                        "year": 2040,
-                        "total": 233.214630127
-                      },
-                      {
-                        "year": 2045,
-                        "total": 233.2146377563
-                      },
-                      {
-                        "year": 2050,
-                        "total": 234.2136764526
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -45595,6 +45558,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 226.82787323
+                      },
+                      {
+                        "year": 2030,
+                        "total": 210.6203689575
+                      },
+                      {
+                        "year": 2035,
+                        "total": 217.0232315063
+                      },
+                      {
+                        "year": 2040,
+                        "total": 233.214630127
+                      },
+                      {
+                        "year": 2045,
+                        "total": 233.2146377563
+                      },
+                      {
+                        "year": 2050,
+                        "total": 234.2136764526
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -45670,43 +45670,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -45896,6 +45859,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -46012,43 +46012,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.4816999435
-                      },
-                      {
-                        "year": 2030,
-                        "total": 105.1787614822
-                      },
-                      {
-                        "year": 2035,
-                        "total": 101.4308309555
-                      },
-                      {
-                        "year": 2040,
-                        "total": 121.3274002075
-                      },
-                      {
-                        "year": 2045,
-                        "total": 121.6147136688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 122.6104698181
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -46119,6 +46082,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.4816999435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 105.1787614822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.4308309555
+                      },
+                      {
+                        "year": 2040,
+                        "total": 121.3274002075
+                      },
+                      {
+                        "year": 2045,
+                        "total": 121.6147136688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 122.6104698181
                       }
                     ]
                   },
@@ -46276,43 +46276,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 545.3835725784
-                      },
-                      {
-                        "year": 2035,
-                        "total": 365.0910682678
-                      },
-                      {
-                        "year": 2040,
-                        "total": 464.6588382721
-                      },
-                      {
-                        "year": 2045,
-                        "total": 464.6588382721
-                      },
-                      {
-                        "year": 2050,
-                        "total": 464.6588382721
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -46461,6 +46424,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 545.3835725784
+                      },
+                      {
+                        "year": 2035,
+                        "total": 365.0910682678
+                      },
+                      {
+                        "year": 2040,
+                        "total": 464.6588382721
+                      },
+                      {
+                        "year": 2045,
+                        "total": 464.6588382721
+                      },
+                      {
+                        "year": 2050,
+                        "total": 464.6588382721
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -46509,7 +46509,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46662,7 +46662,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46815,7 +46815,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46968,7 +46968,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47238,43 +47238,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1984233856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.7255587578
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.4432296753
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.0582780838
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.0582783222
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.0885236263
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -47382,6 +47345,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 60.2340679169
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1984233856
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.7255587578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4432296753
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.0582780838
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.0582783222
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.0885236263
                       }
                     ]
                   },
@@ -47576,43 +47576,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.6295704842
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.2883336544
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.1231281757
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.2583192587
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -47798,6 +47761,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.6295704842
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.2883336544
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.1231281757
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.2583192587
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -47914,43 +47914,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1804866195
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1095392108
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.069861412
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.668192029
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.6768903136
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7070365548
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -47984,6 +47947,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1804866195
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.1095392108
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.069861412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.668192029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.6768903136
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7070365548
                       }
                     ]
                   },
@@ -48141,43 +48141,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2092134655
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.3709340096
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.8170439303
-                      },
-                      {
-                        "year": 2040,
-                        "total": 14.0156927407
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.0156927407
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.0156927407
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -48248,6 +48211,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.7049508095
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2092134655
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.3709340096
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.8170439303
+                      },
+                      {
+                        "year": 2040,
+                        "total": 14.0156927407
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14.0156927407
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.0156927407
                       }
                     ]
                   },
@@ -48490,43 +48490,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5733222961
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0795736313
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.1352739334
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8432226181
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.8432226181
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8138170242
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -48636,6 +48599,43 @@ export default {
                         "total": 0.1096525639
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5733222961
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0795736313
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.1352739334
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8432226181
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.8432226181
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8138170242
+                      }
+                    ]
                   }
                 ]
               },
@@ -48676,43 +48676,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.40747118
-                      },
-                      {
-                        "year": 2030,
-                        "total": 10.5990343094
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.5891795158
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.0858047009
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -48863,6 +48826,43 @@ export default {
                         "total": 69.8294715881
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.40747118
+                      },
+                      {
+                        "year": 2030,
+                        "total": 10.5990343094
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.5891795158
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.0858047009
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -48981,43 +48981,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3026332855
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9818880558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6038694382
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.218914032
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2268958092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1975872517
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -49088,6 +49051,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3026332855
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9818880558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6038694382
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.218914032
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2268958092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1975872517
                       }
                     ]
                   }
@@ -49245,43 +49245,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.7138305902
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.7625219822
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.7566390038
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8403996229
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8403996229
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8403996229
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -49352,6 +49315,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.7138305902
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.7625219822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.7566390038
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8403996229
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8403996229
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8403996229
                       }
                     ]
                   }
@@ -49900,43 +49900,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -50081,6 +50044,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 65.1033763885
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -50312,43 +50312,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 20.2399296761
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.2916989326
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.2623205185
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.7110805511
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.2962293625
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.1288177967
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -50534,6 +50497,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 20.2399296761
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.2916989326
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.2623205185
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.7110805511
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.2962293625
+                      },
+                      {
+                        "year": 2050,
+                        "total": 18.1288177967
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -50687,43 +50687,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -50868,6 +50831,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -51062,43 +51062,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8879992962
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8879981041
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -51243,6 +51206,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8879992962
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8879981041
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -52346,43 +52346,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 226.82787323
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.6203689575
-                      },
-                      {
-                        "year": 2035,
-                        "total": 216.2531661987
-                      },
-                      {
-                        "year": 2040,
-                        "total": 232.0386886597
-                      },
-                      {
-                        "year": 2045,
-                        "total": 232.0387039185
-                      },
-                      {
-                        "year": 2050,
-                        "total": 233.0377426147
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -52494,6 +52457,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 226.82787323
+                      },
+                      {
+                        "year": 2030,
+                        "total": 210.6203689575
+                      },
+                      {
+                        "year": 2035,
+                        "total": 216.2531661987
+                      },
+                      {
+                        "year": 2040,
+                        "total": 232.0386886597
+                      },
+                      {
+                        "year": 2045,
+                        "total": 232.0387039185
+                      },
+                      {
+                        "year": 2050,
+                        "total": 233.0377426147
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -52569,43 +52569,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -52795,6 +52758,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -52911,43 +52911,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.4816999435
-                      },
-                      {
-                        "year": 2030,
-                        "total": 105.1787614822
-                      },
-                      {
-                        "year": 2035,
-                        "total": 101.4308309555
-                      },
-                      {
-                        "year": 2040,
-                        "total": 121.3274002075
-                      },
-                      {
-                        "year": 2045,
-                        "total": 121.6147136688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 122.6104698181
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -53018,6 +52981,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.4816999435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 105.1787614822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.4308309555
+                      },
+                      {
+                        "year": 2040,
+                        "total": 121.3274002075
+                      },
+                      {
+                        "year": 2045,
+                        "total": 121.6147136688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 122.6104698181
                       }
                     ]
                   },
@@ -53175,43 +53175,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 545.2861299515
-                      },
-                      {
-                        "year": 2035,
-                        "total": 369.3191184998
-                      },
-                      {
-                        "year": 2040,
-                        "total": 471.7786407471
-                      },
-                      {
-                        "year": 2045,
-                        "total": 471.7786407471
-                      },
-                      {
-                        "year": 2050,
-                        "total": 471.7786407471
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -53360,6 +53323,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 545.2861299515
+                      },
+                      {
+                        "year": 2035,
+                        "total": 369.3191184998
+                      },
+                      {
+                        "year": 2040,
+                        "total": 471.7786407471
+                      },
+                      {
+                        "year": 2045,
+                        "total": 471.7786407471
+                      },
+                      {
+                        "year": 2050,
+                        "total": 471.7786407471
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -53408,7 +53408,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53561,7 +53561,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53714,7 +53714,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53867,7 +53867,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54137,43 +54137,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1984233856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.7255587578
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.4329032898
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.0221395493
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.0221402645
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.0523855686
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -54281,6 +54244,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.993724823
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1984233856
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.7255587578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4329032898
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.0221395493
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.0221402645
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.0523855686
                       }
                     ]
                   },
@@ -54475,43 +54475,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.7418351173
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.2883336544
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.283015728
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.7968956232
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -54697,6 +54660,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.7418351173
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.2883336544
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.283015728
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.7968956232
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -54813,43 +54813,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1804866195
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1095392108
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.069861412
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.668192029
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.6768903136
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7070365548
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -54883,6 +54846,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1804866195
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.1095392108
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.069861412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.668192029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.6768903136
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7070365548
                       }
                     ]
                   },
@@ -55040,43 +55040,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2091353238
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.3943715692
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.9457813501
-                      },
-                      {
-                        "year": 2040,
-                        "total": 14.2344890535
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.2344890535
-                      },
-                      {
-                        "year": 2050,
-                        "total": 14.2344890535
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -55147,6 +55110,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2091353238
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.3943715692
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.9457813501
+                      },
+                      {
+                        "year": 2040,
+                        "total": 14.2344890535
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14.2344890535
+                      },
+                      {
+                        "year": 2050,
+                        "total": 14.2344890535
                       }
                     ]
                   },
@@ -55389,43 +55389,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5800161362
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0793437958
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.5604038239
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8912439346
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.8906021118
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8555364609
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -55535,6 +55498,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5800161362
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0793437958
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.5604038239
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8912439346
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.8906021118
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8555364609
+                      }
+                    ]
                   }
                 ]
               },
@@ -55575,43 +55575,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2033371925
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.9368042946
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.2946105003
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.513081789
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -55762,6 +55725,43 @@ export default {
                         "total": 69.8400630951
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2033371925
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.9368042946
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.2946105003
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.513081789
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -55880,43 +55880,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2553482056
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9834835529
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6099436283
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.2305400372
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2361748219
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.2215354443
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -55987,6 +55950,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2553482056
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9834835529
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6099436283
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2305400372
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2361748219
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.2215354443
                       }
                     ]
                   }
@@ -56144,43 +56144,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.7134455442
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.7482768297
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.799569726
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.9197276831
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.9197276831
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.9193898439
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -56251,6 +56214,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.7134455442
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.7482768297
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.799569726
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.9197276831
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.9197276831
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.9193898439
                       }
                     ]
                   }
@@ -56799,43 +56799,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -56980,6 +56943,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.2261505127
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -57211,43 +57211,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.8004870415
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5715088844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.62819767
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.4049291611
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.8532776833
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.2843420506
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -57433,6 +57396,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.8004870415
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.5715088844
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.62819767
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.4049291611
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.8532776833
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.2843420506
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -57586,43 +57586,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -57767,6 +57730,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -57961,43 +57961,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8879992962
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -58142,6 +58105,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6637167931
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8879992962
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -59245,43 +59245,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 226.8954620361
-                      },
-                      {
-                        "year": 2030,
-                        "total": 199.2392807007
-                      },
-                      {
-                        "year": 2035,
-                        "total": 195.8064956665
-                      },
-                      {
-                        "year": 2040,
-                        "total": 161.2078323364
-                      },
-                      {
-                        "year": 2045,
-                        "total": 169.2168731689
-                      },
-                      {
-                        "year": 2050,
-                        "total": 166.5610961914
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -59393,6 +59356,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 226.8954620361
+                      },
+                      {
+                        "year": 2030,
+                        "total": 199.2392807007
+                      },
+                      {
+                        "year": 2035,
+                        "total": 195.8064956665
+                      },
+                      {
+                        "year": 2040,
+                        "total": 161.2078323364
+                      },
+                      {
+                        "year": 2045,
+                        "total": 169.2168731689
+                      },
+                      {
+                        "year": 2050,
+                        "total": 166.5610961914
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -59468,43 +59468,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -59694,6 +59657,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -59810,43 +59810,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.013133049
-                      },
-                      {
-                        "year": 2030,
-                        "total": 104.2013444901
-                      },
-                      {
-                        "year": 2035,
-                        "total": 93.4606275558
-                      },
-                      {
-                        "year": 2040,
-                        "total": 101.4026412964
-                      },
-                      {
-                        "year": 2045,
-                        "total": 99.0329647064
-                      },
-                      {
-                        "year": 2050,
-                        "total": 91.8638286591
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -59917,6 +59880,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.013133049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 104.2013444901
+                      },
+                      {
+                        "year": 2035,
+                        "total": 93.4606275558
+                      },
+                      {
+                        "year": 2040,
+                        "total": 101.4026412964
+                      },
+                      {
+                        "year": 2045,
+                        "total": 99.0329647064
+                      },
+                      {
+                        "year": 2050,
+                        "total": 91.8638286591
                       }
                     ]
                   },
@@ -60074,43 +60074,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.5739173889
-                      },
-                      {
-                        "year": 2030,
-                        "total": 556.5218067169
-                      },
-                      {
-                        "year": 2035,
-                        "total": 334.2070236206
-                      },
-                      {
-                        "year": 2040,
-                        "total": 341.038105011
-                      },
-                      {
-                        "year": 2045,
-                        "total": 341.038105011
-                      },
-                      {
-                        "year": 2050,
-                        "total": 340.9554262161
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -60259,6 +60222,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.5739173889
+                      },
+                      {
+                        "year": 2030,
+                        "total": 556.5218067169
+                      },
+                      {
+                        "year": 2035,
+                        "total": 334.2070236206
+                      },
+                      {
+                        "year": 2040,
+                        "total": 341.038105011
+                      },
+                      {
+                        "year": 2045,
+                        "total": 341.038105011
+                      },
+                      {
+                        "year": 2050,
+                        "total": 340.9554262161
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -60307,7 +60307,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -60460,7 +60460,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -60613,7 +60613,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -60766,7 +60766,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61036,43 +61036,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.2378742695
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.3758864403
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.7995009422
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.8461654186
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.6922192574
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.385240078
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -61180,6 +61143,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.2261505127
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.2378742695
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.3758864403
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.7995009422
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.8461654186
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.6922192574
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.385240078
                       }
                     ]
                   },
@@ -61374,43 +61374,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.6295704842
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.9066599607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.1210160255
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.4364763498
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -61596,6 +61559,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.6295704842
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.9066599607
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.1210160255
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.4364763498
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -61712,43 +61712,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1843335032
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.0795018077
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.8249500394
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.0559573174
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.9829529524
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.7621436119
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -61782,6 +61745,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1843335032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.0795018077
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.8249500394
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.0559573174
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9829529524
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.7621436119
                       }
                     ]
                   },
@@ -61939,43 +61939,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2092140019
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.7244404852
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.8557269275
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.2174179852
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.2174179852
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.214869827
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -62046,6 +62009,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6637167931
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2092140019
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.7244404852
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.8557269275
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.2174179852
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.2174179852
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.214869827
                       }
                     ]
                   },
@@ -62288,43 +62288,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5498628616
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0845651627
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.6116991043
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.9087514877
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.9079341888
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8626184464
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -62434,6 +62397,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5498628616
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0845651627
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.6116991043
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.9087514877
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.9079341888
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8626184464
+                      }
+                    ]
                   }
                 ]
               },
@@ -62474,43 +62474,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3921113014
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.9368042946
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.5919113159
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.0759284496
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -62661,6 +62624,43 @@ export default {
                         "total": 69.838010788
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3921113014
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.9368042946
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.5919113159
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.0759284496
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -62779,43 +62779,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2553482056
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9834835529
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6099436283
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.2305400372
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2361748219
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.2215354443
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -62886,6 +62849,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2553482056
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9834835529
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6099436283
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2305400372
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2361748219
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.2215354443
                       }
                     ]
                   }
@@ -63043,43 +63043,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.7134481668
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.7449508905
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.7956680059
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.9209955931
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.9209955931
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.9206577539
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -63150,6 +63113,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.7134481668
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.7449508905
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.7956680059
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.9209955931
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.9209955931
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.9206577539
                       }
                     ]
                   }
@@ -63698,43 +63698,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -63879,6 +63842,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 63.0273704529
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -64110,43 +64110,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 20.2068638802
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5715088844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.2682008743
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.7251291275
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.2799186707
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.086055994
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -64332,6 +64295,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 20.2068638802
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.5715088844
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.2682008743
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.7251291275
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.2799186707
+                      },
+                      {
+                        "year": 2050,
+                        "total": 18.086055994
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -64485,43 +64485,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -64666,6 +64629,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -64860,43 +64860,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8879988194
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -65041,6 +65004,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8879988194
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -66144,43 +66144,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 225.3623809814
-                      },
-                      {
-                        "year": 2030,
-                        "total": 197.5914993286
-                      },
-                      {
-                        "year": 2035,
-                        "total": 203.1288909912
-                      },
-                      {
-                        "year": 2040,
-                        "total": 160.7007217407
-                      },
-                      {
-                        "year": 2045,
-                        "total": 167.9671783447
-                      },
-                      {
-                        "year": 2050,
-                        "total": 171.4483184814
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -66292,6 +66255,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 225.3623809814
+                      },
+                      {
+                        "year": 2030,
+                        "total": 197.5914993286
+                      },
+                      {
+                        "year": 2035,
+                        "total": 203.1288909912
+                      },
+                      {
+                        "year": 2040,
+                        "total": 160.7007217407
+                      },
+                      {
+                        "year": 2045,
+                        "total": 167.9671783447
+                      },
+                      {
+                        "year": 2050,
+                        "total": 171.4483184814
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -66367,43 +66367,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -66593,6 +66556,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -66709,43 +66709,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.013133049
-                      },
-                      {
-                        "year": 2030,
-                        "total": 104.2013444901
-                      },
-                      {
-                        "year": 2035,
-                        "total": 93.4606275558
-                      },
-                      {
-                        "year": 2040,
-                        "total": 101.4026412964
-                      },
-                      {
-                        "year": 2045,
-                        "total": 99.0329647064
-                      },
-                      {
-                        "year": 2050,
-                        "total": 91.8638286591
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -66816,6 +66779,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.013133049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 104.2013444901
+                      },
+                      {
+                        "year": 2035,
+                        "total": 93.4606275558
+                      },
+                      {
+                        "year": 2040,
+                        "total": 101.4026412964
+                      },
+                      {
+                        "year": 2045,
+                        "total": 99.0329647064
+                      },
+                      {
+                        "year": 2050,
+                        "total": 91.8638286591
                       }
                     ]
                   },
@@ -66973,43 +66973,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.5739173889
-                      },
-                      {
-                        "year": 2030,
-                        "total": 556.7586956024
-                      },
-                      {
-                        "year": 2035,
-                        "total": 335.2493543625
-                      },
-                      {
-                        "year": 2040,
-                        "total": 341.0173530579
-                      },
-                      {
-                        "year": 2045,
-                        "total": 341.0173530579
-                      },
-                      {
-                        "year": 2050,
-                        "total": 340.934674263
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -67158,6 +67121,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.5739173889
+                      },
+                      {
+                        "year": 2030,
+                        "total": 556.7586956024
+                      },
+                      {
+                        "year": 2035,
+                        "total": 335.2493543625
+                      },
+                      {
+                        "year": 2040,
+                        "total": 341.0173530579
+                      },
+                      {
+                        "year": 2045,
+                        "total": 341.0173530579
+                      },
+                      {
+                        "year": 2050,
+                        "total": 340.934674263
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -67206,7 +67206,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67359,7 +67359,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67512,7 +67512,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67665,7 +67665,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67935,43 +67935,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.2302210331
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.3252365589
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.5821769238
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.7637717724
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.6242513657
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2348942757
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -68079,6 +68042,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 63.0273704529
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.2302210331
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.3252365589
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.5821769238
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.7637717724
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.6242513657
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2348942757
                       }
                     ]
                   },
@@ -68273,43 +68273,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.7333877087
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.9066599607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.2845182419
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.8133746386
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -68495,6 +68458,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.7333877087
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.9066599607
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.2845182419
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.8133746386
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -68611,43 +68611,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1843335032
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.0795018077
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.8249500394
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.0559573174
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.9829529524
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.7621436119
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -68681,6 +68644,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1843335032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.0795018077
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.8249500394
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.0559573174
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9829529524
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.7621436119
                       }
                     ]
                   },
@@ -68838,43 +68838,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2092135847
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.7238753736
-                      },
-                      {
-                        "year": 2035,
-                        "total": 9.8869542181
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.2167955339
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.2167955339
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.2142473757
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -68945,6 +68908,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2092135847
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.7238753736
+                      },
+                      {
+                        "year": 2035,
+                        "total": 9.8869542181
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.2167955339
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.2167955339
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.2142473757
                       }
                     ]
                   },
@@ -69187,43 +69187,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.6864080429
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0760564804
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.2723178864
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8809938431
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.8814811707
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8394565582
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -69333,6 +69296,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.6864080429
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0760564804
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.2723178864
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8809938431
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.8814811707
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8394565582
+                      }
+                    ]
                   }
                 ]
               },
@@ -69373,43 +69373,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2033371925
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.9368042946
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.278544426
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.513081789
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -69560,6 +69523,43 @@ export default {
                         "total": 69.838010788
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2033371925
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.9368042946
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.278544426
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.513081789
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -69678,43 +69678,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2553482056
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9834835529
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6114549637
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.2301235199
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.23564291
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.2210037708
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -69785,6 +69748,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2553482056
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9834835529
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6114549637
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2301235199
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.23564291
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.2210037708
                       }
                     ]
                   }
@@ -69942,43 +69942,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.7134469748
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.8167455196
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.7391693592
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8680852652
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8680852652
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8680852652
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -70049,6 +70012,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.7134469748
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.8167455196
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.7391693592
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8680852652
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8680852652
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8680852652
                       }
                     ]
                   }
@@ -70597,43 +70597,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -70778,6 +70741,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.6200275421
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -71009,43 +71009,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.8004870415
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5715088844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.62819767
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.2018489838
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.9521975517
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.3804647923
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -71231,6 +71194,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.8004870415
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.5715088844
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.62819767
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.2018489838
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.9521975517
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.3804647923
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -71384,43 +71384,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -71565,6 +71528,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -71759,43 +71759,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8880016804
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -71940,6 +71903,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6637167931
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8880016804
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -73043,43 +73043,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 227.8605957031
-                      },
-                      {
-                        "year": 2030,
-                        "total": 200.2766265869
-                      },
-                      {
-                        "year": 2035,
-                        "total": 191.3190231323
-                      },
-                      {
-                        "year": 2040,
-                        "total": 162.3587646484
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.7063140869
-                      },
-                      {
-                        "year": 2050,
-                        "total": 167.8205032349
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -73191,6 +73154,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 227.8605957031
+                      },
+                      {
+                        "year": 2030,
+                        "total": 200.2766265869
+                      },
+                      {
+                        "year": 2035,
+                        "total": 191.3190231323
+                      },
+                      {
+                        "year": 2040,
+                        "total": 162.3587646484
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.7063140869
+                      },
+                      {
+                        "year": 2050,
+                        "total": 167.8205032349
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -73266,43 +73266,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -73492,6 +73455,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -73608,43 +73608,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.013133049
-                      },
-                      {
-                        "year": 2030,
-                        "total": 104.2013444901
-                      },
-                      {
-                        "year": 2035,
-                        "total": 93.4018621445
-                      },
-                      {
-                        "year": 2040,
-                        "total": 101.758972168
-                      },
-                      {
-                        "year": 2045,
-                        "total": 99.9706554413
-                      },
-                      {
-                        "year": 2050,
-                        "total": 93.5099983215
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -73715,6 +73678,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.013133049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 104.2013444901
+                      },
+                      {
+                        "year": 2035,
+                        "total": 93.4018621445
+                      },
+                      {
+                        "year": 2040,
+                        "total": 101.758972168
+                      },
+                      {
+                        "year": 2045,
+                        "total": 99.9706554413
+                      },
+                      {
+                        "year": 2050,
+                        "total": 93.5099983215
                       }
                     ]
                   },
@@ -73872,43 +73872,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 549.7987642288
-                      },
-                      {
-                        "year": 2035,
-                        "total": 373.5353431702
-                      },
-                      {
-                        "year": 2040,
-                        "total": 447.4997196198
-                      },
-                      {
-                        "year": 2045,
-                        "total": 447.4997196198
-                      },
-                      {
-                        "year": 2050,
-                        "total": 447.4997196198
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -74057,6 +74020,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 549.7987642288
+                      },
+                      {
+                        "year": 2035,
+                        "total": 373.5353431702
+                      },
+                      {
+                        "year": 2040,
+                        "total": 447.4997196198
+                      },
+                      {
+                        "year": 2045,
+                        "total": 447.4997196198
+                      },
+                      {
+                        "year": 2050,
+                        "total": 447.4997196198
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -74105,7 +74105,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74258,7 +74258,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74411,7 +74411,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74564,7 +74564,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74834,43 +74834,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.2484853268
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.407772541
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.8662524223
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.8814544678
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.7202510834
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.4032623768
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -74978,6 +74941,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.6200275421
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.2484853268
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.407772541
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.8662524223
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.8814544678
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.7202510834
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.4032623768
                       }
                     ]
                   },
@@ -75172,43 +75172,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.6295704842
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.9066599607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.1336416006
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.3104609251
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -75394,6 +75357,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.6295704842
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.9066599607
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.1336416006
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.3104609251
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -75510,43 +75510,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1843335032
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.0795018077
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.823189497
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.0669065714
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.011772573
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.8127515912
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -75580,6 +75543,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1843335032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.0795018077
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.823189497
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.0669065714
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.011772573
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.8127515912
                       }
                     ]
                   },
@@ -75737,43 +75737,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2092130482
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5148884654
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11.0651489794
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.4886665642
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.4886665642
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.4886665642
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -75844,6 +75807,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6637167931
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2092130482
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.5148884654
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.0651489794
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.4886665642
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.4886665642
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.4886665642
                       }
                     ]
                   },
@@ -76086,43 +76086,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5844984055
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0825614929
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.5965490341
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.9010734558
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.9000701904
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8517379761
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -76232,6 +76195,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5844984055
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0825614929
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.5965490341
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.9010734558
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.9000701904
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8517379761
+                      }
+                    ]
                   }
                 ]
               },
@@ -76272,43 +76272,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3970236778
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.9368042946
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.3969931602
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.0781362057
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -76459,6 +76422,43 @@ export default {
                         "total": 69.838010788
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3970236778
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.9368042946
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.3969931602
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.0781362057
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -76577,43 +76577,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2553482056
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9834835529
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6114549637
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.2301235199
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.23564291
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.2210037708
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -76684,6 +76647,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2553482056
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9834835529
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6114549637
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2301235199
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.23564291
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.2210037708
                       }
                     ]
                   }
@@ -76841,43 +76841,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.713450551
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.8281242847
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.7183117867
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8656443357
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8656443357
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8656443357
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -76948,6 +76911,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.713450551
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.8281242847
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.7183117867
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8656443357
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8656443357
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8656443357
                       }
                     ]
                   }
@@ -77496,43 +77496,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -77677,6 +77640,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.1008739471
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -77908,43 +77908,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 20.2174401283
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5715088844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.2540531158
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.7298812866
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.2962293625
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.1288177967
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -78130,6 +78093,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 20.2174401283
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.5715088844
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.2540531158
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.7298812866
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.2962293625
+                      },
+                      {
+                        "year": 2050,
+                        "total": 18.1288177967
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -78283,43 +78283,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -78464,6 +78427,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -78658,43 +78658,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8879973888
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -78839,6 +78802,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8879973888
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -79942,43 +79942,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 225.9508743286
-                      },
-                      {
-                        "year": 2030,
-                        "total": 198.2240219116
-                      },
-                      {
-                        "year": 2035,
-                        "total": 200.1641693115
-                      },
-                      {
-                        "year": 2040,
-                        "total": 160.0843505859
-                      },
-                      {
-                        "year": 2045,
-                        "total": 167.9698944092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 172.5840911865
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -80090,6 +80053,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 225.9508743286
+                      },
+                      {
+                        "year": 2030,
+                        "total": 198.2240219116
+                      },
+                      {
+                        "year": 2035,
+                        "total": 200.1641693115
+                      },
+                      {
+                        "year": 2040,
+                        "total": 160.0843505859
+                      },
+                      {
+                        "year": 2045,
+                        "total": 167.9698944092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 172.5840911865
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -80165,43 +80165,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -80391,6 +80354,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -80507,43 +80507,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.013133049
-                      },
-                      {
-                        "year": 2030,
-                        "total": 104.2013444901
-                      },
-                      {
-                        "year": 2035,
-                        "total": 93.4018621445
-                      },
-                      {
-                        "year": 2040,
-                        "total": 101.758972168
-                      },
-                      {
-                        "year": 2045,
-                        "total": 99.9706554413
-                      },
-                      {
-                        "year": 2050,
-                        "total": 92.8015193939
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -80614,6 +80577,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.013133049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 104.2013444901
+                      },
+                      {
+                        "year": 2035,
+                        "total": 93.4018621445
+                      },
+                      {
+                        "year": 2040,
+                        "total": 101.758972168
+                      },
+                      {
+                        "year": 2045,
+                        "total": 99.9706554413
+                      },
+                      {
+                        "year": 2050,
+                        "total": 92.8015193939
                       }
                     ]
                   },
@@ -80771,43 +80771,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 549.3547334671
-                      },
-                      {
-                        "year": 2035,
-                        "total": 371.860502243
-                      },
-                      {
-                        "year": 2040,
-                        "total": 447.9645729065
-                      },
-                      {
-                        "year": 2045,
-                        "total": 447.9645729065
-                      },
-                      {
-                        "year": 2050,
-                        "total": 447.9645729065
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -80956,6 +80919,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 549.3547334671
+                      },
+                      {
+                        "year": 2035,
+                        "total": 371.860502243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 447.9645729065
+                      },
+                      {
+                        "year": 2045,
+                        "total": 447.9645729065
+                      },
+                      {
+                        "year": 2050,
+                        "total": 447.9645729065
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -81004,7 +81004,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81157,7 +81157,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81310,7 +81310,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81463,7 +81463,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81733,43 +81733,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.2363777161
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.3446788788
-                      },
-                      {
-                        "year": 2035,
-                        "total": 4.6765973568
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.8117160797
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.6603848934
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2397413254
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -81877,6 +81840,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.1008739471
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.2363777161
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.3446788788
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.6765973568
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.8117160797
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.6603848934
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2397413254
                       }
                     ]
                   },
@@ -82071,43 +82071,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.7360897064
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.9066599607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.4289140701
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.814588666
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -82293,6 +82256,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.7360897064
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.9066599607
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.4289140701
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.814588666
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -82409,43 +82409,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1843335032
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.0795018077
-                      },
-                      {
-                        "year": 2035,
-                        "total": 2.823189497
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.0669065714
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.011772573
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.7909632325
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -82479,6 +82442,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1243092008
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1843335032
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.0795018077
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.823189497
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.0669065714
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.011772573
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.7909632325
                       }
                     ]
                   },
@@ -82636,43 +82636,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2092128098
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.4996244311
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11.015096128
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.5029228628
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.5029228628
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.5029228628
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -82743,6 +82706,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2092128098
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.4996244311
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.015096128
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.5029228628
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.5029228628
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.5029228628
                       }
                     ]
                   },
@@ -82985,43 +82985,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5733222961
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0795736313
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.1411123276
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8431873322
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.8431873322
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8137817383
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -83131,6 +83094,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5733222961
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0795736313
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.1411123276
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8431873322
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.8431873322
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8137817383
+                      }
+                    ]
                   }
                 ]
               },
@@ -83171,43 +83171,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2033371925
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.9368042946
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.3050246239
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.513081789
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -83358,6 +83321,43 @@ export default {
                         "total": 69.8400611877
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2033371925
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.9368042946
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.3050246239
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.513081789
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -83476,43 +83476,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3022670746
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9818880558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6038694382
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.218914032
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2268958092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1975872517
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -83583,6 +83546,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3022670746
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9818880558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6038694382
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.218914032
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2268958092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1975872517
                       }
                     ]
                   }
@@ -83740,43 +83740,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.721101284
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.8279807568
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.726082325
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.858930707
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.858930707
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.858930707
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -83847,6 +83810,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.721101284
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.8279807568
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.726082325
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.858930707
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.858930707
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.858930707
                       }
                     ]
                   }
@@ -84395,43 +84395,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -84576,6 +84539,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 59.8533630371
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -84807,43 +84807,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.8004870415
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5715088844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.6506147385
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.157087326
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.924343586
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.5269157887
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -85029,6 +84992,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.8004870415
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.5715088844
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.6506147385
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.157087326
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.924343586
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.5269157887
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -85182,43 +85182,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -85363,6 +85326,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1235801987
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -85557,43 +85557,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8880019188
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -85738,6 +85701,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8880019188
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -86841,43 +86841,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 226.82787323
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.6203689575
-                      },
-                      {
-                        "year": 2035,
-                        "total": 216.4082717896
-                      },
-                      {
-                        "year": 2040,
-                        "total": 232.2755432129
-                      },
-                      {
-                        "year": 2045,
-                        "total": 232.2755737305
-                      },
-                      {
-                        "year": 2050,
-                        "total": 233.2745895386
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -86989,6 +86952,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 226.82787323
+                      },
+                      {
+                        "year": 2030,
+                        "total": 210.6203689575
+                      },
+                      {
+                        "year": 2035,
+                        "total": 216.4082717896
+                      },
+                      {
+                        "year": 2040,
+                        "total": 232.2755432129
+                      },
+                      {
+                        "year": 2045,
+                        "total": 232.2755737305
+                      },
+                      {
+                        "year": 2050,
+                        "total": 233.2745895386
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -87064,43 +87064,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -87290,6 +87253,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -87406,43 +87406,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.4816999435
-                      },
-                      {
-                        "year": 2030,
-                        "total": 105.1787614822
-                      },
-                      {
-                        "year": 2035,
-                        "total": 101.4308309555
-                      },
-                      {
-                        "year": 2040,
-                        "total": 121.3274002075
-                      },
-                      {
-                        "year": 2045,
-                        "total": 121.6147136688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 122.6104698181
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -87513,6 +87476,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.4816999435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 105.1787614822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.4308309555
+                      },
+                      {
+                        "year": 2040,
+                        "total": 121.3274002075
+                      },
+                      {
+                        "year": 2045,
+                        "total": 121.6147136688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 122.6104698181
                       }
                     ]
                   },
@@ -87670,43 +87670,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 548.426987648
-                      },
-                      {
-                        "year": 2035,
-                        "total": 375.3160963058
-                      },
-                      {
-                        "year": 2040,
-                        "total": 459.5992279053
-                      },
-                      {
-                        "year": 2045,
-                        "total": 459.5992279053
-                      },
-                      {
-                        "year": 2050,
-                        "total": 459.5992279053
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -87855,6 +87818,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 548.426987648
+                      },
+                      {
+                        "year": 2035,
+                        "total": 375.3160963058
+                      },
+                      {
+                        "year": 2040,
+                        "total": 459.5992279053
+                      },
+                      {
+                        "year": 2045,
+                        "total": 459.5992279053
+                      },
+                      {
+                        "year": 2050,
+                        "total": 459.5992279053
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -87903,7 +87903,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88056,7 +88056,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88209,7 +88209,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88362,7 +88362,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88632,43 +88632,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1984233856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.7255587578
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.4349832535
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.0294187069
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.0294196606
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.0596642494
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -88776,6 +88739,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 59.8533630371
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1984233856
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.7255587578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4349832535
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.0294187069
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.0294196606
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.0596642494
                       }
                     ]
                   },
@@ -88970,43 +88970,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.6295704842
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.9066599607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.1267431974
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.2826856375
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -89192,6 +89155,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.6295704842
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.9066599607
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.1267431974
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.2826856375
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -89308,43 +89308,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1806070209
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1095392108
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.069861412
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.668192029
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.6768903136
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7070365548
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -89378,6 +89341,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1235801987
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1806070209
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.1095392108
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.069861412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.668192029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.6768903136
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7070365548
                       }
                     ]
                   },
@@ -89535,43 +89535,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2076546252
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.4726127237
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11.1219886243
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.8604089916
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.8604089916
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.8604089916
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -89642,6 +89605,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2076546252
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.4726127237
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.1219886243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.8604089916
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.8604089916
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.8604089916
                       }
                     ]
                   },
@@ -89884,43 +89884,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5733222961
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0795736313
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.1587219238
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8430814743
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.8430805206
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8136758804
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -90030,6 +89993,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5733222961
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0795736313
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.1587219238
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8430814743
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.8430805206
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8136758804
+                      }
+                    ]
                   }
                 ]
               },
@@ -90070,43 +90070,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.4088206291
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.9368042946
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.5957527161
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.0961186886
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -90257,6 +90220,43 @@ export default {
                         "total": 69.8400592804
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.4088206291
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.9368042946
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.5957527161
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.0961186886
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -90375,43 +90375,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3022670746
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9818880558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6038694382
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.218914032
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2268958092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1975872517
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -90482,6 +90445,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3022670746
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9818880558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6038694382
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.218914032
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2268958092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1975872517
                       }
                     ]
                   }
@@ -90639,43 +90639,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.7138290405
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.7468278408
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.7215325832
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.8589955568
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.8589955568
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.8589955568
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -90746,6 +90709,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.7138290405
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.7468278408
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.7215325832
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.8589955568
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.8589955568
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.8589955568
                       }
                     ]
                   }
@@ -91294,43 +91294,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -91475,6 +91438,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 59.8847980499
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -91706,43 +91706,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 20.242834568
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5715088844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.2764701843
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.7685928345
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.2080488205
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.0180475712
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -91928,6 +91891,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 20.242834568
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.5715088844
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.2764701843
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.7685928345
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.2080488205
+                      },
+                      {
+                        "year": 2050,
+                        "total": 18.0180475712
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -92081,43 +92081,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -92262,6 +92225,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1235801987
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -92456,43 +92456,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8879981041
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -92637,6 +92600,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8879981041
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -93740,43 +93740,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 226.82787323
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.6203689575
-                      },
-                      {
-                        "year": 2035,
-                        "total": 216.8760375977
-                      },
-                      {
-                        "year": 2040,
-                        "total": 232.9898605347
-                      },
-                      {
-                        "year": 2045,
-                        "total": 232.9898910522
-                      },
-                      {
-                        "year": 2050,
-                        "total": 233.9889068604
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -93888,6 +93851,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 226.82787323
+                      },
+                      {
+                        "year": 2030,
+                        "total": 210.6203689575
+                      },
+                      {
+                        "year": 2035,
+                        "total": 216.8760375977
+                      },
+                      {
+                        "year": 2040,
+                        "total": 232.9898605347
+                      },
+                      {
+                        "year": 2045,
+                        "total": 232.9898910522
+                      },
+                      {
+                        "year": 2050,
+                        "total": 233.9889068604
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -93963,43 +93963,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -94189,6 +94152,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -94305,43 +94305,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.4816999435
-                      },
-                      {
-                        "year": 2030,
-                        "total": 105.1787614822
-                      },
-                      {
-                        "year": 2035,
-                        "total": 101.4308309555
-                      },
-                      {
-                        "year": 2040,
-                        "total": 121.3274002075
-                      },
-                      {
-                        "year": 2045,
-                        "total": 121.6147136688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 122.6104698181
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -94412,6 +94375,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.4816999435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 105.1787614822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.4308309555
+                      },
+                      {
+                        "year": 2040,
+                        "total": 121.3274002075
+                      },
+                      {
+                        "year": 2045,
+                        "total": 121.6147136688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 122.6104698181
                       }
                     ]
                   },
@@ -94569,43 +94569,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 548.4381875992
-                      },
-                      {
-                        "year": 2035,
-                        "total": 375.3375196457
-                      },
-                      {
-                        "year": 2040,
-                        "total": 459.5557098389
-                      },
-                      {
-                        "year": 2045,
-                        "total": 459.5557098389
-                      },
-                      {
-                        "year": 2050,
-                        "total": 459.5557098389
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -94754,6 +94717,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 548.4381875992
+                      },
+                      {
+                        "year": 2035,
+                        "total": 375.3375196457
+                      },
+                      {
+                        "year": 2040,
+                        "total": 459.5557098389
+                      },
+                      {
+                        "year": 2045,
+                        "total": 459.5557098389
+                      },
+                      {
+                        "year": 2050,
+                        "total": 459.5557098389
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -94802,7 +94802,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -94955,7 +94955,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -95108,7 +95108,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -95261,7 +95261,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -95531,43 +95531,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1984233856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.7255587578
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.4412560463
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.0513706207
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.0513715744
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.0816164017
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -95675,6 +95638,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 59.8847980499
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1984233856
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.7255587578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4412560463
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.0513706207
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.0513715744
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.0816164017
                       }
                     ]
                   },
@@ -95869,43 +95869,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.7425773144
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.9066599607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.2866307497
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.8244782686
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -96091,6 +96054,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.7425773144
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.9066599607
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.2866307497
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.8244782686
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -96207,43 +96207,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1806070209
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1095392108
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.069861412
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.668192029
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.6768903136
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7070365548
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -96277,6 +96240,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1235801987
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1806070209
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.1095392108
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.069861412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.668192029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.6768903136
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7070365548
                       }
                     ]
                   },
@@ -96434,43 +96434,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2091355622
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.4894702286
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11.1226180494
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.8590719402
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.8590719402
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.8590719402
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -96541,6 +96504,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2091355622
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.4894702286
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.1226180494
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.8590719402
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.8590719402
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.8590719402
                       }
                     ]
                   },
@@ -96783,43 +96783,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5733222961
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0795736313
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.1411123276
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8431873322
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.8431873322
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8137817383
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -96929,6 +96892,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5733222961
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0795736313
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.1411123276
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8431873322
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.8431873322
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8137817383
+                      }
+                    ]
                   }
                 ]
               },
@@ -96969,43 +96969,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2033371925
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.9368042946
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.278544426
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.5177724361
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -97156,6 +97119,43 @@ export default {
                         "total": 69.8380126953
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2033371925
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.9368042946
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.278544426
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.5177724361
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -97274,43 +97274,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3022670746
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9818880558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6038694382
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.218914032
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2268958092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1975872517
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -97381,6 +97344,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3022670746
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9818880558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6038694382
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.218914032
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2268958092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1975872517
                       }
                     ]
                   }
@@ -97538,43 +97538,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.721101284
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.8254802227
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.726082325
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.858930707
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.858930707
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.858930707
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -97645,6 +97608,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.721101284
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.8254802227
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.726082325
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.858930707
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.858930707
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.858930707
                       }
                     ]
                   }
@@ -98193,43 +98193,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -98374,6 +98337,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 59.8381061554
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -98605,43 +98605,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.8004870415
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5715088844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.6506147385
-                      },
-                      {
-                        "year": 2040,
-                        "total": 17.5235776901
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.9521975517
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7571747303
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -98827,6 +98790,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.8004870415
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.5715088844
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.6506147385
+                      },
+                      {
+                        "year": 2040,
+                        "total": 17.5235776901
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.9521975517
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7571747303
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -98980,43 +98980,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -99161,6 +99124,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1235801987
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -99355,43 +99355,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8880019188
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -99536,6 +99499,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8880019188
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -100639,43 +100639,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 226.82787323
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.6203689575
-                      },
-                      {
-                        "year": 2035,
-                        "total": 216.4082717896
-                      },
-                      {
-                        "year": 2040,
-                        "total": 232.2755432129
-                      },
-                      {
-                        "year": 2045,
-                        "total": 232.2755737305
-                      },
-                      {
-                        "year": 2050,
-                        "total": 233.2745895386
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -100787,6 +100750,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 226.82787323
+                      },
+                      {
+                        "year": 2030,
+                        "total": 210.6203689575
+                      },
+                      {
+                        "year": 2035,
+                        "total": 216.4082717896
+                      },
+                      {
+                        "year": 2040,
+                        "total": 232.2755432129
+                      },
+                      {
+                        "year": 2045,
+                        "total": 232.2755737305
+                      },
+                      {
+                        "year": 2050,
+                        "total": 233.2745895386
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -100862,43 +100862,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -101088,6 +101051,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -101204,43 +101204,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.4816999435
-                      },
-                      {
-                        "year": 2030,
-                        "total": 105.1787614822
-                      },
-                      {
-                        "year": 2035,
-                        "total": 101.4308309555
-                      },
-                      {
-                        "year": 2040,
-                        "total": 121.3274002075
-                      },
-                      {
-                        "year": 2045,
-                        "total": 121.6147136688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 122.6104698181
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -101311,6 +101274,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.4816999435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 105.1787614822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.4308309555
+                      },
+                      {
+                        "year": 2040,
+                        "total": 121.3274002075
+                      },
+                      {
+                        "year": 2045,
+                        "total": 121.6147136688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 122.6104698181
                       }
                     ]
                   },
@@ -101468,43 +101468,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 548.426987648
-                      },
-                      {
-                        "year": 2035,
-                        "total": 375.3160963058
-                      },
-                      {
-                        "year": 2040,
-                        "total": 459.5992279053
-                      },
-                      {
-                        "year": 2045,
-                        "total": 459.5992279053
-                      },
-                      {
-                        "year": 2050,
-                        "total": 459.5992279053
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -101653,6 +101616,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 548.426987648
+                      },
+                      {
+                        "year": 2035,
+                        "total": 375.3160963058
+                      },
+                      {
+                        "year": 2040,
+                        "total": 459.5992279053
+                      },
+                      {
+                        "year": 2045,
+                        "total": 459.5992279053
+                      },
+                      {
+                        "year": 2050,
+                        "total": 459.5992279053
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -101701,7 +101701,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -101854,7 +101854,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -102007,7 +102007,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -102160,7 +102160,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -102430,43 +102430,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1984233856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.7255587578
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.4349832535
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.0294187069
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.0294196606
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.0596642494
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -102574,6 +102537,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 59.8381061554
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1984233856
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.7255587578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4349832535
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.0294187069
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.0294196606
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.0596642494
                       }
                     ]
                   },
@@ -102768,43 +102768,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.6295704842
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.9066599607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.1475522518
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.506413579
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -102990,6 +102953,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.6295704842
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.9066599607
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.1475522518
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.506413579
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -103106,43 +103106,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1806070209
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1095392108
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.069861412
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.668192029
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.6768903136
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7070365548
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -103176,6 +103139,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1235801987
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1806070209
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.1095392108
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.069861412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.668192029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.6768903136
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7070365548
                       }
                     ]
                   },
@@ -103333,43 +103333,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2076546252
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.4731219858
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11.1219886243
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.8604089916
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.8604089916
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.8604089916
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -103440,6 +103403,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2076546252
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.4731219858
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.1219886243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.8604089916
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.8604089916
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.8604089916
                       }
                     ]
                   },
@@ -103682,43 +103682,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 25.2340898514
-                      },
-                      {
-                        "year": 2020,
-                        "total": 18.1036310196
-                      },
-                      {
-                        "year": 2025,
-                        "total": 18.5733222961
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.0795736313
-                      },
-                      {
-                        "year": 2035,
-                        "total": 23.1587219238
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.8430814743
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.8430805206
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.8136758804
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -103828,6 +103791,43 @@ export default {
                         "total": 0.0
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 25.2340898514
+                      },
+                      {
+                        "year": 2020,
+                        "total": 18.1036310196
+                      },
+                      {
+                        "year": 2025,
+                        "total": 18.5733222961
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.0795736313
+                      },
+                      {
+                        "year": 2035,
+                        "total": 23.1587219238
+                      },
+                      {
+                        "year": 2040,
+                        "total": 23.8430814743
+                      },
+                      {
+                        "year": 2045,
+                        "total": 23.8430805206
+                      },
+                      {
+                        "year": 2050,
+                        "total": 23.8136758804
+                      }
+                    ]
                   }
                 ]
               },
@@ -103868,43 +103868,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.4714632034
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.1089268923
-                      },
-                      {
-                        "year": 2020,
-                        "total": 9.969353199
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.4197402
-                      },
-                      {
-                        "year": 2030,
-                        "total": 8.9368042946
-                      },
-                      {
-                        "year": 2035,
-                        "total": 10.3869285583
-                      },
-                      {
-                        "year": 2040,
-                        "total": 11.0693385601
-                      },
-                      {
-                        "year": 2045,
-                        "total": 8.59851861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 4.2729672194
                       }
                     ]
                   },
@@ -104055,6 +104018,43 @@ export default {
                         "total": 69.8380126953
                       }
                     ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.1089268923
+                      },
+                      {
+                        "year": 2020,
+                        "total": 9.969353199
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.4197402
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.9368042946
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.3869285583
+                      },
+                      {
+                        "year": 2040,
+                        "total": 11.0693385601
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.59851861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 4.2729672194
+                      }
+                    ]
                   }
                 ]
               },
@@ -104173,43 +104173,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 11.2024207115
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.23498559
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.3022670746
-                      },
-                      {
-                        "year": 2030,
-                        "total": 11.9818880558
-                      },
-                      {
-                        "year": 2035,
-                        "total": 13.6038694382
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.218914032
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.2268958092
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.1975872517
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -104280,6 +104243,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 11.2024207115
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.23498559
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.3022670746
+                      },
+                      {
+                        "year": 2030,
+                        "total": 11.9818880558
+                      },
+                      {
+                        "year": 2035,
+                        "total": 13.6038694382
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.218914032
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.2268958092
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.1975872517
                       }
                     ]
                   }
@@ -104437,43 +104437,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 44.3270051479
-                      },
-                      {
-                        "year": 2020,
-                        "total": 48.9254798889
-                      },
-                      {
-                        "year": 2025,
-                        "total": 65.7138309479
-                      },
-                      {
-                        "year": 2030,
-                        "total": 67.7468736172
-                      },
-                      {
-                        "year": 2035,
-                        "total": 56.7180566788
-                      },
-                      {
-                        "year": 2040,
-                        "total": 57.858930707
-                      },
-                      {
-                        "year": 2045,
-                        "total": 57.858930707
-                      },
-                      {
-                        "year": 2050,
-                        "total": 57.858930707
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -104544,6 +104507,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 44.3270051479
+                      },
+                      {
+                        "year": 2020,
+                        "total": 48.9254798889
+                      },
+                      {
+                        "year": 2025,
+                        "total": 65.7138309479
+                      },
+                      {
+                        "year": 2030,
+                        "total": 67.7468736172
+                      },
+                      {
+                        "year": 2035,
+                        "total": 56.7180566788
+                      },
+                      {
+                        "year": 2040,
+                        "total": 57.858930707
+                      },
+                      {
+                        "year": 2045,
+                        "total": 57.858930707
+                      },
+                      {
+                        "year": 2050,
+                        "total": 57.858930707
                       }
                     ]
                   }
@@ -105092,43 +105092,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 41.7639217377
-                      },
-                      {
-                        "year": 2020,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2040,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2045,
-                        "total": 30.1010437012
-                      },
-                      {
-                        "year": 2050,
-                        "total": 30.1010437012
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -105273,6 +105236,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 59.8852996826
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 41.7639217377
+                      },
+                      {
+                        "year": 2020,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2040,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2045,
+                        "total": 30.1010437012
+                      },
+                      {
+                        "year": 2050,
+                        "total": 30.1010437012
                       }
                     ]
                   },
@@ -105504,43 +105504,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.0387940407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 15.9131970406
-                      },
-                      {
-                        "year": 2025,
-                        "total": 20.2663407326
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.5715088844
-                      },
-                      {
-                        "year": 2035,
-                        "total": 17.2764701843
-                      },
-                      {
-                        "year": 2040,
-                        "total": 18.7110805511
-                      },
-                      {
-                        "year": 2045,
-                        "total": 18.2080488205
-                      },
-                      {
-                        "year": 2050,
-                        "total": 18.0412504673
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -105726,6 +105689,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.0387940407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 15.9131970406
+                      },
+                      {
+                        "year": 2025,
+                        "total": 20.2663407326
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.5715088844
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.2764701843
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.7110805511
+                      },
+                      {
+                        "year": 2045,
+                        "total": 18.2080488205
+                      },
+                      {
+                        "year": 2050,
+                        "total": 18.0412504673
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -105879,43 +105879,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 16.7130775452
-                      },
-                      {
-                        "year": 2020,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2035,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2040,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 16.7550063133
-                      },
-                      {
-                        "year": 2050,
-                        "total": 16.7550063133
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -106060,6 +106023,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1235801987
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 16.7130775452
+                      },
+                      {
+                        "year": 2020,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2035,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2040,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2045,
+                        "total": 16.7550063133
+                      },
+                      {
+                        "year": 2050,
+                        "total": 16.7550063133
                       }
                     ]
                   },
@@ -106254,43 +106254,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 66.0000002384
-                      },
-                      {
-                        "year": 2020,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2025,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2030,
-                        "total": 98.8880000114
-                      },
-                      {
-                        "year": 2035,
-                        "total": 74.9209904671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2045,
-                        "total": 72.8999991417
-                      },
-                      {
-                        "year": 2050,
-                        "total": 72.8999991417
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -106435,6 +106398,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 66.0000002384
+                      },
+                      {
+                        "year": 2020,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2025,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2030,
+                        "total": 98.8880000114
+                      },
+                      {
+                        "year": 2035,
+                        "total": 74.9209904671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2045,
+                        "total": 72.8999991417
+                      },
+                      {
+                        "year": 2050,
+                        "total": 72.8999991417
                       }
                     ]
                   },
@@ -107538,43 +107538,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 348.0800018311
-                      },
-                      {
-                        "year": 2020,
-                        "total": 294.0800018311
-                      },
-                      {
-                        "year": 2025,
-                        "total": 226.82787323
-                      },
-                      {
-                        "year": 2030,
-                        "total": 210.6203689575
-                      },
-                      {
-                        "year": 2035,
-                        "total": 216.8760375977
-                      },
-                      {
-                        "year": 2040,
-                        "total": 232.9898605347
-                      },
-                      {
-                        "year": 2045,
-                        "total": 232.9898910522
-                      },
-                      {
-                        "year": 2050,
-                        "total": 233.9889068604
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -107686,6 +107649,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 348.0800018311
+                      },
+                      {
+                        "year": 2020,
+                        "total": 294.0800018311
+                      },
+                      {
+                        "year": 2025,
+                        "total": 226.82787323
+                      },
+                      {
+                        "year": 2030,
+                        "total": 210.6203689575
+                      },
+                      {
+                        "year": 2035,
+                        "total": 216.8760375977
+                      },
+                      {
+                        "year": 2040,
+                        "total": 232.9898605347
+                      },
+                      {
+                        "year": 2045,
+                        "total": 232.9898910522
+                      },
+                      {
+                        "year": 2050,
+                        "total": 233.9889068604
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -107761,43 +107761,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3200.0002441406
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 182.8571395874
-                      },
-                      {
-                        "year": 2020,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 215.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 170.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 125.0
                       }
                     ]
                   },
@@ -107987,6 +107950,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 182.8571395874
+                      },
+                      {
+                        "year": 2020,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 215.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 170.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 125.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -108103,43 +108103,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 108.5757217407
-                      },
-                      {
-                        "year": 2020,
-                        "total": 108.8984155655
-                      },
-                      {
-                        "year": 2025,
-                        "total": 128.4816999435
-                      },
-                      {
-                        "year": 2030,
-                        "total": 105.1787614822
-                      },
-                      {
-                        "year": 2035,
-                        "total": 101.4308309555
-                      },
-                      {
-                        "year": 2040,
-                        "total": 121.3274002075
-                      },
-                      {
-                        "year": 2045,
-                        "total": 121.6147136688
-                      },
-                      {
-                        "year": 2050,
-                        "total": 122.6104698181
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -108210,6 +108173,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 30.0002903938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 108.5757217407
+                      },
+                      {
+                        "year": 2020,
+                        "total": 108.8984155655
+                      },
+                      {
+                        "year": 2025,
+                        "total": 128.4816999435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 105.1787614822
+                      },
+                      {
+                        "year": 2035,
+                        "total": 101.4308309555
+                      },
+                      {
+                        "year": 2040,
+                        "total": 121.3274002075
+                      },
+                      {
+                        "year": 2045,
+                        "total": 121.6147136688
+                      },
+                      {
+                        "year": 2050,
+                        "total": 122.6104698181
                       }
                     ]
                   },
@@ -108367,43 +108367,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 870.8646659851
-                      },
-                      {
-                        "year": 2020,
-                        "total": 770.6064319611
-                      },
-                      {
-                        "year": 2025,
-                        "total": 670.348192215
-                      },
-                      {
-                        "year": 2030,
-                        "total": 548.426987648
-                      },
-                      {
-                        "year": 2035,
-                        "total": 375.3160963058
-                      },
-                      {
-                        "year": 2040,
-                        "total": 459.5992279053
-                      },
-                      {
-                        "year": 2045,
-                        "total": 459.5992279053
-                      },
-                      {
-                        "year": 2050,
-                        "total": 459.5992279053
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -108552,6 +108515,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 870.8646659851
+                      },
+                      {
+                        "year": 2020,
+                        "total": 770.6064319611
+                      },
+                      {
+                        "year": 2025,
+                        "total": 670.348192215
+                      },
+                      {
+                        "year": 2030,
+                        "total": 548.426987648
+                      },
+                      {
+                        "year": 2035,
+                        "total": 375.3160963058
+                      },
+                      {
+                        "year": 2040,
+                        "total": 459.5992279053
+                      },
+                      {
+                        "year": 2045,
+                        "total": 459.5992279053
+                      },
+                      {
+                        "year": 2050,
+                        "total": 459.5992279053
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -108600,7 +108600,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -108753,7 +108753,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -108906,7 +108906,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -109059,7 +109059,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Electricity",
+                    "indicatorGroup": "Industry electricity",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -109329,43 +109329,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 7.0696291924
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.2854001522
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.1984233856
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.7255587578
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.4412560463
-                      },
-                      {
-                        "year": 2040,
-                        "total": 7.0513706207
-                      },
-                      {
-                        "year": 2045,
-                        "total": 7.0513715744
-                      },
-                      {
-                        "year": 2050,
-                        "total": 7.0816164017
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -109473,6 +109436,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 59.8852996826
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 7.0696291924
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.2854001522
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.1984233856
+                      },
+                      {
+                        "year": 2030,
+                        "total": 5.7255587578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.4412560463
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.0513706207
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.0513715744
+                      },
+                      {
+                        "year": 2050,
+                        "total": 7.0816164017
                       }
                     ]
                   },
@@ -109667,43 +109667,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.1042349935
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.3894937038
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.7485823631
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.9066599607
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.4507339001
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.8098357916
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.1952275038
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.3652000427
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -109889,6 +109852,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.1042349935
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.3894937038
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.7485823631
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.9066599607
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.4507339001
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.8098357916
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.1952275038
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3652000427
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Wind",
                     "indicatorGroupValues": [
                       {
@@ -110005,43 +110005,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 3.0330553949
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.0428248644
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.1806070209
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.1095392108
-                      },
-                      {
-                        "year": 2035,
-                        "total": 3.069861412
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.668192029
-                      },
-                      {
-                        "year": 2045,
-                        "total": 3.6768903136
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7070365548
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Solar",
                     "indicatorGroupValues": [
                       {
@@ -110075,6 +110038,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.1235801987
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 3.0330553949
+                      },
+                      {
+                        "year": 2020,
+                        "total": 3.0428248644
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.1806070209
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.1095392108
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.069861412
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.668192029
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.6768903136
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7070365548
                       }
                     ]
                   },
@@ -110232,43 +110232,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 10.7229599953
-                      },
-                      {
-                        "year": 2020,
-                        "total": 11.8512716591
-                      },
-                      {
-                        "year": 2025,
-                        "total": 16.2091350853
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.4891345352
-                      },
-                      {
-                        "year": 2035,
-                        "total": 11.1219886243
-                      },
-                      {
-                        "year": 2040,
-                        "total": 13.8604089916
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.8604089916
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.8604089916
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Nuclear",
                     "indicatorGroupValues": [
                       {
@@ -110339,6 +110302,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.6188216209
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.7229599953
+                      },
+                      {
+                        "year": 2020,
+                        "total": 11.8512716591
+                      },
+                      {
+                        "year": 2025,
+                        "total": 16.2091350853
+                      },
+                      {
+                        "year": 2030,
+                        "total": 14.4891345352
+                      },
+                      {
+                        "year": 2035,
+                        "total": 11.1219886243
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.8604089916
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.8604089916
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.8604089916
                       }
                     ]
                   },

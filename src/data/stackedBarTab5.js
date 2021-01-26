@@ -1333,7 +1333,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1523,7 +1523,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1787,7 +1787,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2051,7 +2051,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -2247,43 +2247,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.025165339
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0111845951
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -2383,6 +2346,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 4.0723302364
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.025165339
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0111845951
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -2812,43 +2812,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -2948,6 +2911,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 6.3750972748
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -3494,7 +3494,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -3837,7 +3837,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4101,7 +4101,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4408,7 +4408,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4672,7 +4672,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4936,7 +4936,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5200,7 +5200,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5507,7 +5507,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5845,7 +5845,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6109,7 +6109,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6373,7 +6373,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6532,43 +6532,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0058539601
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.00260176
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -6713,6 +6676,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 49.2527446747
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0058539601
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.00260176
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -8846,7 +8846,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9036,7 +9036,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9300,7 +9300,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9564,7 +9564,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -9760,43 +9760,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.029041552
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.025165339
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0111845951
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -9904,6 +9867,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.4897882938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.029041552
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.025165339
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0111845951
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -10325,43 +10325,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -10469,6 +10432,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.2010953426
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -11007,7 +11007,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11350,7 +11350,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11614,7 +11614,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11921,7 +11921,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12185,7 +12185,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12449,7 +12449,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12713,7 +12713,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13020,7 +13020,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13358,7 +13358,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13622,7 +13622,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13886,7 +13886,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14045,43 +14045,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0077144508
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0058539601
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0020053131
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -14226,6 +14189,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 36.1998319626
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0077144508
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0058539601
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0020053131
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -16359,7 +16359,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16549,7 +16549,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16813,7 +16813,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17077,7 +17077,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17273,43 +17273,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.029041552
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.025165339
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0111845951
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -17413,6 +17376,43 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.005337507
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.029041552
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.025165339
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0111845951
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
@@ -17838,43 +17838,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -17974,6 +17937,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 6.2687711716
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -18520,7 +18520,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18863,7 +18863,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19127,7 +19127,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19434,7 +19434,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19698,7 +19698,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19962,7 +19962,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20226,7 +20226,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20533,7 +20533,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20871,7 +20871,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21135,7 +21135,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21399,7 +21399,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21558,43 +21558,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0077144508
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0058539601
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.00260176
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -21739,6 +21702,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 41.9276676178
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0077144508
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0058539601
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.00260176
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -23872,7 +23872,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24062,7 +24062,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24326,7 +24326,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24590,7 +24590,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24786,43 +24786,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.029041552
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.025165339
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0111845951
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -24930,6 +24893,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.4285520315
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.029041552
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.025165339
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0111845951
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -25351,43 +25351,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -25495,6 +25458,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.5597764254
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -26033,7 +26033,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26376,7 +26376,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26640,7 +26640,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26947,7 +26947,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27211,7 +27211,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27475,7 +27475,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27739,7 +27739,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28046,7 +28046,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28384,7 +28384,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28648,7 +28648,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28912,7 +28912,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29071,43 +29071,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0077144508
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0058539601
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.00260176
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -29252,6 +29215,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 47.9646625519
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0077144508
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0058539601
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.00260176
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -31385,7 +31385,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31575,7 +31575,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31839,7 +31839,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -32103,7 +32103,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -32299,43 +32299,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0055098371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -32435,6 +32398,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 3.2553412914
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0055098371
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -32864,43 +32864,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -33008,6 +32971,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0089861236
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -33546,7 +33546,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33889,7 +33889,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34153,7 +34153,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34460,7 +34460,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34724,7 +34724,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34988,7 +34988,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35252,7 +35252,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35559,7 +35559,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35897,7 +35897,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36161,7 +36161,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36425,7 +36425,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36584,43 +36584,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -36765,6 +36728,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.731543541
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -38898,7 +38898,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39088,7 +39088,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39352,7 +39352,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39616,7 +39616,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39812,43 +39812,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0055098371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -39948,6 +39911,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 3.2553412914
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0055098371
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -40377,43 +40377,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -40521,6 +40484,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0106795251
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -41059,7 +41059,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41402,7 +41402,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41666,7 +41666,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41973,7 +41973,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42237,7 +42237,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42501,7 +42501,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42765,7 +42765,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -43072,7 +43072,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -43410,7 +43410,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -43674,7 +43674,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -43938,7 +43938,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -44097,43 +44097,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -44278,6 +44241,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.7140569687
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -46411,7 +46411,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46601,7 +46601,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46865,7 +46865,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47129,7 +47129,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47325,43 +47325,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0055098371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -47461,6 +47424,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 3.2553412914
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0055098371
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -47890,43 +47890,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -48034,6 +47997,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.005580622
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -48572,7 +48572,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48915,7 +48915,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49179,7 +49179,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49486,7 +49486,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49750,7 +49750,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50014,7 +50014,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50278,7 +50278,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50585,7 +50585,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50923,7 +50923,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -51187,7 +51187,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -51451,7 +51451,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -51610,43 +51610,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -51791,6 +51754,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.731543541
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -53924,7 +53924,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54114,7 +54114,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54378,7 +54378,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54642,7 +54642,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54838,43 +54838,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0055098371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -54974,6 +54937,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 3.2553412914
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0055098371
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -55403,43 +55403,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -55547,6 +55510,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.005580622
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -56085,7 +56085,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56428,7 +56428,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56692,7 +56692,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56999,7 +56999,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -57263,7 +57263,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -57527,7 +57527,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -57791,7 +57791,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58098,7 +58098,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58436,7 +58436,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58700,7 +58700,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -58964,7 +58964,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -59123,43 +59123,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -59304,6 +59267,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.7140569687
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -61437,7 +61437,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61627,7 +61627,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61891,7 +61891,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62155,7 +62155,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62351,43 +62351,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0045841786
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -62495,6 +62458,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.7361776829
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0045841786
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -62916,43 +62916,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -63060,6 +63023,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.5675560236
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -63598,7 +63598,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -63941,7 +63941,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -64205,7 +64205,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -64512,7 +64512,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -64776,7 +64776,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -65040,7 +65040,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -65304,7 +65304,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -65611,7 +65611,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -65949,7 +65949,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -66213,7 +66213,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -66477,7 +66477,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -66636,43 +66636,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -66817,6 +66780,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.577996254
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -68950,7 +68950,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69140,7 +69140,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69404,7 +69404,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69668,7 +69668,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69864,43 +69864,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0039670729
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -70008,6 +69971,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.5613337755
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0039670729
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -70429,43 +70429,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -70573,6 +70536,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.5666022301
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -71111,7 +71111,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -71454,7 +71454,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -71718,7 +71718,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -72025,7 +72025,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -72289,7 +72289,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -72553,7 +72553,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -72817,7 +72817,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -73124,7 +73124,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -73462,7 +73462,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -73726,7 +73726,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -73990,7 +73990,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74149,43 +74149,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -74330,6 +74293,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 36.7881116867
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -76463,7 +76463,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76653,7 +76653,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76917,7 +76917,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -77181,7 +77181,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -77377,43 +77377,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0039670729
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -77521,6 +77484,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.7361776829
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0039670729
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -77942,43 +77942,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -78086,6 +78049,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.5563334227
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -78624,7 +78624,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -78967,7 +78967,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -79231,7 +79231,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -79538,7 +79538,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -79802,7 +79802,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -80066,7 +80066,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -80330,7 +80330,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -80637,7 +80637,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -80975,7 +80975,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81239,7 +81239,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81503,7 +81503,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81662,43 +81662,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -81843,6 +81806,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.5543889999
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -83976,7 +83976,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -84166,7 +84166,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -84430,7 +84430,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -84694,7 +84694,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -84890,43 +84890,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0039670729
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -85034,6 +84997,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 4.1080352068
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0039670729
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -85455,43 +85455,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -85599,6 +85562,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 8.5605556965
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -86137,7 +86137,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -86480,7 +86480,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -86744,7 +86744,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -87051,7 +87051,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -87315,7 +87315,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -87579,7 +87579,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -87843,7 +87843,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88150,7 +88150,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88488,7 +88488,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88752,7 +88752,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -89016,7 +89016,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -89175,43 +89175,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -89356,6 +89319,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 37.1739883423
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -91489,7 +91489,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -91679,7 +91679,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -91943,7 +91943,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -92207,7 +92207,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -92403,43 +92403,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0055098371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -92539,6 +92502,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 3.2553412914
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0055098371
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -92968,43 +92968,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -93112,6 +93075,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0376316165
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -93650,7 +93650,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -93993,7 +93993,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -94257,7 +94257,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -94564,7 +94564,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -94828,7 +94828,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -95092,7 +95092,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -95356,7 +95356,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -95663,7 +95663,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96001,7 +96001,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96265,7 +96265,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96529,7 +96529,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96688,43 +96688,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -96869,6 +96832,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.4001646042
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -99002,7 +99002,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -99192,7 +99192,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -99456,7 +99456,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -99720,7 +99720,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -99916,43 +99916,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0055098371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -100052,6 +100015,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 3.2553412914
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0055098371
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -100481,43 +100481,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -100625,6 +100588,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0374825266
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -101163,7 +101163,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -101506,7 +101506,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -101770,7 +101770,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -102077,7 +102077,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -102341,7 +102341,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -102605,7 +102605,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -102869,7 +102869,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -103176,7 +103176,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -103514,7 +103514,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -103778,7 +103778,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -104042,7 +104042,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -104201,43 +104201,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -104382,6 +104345,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.3627672195
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -106515,7 +106515,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -106705,7 +106705,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -106969,7 +106969,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -107233,7 +107233,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -107429,43 +107429,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0055098371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -107565,6 +107528,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 3.2553412914
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0055098371
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -107994,43 +107994,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -108138,6 +108101,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.032709863
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -108676,7 +108676,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -109019,7 +109019,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -109283,7 +109283,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -109590,7 +109590,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -109854,7 +109854,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -110118,7 +110118,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -110382,7 +110382,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -110689,7 +110689,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -111027,7 +111027,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -111291,7 +111291,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -111555,7 +111555,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -111714,43 +111714,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -111895,6 +111858,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.4001646042
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -114028,7 +114028,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -114218,7 +114218,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -114482,7 +114482,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -114746,7 +114746,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -114942,43 +114942,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.053126825
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0391460825
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0175044159
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0055098371
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -115078,6 +115041,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 3.2553412914
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.053126825
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0391460825
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0175044159
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0055098371
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
@@ -115507,43 +115507,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.1232199986
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0907936879
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0583673678
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.025941052
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -115651,6 +115614,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0367073268
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.1232199986
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0907936879
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0583673678
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.025941052
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
@@ -116189,7 +116189,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -116532,7 +116532,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -116796,7 +116796,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -117103,7 +117103,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -117367,7 +117367,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -117631,7 +117631,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -117895,7 +117895,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -118202,7 +118202,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Trase",
+                    "indicatorGroup": "Trade",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -118540,7 +118540,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -118804,7 +118804,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -119068,7 +119068,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Wood",
+                    "indicatorGroup": "Wood processing",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -119227,43 +119227,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Mun.Waste",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.01235836
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0091061601
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0045119547
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0016076819
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Natural gas",
                     "indicatorGroupValues": [
                       {
@@ -119408,6 +119371,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 32.3630342484
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Waste",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.01235836
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0091061601
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0045119547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0016076819
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   }
