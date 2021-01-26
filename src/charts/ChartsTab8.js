@@ -4,8 +4,10 @@ import Welcome from '../alert/Welcome'
 import { MainArea, Flex } from './Charts.style'
 import StackedBarChartHistorical from './StackedBarChartHistorical'
 import HistoricalData from "./../data/stackedBarTab8"
+import {createIndicator1Data} from "./Tools"
 
 const HistoricalCharts = props => {
+  createIndicator1Data(HistoricalData)
   return (
     <MainArea>
       {props.scenarioSelection.showWelcome === true && (

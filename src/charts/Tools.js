@@ -114,7 +114,7 @@ data.data.nces_eleproduction.forEach((item, i)=>{
     accumulatedHistoricalData[item.nces_fuel_type.fuel_type].push({"year": item.year, "total": item.value})
     totalHistoricalYearValues[item.year] += item.value
     //if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
-    console.log("new entry: ", accumulatedHistoricalData)
+    //console.log("new entry: ", accumulatedHistoricalData)
   }
   }
 })
@@ -129,5 +129,44 @@ data.data.nces_eleproduction.forEach((item)=>{
 
   return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
 }
+//Share of RE in electricity consumption (theme: Transforming the power sector) 
+const createIndicator1Data = (rawData) => {
+  //console.log("ind1 raw data: ", rawData)
+  const countries = ['Denmark', 'Sweden', 'Norway', 'Finland','Iceland']
+  let re = []
+  let total = [];
+  countries.forEach((country)=>{
+    re[country] = []
+    total[country] = []
+    historicalYears.forEach((year) =>{
+      re[country][year]=0
+      total[country][year]=0
+    })
+  })
+  
+  
+  
+  const filter_fuel = [
+    "Biofuels",
+    "Geothermal",
+    "Hydroelectricity", 
+    "Solar photovoltaic", 
+    "Solar thermal", 
+    "Tide, wave, ocean", 
+    "Wind electricity"]
+  rawData.data.nces_eleproduction.forEach((item) => {
+    //console.log("item: ", item)
+    console.log("item.nces_fuel_type.fuel_type: ", filter_fuel.includes(item.nces_fuel_type.fuel_type))
+    if (filter_fuel.includes(item.nces_fuel_type.fuel_type))
+      //console.log("item.value: ", item.value)
+      //console.log("re[item.nces_country]: ", re[item.nces_country.name])
+      //console.log("item.nces_country: ", item.nces_country.name)
+      re[item.nces_country.name][item.year] += item.value
+    total[item.nces_country.name][item.year] += item.value
+    //total[country][year] +=item.value
+  })
+  console.log("re: ", re)
+  console.log("total: ", total)
+}
 
-export { createAccumulatedData, createAccumulatedHistoricalData }
+export { createAccumulatedData, createAccumulatedHistoricalData, createIndicator1Data }
