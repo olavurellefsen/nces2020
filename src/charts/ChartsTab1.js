@@ -2,7 +2,6 @@
 import PropTypes from 'prop-types'
 import Welcome from '../alert/Welcome'
 import StackedBarChart from './StackedBarChart'
-import LineChart from './LineChart'
 import StackedBarDiffChart from './StackedBarDiffChart'
 import { MainArea, Flex } from './Charts.style'
 import stackedBar from '../data/stackedBarTab1'
