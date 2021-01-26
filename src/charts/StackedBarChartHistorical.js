@@ -59,8 +59,8 @@ const StackedBarChartHistorical = ({
   let maxY = -Infinity
   Object.keys(totalYearValuesScenario1).forEach(year => {
     //if(chartName==="Cement fuel consumption (PJ)")
-      console.log("maxY: ", maxY)
-      console.log("totalYearValuesScenario1[year]: ", totalYearValuesScenario1[year])
+      //console.log("maxY: ", maxY)
+      //console.log("totalYearValuesScenario1[year]: ", totalYearValuesScenario1[year])
     maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year]))
   })
   //maxY = 600000

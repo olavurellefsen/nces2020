@@ -26,7 +26,13 @@ import periods from './../data/years'
   font-weight: bold;
 `
 ChartHeader.displayName = 'ChartHeader' */
-
+const ChartTitle = styled.div`
+  margin-left: 70px;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Ropa Sans;
+`
 const StackedBarChart = props => {
   //const { t } = useTranslation()
   const stackedBar = props.stackedBar
@@ -99,13 +105,7 @@ const StackedBarChart = props => {
       legends.add(group.indicatorGroup)
     })
   })
-  const ChartTitle = styled.div`
-  margin-left: 70px;
-  margin-top: 20px;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: Ropa Sans;
-`
+  
 const MyCustomHTMLLabel = props => {
   const text = props.text.replaceAll('§', '')
 
