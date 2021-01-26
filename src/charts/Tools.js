@@ -114,7 +114,7 @@ data.data.nces_eleproduction.forEach((item, i)=>{
     accumulatedHistoricalData[item.nces_fuel_type.fuel_type].push({"year": item.year, "total": item.value})
     totalHistoricalYearValues[item.year] += item.value
     //if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
-    console.log("new entry: ", accumulatedHistoricalData)
+    //console.log("new entry: ", accumulatedHistoricalData)
   }
   }
 })
