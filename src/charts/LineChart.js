@@ -40,7 +40,7 @@ let selectedDataRegions = []
     }
   })
 //console.log("lineData: ", lineData)
-console.log("periods: ", periods)
+//console.log("periods: ", periods)
 let legends = new Set()
   lineData.data.scenarios
   .find(o => o.scenario.toLowerCase() === selectedScenario.toLowerCase())
@@ -50,12 +50,7 @@ let legends = new Set()
     })
   })
 legends = selectedDataRegions
-console.log("legend: ", Array.from(legends).map((legend, i) => ({
-  name: legend
-    .concat('        ')
-    .substr(0, 16),
-  fill: colors[i],
-})))
+  
 const maxY = 4
   return (
     <div>
