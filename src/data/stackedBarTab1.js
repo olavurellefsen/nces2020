@@ -624,7 +624,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -5902,7 +5902,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -11180,7 +11180,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -16458,7 +16458,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -21736,7 +21736,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -27014,7 +27014,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -32292,7 +32292,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -37570,7 +37570,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -42848,7 +42848,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -48126,7 +48126,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -53404,7 +53404,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -58682,7 +58682,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -63960,7 +63960,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -69238,7 +69238,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -74516,7 +74516,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -79794,7 +79794,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -85072,7 +85072,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -90350,7 +90350,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -95628,7 +95628,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -100906,7 +100906,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -106184,7 +106184,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -111462,7 +111462,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -116740,7 +116740,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",
@@ -122018,7 +122018,7 @@ export default {
           },
           {
             "indicator": "CO2 emissions",
-            "unit": "kt",
+            "unit": "MtCO2 ",
             "regions": [
               {
                 "region": "DK",

@@ -179,7 +179,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -706,7 +706,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -1233,7 +1233,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -1760,7 +1760,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -2287,7 +2287,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -2814,7 +2814,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -3341,7 +3341,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -3868,7 +3868,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -4395,7 +4395,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -4922,7 +4922,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -5449,7 +5449,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -5976,7 +5976,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -6503,7 +6503,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -7030,7 +7030,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -7557,7 +7557,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -8084,7 +8084,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -8611,7 +8611,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -9138,7 +9138,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -9665,7 +9665,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -10192,7 +10192,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -10719,7 +10719,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -11246,7 +11246,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -11773,7 +11773,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
@@ -12300,7 +12300,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification",
+            "indicator": "Electrification of final energy consumption",
             "unit": "%",
             "regions": [
               {
