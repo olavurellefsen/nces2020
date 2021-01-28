@@ -15,7 +15,7 @@ import {
   //VictoryTooltip, 
 } from 'victory' 
 //import {createAccumulatedData} from './Tools'
-import {colors, colors2} from './chartColors'
+import {colors} from './chartColors'
 import periods from './../data/years'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 
@@ -52,7 +52,7 @@ if (selectedScenario.includes("_copy"))
 selectedScenario = selectedScenario.replace("_copy", "")
 if (selectedScenario2.includes("_copy"))
 selectedScenario2 = selectedScenario2.replace("_copy", "")
-const maxY = 4
+//const maxY = 4
   return (
     <div>
       <ChartTitle>{chartName}</ChartTitle>
