@@ -1,7 +1,7 @@
 export default 
  	 [ 
 		"Other sectors CO2 emissions",
-		"Other sectors Service demand",
+		"Other sectors service demand",
 		"Other sectors fuel consumption",
 		"Agriculture fuel consumption",
 		"Manufacturing fuel consumption",
