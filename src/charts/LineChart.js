@@ -39,8 +39,6 @@ let selectedDataRegions = []
       })
     }
   })
-//console.log("lineData: ", lineData)
-//console.log("periods: ", periods)
 let legends = new Set()
   lineData.data.scenarios
   .find(o => o.scenario.toLowerCase() === selectedScenario.toLowerCase())
@@ -50,7 +48,10 @@ let legends = new Set()
     })
   })
 legends = selectedDataRegions
-  
+if (selectedScenario.includes("_copy"))
+selectedScenario = selectedScenario.replace("_copy", "")
+if (selectedScenario2.includes("_copy"))
+selectedScenario2 = selectedScenario2.replace("_copy", "")
 const maxY = 4
   return (
     <div>
@@ -79,32 +80,52 @@ const maxY = 4
         {selectedDataRegions.map((country, i)=>{
           let lineChartData = []
           let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
-            //console.log("scenario: ", scenario)
-            return scenario.scenario === selectedScenario
+            return scenario.scenario.toLowerCase() === selectedScenario.toLowerCase()
           })
           let indicatorData = selectedScenarioData.indicators.find((indicator) => {
             return indicator.indicator === chartName
           })
-          let chartData = []
           indicatorData.regions.forEach((region)=>{
             if (region.region === country) {
-            //console.log("region.indicatorGroups[0].indicatorGroupValues: ", region.indicatorGroups[0].indicatorGroupValues)
-            
-            region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
+              region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
               lineChartData.push({x: item.year, y: item.total})
-            })
-            console.log("lineChartData: ", lineChartData)
-            //chartData.push(lineChartData)
-        }}
+              })
+            }
+          })
+          return(
+            <VictoryLine 
+              key={"lini"+i} 
+              data={lineChartData} 
+              style={{
+                data: { stroke: colors[i] },
+              }}>
+            </VictoryLine>
           )
-          //console.log("selectedScenario: ", selectedScenario)
-          //console.log("selectedScenario: ", selectedScenario)
-          //console.log("selectedScenarioData: ", selectedScenarioData)
-          //console.log("indicatorData: ", indicatorData)
-          //console.log("chartData: ", chartData)
-          return(<VictoryLine data={lineChartData} style={{
-                      data: { stroke: colors[i] },
-                    }}></VictoryLine>)
+        })}
+        {selectedScenario2 !== "" && selectedDataRegions.map((country, i)=>{
+          let lineChartData2 = []
+          let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
+            return scenario.scenario.toLowerCase() === selectedScenario2.toLowerCase()
+          })
+          let indicatorData = selectedScenarioData.indicators.find((indicator) => {
+            return indicator.indicator === chartName
+          })
+          indicatorData.regions.forEach((region)=>{
+            if (region.region === country) {
+              region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
+              lineChartData2.push({x: item.year, y: item.total})
+              })
+            }
+          })
+          return(
+            <VictoryLine 
+              key={"lini"+i} 
+              data={lineChartData2} 
+              style={{
+                data: { stroke: colors[i], strokeDasharray: "4" },
+              }}>
+            </VictoryLine>
+          )
         })}
         
         </VictoryGroup>
