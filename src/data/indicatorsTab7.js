@@ -1,14 +1,14 @@
 export default 
  	 [ 
 		"Transport CO2 emissions",
-		"Fuel consumption transport",
+		"Transport fuel consumption",
 		"Passenger transport demand",
 		"Freight transport demand",
-		"Fuel consumption cars",
+		"Car fuel consumption",
 		"Number of cars",
-		"Fuel consumption trucks",
+		"Trucks fuel consumption",
 		"Number of trucks",
-		"Fuel consumption aviation",
-		"Fuel consumption shipping",
+		"Aviation fuel consumption",
+		"Shipping fuel consumption",
 		"Transport System Cost",
 	 ]

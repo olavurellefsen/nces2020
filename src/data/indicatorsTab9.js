@@ -1,6 +1,6 @@
 export default 
  	 [ 
-		"Electrification",
+		"Electrification of final energy consumption",
 		"CO2 intensity of primary energy supply",
 		"Renewable primary energy share",
 	 ]
