@@ -6,7 +6,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -772,7 +772,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -4211,7 +4211,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -4977,7 +4977,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -8416,7 +8416,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -9182,7 +9182,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -12621,7 +12621,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -13387,7 +13387,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -16826,7 +16826,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -17592,7 +17592,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -21031,7 +21031,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -21797,7 +21797,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -25236,7 +25236,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -26002,7 +26002,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -29441,7 +29441,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -30207,7 +30207,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -33646,7 +33646,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -34412,7 +34412,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -37851,7 +37851,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -38617,7 +38617,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -42056,7 +42056,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -42822,7 +42822,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -46261,7 +46261,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -47027,7 +47027,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -50466,7 +50466,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -51232,7 +51232,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -54671,7 +54671,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -55437,7 +55437,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -58876,7 +58876,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -59642,7 +59642,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -63081,7 +63081,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -63847,7 +63847,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -67286,7 +67286,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -68052,7 +68052,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -71491,7 +71491,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -72257,7 +72257,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -75696,7 +75696,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -76462,7 +76462,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -79901,7 +79901,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -80667,7 +80667,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -84106,7 +84106,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -84872,7 +84872,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -88311,7 +88311,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -89077,7 +89077,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -92516,7 +92516,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -93282,7 +93282,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
@@ -96721,7 +96721,7 @@ export default {
         "indicators": [
           {
             "indicator": "Electric appliances consumption",
-            "unit": "PJ",
+            "unit": "TWh",
             "regions": [
               {
                 "region": "DK",
@@ -97487,7 +97487,7 @@ export default {
           },
           {
             "indicator": "Residential CO2 emissions",
-            "unit": "MtCO2 ",
+            "unit": "Mt CO2",
             "regions": [
               {
                 "region": "DK",
