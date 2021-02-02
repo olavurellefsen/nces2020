@@ -13,10 +13,12 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
   })
 
     //Useful when finding axis range
-    let totalYearValues = {}
+    let totalYearValuesPositive = {}
+    let totalYearValuesNegative = {}
     let unit = "";
     years.forEach(year => {
-        totalYearValues[year] = 0
+        totalYearValuesPositive[year] = 0
+        totalYearValuesNegative[year] = 0
     })
     if (!scenario) return undefined //this will be the case for sceanrio2 if only one scenario is selected
     let accumulatedData = {}
@@ -47,12 +49,15 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
                     console.log("Error in array indexing")
                   }
                   accumulatedData[indicatorGroup.indicatorGroup][index].total += percentage ? value.total/selectedCountries.length : value.total
-                  totalYearValues[value.year] += percentage ? value.total/selectedCountries.length : value.total
+                  if (value.total > 0)
+                    totalYearValuesPositive[value.year] += percentage ? value.total/selectedCountries.length : value.total
+                  else
+                    totalYearValuesNegative[value.year] += percentage ? value.total/selectedCountries.length : value.total
                 })
               }
             })
         })
-        return [accumulatedData, totalYearValues, unit]
+        return [accumulatedData, totalYearValuesPositive, totalYearValuesNegative , unit]
 }
 
 // export function getMinMaxStackedValues(yearValues1, yearValues2) {

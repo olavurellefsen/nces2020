@@ -15,7 +15,7 @@ import {
   //VictoryTooltip, 
 } from 'victory' 
 //import {createAccumulatedData} from './Tools'
-import {colors, colors2} from './chartColors'
+import {colors} from './chartColors'
 import periods from './../data/years'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 
@@ -27,10 +27,7 @@ const ChartTitle = styled.div`
   font-family: Ropa Sans;
 `
 const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCountries, chartName }) => {
-  /* const scenario = selectedScenario.includes("_copy") ? 
-    selectedScenario.replace("_copy", "") : 
-    selectedScenario
- */
+
 let selectedDataRegions = [] 
   mapRegionToDataRegions.forEach((mapRegion) => {
       if(selectedCountries.includes(mapRegion.path_id)) {
@@ -52,7 +49,7 @@ if (selectedScenario.includes("_copy"))
 selectedScenario = selectedScenario.replace("_copy", "")
 if (selectedScenario2.includes("_copy"))
 selectedScenario2 = selectedScenario2.replace("_copy", "")
-const maxY = 4
+//const maxY = 4
   return (
     <div>
       <ChartTitle>{chartName}</ChartTitle>
