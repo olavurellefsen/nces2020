@@ -26,7 +26,7 @@ const Charts = props => {
           {
             indicators.map((i, index) => 
             {
-              if (i === "Supply sector CO2 emission") 
+              if (false) 
                 return(<LineChart 
                   key={i+' '+index}
                   chartName={i}
