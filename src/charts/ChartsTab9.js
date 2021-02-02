@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Welcome from '../alert/Welcome'
-import StackedBarChart from './StackedBarChart'
+//import StackedBarChart from './StackedBarChart'
 import StackedBarDiffChart from './StackedBarDiffChart'
 import LineChart from './LineChart'
 import { MainArea, Flex } from './Charts.style'
