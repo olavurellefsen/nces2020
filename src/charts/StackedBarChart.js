@@ -135,11 +135,8 @@ const MyCustomHTMLLabel = props => {
           key={2}
           offsetX={80}
           tickFormat={tick =>
-            `${
-              props.YPercentage === false
-                ? ((tick * maxY) / props.divideValues).toFixed(0)
-                : (tick * 100) / props.divideValues + '%'
-            }`
+            
+            ((tick * maxY) / props.divideValues).toLocaleString()
           }
           tickValues={[0, 0.25, 0.5, 0.75]}
           label={unit}
@@ -186,7 +183,7 @@ const MyCustomHTMLLabel = props => {
             }))}
           labelComponent={<MyCustomHTMLLabel />}
         />
-        <VictoryGroup offset={10} style={{ data: { width: 15 } }}>
+        <VictoryGroup offset={15} style={{ data: { width: 15 } }}>
           <VictoryStack>
             {Object.keys(accumulatedDataScenario1).map((chartGroupName, i) => (
                 <VictoryBar
