@@ -50,6 +50,12 @@ selectedScenario = selectedScenario.replace("_copy", "")
 if (selectedScenario2.includes("_copy"))
 selectedScenario2 = selectedScenario2.replace("_copy", "")
 //const maxY = 4
+let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
+  return scenario.scenario.toLowerCase() === selectedScenario.toLowerCase()
+})
+let indicatorData = selectedScenarioData.indicators.find((indicator) => {
+  return indicator.indicator === chartName
+})
   return (
     <div>
       <ChartTitle>{chartName}</ChartTitle>
