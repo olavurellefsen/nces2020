@@ -5,7 +5,7 @@ export default
 		"District heat production",
 		"Marginal Prices - District Heat",
 		"Power capacity",
-		"Power supply by energy source",
+		"Power production by energy source",
 		"Power Trade",
 		"Marginal Prices - Electricity",
 		"Power consumption by sector",

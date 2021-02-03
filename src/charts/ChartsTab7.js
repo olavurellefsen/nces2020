@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import Welcome from '../alert/Welcome'
 import StackedBarChart from './StackedBarChart'
 import StackedBarDiffChart from './StackedBarDiffChart'
+import LineChart from './LineChart'
 import { MainArea, Flex } from './Charts.style'
 import stackedBar from '../data/stackedBarTab7'
 //import line from '../data/line'
@@ -24,20 +25,36 @@ const Charts = props => {
         <Flex>
           {
             indicators.map((i, index) => 
-              <StackedBarChart
-                key={i+' '+index}
-                chartName={i}
-                chartTitle={i}
-                selectedScenario={selectedScenario}
-                selectedScenario2={selectedScenario2}
-                selectedCountries={selectedCountries}
-                combinedChart={false}
-                label=" "
-                minY={0}
-                maxY={1500}
-                stackedBar={stackedBar}
-                //line={line}
-              />
+            {
+              if (false) 
+                return(<LineChart 
+                  key={i+' '+index}
+                  chartName={i}
+                  chartTitle={i}
+                  selectedScenario={selectedScenario}
+                  selectedScenario2={selectedScenario2}
+                  selectedCountries={selectedCountries}
+                  label=" "
+                  minY={0}
+                  maxY={15}
+                  lineData={stackedBar}
+                />)
+              else
+              return (
+                <StackedBarChart
+                  key={i+' '+index}
+                  chartName={i}
+                  chartTitle={i}
+                  selectedScenario={selectedScenario}
+                  selectedScenario2={selectedScenario2}
+                  selectedCountries={selectedCountries}
+                  combinedChart={false}
+                  label=" "
+                  minY={0}
+                  maxY={1500}
+                  stackedBar={stackedBar}
+                  //line={line}
+                />)}
             )
           }
         </Flex>

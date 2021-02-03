@@ -71,17 +71,12 @@ selectedScenario2 = selectedScenario2.replace("_copy", "")
               }`
             }
             tickValues={[0, 0.25, 0.5, 0.75]}*/
-            //label={unit}
+            label={indicatorData.unit}
           />
           <VictoryGroup >
         {selectedDataRegions.map((country, i)=>{
           let lineChartData = []
-          let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
-            return scenario.scenario.toLowerCase() === selectedScenario.toLowerCase()
-          })
-          let indicatorData = selectedScenarioData.indicators.find((indicator) => {
-            return indicator.indicator === chartName
-          })
+          
           indicatorData.regions.forEach((region)=>{
             if (region.region === country) {
               region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
