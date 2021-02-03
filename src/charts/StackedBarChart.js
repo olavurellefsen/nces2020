@@ -94,6 +94,14 @@ const StackedBarChart = props => {
   Object.keys(totalYearValuesPositiveScenario1).forEach(year => {
     if(chartName==="Power Trade")
       console.log("maxY: ", maxY)
+      console.log("minY: ", minY)
+      console.log("tyvp1: ", totalYearValuesPositiveScenario1[year])
+      if(totalYearValuesPositiveScenario2)
+        console.log("tyvp2: ", totalYearValuesPositiveScenario2[year])
+      console.log("tyvn1: ", totalYearValuesNegativeScenario1[year])
+      if(totalYearValuesPositiveScenario2)
+        console.log("tyvn2: ", totalYearValuesNegativeScenario2[year])
+
     maxY = Math.round(Math.max(maxY, totalYearValuesPositiveScenario1[year],
       scenario2 ? totalYearValuesPositiveScenario2[year] : -Infinity))
     minY = Math.round(Math.min(minY, totalYearValuesNegativeScenario1[year],
@@ -168,6 +176,10 @@ const getTickValues = () => {
   return ret
 }
   console.log("tickValues: ", getTickValues())
+  console.log("base*******************: ", base)
+  console.log("dataScenario1: ", scenario)
+  console.log("dataScenario2: ", scenario2)
+
   return (
     <div>
     <ChartTitle>{chartTitle}</ChartTitle>
@@ -185,14 +197,14 @@ const getTickValues = () => {
           axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
           key={2}
           offsetX={80}
-          /*tickFormat={tick =>
+          tickFormat={tick =>
             `${
               props.YPercentage === false
                 ? (tick * base) / props.divideValues
                 : (tick * 100) / props.divideValues + '%'
             }`
           }
-          tickValues={getTickValues()}*/
+          tickValues={getTickValues()}
           label={unit}
         />
         {combinedChart === true && (
@@ -290,7 +302,7 @@ const getTickValues = () => {
                       })
                     )}
                     x="year"
-                    y={datum => datum['total'] / (base) === 0 ? 100 : base}
+                    y={datum => datum['total'] / (base === 0 ? 100 : base)}
                     labelComponent={<VictoryTooltip />}
                     style={{
                       data: { fill: colors2[i] },
