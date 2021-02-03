@@ -85,23 +85,8 @@ const StackedBarChart = props => {
   let maxY = -Infinity
   let minY = Infinity
   let base = 0
-  console.log("totalYearValuesPositiveScenario1: ", totalYearValuesPositiveScenario1 )
-  console.log("totalYearValuesNegativeScenario1: ", totalYearValuesNegativeScenario1 )
-  console.log("totalYearValuesPositiveScenario2: ", totalYearValuesPositiveScenario2 )
-  console.log("totalYearValuesNegativeScenario2: ", totalYearValuesNegativeScenario2 )
-  console.log("datascenario1: ", dataScenario1)
-  console.log("datascenario2: ", dataScenario2)
+  
   Object.keys(totalYearValuesPositiveScenario1).forEach(year => {
-    if(chartName==="Power Trade")
-      console.log("maxY: ", maxY)
-      console.log("minY: ", minY)
-      console.log("tyvp1: ", totalYearValuesPositiveScenario1[year])
-      if(totalYearValuesPositiveScenario2)
-        console.log("tyvp2: ", totalYearValuesPositiveScenario2[year])
-      console.log("tyvn1: ", totalYearValuesNegativeScenario1[year])
-      if(totalYearValuesPositiveScenario2)
-        console.log("tyvn2: ", totalYearValuesNegativeScenario2[year])
-
     maxY = Math.round(Math.max(maxY, totalYearValuesPositiveScenario1[year],
       scenario2 ? totalYearValuesPositiveScenario2[year] : -Infinity))
     minY = Math.round(Math.min(minY, totalYearValuesNegativeScenario1[year],
@@ -110,32 +95,24 @@ const StackedBarChart = props => {
   let t = 1
   let i = 0
   let range = [2,4,6,8,10]
-  //console.log("maxY before: ", maxY)
   while(t < maxY) {
-    t = range[i%3]*Math.pow(range[4], Math.floor(i/3))
-    //console.log("t: ", t)
+    t = range[i%5]*Math.pow(range[4], Math.floor(i/5))
     i++
   }
   maxY = t
   let u=1
   let j=0
-  console.log("indicator name: ", chartName)
-  //console.log("minY before: ", minY)
   while(u > minY && j < 20) {
-    u = -range[j%3]*Math.pow(range[4], Math.floor(j/3))
-    //console.log("u: ", u)
+    u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
     j++
   }
   minY = u
-  //console.log("minY: ", minY)
-  //console.log("maxY: ", maxY)
 
   //base is used in tickFormat
   if (maxY < -minY) 
     base = -minY
   else 
     base = maxY
-  console.log("base: ", base)
   let legends = new Set()
   stackedBar.data.scenarios
   .find(o => o.scenario.toLowerCase() === scenario.toLowerCase())
@@ -173,12 +150,9 @@ const getTickValues = () => {
           ret.unshift(-defTick[i+1])
     })
   }
+  
   return ret
 }
-  console.log("tickValues: ", getTickValues())
-  console.log("base*******************: ", base)
-  console.log("dataScenario1: ", scenario)
-  console.log("dataScenario2: ", scenario2)
 
   return (
     <div>
