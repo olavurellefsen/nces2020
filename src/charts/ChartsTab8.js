@@ -21,10 +21,8 @@ import {
   VictoryLine,
   //VictoryTooltip, 
 } from 'victory'
-console.log("hist years: ", historicalYears)
 const HistoricalCharts = props => {
   const indicator1Data = createIndicator1Data(HistoricalData, props.selectedCountries)
-  console.log("indicator1Data: ", indicator1Data) 
   return (
     <MainArea>
         <Welcome 
@@ -32,9 +30,6 @@ const HistoricalCharts = props => {
           closeWelcome={props.closeWelcome} 
           tab="tab-history"/>
       <Flex>
-        {/* {HistoricalData.data.map((indicator)=>{
-          console.log("H indicator: ", indicator)
-        })} */}
         <StackedBarChartHistorical
           stackedBar={HistoricalData}
           selectedCountries={props.selectedCountries}
