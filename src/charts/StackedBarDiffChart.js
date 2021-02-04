@@ -15,6 +15,7 @@ import {
   VictoryTooltip,
 } from 'victory'
 import {createAccumulatedData} from './Tools'
+import parseHtml from 'html-react-parser'
 
 const ChartTitle = styled.div`
   margin-left: 70px;
@@ -199,6 +200,15 @@ const StackedBarChart = props => {
     '#7346fa',
     '#82627f',
   ]
+  const HTMLLabel = props => {
+    const text = props.text.replaceAll('§', '')
+  
+    return (
+      <foreignObject x={props.x+3} y={props.y-9} width={600} height={700}>
+        <div style={{ fontSize: '12px', fontFamily: "Open Sans" }}>{parseHtml(text)}</div>
+      </foreignObject>
+    );
+  };
 
   return (
     <div>
@@ -247,11 +257,11 @@ const StackedBarChart = props => {
           colorScale={colors}
           data={Object.keys(diffData).map((indicatorName, i) => ({
             name: indicatorName
-              .concat('        ')
+              .concat('§§§§§§§§§§§§§§§§§§§§§')
               .substr(0, 16),
             fill: colors[i],
           }))}
-          labelComponent={<VictoryLabel style={{ fontSize: '9px' }} />}
+          labelComponent={<HTMLLabel />}
         />
         <VictoryGroup offset={15} style={{ data: { width: 15 } }}>
           <VictoryStack>
