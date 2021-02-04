@@ -6,14 +6,14 @@ import { MainArea, Flex } from './Charts.style'
 import StackedBarChartHistorical from './StackedBarChartHistorical'
 import HistoricalData from "./../data/stackedBarTab8"
 import {createIndicator1Data} from "./Tools"
-import LineChart from './LineChart'
-import historicalYears from "./../data/historicalyears"
-import periods from './../data/years'
+//import LineChart from './LineChart'
+//import historicalYears from "./../data/historicalyears"
+//import periods from './../data/years'
 
 import {
   VictoryChart,
   VictoryLabel,
-  VictoryLegend,
+  //VictoryLegend,
   VictoryGroup,
   //VictoryStack,
   VictoryTheme,

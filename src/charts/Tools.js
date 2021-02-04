@@ -184,7 +184,7 @@ const createIndicator1Data = (rawData, selectedCountries) => {
 }
 
 //CO2 emissions (Mt CO2) from power and district heating  
-const createIndicator2Data = (rawData) => {
+/* const createIndicator2Data = (rawData) => {
   const countries = ['Denmark', 'Sweden', 'Norway', 'Finland', 'Iceland']
   let re = []
   let total = [];
@@ -208,7 +208,7 @@ const createIndicator2Data = (rawData) => {
     "Solar thermal", 
     "Tide, wave, ocean", 
     "Wind electricity"]
-  /* rawData.data.nces_ghgems.forEach((item) => {
+  rawData.data.nces_ghgems.forEach((item) => {
     //console.log("item: ", item)
     //console.log("item.nces_fuel_type.fuel_type: ", filter_fuel.includes(item.nces_fuel_type.fuel_type))
     if (filter_fuel.includes(item.nces_fuel_type.fuel_type))
@@ -218,7 +218,7 @@ const createIndicator2Data = (rawData) => {
       re[item.nces_country.name][item.year-historicalYears[0]] += item.value
     total[item.nces_country.name][item.year-historicalYears[0]] += item.value
     //total[country][year] +=item.value
-  }) */
-}
+  })
+} */
 
 export { createAccumulatedData, createAccumulatedHistoricalData, createIndicator1Data }
