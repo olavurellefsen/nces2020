@@ -135,20 +135,31 @@ data.data.nces_eleproduction.forEach((item)=>{
   return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
 }
 //Share of RE in electricity consumption (theme: Transforming the power sector) 
-const createIndicator1Data = (rawData) => {
-  //console.log("ind1 raw data: ", rawData)
+const createIndicator1Data = (rawData, selectedCountries) => {
+  console.log("mapRegionToDataRegions: ", mapRegionToDataRegions)
+  console.log("ind1 raw data: ", rawData)
+  let selectedDataRegions = [] 
+  mapRegionToDataRegions.forEach((mapRegion) => {
+      if(selectedCountries.includes(mapRegion.path_id)) {
+      mapRegion.historical_data_regions.forEach((dataRegion) => {
+        selectedDataRegions.push(dataRegion)
+      })
+    }
+  })
+  console.log("selectedDataRegions: ", selectedDataRegions)
   const countries = ['Denmark', 'Sweden', 'Norway', 'Finland','Iceland']
   let re = []
   let total = [];
   countries.forEach((country)=>{
-    re[country] = []
-    total[country] = []
+    re = []
+    total = []
     historicalYears.forEach((year) =>{
-      re[country][year]=0
-      total[country][year]=0
+      re[year-historicalYears[0]]=0
+      total[year-historicalYears[0]]=0
     })
   })
-  
+  console.log("init re: ", re)
+  console.log("selectedContries: ", selectedCountries)
   
   
   const filter_fuel = [
@@ -161,17 +172,77 @@ const createIndicator1Data = (rawData) => {
     "Wind electricity"]
   rawData.data.nces_eleproduction.forEach((item) => {
     //console.log("item: ", item)
-    console.log("item.nces_fuel_type.fuel_type: ", filter_fuel.includes(item.nces_fuel_type.fuel_type))
+    //console.log("item.nces_fuel_type.fuel_type: ", filter_fuel.includes(item.nces_fuel_type.fuel_type))
+    if(item.year === 2018 && item.nces_country.name === "Denmark") {
+      console.log("item.nces_fuel_type.fuel_type: ", item.nces_fuel_type.fuel_type)
+      console.log("item.value: ", item.value)
+      console.log("item: ", item)
+      //console.log("item.nces_country: ", item.nces_country.name)
+    }
+    if (selectedDataRegions.includes(item.nces_country.name)) {
+      if (filter_fuel.includes(item.nces_fuel_type.fuel_type)) {
+        
+        //console.log("item.value: ", item.value)
+        //console.log("re[item.nces_country]: ", re[item.nces_country.name])
+        //console.log("item.nces_country: ", item.nces_country.name)
+        re[item.year-historicalYears[0]] += item.value
+      }
+      
+      total[item.year-historicalYears[0]] += item.value
+      //total[country][year] +=item.value
+    }
+    
+  })
+  console.log("re: ", re)
+  console.log("total: ", total)
+  let ret = []
+  re.forEach((item, index)=>{
+    ret[index] = {
+      "x": index + 1990,
+      "y": item/total[index],
+    }
+  })
+  console.log("ret: ", JSON.stringify(ret))
+  return ret
+}
+
+//CO2 emissions (Mt CO2) from power and district heating  
+const createIndicator2Data = (rawData) => {
+  //console.log("ind1 raw data: ", rawData)
+  const countries = ['Denmark', 'Sweden', 'Norway', 'Finland', 'Iceland']
+  let re = []
+  let total = [];
+  countries.forEach((country)=>{
+    re[country] = []
+    total[country] = []
+    historicalYears.forEach((year) =>{
+      re[country][year-historicalYears[0]]=0
+      total[country][year-historicalYears[0]]=0
+    })
+  })
+  //console.log("init re: ", re)
+  
+  
+  
+  const filter_fuel = [
+    "Biofuels",
+    "Geothermal",
+    "Hydroelectricity", 
+    "Solar photovoltaic", 
+    "Solar thermal", 
+    "Tide, wave, ocean", 
+    "Wind electricity"]
+  /* rawData.data.nces_ghgems.forEach((item) => {
+    //console.log("item: ", item)
+    //console.log("item.nces_fuel_type.fuel_type: ", filter_fuel.includes(item.nces_fuel_type.fuel_type))
     if (filter_fuel.includes(item.nces_fuel_type.fuel_type))
       //console.log("item.value: ", item.value)
       //console.log("re[item.nces_country]: ", re[item.nces_country.name])
       //console.log("item.nces_country: ", item.nces_country.name)
-      re[item.nces_country.name][item.year] += item.value
-    total[item.nces_country.name][item.year] += item.value
+      re[item.nces_country.name][item.year-historicalYears[0]] += item.value
+    total[item.nces_country.name][item.year-historicalYears[0]] += item.value
     //total[country][year] +=item.value
-  })
-  console.log("re: ", re)
-  console.log("total: ", total)
+  }) */
 }
 
 export { createAccumulatedData, createAccumulatedHistoricalData, createIndicator1Data }
