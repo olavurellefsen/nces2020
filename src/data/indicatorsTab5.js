@@ -1,10 +1,10 @@
 export default 
  	 [ 
+		"Other sectors CO2 emissions",
+		"Other sectors service demand",
+		"Other sectors fuel consumption",
 		"Agriculture fuel consumption",
-		"Annual costs",
 		"Manufacturing fuel consumption",
-		"Total CO2 emissions",
-		"Total Service demand",
-		"Total fuel consumption",
 		"Trade and service fuel consumption",
+		"Other sectors annual costs",
 	 ]

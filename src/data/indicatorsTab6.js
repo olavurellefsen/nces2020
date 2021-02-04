@@ -1,8 +1,8 @@
 export default 
  	 [ 
+		"Residential CO2 emissions",
+		"Residential fuel consumption",
+		"Residential heating",
 		"Electric appliances consumption",
-		"Households CO2 emissions",
-		"Households annual costs",
-		"Households heating",
-		"Households total fuel consumption",
+		"Residential annual costs",
 	 ]

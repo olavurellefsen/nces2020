@@ -59,6 +59,7 @@ const ScenarioSelectionList = props => {
     })
   let scenarioOptions = OptionDisplay.map(option => {
       let optionValue = option.nameNoOptions;
+      //console.log("option: ", option)
       if (optionValue === "division_line") {
         return <MenuSeparatorLine key={option.id} />;
       } else {
@@ -86,7 +87,7 @@ const ScenarioSelectionList = props => {
                 }
             </ScenarioNameContainer>
             <IconContainer narrowVersion={narrowVersion}>
-              <Icon
+              {scenarioCombinations.optionsAvailable[optionValue].opt0 && <Icon
                 available={
                   scenarioCombinations.optionsAvailable[optionValue].opt0
                 }
@@ -106,8 +107,8 @@ const ScenarioSelectionList = props => {
                 selected={scenarioSwitches[optionValue].opt0}
               >
                 <FontAwesomeIcon icon={faDatabase} />
-              </Icon>
-              <Icon
+              </Icon>}
+              {scenarioCombinations.optionsAvailable[optionValue].opt1 && <Icon
                 available={
                   scenarioCombinations.optionsAvailable[optionValue].opt1
                 }
@@ -127,8 +128,8 @@ const ScenarioSelectionList = props => {
                 selected={scenarioSwitches[optionValue].opt1}
               >
                 <FontAwesomeIcon icon={faLeaf} />
-              </Icon>
-              <Icon
+              </Icon>}
+              {scenarioCombinations.optionsAvailable[optionValue].opt2 && <Icon
                 available={
                   scenarioCombinations.optionsAvailable[optionValue].opt2
                 }
@@ -149,8 +150,8 @@ const ScenarioSelectionList = props => {
               >
                 <FontAwesomeIcon icon={faBolt} />
                 <FontAwesomeIcon icon={faCar} />
-              </Icon>
-              <Icon
+              </Icon>}
+              {scenarioCombinations.optionsAvailable[optionValue].opt3 && <Icon
                 available={
                   scenarioCombinations.optionsAvailable[optionValue].opt3
                 }
@@ -171,7 +172,7 @@ const ScenarioSelectionList = props => {
               >
                 <FontAwesomeIcon icon={faUserFriends} />
                 <FontAwesomeIcon icon={faCar} />
-              </Icon>
+              </Icon>}
               <ReactTooltip
                 multiline={true}
                 place="top"

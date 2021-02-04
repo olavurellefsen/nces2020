@@ -126,7 +126,6 @@ export class App extends React.Component {
   }
   UpdateScenarioSelection = (e, name, value) => {
     e.preventDefault()
-    console.log("update scenario selection: ", value)
     if (this.state.scenarioSelectionNoOptions2 !== '') {
       if (value === this.state.scenarioSelectionNoOptions) {
         this.setState(
@@ -157,8 +156,8 @@ export class App extends React.Component {
   }
 
 
-  CloseWelcomeWidget = () => {
-    this.setState({ showWelcome: false })
+  CloseWelcomeWidget = (value = false) => {
+    this.setState({ showWelcome: value })
   }
 
   ToggleDifference = e => {

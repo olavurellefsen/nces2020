@@ -26,7 +26,13 @@ import periods from './../data/years'
   font-weight: bold;
 `
 ChartHeader.displayName = 'ChartHeader' */
-
+const ChartTitle = styled.div`
+  margin-left: 70px;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Ropa Sans;
+`
 const StackedBarChart = props => {
   //const { t } = useTranslation()
   const stackedBar = props.stackedBar
@@ -66,31 +72,47 @@ const StackedBarChart = props => {
   // }
 
   
-
- const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
+ 
+  const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
   const accumulatedDataScenario1 = dataScenario1[0]
-  //console.log("accu_______*****:  ", accumulatedDataScenario1)
   const accumulatedDataScenario2 = scenario2 ? dataScenario2[0] : undefined
-  const totalYearValuesScenario1 = dataScenario1[1]
-  const totalYearValuesScenario2 = scenario2 ? dataScenario2[1] : undefined
-  const unit = dataScenario1[2]
+  const totalYearValuesPositiveScenario1 = dataScenario1[1]
+  const totalYearValuesNegativeScenario1 = dataScenario1[2]
+  const totalYearValuesPositiveScenario2 = scenario2 ? dataScenario2[1] : undefined
+  const totalYearValuesNegativeScenario2 = scenario2 ? dataScenario2[2] : undefined
+  const unit = dataScenario1[3]
   let maxY = -Infinity
-
-  Object.keys(totalYearValuesScenario1).forEach(year => {
-    //if(chartName==="Cement fuel consumption (PJ)")
-      //console.log("maxY: ", maxY)
-    maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year],
-      scenario2 ? totalYearValuesScenario2[year] : -Infinity))
+  let minY = Infinity
+  let base = 0
+  
+  Object.keys(totalYearValuesPositiveScenario1).forEach(year => {
+    maxY = Math.round(Math.max(maxY, totalYearValuesPositiveScenario1[year],
+      scenario2 ? totalYearValuesPositiveScenario2[year] : -Infinity))
+    minY = Math.round(Math.min(minY, totalYearValuesNegativeScenario1[year],
+      scenario2 ? totalYearValuesNegativeScenario2[year] : Infinity))
   })
   let t = 1
   let i = 0
-  let range = [2,4,10]
+  let range = [2,4,6,8,10]
   while(t < maxY) {
-    t = range[i%3]*Math.pow(range[2], Math.floor(i/3))
+    t = range[i%5]*Math.pow(range[4], Math.floor(i/5))
     i++
   }
   maxY = t
+  let u=1
+  let j=0
+  while(u > minY && j < 20) {
+    u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
+    j++
+  }
+  minY = u
+
+  //base is used in tickFormat
+  if (maxY < -minY) 
+    base = -minY
+  else 
+    base = maxY
   let legends = new Set()
   stackedBar.data.scenarios
   .find(o => o.scenario.toLowerCase() === scenario.toLowerCase())
@@ -99,13 +121,7 @@ const StackedBarChart = props => {
       legends.add(group.indicatorGroup)
     })
   })
-  const ChartTitle = styled.div`
-  margin-left: 70px;
-  margin-top: 20px;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: Ropa Sans;
-`
+  
 const MyCustomHTMLLabel = props => {
   const text = props.text.replaceAll('§', '')
 
@@ -115,8 +131,29 @@ const MyCustomHTMLLabel = props => {
     </foreignObject>
   );
 };
-
+const defTick = [0, 0.25, 0.5, 0.75]
+const getTickValues = () => {
+  let ret = []
+  if (-minY > maxY) {
+    ret=[-0.75,-0.5, -0.25, 0]
+    defTick.forEach((tick, i)=> {
+      if (tick !== 0.75)
+      if (-tick*minY < maxY)
+      ret.push(defTick[i+1])
+    })
+  }
+  else {
+    ret=[0, 0.25, 0.5, 0.75]
+    defTick.forEach((tick, i)=> {
+      if (tick !== 0.75)
+        if (tick*maxY + maxY*0.05 < -minY)
+          ret.unshift(-defTick[i+1])
+    })
+  }
   
+  return ret
+}
+
   return (
     <div>
     <ChartTitle>{chartTitle}</ChartTitle>
@@ -135,13 +172,10 @@ const MyCustomHTMLLabel = props => {
           key={2}
           offsetX={80}
           tickFormat={tick =>
-            `${
-              props.YPercentage === false
-                ? ((tick * maxY) / props.divideValues).toFixed(0)
-                : (tick * 100) / props.divideValues + '%'
-            }`
+            
+            ((tick * maxY) / props.divideValues).toLocaleString()
           }
-          tickValues={[0, 0.25, 0.5, 0.75]}
+          tickValues={getTickValues()}
           label={unit}
         />
         {combinedChart === true && (
@@ -186,7 +220,7 @@ const MyCustomHTMLLabel = props => {
             }))}
           labelComponent={<MyCustomHTMLLabel />}
         />
-        <VictoryGroup offset={10} style={{ data: { width: 15 } }}>
+        <VictoryGroup offset={15} style={{ data: { width: 15 } }}>
           <VictoryStack>
             {Object.keys(accumulatedDataScenario1).map((chartGroupName, i) => (
                 <VictoryBar
@@ -209,7 +243,7 @@ const MyCustomHTMLLabel = props => {
                     })}
                   )}
                   x="year"
-                  y={datum => datum['total'] / (maxY === 0 ? 100 : maxY)}
+                  y={datum => datum['total'] / (base === 0 ? 100 : base)}
                   labelComponent={<VictoryTooltip />}
                   style={{
                     data: { fill: colors[i] },
@@ -239,7 +273,7 @@ const MyCustomHTMLLabel = props => {
                       })
                     )}
                     x="year"
-                    y={datum => datum['total'] / (maxY === 0 ? 100 : maxY)}
+                    y={datum => datum['total'] / (base === 0 ? 100 : base)}
                     labelComponent={<VictoryTooltip />}
                     style={{
                       data: { fill: colors2[i] },

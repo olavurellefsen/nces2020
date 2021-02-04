@@ -15,15 +15,15 @@ import {
   VictoryTooltip,
 } from 'victory'
 import {createAccumulatedData} from './Tools'
+import parseHtml from 'html-react-parser'
 
-const ChartHeader = styled(VictoryLabel)`
-  text-anchor: start;
-  fill: #000000;
-  font-family: inherit;
+const ChartTitle = styled.div`
+  margin-left: 70px;
+  margin-top: 20px;
   font-size: 18px;
   font-weight: bold;
+  font-family: Ropa Sans;
 `
-ChartHeader.displayName = 'ChartHeader'
 
 const StackedBarChart = props => {
   //const { t } = useTranslation()
@@ -71,6 +71,7 @@ const StackedBarChart = props => {
   const accumulatedDataScenario1 = dataScenario1[0]
   const accumulatedDataScenario2 = scenario2 ? dataScenario2[0] : undefined
   let diffData = JSON.parse(JSON.stringify(accumulatedDataScenario1))
+  const unit = dataScenario1[3]
   Object.keys(accumulatedDataScenario2).forEach(indicatorName => {
     accumulatedDataScenario2[indicatorName].forEach((yearValue, index) => {
       diffData[indicatorName][index].total =  diffData[indicatorName][index].total - yearValue.total
@@ -78,6 +79,7 @@ const StackedBarChart = props => {
   }) 
   let maxValue = -Infinity
   let minValue = Infinity
+  let base = 0
 
   let totalYearValuesPos = {}
   let totalYearValuesNeg = {}
@@ -99,12 +101,64 @@ const StackedBarChart = props => {
     })
   })
   Object.keys(totalYearValuesPos).forEach(year => {
+    /* console.log("maxValue: ", maxValue)
+    console.log("minValue: ", minValue)
+    console.log("totalYearValuesPos[year]: ", totalYearValuesPos[year])
+    console.log("totalYearValuesNeg[year]: ", totalYearValuesNeg[year]) */
     maxValue = Math.round(Math.max(maxValue, totalYearValuesPos[year]))
     minValue = Math.round(Math.min(minValue, totalYearValuesNeg[year]))
   })
-  if (-minValue > maxValue) {
-    maxValue = -minValue
+  let t = 1
+  let i = 0
+  let range = [2,4,6,8,10]
+  while(t < maxValue) {
+    /* console.log("t: ", t)
+    console.log("maxValue: ", maxValue) */
+    t = range[i%5]*Math.pow(range[4], Math.floor(i/5))
+    i++
   }
+  maxValue = t
+  let u=1
+  let j=0
+  while(u > minValue && j < 20) {
+    /* console.log("u: ", u)
+    console.log("minValue: ", minValue) */
+    u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
+    j++
+  }
+  minValue = u
+
+  //base is used in tickFormat
+  if (maxValue < -minValue) 
+    base = -minValue
+  else 
+    base = maxValue
+
+  /* console.log("maxValue: ", maxValue)
+  console.log("minValue: ", minValue)
+  console.log("base: ", base) */
+  const defTick = [0, 0.25, 0.5, 0.75]
+  const getTickValues = () => {
+      let ret = []
+      if (-minValue > maxValue) {
+        ret=[-0.75,-0.5, -0.25, 0]
+        defTick.forEach((tick, i)=> {
+          if (tick !== 0.75)
+          if (-tick*minValue < maxValue)
+          ret.push(defTick[i+1])
+        })
+      }
+      else {
+        ret=[0, 0.25, 0.5, 0.75]
+        defTick.forEach((tick, i)=> {
+          if (tick !== 0.75)
+            if (tick*maxValue + maxValue*0.05 < -minValue)
+              ret.unshift(-defTick[i+1])
+        })
+      }
+      //console.log("ticks: ", ret)
+      return ret
+    }
 
   const colors = [
     '#5cbae6',
@@ -146,22 +200,32 @@ const StackedBarChart = props => {
     '#7346fa',
     '#82627f',
   ]
+  const HTMLLabel = props => {
+    const text = props.text.replaceAll('§', '')
+  
+    return (
+      <foreignObject x={props.x+3} y={props.y-9} width={600} height={700}>
+        <div style={{ fontSize: '12px', fontFamily: "Open Sans" }}>{parseHtml(text)}</div>
+      </foreignObject>
+    );
+  };
 
   return (
     <div>
+      <ChartTitle>{chartTitle}</ChartTitle>
       <VictoryChart
         domainPadding={20}
-        width={380}
-        height={380}
+        width={550}
+        height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
         theme={VictoryTheme.material}
         domain={{ y: yDomain }}
       >
-        <ChartHeader x={90} y={24} text={chartTitle} />
+        
         <VictoryAxis key={0} tickValues={periods} tickFormat={periods} />
         <VictoryAxis
           dependentAxis
-          axisLabelComponent={<VictoryLabel dx={120} />}
+          axisLabelComponent={<VictoryLabel dx={10} dy={-50} />}
           key={2}
           offsetX={80}
           tickFormat={tick => {
@@ -174,32 +238,32 @@ const StackedBarChart = props => {
                 '%'
               )
             }
-            return Math.round((tick * maxValue) / props.divideValues, 0)
+            return Math.round((tick * base) / props.divideValues, 0)
           }}
-          tickValues={[-1,-0.75, -0.5, -0.25, 0, 0.25, 0.5, 0.75,1]}
-          label={props.label}
+          tickValues={getTickValues()}
+          label={unit}
         />
         <VictoryLegend
           x={90}
-          y={50}
+          y={5}
           orientation="horizontal"
           gutter={gutter}
           rowGutter={rowGutter}
           symbolSpacer={4}
-          itemsPerRow={3}
+          itemsPerRow={4}
           style={{
             title: { fontSize: 14, leftPadding: -10 },
           }}
           colorScale={colors}
           data={Object.keys(diffData).map((indicatorName, i) => ({
             name: indicatorName
-              .concat('        ')
+              .concat('§§§§§§§§§§§§§§§§§§§§§')
               .substr(0, 16),
             fill: colors[i],
           }))}
-          labelComponent={<VictoryLabel style={{ fontSize: '9px' }} />}
+          labelComponent={<HTMLLabel />}
         />
-        <VictoryGroup offset={10} style={{ data: { width: 10 } }}>
+        <VictoryGroup offset={15} style={{ data: { width: 15 } }}>
           <VictoryStack>
             {Object.keys(diffData).map((indicatorName, i) => (
               <VictoryBar
@@ -220,7 +284,7 @@ const StackedBarChart = props => {
                         )),
                 }))}
                 x="year"
-                y={datum => maxValue === 0 ? 0 : datum['total'] / maxValue}
+                y={datum => maxValue === 0 ? 0 : datum['total'] / base}
                 labelComponent={<VictoryTooltip />}
                 style={{
                   data: { fill: colors[i] },
