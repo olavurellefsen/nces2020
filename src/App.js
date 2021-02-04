@@ -156,8 +156,8 @@ export class App extends React.Component {
   }
 
 
-  CloseWelcomeWidget = () => {
-    this.setState({ showWelcome: false })
+  CloseWelcomeWidget = (value = false) => {
+    this.setState({ showWelcome: value })
   }
 
   ToggleDifference = e => {

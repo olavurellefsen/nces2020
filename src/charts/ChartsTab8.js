@@ -8,9 +8,10 @@ import HistoricalData from "./../data/stackedBarTab8"
 const HistoricalCharts = props => {
   return (
     <MainArea>
-      {props.scenarioSelection.showWelcome === true && (
-        <Welcome closeWelcome={props.closeWelcome} />
-      )}
+        <Welcome 
+          isOpen={props.scenarioSelection.showWelcome}
+          closeWelcome={props.closeWelcome} 
+          tab="tab-history"/>
       <Flex>
         {/* {HistoricalData.data.map((indicator)=>{
           console.log("H indicator: ", indicator)
