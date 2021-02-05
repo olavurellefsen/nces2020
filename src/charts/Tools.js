@@ -13,10 +13,12 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
   })
 
     //Useful when finding axis range
-    let totalYearValues = {}
+    let totalYearValuesPositive = {}
+    let totalYearValuesNegative = {}
     let unit = "";
     years.forEach(year => {
-        totalYearValues[year] = 0
+        totalYearValuesPositive[year] = 0
+        totalYearValuesNegative[year] = 0
     })
     if (!scenario) return undefined //this will be the case for sceanrio2 if only one scenario is selected
     let accumulatedData = {}
@@ -47,12 +49,15 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
                     console.log("Error in array indexing")
                   }
                   accumulatedData[indicatorGroup.indicatorGroup][index].total += percentage ? value.total/selectedCountries.length : value.total
-                  totalYearValues[value.year] += percentage ? value.total/selectedCountries.length : value.total
+                  if (value.total > 0)
+                    totalYearValuesPositive[value.year] += percentage ? value.total/selectedCountries.length : value.total
+                  else
+                    totalYearValuesNegative[value.year] += percentage ? value.total/selectedCountries.length : value.total
                 })
               }
             })
         })
-        return [accumulatedData, totalYearValues, unit]
+        return [accumulatedData, totalYearValuesPositive, totalYearValuesNegative , unit]
 }
 
 // export function getMinMaxStackedValues(yearValues1, yearValues2) {
@@ -83,7 +88,6 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
 // }
 
 function createAccumulatedHistoricalData(data, chartName, selectedCountries) {
-  //console.log("about to go historical")
   let accumulatedHistoricalData = {}
   let totalHistoricalYearValues = {}
   historicalYears.forEach(year => {
@@ -129,5 +133,92 @@ data.data.nces_eleproduction.forEach((item)=>{
 
   return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
 }
+//Share of RE in electricity consumption (theme: Transforming the power sector) 
+const createIndicator1Data = (rawData, selectedCountries) => {
+  let selectedDataRegions = [] 
+  mapRegionToDataRegions.forEach((mapRegion) => {
+      if(selectedCountries.includes(mapRegion.path_id)) {
+      mapRegion.historical_data_regions.forEach((dataRegion) => {
+        selectedDataRegions.push(dataRegion)
+      })
+    }
+  })
+  const countries = ['Denmark', 'Sweden', 'Norway', 'Finland','Iceland']
+  let re = []
+  let total = [];
+  countries.forEach((country)=>{
+    re = []
+    total = []
+    historicalYears.forEach((year) =>{
+      re[year-historicalYears[0]]=0
+      total[year-historicalYears[0]]=0
+    })
+  })
+  
+  
+  const filter_fuel = [
+    "Biofuels",
+    "Geothermal",
+    "Hydroelectricity", 
+    "Solar photovoltaic", 
+    "Solar thermal", 
+    "Tide, wave, ocean", 
+    "Wind electricity"]
+  rawData.data.nces_eleproduction.forEach((item) => {
+    if (selectedDataRegions.includes(item.nces_country.name)) {
+      if (filter_fuel.includes(item.nces_fuel_type.fuel_type)) {
+        re[item.year-historicalYears[0]] += item.value
+      }
+      total[item.year-historicalYears[0]] += item.value
+    }
+    
+  })
+  let ret = []
+  re.forEach((item, index)=>{
+    ret[index] = {
+      "x": index + 1990,
+      "y": item/total[index],
+    }
+  })
+  return ret
+}
 
-export { createAccumulatedData, createAccumulatedHistoricalData }
+//CO2 emissions (Mt CO2) from power and district heating  
+/* const createIndicator2Data = (rawData) => {
+  const countries = ['Denmark', 'Sweden', 'Norway', 'Finland', 'Iceland']
+  let re = []
+  let total = [];
+  countries.forEach((country)=>{
+    re[country] = []
+    total[country] = []
+    historicalYears.forEach((year) =>{
+      re[country][year-historicalYears[0]]=0
+      total[country][year-historicalYears[0]]=0
+    })
+  })
+  //console.log("init re: ", re)
+  
+  
+  
+  const filter_fuel = [
+    "Biofuels",
+    "Geothermal",
+    "Hydroelectricity", 
+    "Solar photovoltaic", 
+    "Solar thermal", 
+    "Tide, wave, ocean", 
+    "Wind electricity"]
+  rawData.data.nces_ghgems.forEach((item) => {
+    //console.log("item: ", item)
+    //console.log("item.nces_fuel_type.fuel_type: ", filter_fuel.includes(item.nces_fuel_type.fuel_type))
+    if (filter_fuel.includes(item.nces_fuel_type.fuel_type))
+      //console.log("item.value: ", item.value)
+      //console.log("re[item.nces_country]: ", re[item.nces_country.name])
+      //console.log("item.nces_country: ", item.nces_country.name)
+      re[item.nces_country.name][item.year-historicalYears[0]] += item.value
+    total[item.nces_country.name][item.year-historicalYears[0]] += item.value
+    //total[country][year] +=item.value
+  })
+} */
+
+export { createAccumulatedData, createAccumulatedHistoricalData, createIndicator1Data }

@@ -27,10 +27,7 @@ const ChartTitle = styled.div`
   font-family: Ropa Sans;
 `
 const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCountries, chartName }) => {
-  /* const scenario = selectedScenario.includes("_copy") ? 
-    selectedScenario.replace("_copy", "") : 
-    selectedScenario
- */
+
 let selectedDataRegions = [] 
   mapRegionToDataRegions.forEach((mapRegion) => {
       if(selectedCountries.includes(mapRegion.path_id)) {
@@ -56,11 +53,9 @@ selectedScenario2 = selectedScenario2.replace("_copy", "")
 let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
   return scenario.scenario.toLowerCase() === selectedScenario.toLowerCase()
 })
-
 let indicatorData = selectedScenarioData.indicators.find((indicator) => {
   return indicator.indicator === chartName
 })
-console.log("indicatorData: ", indicatorData)
   return (
     <div>
       <ChartTitle>{chartName}</ChartTitle>
