@@ -39,6 +39,7 @@
   ],
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.4",
-    "react-testing-library": "^6.1.2"
+    "react-testing-library": "^6.1.2",
+    "@babel/core": "^7.7.7"
   }
 }
