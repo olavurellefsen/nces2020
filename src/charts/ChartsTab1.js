@@ -39,7 +39,7 @@ const Charts = props => {
                 minY={0}
                 maxY={1500}
                 stackedBar={stackedBar}
-                //line={line}
+                //line={line} 
               />)}
             )
           }
