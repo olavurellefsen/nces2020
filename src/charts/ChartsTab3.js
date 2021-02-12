@@ -26,7 +26,7 @@ const Charts = props => {
           {
             indicators.map((i, index) => 
             {
-              if (i === "Power and heat CO2 emissions" || 
+              if (i === "Marginal prices - electricity" || 
               i === "Marginal prices - district heat" ) 
                 return(<LineChart 
                   key={i+' '+index}
