@@ -173,7 +173,7 @@ const getTickValues = () => {
           offsetX={80}
           tickFormat={tick =>
             
-            ((tick * maxY) / props.divideValues).toLocaleString()
+            ((tick * base) / props.divideValues).toLocaleString()
           }
           tickValues={getTickValues()}
           label={unit}
