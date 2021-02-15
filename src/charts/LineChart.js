@@ -27,7 +27,8 @@ const ChartTitle = styled.div`
   font-family: Ropa Sans;
 `
 const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCountries, chartName }) => {
-
+  console.log("scenario1: ", selectedScenario)
+  console.log("scenario2: ", selectedScenario2)
 let selectedDataRegions = [] 
   mapRegionToDataRegions.forEach((mapRegion) => {
       if(selectedCountries.includes(mapRegion.path_id)) {
@@ -36,6 +37,10 @@ let selectedDataRegions = []
       })
     }
   })
+  if (selectedScenario.includes("_copy"))
+selectedScenario = selectedScenario.replace("_copy", "")
+if (selectedScenario2.includes("_copy"))
+selectedScenario2 = selectedScenario2.replace("_copy", "")
 let legends = new Set()
   lineData.data.scenarios
   .find(o => o.scenario.toLowerCase() === selectedScenario.toLowerCase())
@@ -44,11 +49,9 @@ let legends = new Set()
       legends.add(group.indicatorGroup)
     })
   })
+  
 legends = selectedDataRegions
-if (selectedScenario.includes("_copy"))
-selectedScenario = selectedScenario.replace("_copy", "")
-if (selectedScenario2.includes("_copy"))
-selectedScenario2 = selectedScenario2.replace("_copy", "")
+
 //const maxY = 4
 let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
   return scenario.scenario.toLowerCase() === selectedScenario.toLowerCase()
@@ -56,6 +59,7 @@ let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
 let indicatorData = selectedScenarioData.indicators.find((indicator) => {
   return indicator.indicator === chartName
 })
+console.log("scenario: ", )
   return (
     <div>
       <ChartTitle>{chartName}</ChartTitle>
