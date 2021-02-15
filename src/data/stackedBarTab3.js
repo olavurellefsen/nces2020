@@ -4238,7 +4238,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4275,7 +4275,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4312,7 +4312,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4349,7 +4349,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4386,7 +4386,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5607,43 +5607,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.1535999775
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6.307199955
-                      },
-                      {
-                        "year": 2045,
-                        "total": -9.4608001709
-                      },
-                      {
-                        "year": 2050,
-                        "total": -12.3510875702
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -5714,6 +5677,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -16.2936000824
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.1535999775
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6.307199955
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9.4608001709
+                      },
+                      {
+                        "year": 2050,
+                        "total": -12.3510875702
                       }
                     ]
                   },
@@ -10641,7 +10641,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10678,7 +10678,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10715,7 +10715,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10752,7 +10752,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -10789,7 +10789,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12010,43 +12010,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.1535999775
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6.307199955
-                      },
-                      {
-                        "year": 2045,
-                        "total": -9.4608001709
-                      },
-                      {
-                        "year": 2050,
-                        "total": -11.7904071808
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -12117,6 +12080,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -16.2936000824
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.1535999775
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6.307199955
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9.4608001709
+                      },
+                      {
+                        "year": 2050,
+                        "total": -11.7904071808
                       }
                     ]
                   },
@@ -17044,7 +17044,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17081,7 +17081,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17118,7 +17118,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17155,7 +17155,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17192,7 +17192,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -18413,43 +18413,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.1535999775
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6.307199955
-                      },
-                      {
-                        "year": 2045,
-                        "total": -9.4608001709
-                      },
-                      {
-                        "year": 2050,
-                        "total": -12.4854984283
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -18520,6 +18483,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -16.2936000824
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.1535999775
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6.307199955
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9.4608001709
+                      },
+                      {
+                        "year": 2050,
+                        "total": -12.4854984283
                       }
                     ]
                   },
@@ -23447,7 +23447,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23484,7 +23484,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23521,7 +23521,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23558,7 +23558,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -23595,7 +23595,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -24816,43 +24816,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.1535999775
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6.307199955
-                      },
-                      {
-                        "year": 2045,
-                        "total": -9.4608001709
-                      },
-                      {
-                        "year": 2050,
-                        "total": -11.607916832
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -24923,6 +24886,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -16.2936000824
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.1535999775
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6.307199955
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9.4608001709
+                      },
+                      {
+                        "year": 2050,
+                        "total": -11.607916832
                       }
                     ]
                   },
@@ -29850,7 +29850,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29887,7 +29887,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29924,7 +29924,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29961,7 +29961,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29998,7 +29998,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -31219,43 +31219,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.1535999775
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6.307199955
-                      },
-                      {
-                        "year": 2045,
-                        "total": -9.4608001709
-                      },
-                      {
-                        "year": 2050,
-                        "total": -12.3515625
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -31326,6 +31289,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -16.2936000824
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.1535999775
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6.307199955
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9.4608001709
+                      },
+                      {
+                        "year": 2050,
+                        "total": -12.3515625
                       }
                     ]
                   },
@@ -36253,7 +36253,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36290,7 +36290,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36327,7 +36327,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36364,7 +36364,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36401,7 +36401,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -37622,43 +37622,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.1535999775
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6.307199955
-                      },
-                      {
-                        "year": 2045,
-                        "total": -9.4608001709
-                      },
-                      {
-                        "year": 2050,
-                        "total": -11.445980072
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -37729,6 +37692,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -16.2936000824
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.1535999775
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6.307199955
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9.4608001709
+                      },
+                      {
+                        "year": 2050,
+                        "total": -11.445980072
                       }
                     ]
                   },
@@ -42656,7 +42656,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42693,7 +42693,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42730,7 +42730,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42767,7 +42767,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42804,7 +42804,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -44025,43 +44025,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.1535999775
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6.307199955
-                      },
-                      {
-                        "year": 2045,
-                        "total": -9.4608001709
-                      },
-                      {
-                        "year": 2050,
-                        "total": -12.5125589371
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -44132,6 +44095,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -16.2936000824
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.1535999775
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6.307199955
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9.4608001709
+                      },
+                      {
+                        "year": 2050,
+                        "total": -12.5125589371
                       }
                     ]
                   },
@@ -49059,7 +49059,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49096,7 +49096,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49133,7 +49133,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49170,7 +49170,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49207,7 +49207,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50428,43 +50428,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.1535999775
-                      },
-                      {
-                        "year": 2040,
-                        "total": -6.307199955
-                      },
-                      {
-                        "year": 2045,
-                        "total": -9.3219079971
-                      },
-                      {
-                        "year": 2050,
-                        "total": -11.3273582458
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -50535,6 +50498,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -16.2936000824
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.1535999775
+                      },
+                      {
+                        "year": 2040,
+                        "total": -6.307199955
+                      },
+                      {
+                        "year": 2045,
+                        "total": -9.3219079971
+                      },
+                      {
+                        "year": 2050,
+                        "total": -11.3273582458
                       }
                     ]
                   },
@@ -55462,7 +55462,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55499,7 +55499,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55536,7 +55536,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55573,7 +55573,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55610,7 +55610,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56831,43 +56831,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -4.3711252213
-                      },
-                      {
-                        "year": 2040,
-                        "total": -11.4509811401
-                      },
-                      {
-                        "year": 2045,
-                        "total": -12.4436845779
-                      },
-                      {
-                        "year": 2050,
-                        "total": -13.1040000916
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -56938,6 +56901,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -9.9064836502
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -4.3711252213
+                      },
+                      {
+                        "year": 2040,
+                        "total": -11.4509811401
+                      },
+                      {
+                        "year": 2045,
+                        "total": -12.4436845779
+                      },
+                      {
+                        "year": 2050,
+                        "total": -13.1040000916
                       }
                     ]
                   },
@@ -61865,7 +61865,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61902,7 +61902,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61939,7 +61939,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61976,7 +61976,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62013,7 +62013,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -63234,43 +63234,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.889330864
-                      },
-                      {
-                        "year": 2040,
-                        "total": -11.2721138
-                      },
-                      {
-                        "year": 2045,
-                        "total": -11.7977409363
-                      },
-                      {
-                        "year": 2050,
-                        "total": -12.3869590759
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -63341,6 +63304,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -9.9064836502
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.889330864
+                      },
+                      {
+                        "year": 2040,
+                        "total": -11.2721138
+                      },
+                      {
+                        "year": 2045,
+                        "total": -11.7977409363
+                      },
+                      {
+                        "year": 2050,
+                        "total": -12.3869590759
                       }
                     ]
                   },
@@ -68268,7 +68268,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68305,7 +68305,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68342,7 +68342,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68379,7 +68379,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68416,7 +68416,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69637,43 +69637,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -4.3127121925
-                      },
-                      {
-                        "year": 2040,
-                        "total": -11.5642642975
-                      },
-                      {
-                        "year": 2045,
-                        "total": -12.3812189102
-                      },
-                      {
-                        "year": 2050,
-                        "total": -13.1040000916
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -69744,6 +69707,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -9.9064836502
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -4.3127121925
+                      },
+                      {
+                        "year": 2040,
+                        "total": -11.5642642975
+                      },
+                      {
+                        "year": 2045,
+                        "total": -12.3812189102
+                      },
+                      {
+                        "year": 2050,
+                        "total": -13.1040000916
                       }
                     ]
                   },
@@ -74671,7 +74671,7 @@ export default {
                 "region": "no",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Industry electricity",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74708,7 +74708,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Other heating plants",
+                    "indicatorGroup": "Other",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74745,7 +74745,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Residential electricity",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74782,7 +74782,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Supply electricity",
+                    "indicatorGroup": "Supply",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74819,7 +74819,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Transport electricity",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76040,43 +76040,6 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "EXPELC-DKPL",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": -3.8047261238
-                      },
-                      {
-                        "year": 2040,
-                        "total": -11.1436910629
-                      },
-                      {
-                        "year": 2045,
-                        "total": -11.6205873489
-                      },
-                      {
-                        "year": 2050,
-                        "total": -12.5283231735
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Export DK-DE",
                     "indicatorGroupValues": [
                       {
@@ -76147,6 +76110,43 @@ export default {
                       {
                         "year": 2050,
                         "total": -9.9064836502
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Export DK-PL",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": -3.8047261238
+                      },
+                      {
+                        "year": 2040,
+                        "total": -11.1436910629
+                      },
+                      {
+                        "year": 2045,
+                        "total": -11.6205873489
+                      },
+                      {
+                        "year": 2050,
+                        "total": -12.5283231735
                       }
                     ]
                   },

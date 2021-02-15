@@ -4608,6 +4608,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -4641,6 +4678,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -4715,80 +4789,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.5757980347
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -4988,6 +4988,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.7978852987
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.3086081743
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.7096277475
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -5097,43 +5134,6 @@ export default {
                         "total": 12.8155725002
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.7978852987
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.3086081743
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7096277475
-                      }
-                    ]
                   }
                 ]
               },
@@ -5211,6 +5211,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.6851206422
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14.4960455894
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.8355209678
                       }
                     ]
                   },
@@ -5322,43 +5359,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.5997290611
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.6851206422
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.4960455894
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -7052,43 +7052,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -7569,15 +7532,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0615987442
+                        "total": 3.859484043
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.3086081743
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 3.7096277475
                       }
                     ]
                   },
@@ -7913,43 +7876,6 @@ export default {
                         "total": 1.4844559431
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.7978852987
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.3086081743
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.7096277475
-                      }
-                    ]
                   }
                 ]
               },
@@ -8018,15 +7944,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 10.7099954188
+                        "total": 13.395116061
                       },
                       {
                         "year": 2045,
-                        "total": 3.3472379148
+                        "total": 17.8432835042
                       },
                       {
                         "year": 2050,
-                        "total": 2.0601471588
+                        "total": 5.8956681266
                       }
                     ]
                   },
@@ -8323,43 +8249,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.2527082665
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.6851206422
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.4960455894
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -13557,6 +13446,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -13590,6 +13516,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -13664,80 +13627,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.5757980347
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -13937,6 +13826,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.894554019
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.0159937143
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.8479027748
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.2903625965
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -14046,43 +13972,6 @@ export default {
                         "total": 13.370486021
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.894554019
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.8479027748
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.2903625965
-                      }
-                    ]
                   }
                 ]
               },
@@ -14160,6 +14049,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0732468367
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.799871698
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0638072044
                       }
                     ]
                   },
@@ -14271,43 +14197,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 69.8034858704
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0732468367
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.799871698
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0638072044
                       }
                     ]
                   }
@@ -16001,43 +15890,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -16514,19 +16366,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 0.3110564724
+                        "total": 1.2056104913
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": 4.0159937143
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.8479027748
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 6.2903625965
                       }
                     ]
                   },
@@ -16862,43 +16714,6 @@ export default {
                         "total": 0.9295424819
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.894554019
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.8479027748
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.2903625965
-                      }
-                    ]
                   }
                 ]
               },
@@ -16967,15 +16782,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 10.7099954188
+                        "total": 10.7832422554
                       },
                       {
                         "year": 2045,
-                        "total": 3.3472379148
+                        "total": 6.1471096128
                       },
                       {
                         "year": 2050,
-                        "total": 2.0601471588
+                        "total": 2.1239543632
                       }
                     ]
                   },
@@ -17272,43 +17087,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.0489534541
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0732468367
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.799871698
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0638072044
                       }
                     ]
                   }
@@ -22506,6 +22284,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -22539,6 +22354,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -22613,80 +22465,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.5757980347
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -22886,6 +22664,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.5696692467
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.3789843321
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.2400714159
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -22995,43 +22810,6 @@ export default {
                         "total": 13.3426930904
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.5696692467
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.3789843321
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.2400714159
-                      }
-                    ]
                   }
                 ]
               },
@@ -23109,6 +22887,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.566818811
+                      },
+                      {
+                        "year": 2045,
+                        "total": 13.62157619
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.8355209678
                       }
                     ]
                   },
@@ -23220,43 +23035,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.5997290611
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.566818811
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.62157619
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -24950,43 +24728,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -25467,15 +25208,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0615987442
+                        "total": 3.6312679909
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.3789843321
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 3.2400714159
                       }
                     ]
                   },
@@ -25811,43 +25552,6 @@ export default {
                         "total": 0.9573355913
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.5696692467
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.3789843321
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.2400714159
-                      }
-                    ]
                   }
                 ]
               },
@@ -25916,15 +25620,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 10.7099954188
+                        "total": 13.2768142298
                       },
                       {
                         "year": 2045,
-                        "total": 3.3472379148
+                        "total": 16.9688141048
                       },
                       {
                         "year": 2050,
-                        "total": 2.0601471588
+                        "total": 5.8956681266
                       }
                     ]
                   },
@@ -26221,43 +25925,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.2527082665
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 2.566818811
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.62157619
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -31455,6 +31122,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -31488,6 +31192,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
                       }
                     ]
                   },
@@ -31562,80 +31303,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.5757980347
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
                       }
                     ]
                   }
@@ -31835,6 +31502,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.6953038573
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.0159937143
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.4743390083
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.2903625965
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -31944,43 +31648,6 @@ export default {
                         "total": 13.3426930904
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.6953038573
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.4743390083
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.2903625965
-                      }
-                    ]
                   }
                 ]
               },
@@ -32058,6 +31725,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.4754827023
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9124835208
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.3226820081
                       }
                     ]
                   },
@@ -32169,43 +31873,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 68.0666427612
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4754827023
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.9124835208
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.3226820081
                       }
                     ]
                   }
@@ -33899,43 +33566,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -34412,19 +34042,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 0.3110564724
+                        "total": 1.0063603297
                       },
                       {
                         "year": 2040,
-                        "total": 0.0
+                        "total": 4.0159937143
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.4743390083
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 6.2903625965
                       }
                     ]
                   },
@@ -34760,43 +34390,6 @@ export default {
                         "total": 0.9573355913
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.6953038573
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.4743390083
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.2903625965
-                      }
-                    ]
                   }
                 ]
               },
@@ -34865,15 +34458,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 10.7099954188
+                        "total": 11.185478121
                       },
                       {
                         "year": 2045,
-                        "total": 3.3472379148
+                        "total": 6.2597214356
                       },
                       {
                         "year": 2050,
-                        "total": 2.0601471588
+                        "total": 3.3828291669
                       }
                     ]
                   },
@@ -35170,43 +34763,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.7857966526
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4754827023
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.9124835208
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.3226820081
                       }
                     ]
                   }
@@ -40404,6 +39960,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.3538702428
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -40437,6 +40030,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0076072472
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0609154403
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1059576292
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1281447634
                       }
                     ]
                   },
@@ -40511,80 +40141,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.4476547241
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3538702428
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0076072472
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0609154403
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1059576292
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1281447634
                       }
                     ]
                   }
@@ -40784,6 +40340,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.4551725388
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.0104622841
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.8249191046
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -40893,43 +40486,6 @@ export default {
                         "total": 12.9286687374
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.4551725388
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6.0104622841
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.8249191046
-                      }
-                    ]
                   }
                 ]
               },
@@ -41007,6 +40563,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.4116452634
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.8355209678
                       }
                     ]
                   },
@@ -41118,43 +40711,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.5997290611
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.4116452634
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -42471,7 +42027,7 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 0.3538702428
                       },
                       {
                         "year": 2050,
@@ -42842,43 +42398,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 3.6335980892
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3538702428
                       },
                       {
                         "year": 2050,
@@ -43365,15 +42884,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0571178012
+                        "total": 3.5122903399
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 6.0104622841
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 2.8249191046
                       }
                     ]
                   },
@@ -43709,43 +43228,6 @@ export default {
                         "total": 1.3713595867
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.4551725388
-                      },
-                      {
-                        "year": 2045,
-                        "total": 6.0104622841
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.8249191046
-                      }
-                    ]
                   }
                 ]
               },
@@ -43818,11 +43300,11 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 3.6767052859
+                        "total": 13.0883505493
                       },
                       {
                         "year": 2050,
-                        "total": 2.0603613369
+                        "total": 5.8958823048
                       }
                     ]
                   },
@@ -44119,43 +43601,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.2527082665
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 9.4116452634
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -49353,6 +48798,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -49386,6 +48868,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0076072472
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0609154403
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1062615011
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1284486353
                       }
                     ]
                   },
@@ -49460,80 +48979,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.447350502
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0076072472
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0609154403
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1062615011
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1284486353
                       }
                     ]
                   }
@@ -49733,6 +49178,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.894554019
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.0159937143
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.7575016022
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.4649834633
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -49842,43 +49324,6 @@ export default {
                         "total": 13.1357257366
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.894554019
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.7575016022
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.4649834633
-                      }
-                    ]
                   }
                 ]
               },
@@ -49956,6 +49401,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.004063169
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0638072044
                       }
                     ]
                   },
@@ -50067,43 +49549,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 69.8034858704
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.004063169
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0638072044
                       }
                     ]
                   }
@@ -51797,43 +51242,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -52310,19 +51718,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 0.5387142748
+                        "total": 1.4332682937
                       },
                       {
                         "year": 2040,
-                        "total": 0.0571178012
+                        "total": 4.0731115155
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.7575016022
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 6.4649834633
                       }
                     ]
                   },
@@ -52658,43 +52066,6 @@ export default {
                         "total": 1.1643028259
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.894554019
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.7575016022
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.4649834633
-                      }
-                    ]
                   }
                 ]
               },
@@ -52767,11 +52138,11 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 3.6767052859
+                        "total": 5.6807684549
                       },
                       {
                         "year": 2050,
-                        "total": 2.0603613369
+                        "total": 2.1241685413
                       }
                     ]
                   },
@@ -53068,43 +52439,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.0489534541
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.004063169
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0638072044
                       }
                     ]
                   }
@@ -58302,6 +57636,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.4508124888
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -58335,6 +57706,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0076072472
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0609154403
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1059576292
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1281447634
                       }
                     ]
                   },
@@ -58409,80 +57817,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.4476547241
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4508124888
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0076072472
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0609154403
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1059576292
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1281447634
                       }
                     ]
                   }
@@ -58682,6 +58016,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.527777791
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.554391861
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.5482774973
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -58791,43 +58162,6 @@ export default {
                         "total": 13.3426930904
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.527777791
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.554391861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.5482774973
-                      }
-                    ]
                   }
                 ]
               },
@@ -58905,6 +58239,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0355817154
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.0549458563
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.8355209678
                       }
                     ]
                   },
@@ -59016,43 +58387,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.5997290611
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0355817154
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.0549458563
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -60369,7 +59703,7 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 0.4508124888
                       },
                       {
                         "year": 2050,
@@ -60740,43 +60074,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 3.4413747787
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4508124888
                       },
                       {
                         "year": 2050,
@@ -61263,15 +60560,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0571178012
+                        "total": 3.5848955922
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.554391861
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 2.5482774973
                       }
                     ]
                   },
@@ -61607,43 +60904,6 @@ export default {
                         "total": 0.9573355913
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.527777791
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.554391861
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.5482774973
-                      }
-                    ]
                   }
                 ]
               },
@@ -61712,15 +60972,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 12.4821161628
+                        "total": 12.5176978782
                       },
                       {
                         "year": 2045,
-                        "total": 3.6767052859
+                        "total": 13.7316511422
                       },
                       {
                         "year": 2050,
-                        "total": 2.0603613369
+                        "total": 5.8958823048
                       }
                     ]
                   },
@@ -62017,43 +61277,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.2527082665
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0355817154
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.0549458563
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -67251,6 +66474,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -67284,6 +66544,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0076072472
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0609154403
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1062615011
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1284486353
                       }
                     ]
                   },
@@ -67358,80 +66655,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.447350502
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0076072472
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0609154403
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1062615011
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1284486353
                       }
                     ]
                   }
@@ -67631,6 +66854,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.894554019
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.0159937143
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.0970098972
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.2903625965
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -67740,43 +67000,6 @@ export default {
                         "total": 13.3426930904
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.894554019
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.0970098972
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.2903625965
-                      }
-                    ]
                   }
                 ]
               },
@@ -67854,6 +67077,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.2529811659
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.301481396
                       }
                     ]
                   },
@@ -67965,43 +67225,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 68.0958919525
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.2529811659
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.301481396
                       }
                     ]
                   }
@@ -69695,43 +68918,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -70208,19 +69394,19 @@ export default {
                       },
                       {
                         "year": 2035,
-                        "total": 0.5387142748
+                        "total": 1.4332682937
                       },
                       {
                         "year": 2040,
-                        "total": 0.0571178012
+                        "total": 4.0731115155
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.0970098972
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 6.2903625965
                       }
                     ]
                   },
@@ -70556,43 +69742,6 @@ export default {
                         "total": 0.9573355913
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.894554019
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.0970098972
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.2903625965
-                      }
-                    ]
                   }
                 ]
               },
@@ -70665,11 +69814,11 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 3.6767052859
+                        "total": 5.9296864518
                       },
                       {
                         "year": 2050,
-                        "total": 2.0603613369
+                        "total": 3.3618427329
                       }
                     ]
                   },
@@ -70966,43 +70115,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.7565468057
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 2.2529811659
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.301481396
                       }
                     ]
                   }
@@ -76200,6 +75312,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.3082749844
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -76233,6 +75382,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0076072472
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0609154403
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1059576292
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1281447634
                       }
                     ]
                   },
@@ -76307,80 +75493,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.4476547241
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3082749844
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0076072472
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0609154403
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1059576292
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1281447634
                       }
                     ]
                   }
@@ -76580,6 +75692,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.2743526697
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.4543805122
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.8769934177
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -76689,43 +75838,6 @@ export default {
                         "total": 12.8155725002
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.2743526697
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.4543805122
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.8769934177
-                      }
-                    ]
                   }
                 ]
               },
@@ -76803,6 +75915,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.5047925115
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.1311784387
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.8355209678
                       }
                     ]
                   },
@@ -76914,43 +76063,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.5997290611
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.5047925115
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.1311784387
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -78267,7 +77379,7 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 0.3082749844
                       },
                       {
                         "year": 2050,
@@ -78638,43 +77750,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 2.7400724292
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3082749844
                       },
                       {
                         "year": 2050,
@@ -79161,15 +78236,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0571178012
+                        "total": 3.3314704709
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.4543805122
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 2.8769934177
                       }
                     ]
                   },
@@ -79505,43 +78580,6 @@ export default {
                         "total": 1.4844559431
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.2743526697
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.4543805122
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.8769934177
-                      }
-                    ]
                   }
                 ]
               },
@@ -79610,15 +78648,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 12.4821161628
+                        "total": 12.9869086742
                       },
                       {
                         "year": 2045,
-                        "total": 3.6767052859
+                        "total": 13.8078837246
                       },
                       {
                         "year": 2050,
-                        "total": 2.0603613369
+                        "total": 5.8958823048
                       }
                     ]
                   },
@@ -79915,43 +78953,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.2527082665
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.5047925115
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.1311784387
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -85149,6 +84150,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -85182,6 +84220,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0076072472
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0609154403
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1062615011
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1284486353
                       }
                     ]
                   },
@@ -85256,80 +84331,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.447350502
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0076072472
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0609154403
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1062615011
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1284486353
                       }
                     ]
                   }
@@ -85529,6 +84530,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.0159937143
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.9605870247
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.5436620712
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -85638,43 +84676,6 @@ export default {
                         "total": 13.0308749676
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.9605870247
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.5436620712
-                      }
-                    ]
                   }
                 ]
               },
@@ -85752,6 +84753,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.8430664935
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0656817204
                       }
                     ]
                   },
@@ -85863,43 +84901,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 69.8008995056
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.8430664935
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0656817204
                       }
                     ]
                   }
@@ -87593,43 +86594,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -88110,15 +87074,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0571178012
+                        "total": 4.0731115155
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.9605870247
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 6.5436620712
                       }
                     ]
                   },
@@ -88454,43 +87418,6 @@ export default {
                         "total": 1.2691533566
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.9605870247
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.5436620712
-                      }
-                    ]
                   }
                 ]
               },
@@ -88563,11 +87490,11 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 3.6767052859
+                        "total": 4.5197717794
                       },
                       {
                         "year": 2050,
-                        "total": 2.0603613369
+                        "total": 2.1260430573
                       }
                     ]
                   },
@@ -88864,43 +87791,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.0515396847
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.8430664935
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0656817204
                       }
                     ]
                   }
@@ -94098,6 +92988,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.90538387
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -94131,6 +93058,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0076072472
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0609154403
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1059576292
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1281447634
                       }
                     ]
                   },
@@ -94205,80 +93169,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.4476547241
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.90538387
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0076072472
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0609154403
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1059576292
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1281447634
                       }
                     ]
                   }
@@ -94478,6 +93368,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.4898961782
+                      },
+                      {
+                        "year": 2045,
+                        "total": 4.5447175503
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.9973746538
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -94587,43 +93514,6 @@ export default {
                         "total": 13.3426930904
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.4898961782
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.5447175503
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.9973746538
-                      }
-                    ]
                   }
                 ]
               },
@@ -94701,6 +93591,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.7853240371
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.0782791972
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.8355209678
                       }
                     ]
                   },
@@ -94812,43 +93739,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.5997290611
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.7853240371
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.0782791972
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -96165,7 +95055,7 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 0.90538387
                       },
                       {
                         "year": 2050,
@@ -96536,43 +95426,6 @@ export default {
                       {
                         "year": 2045,
                         "total": 3.3592865467
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.90538387
                       },
                       {
                         "year": 2050,
@@ -97059,15 +95912,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0571178012
+                        "total": 3.5470139794
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 4.5447175503
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 2.9973746538
                       }
                     ]
                   },
@@ -97403,43 +96256,6 @@ export default {
                         "total": 0.9573355913
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 3.4898961782
-                      },
-                      {
-                        "year": 2045,
-                        "total": 4.5447175503
-                      },
-                      {
-                        "year": 2050,
-                        "total": 2.9973746538
-                      }
-                    ]
                   }
                 ]
               },
@@ -97508,15 +96324,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 12.4821161628
+                        "total": 13.2674401999
                       },
                       {
                         "year": 2045,
-                        "total": 3.6767052859
+                        "total": 13.7549844831
                       },
                       {
                         "year": 2050,
-                        "total": 2.0603613369
+                        "total": 5.8958823048
                       }
                     ]
                   },
@@ -97813,43 +96629,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 7.2527082665
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.7853240371
-                      },
-                      {
-                        "year": 2045,
-                        "total": 10.0782791972
-                      },
-                      {
-                        "year": 2050,
-                        "total": 3.8355209678
                       }
                     ]
                   }
@@ -103047,6 +101826,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -103080,6 +101896,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.1963824034
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Hydrogen",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0076072472
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0609154403
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.1062615011
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1284486353
                       }
                     ]
                   },
@@ -103154,80 +102007,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 24.447350502
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAH2G",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0076072472
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0609154403
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1062615011
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.1284486353
                       }
                     ]
                   }
@@ -103427,6 +102206,43 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.0159937143
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.1173129082
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.8057217598
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Heavy fuel oil",
                     "indicatorGroupValues": [
                       {
@@ -103536,43 +102352,6 @@ export default {
                         "total": 12.6316623688
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.1173129082
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.8057217598
-                      }
-                    ]
                   }
                 ]
               },
@@ -103650,6 +102429,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Gasoline blend",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.0919844904
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.3383430988
                       }
                     ]
                   },
@@ -103761,43 +102577,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 68.0450363159
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "TRAGSBN",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.0919844904
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.3383430988
                       }
                     ]
                   }
@@ -105491,43 +104270,6 @@ export default {
                         "total": 0.0
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
                   }
                 ]
               },
@@ -106008,15 +104750,15 @@ export default {
                       },
                       {
                         "year": 2040,
-                        "total": 0.0571178012
+                        "total": 4.0731115155
                       },
                       {
                         "year": 2045,
-                        "total": 0.0
+                        "total": 5.1173129082
                       },
                       {
                         "year": 2050,
-                        "total": 0.0
+                        "total": 6.8057217598
                       }
                     ]
                   },
@@ -106352,43 +105094,6 @@ export default {
                         "total": 1.668366015
                       }
                     ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 4.0159937143
-                      },
-                      {
-                        "year": 2045,
-                        "total": 5.1173129082
-                      },
-                      {
-                        "year": 2050,
-                        "total": 6.8057217598
-                      }
-                    ]
                   }
                 ]
               },
@@ -106461,11 +105166,11 @@ export default {
                       },
                       {
                         "year": 2045,
-                        "total": 3.6767052859
+                        "total": 4.7686897763
                       },
                       {
                         "year": 2050,
-                        "total": 2.0603613369
+                        "total": 3.3987044357
                       }
                     ]
                   },
@@ -106762,43 +105467,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 3.8074039324
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "RE ethanol (1G & 2G) TRA Navigation",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 1.0919844904
-                      },
-                      {
-                        "year": 2050,
-                        "total": 1.3383430988
                       }
                     ]
                   }
