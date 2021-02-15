@@ -4275,7 +4275,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4308,43 +4308,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5934343338
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.2922065258
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.7585140765
-                      },
-                      {
-                        "year": 2035,
-                        "total": 28.5846869946
-                      },
-                      {
-                        "year": 2040,
-                        "total": 35.6788711548
-                      },
-                      {
-                        "year": 2045,
-                        "total": 37.3892605305
-                      },
-                      {
-                        "year": 2050,
-                        "total": 38.10445714
                       }
                     ]
                   },
@@ -4382,6 +4345,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 12.4347364902
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.2922065258
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.7585140765
+                      },
+                      {
+                        "year": 2035,
+                        "total": 28.5846869946
+                      },
+                      {
+                        "year": 2040,
+                        "total": 35.6788711548
+                      },
+                      {
+                        "year": 2045,
+                        "total": 37.3892605305
+                      },
+                      {
+                        "year": 2050,
+                        "total": 38.10445714
                       }
                     ]
                   },
@@ -4576,7 +4576,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4609,43 +4609,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 15.9845483303
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2725293636
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.9315187931
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.2037439346
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.8536338806
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.7045609951
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.3105522394
                       }
                     ]
                   },
@@ -4683,6 +4646,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 43.8557355776
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2725293636
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.9315187931
+                      },
+                      {
+                        "year": 2035,
+                        "total": 25.2037439346
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.8536338806
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.7045609951
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.3105522394
                       }
                     ]
                   },
@@ -4914,7 +4914,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4947,43 +4947,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.1559705734
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1784644127
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.0382738113
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.1599569321
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.5877056122
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.5591125488
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.731962204
                       }
                     ]
                   },
@@ -5021,6 +4984,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 69.8504447937
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1784644127
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.0382738113
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1599569321
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.5877056122
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.5591125488
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.731962204
                       }
                     ]
                   },
@@ -5252,7 +5252,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5285,43 +5285,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4826079607
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 23.3504894376
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.4031914473
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.6452147961
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.6484115124
-                      },
-                      {
-                        "year": 2045,
-                        "total": 46.0124454498
-                      },
-                      {
-                        "year": 2050,
-                        "total": 46.0261814594
                       }
                     ]
                   },
@@ -5359,6 +5322,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 90.2081050873
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23.3504894376
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.4031914473
+                      },
+                      {
+                        "year": 2035,
+                        "total": 40.6452147961
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.6484115124
+                      },
+                      {
+                        "year": 2045,
+                        "total": 46.0124454498
+                      },
+                      {
+                        "year": 2050,
+                        "total": 46.0261814594
                       }
                     ]
                   },
@@ -11803,7 +11803,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -11836,43 +11836,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5934343338
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.6379476488
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.5123456717
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.6463541985
-                      },
-                      {
-                        "year": 2040,
-                        "total": 36.0846202374
-                      },
-                      {
-                        "year": 2045,
-                        "total": 37.9309847355
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.2445704937
                       }
                     ]
                   },
@@ -11910,6 +11873,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 13.5554285049
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.6379476488
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.5123456717
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.6463541985
+                      },
+                      {
+                        "year": 2040,
+                        "total": 36.0846202374
+                      },
+                      {
+                        "year": 2045,
+                        "total": 37.9309847355
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.2445704937
                       }
                     ]
                   },
@@ -12104,7 +12104,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12137,43 +12137,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 15.9870519638
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2645215988
-                      },
-                      {
-                        "year": 2030,
-                        "total": 21.2190425396
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.381270647
-                      },
-                      {
-                        "year": 2040,
-                        "total": 29.0275056362
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.7160323858
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.7589422464
                       }
                     ]
                   },
@@ -12211,6 +12174,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 43.8926267624
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2645215988
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21.2190425396
+                      },
+                      {
+                        "year": 2035,
+                        "total": 25.381270647
+                      },
+                      {
+                        "year": 2040,
+                        "total": 29.0275056362
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.7160323858
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.7589422464
                       }
                     ]
                   },
@@ -12442,7 +12442,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12475,43 +12475,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.1559705734
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1289920807
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.9938879013
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.1177101135
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.5169725418
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.5176391602
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.501868248
                       }
                     ]
                   },
@@ -12549,6 +12512,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 69.8504447937
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1289920807
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.9938879013
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1177101135
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.5169725418
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.5176391602
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.501868248
                       }
                     ]
                   },
@@ -12780,7 +12780,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12813,43 +12813,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4826079607
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.0973504782
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.3165677786
-                      },
-                      {
-                        "year": 2035,
-                        "total": 39.5681173801
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.7182517052
-                      },
-                      {
-                        "year": 2045,
-                        "total": 44.1359690428
-                      },
-                      {
-                        "year": 2050,
-                        "total": 43.3007823229
                       }
                     ]
                   },
@@ -12887,6 +12850,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 90.9275302887
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.0973504782
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.3165677786
+                      },
+                      {
+                        "year": 2035,
+                        "total": 39.5681173801
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.7182517052
+                      },
+                      {
+                        "year": 2045,
+                        "total": 44.1359690428
+                      },
+                      {
+                        "year": 2050,
+                        "total": 43.3007823229
                       }
                     ]
                   },
@@ -19331,7 +19331,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19364,43 +19364,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5934343338
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.2088990659
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.7472388744
-                      },
-                      {
-                        "year": 2035,
-                        "total": 28.1634697914
-                      },
-                      {
-                        "year": 2040,
-                        "total": 35.0105276108
-                      },
-                      {
-                        "year": 2045,
-                        "total": 36.6744930744
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.4095106125
                       }
                     ]
                   },
@@ -19438,6 +19401,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 12.4174382687
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.2088990659
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.7472388744
+                      },
+                      {
+                        "year": 2035,
+                        "total": 28.1634697914
+                      },
+                      {
+                        "year": 2040,
+                        "total": 35.0105276108
+                      },
+                      {
+                        "year": 2045,
+                        "total": 36.6744930744
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.4095106125
                       }
                     ]
                   },
@@ -19632,7 +19632,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19665,43 +19665,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 15.9799823761
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2818963528
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.9350895882
-                      },
-                      {
-                        "year": 2035,
-                        "total": 24.9702315331
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.661798954
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.4623565674
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.0587177277
                       }
                     ]
                   },
@@ -19739,6 +19702,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 46.086039722
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2818963528
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.9350895882
+                      },
+                      {
+                        "year": 2035,
+                        "total": 24.9702315331
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.661798954
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.4623565674
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.0587177277
                       }
                     ]
                   },
@@ -19970,7 +19970,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20003,43 +20003,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.1559705734
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1747016907
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.0486841202
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.1552791595
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.5940618515
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.5686674118
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.8851985931
                       }
                     ]
                   },
@@ -20077,6 +20040,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 65.3781433105
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1747016907
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.0486841202
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1552791595
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.5940618515
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.5686674118
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.8851985931
                       }
                     ]
                   },
@@ -20308,7 +20308,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20341,43 +20341,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4826179743
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 23.4189587235
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.4463812113
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.7605435848
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.9161453247
-                      },
-                      {
-                        "year": 2045,
-                        "total": 46.1304371357
-                      },
-                      {
-                        "year": 2050,
-                        "total": 47.2806887627
                       }
                     ]
                   },
@@ -20415,6 +20378,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 90.0056695938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23.4189587235
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.4463812113
+                      },
+                      {
+                        "year": 2035,
+                        "total": 40.7605435848
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.9161453247
+                      },
+                      {
+                        "year": 2045,
+                        "total": 46.1304371357
+                      },
+                      {
+                        "year": 2050,
+                        "total": 47.2806887627
                       }
                     ]
                   },
@@ -26859,7 +26859,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26892,43 +26892,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5934343338
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.5460755378
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.5383239388
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.9239506721
-                      },
-                      {
-                        "year": 2040,
-                        "total": 36.7098214626
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.6240746975
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.5253558159
                       }
                     ]
                   },
@@ -26966,6 +26929,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 13.29510355
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.5460755378
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.5383239388
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.9239506721
+                      },
+                      {
+                        "year": 2040,
+                        "total": 36.7098214626
+                      },
+                      {
+                        "year": 2045,
+                        "total": 38.6240746975
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.5253558159
                       }
                     ]
                   },
@@ -27160,7 +27160,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27193,43 +27193,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 15.9871072769
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2683591843
-                      },
-                      {
-                        "year": 2030,
-                        "total": 21.010471344
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.1728999615
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.811375618
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.4705811739
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.5579110384
                       }
                     ]
                   },
@@ -27267,6 +27230,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 45.2799018472
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2683591843
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21.010471344
+                      },
+                      {
+                        "year": 2035,
+                        "total": 25.1728999615
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.811375618
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.4705811739
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.5579110384
                       }
                     ]
                   },
@@ -27498,7 +27498,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27531,43 +27531,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.1559705734
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1572289467
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.99659729
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.1200294495
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.5319986343
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.5436792374
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.9035511017
                       }
                     ]
                   },
@@ -27605,6 +27568,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 64.3144931793
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1572289467
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.99659729
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1200294495
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.5319986343
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.5436792374
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.9035511017
                       }
                     ]
                   },
@@ -27836,7 +27836,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27869,43 +27869,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4826079607
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.116835773
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.385209918
-                      },
-                      {
-                        "year": 2035,
-                        "total": 39.4926786423
-                      },
-                      {
-                        "year": 2040,
-                        "total": 44.8512787819
-                      },
-                      {
-                        "year": 2045,
-                        "total": 44.2954734564
-                      },
-                      {
-                        "year": 2050,
-                        "total": 43.5397794247
                       }
                     ]
                   },
@@ -27943,6 +27906,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 89.8142299652
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.116835773
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.385209918
+                      },
+                      {
+                        "year": 2035,
+                        "total": 39.4926786423
+                      },
+                      {
+                        "year": 2040,
+                        "total": 44.8512787819
+                      },
+                      {
+                        "year": 2045,
+                        "total": 44.2954734564
+                      },
+                      {
+                        "year": 2050,
+                        "total": 43.5397794247
                       }
                     ]
                   },
@@ -34387,7 +34387,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34420,43 +34420,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5525693893
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.2167388201
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.6038503945
-                      },
-                      {
-                        "year": 2035,
-                        "total": 28.8099956512
-                      },
-                      {
-                        "year": 2040,
-                        "total": 35.8382539749
-                      },
-                      {
-                        "year": 2045,
-                        "total": 37.5374705791
-                      },
-                      {
-                        "year": 2050,
-                        "total": 38.318789959
                       }
                     ]
                   },
@@ -34494,6 +34457,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 12.9271259308
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.2167388201
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.6038503945
+                      },
+                      {
+                        "year": 2035,
+                        "total": 28.8099956512
+                      },
+                      {
+                        "year": 2040,
+                        "total": 35.8382539749
+                      },
+                      {
+                        "year": 2045,
+                        "total": 37.5374705791
+                      },
+                      {
+                        "year": 2050,
+                        "total": 38.318789959
                       }
                     ]
                   },
@@ -34688,7 +34688,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34721,43 +34721,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.8455705643
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2746942043
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.9474332333
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.1918857098
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.8304197788
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.6709814072
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.2751512527
                       }
                     ]
                   },
@@ -34795,6 +34758,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 47.5272472277
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2746942043
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.9474332333
+                      },
+                      {
+                        "year": 2035,
+                        "total": 25.1918857098
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.8304197788
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.6709814072
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.2751512527
                       }
                     ]
                   },
@@ -35026,7 +35026,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35059,43 +35059,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.155913353
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1429190636
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.0414028168
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.1544828415
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.5821123123
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.5573406219
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.6289310455
                       }
                     ]
                   },
@@ -35133,6 +35096,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 78.6476020813
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1429190636
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.0414028168
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1544828415
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.5821123123
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.5573406219
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.6289310455
                       }
                     ]
                   },
@@ -35364,7 +35364,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35397,43 +35397,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4822131395
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.9988133311
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.1007864475
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.468013525
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.2700762749
-                      },
-                      {
-                        "year": 2045,
-                        "total": 45.2656135559
-                      },
-                      {
-                        "year": 2050,
-                        "total": 44.9137141705
                       }
                     ]
                   },
@@ -35471,6 +35434,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 119.9151687622
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.9988133311
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.1007864475
+                      },
+                      {
+                        "year": 2035,
+                        "total": 40.468013525
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.2700762749
+                      },
+                      {
+                        "year": 2045,
+                        "total": 45.2656135559
+                      },
+                      {
+                        "year": 2050,
+                        "total": 44.9137141705
                       }
                     ]
                   },
@@ -41915,7 +41915,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41948,43 +41948,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5529336929
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.4601185173
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.3899626136
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.0903208256
-                      },
-                      {
-                        "year": 2040,
-                        "total": 35.9849710464
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.0596575737
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.4635546207
                       }
                     ]
                   },
@@ -42022,6 +41985,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.2824759483
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.4601185173
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.3899626136
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.0903208256
+                      },
+                      {
+                        "year": 2040,
+                        "total": 35.9849710464
+                      },
+                      {
+                        "year": 2045,
+                        "total": 38.0596575737
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.4635546207
                       }
                     ]
                   },
@@ -42216,7 +42216,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42249,43 +42249,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.8477008343
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2556746006
-                      },
-                      {
-                        "year": 2030,
-                        "total": 21.1346235275
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.2629668713
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.8944115639
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.6807672977
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.6084569693
                       }
                     ]
                   },
@@ -42323,6 +42286,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 47.5596706867
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2556746006
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21.1346235275
+                      },
+                      {
+                        "year": 2035,
+                        "total": 25.2629668713
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.8944115639
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.6807672977
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.6084569693
                       }
                     ]
                   },
@@ -42554,7 +42554,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42587,43 +42587,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.155913353
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.0165395737
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.9928283691
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.1167736053
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.517074585
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.5167360306
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.5052623749
                       }
                     ]
                   },
@@ -42661,6 +42624,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 78.6476020813
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.0165395737
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.9928283691
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1167736053
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.517074585
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.5167360306
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.5052623749
                       }
                     ]
                   },
@@ -42892,7 +42892,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42925,43 +42925,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4822131395
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.1138914824
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1232179403
-                      },
-                      {
-                        "year": 2035,
-                        "total": 39.360632062
-                      },
-                      {
-                        "year": 2040,
-                        "total": 45.1895468235
-                      },
-                      {
-                        "year": 2045,
-                        "total": 44.1700757742
-                      },
-                      {
-                        "year": 2050,
-                        "total": 43.3770473003
                       }
                     ]
                   },
@@ -42999,6 +42962,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 120.9115047455
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.1138914824
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1232179403
+                      },
+                      {
+                        "year": 2035,
+                        "total": 39.360632062
+                      },
+                      {
+                        "year": 2040,
+                        "total": 45.1895468235
+                      },
+                      {
+                        "year": 2045,
+                        "total": 44.1700757742
+                      },
+                      {
+                        "year": 2050,
+                        "total": 43.3770473003
                       }
                     ]
                   },
@@ -49443,7 +49443,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49476,43 +49476,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5527067184
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.2079641223
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.6877112687
-                      },
-                      {
-                        "year": 2035,
-                        "total": 27.9414715767
-                      },
-                      {
-                        "year": 2040,
-                        "total": 34.9305164814
-                      },
-                      {
-                        "year": 2045,
-                        "total": 36.6270794868
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.3841032982
                       }
                     ]
                   },
@@ -49550,6 +49513,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 12.90173316
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.2079641223
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.6877112687
+                      },
+                      {
+                        "year": 2035,
+                        "total": 27.9414715767
+                      },
+                      {
+                        "year": 2040,
+                        "total": 34.9305164814
+                      },
+                      {
+                        "year": 2045,
+                        "total": 36.6270794868
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.3841032982
                       }
                     ]
                   },
@@ -49744,7 +49744,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49777,43 +49777,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.8396360874
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2794635296
-                      },
-                      {
-                        "year": 2030,
-                        "total": 20.9304900169
-                      },
-                      {
-                        "year": 2035,
-                        "total": 24.9641640186
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.6521317959
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.4701682329
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.069229722
                       }
                     ]
                   },
@@ -49851,6 +49814,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 48.0394624472
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2794635296
+                      },
+                      {
+                        "year": 2030,
+                        "total": 20.9304900169
+                      },
+                      {
+                        "year": 2035,
+                        "total": 24.9641640186
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.6521317959
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.4701682329
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.069229722
                       }
                     ]
                   },
@@ -50082,7 +50082,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50115,43 +50115,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.155913353
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1812396049
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.0388259888
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.1564836502
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.5865716934
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.5590572357
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.8779621124
                       }
                     ]
                   },
@@ -50189,6 +50152,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 73.7650680542
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1812396049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 17.0388259888
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1564836502
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.5865716934
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.5590572357
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.8779621124
                       }
                     ]
                   },
@@ -50420,7 +50420,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -50453,43 +50453,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4822131395
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 23.1061505675
-                      },
-                      {
-                        "year": 2030,
-                        "total": 31.1536312103
-                      },
-                      {
-                        "year": 2035,
-                        "total": 40.6139659882
-                      },
-                      {
-                        "year": 2040,
-                        "total": 46.4378523827
-                      },
-                      {
-                        "year": 2045,
-                        "total": 45.5473327637
-                      },
-                      {
-                        "year": 2050,
-                        "total": 46.2432427406
                       }
                     ]
                   },
@@ -50527,6 +50490,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 119.4930820465
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 23.1061505675
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.1536312103
+                      },
+                      {
+                        "year": 2035,
+                        "total": 40.6139659882
+                      },
+                      {
+                        "year": 2040,
+                        "total": 46.4378523827
+                      },
+                      {
+                        "year": 2045,
+                        "total": 45.5473327637
+                      },
+                      {
+                        "year": 2050,
+                        "total": 46.2432427406
                       }
                     ]
                   },
@@ -56971,7 +56971,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -57004,43 +57004,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5529336929
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 10.2948141843
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.3887212276
-                      },
-                      {
-                        "year": 2035,
-                        "total": 30.649140358
-                      },
-                      {
-                        "year": 2040,
-                        "total": 36.7185308933
-                      },
-                      {
-                        "year": 2045,
-                        "total": 38.7781569958
-                      },
-                      {
-                        "year": 2050,
-                        "total": 37.8077220917
                       }
                     ]
                   },
@@ -57078,6 +57041,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 13.9246501923
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 10.2948141843
+                      },
+                      {
+                        "year": 2030,
+                        "total": 18.3887212276
+                      },
+                      {
+                        "year": 2035,
+                        "total": 30.649140358
+                      },
+                      {
+                        "year": 2040,
+                        "total": 36.7185308933
+                      },
+                      {
+                        "year": 2045,
+                        "total": 38.7781569958
+                      },
+                      {
+                        "year": 2050,
+                        "total": 37.8077220917
                       }
                     ]
                   },
@@ -57272,7 +57272,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -57305,43 +57305,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.8481070995
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 12.2700684071
-                      },
-                      {
-                        "year": 2030,
-                        "total": 21.0119416714
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.1233308315
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.761934042
-                      },
-                      {
-                        "year": 2045,
-                        "total": 28.4755815268
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.9402822256
                       }
                     ]
                   },
@@ -57379,6 +57342,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 48.9525390938
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 12.2700684071
+                      },
+                      {
+                        "year": 2030,
+                        "total": 21.0119416714
+                      },
+                      {
+                        "year": 2035,
+                        "total": 25.1233308315
+                      },
+                      {
+                        "year": 2040,
+                        "total": 28.761934042
+                      },
+                      {
+                        "year": 2045,
+                        "total": 28.4755815268
+                      },
+                      {
+                        "year": 2050,
+                        "total": 28.9402822256
                       }
                     ]
                   },
@@ -57610,7 +57610,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -57643,43 +57643,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.155913353
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 9.1177864075
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.9936332703
-                      },
-                      {
-                        "year": 2035,
-                        "total": 21.1174879074
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.5260095596
-                      },
-                      {
-                        "year": 2045,
-                        "total": 25.5275220871
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.9328870773
                       }
                     ]
                   },
@@ -57717,6 +57680,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 71.4544582367
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 9.1177864075
+                      },
+                      {
+                        "year": 2030,
+                        "total": 16.9936332703
+                      },
+                      {
+                        "year": 2035,
+                        "total": 21.1174879074
+                      },
+                      {
+                        "year": 2040,
+                        "total": 25.5260095596
+                      },
+                      {
+                        "year": 2045,
+                        "total": 25.5275220871
+                      },
+                      {
+                        "year": 2050,
+                        "total": 25.9328870773
                       }
                     ]
                   },
@@ -57948,7 +57948,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -57981,43 +57981,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4822131395
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 22.1485376358
-                      },
-                      {
-                        "year": 2030,
-                        "total": 30.1715458632
-                      },
-                      {
-                        "year": 2035,
-                        "total": 39.3114786148
-                      },
-                      {
-                        "year": 2040,
-                        "total": 45.3928961754
-                      },
-                      {
-                        "year": 2045,
-                        "total": 44.4747359753
-                      },
-                      {
-                        "year": 2050,
-                        "total": 43.8070358038
                       }
                     ]
                   },
@@ -58055,6 +58018,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 119.5178127289
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 22.1485376358
+                      },
+                      {
+                        "year": 2030,
+                        "total": 30.1715458632
+                      },
+                      {
+                        "year": 2035,
+                        "total": 39.3114786148
+                      },
+                      {
+                        "year": 2040,
+                        "total": 45.3928961754
+                      },
+                      {
+                        "year": 2045,
+                        "total": 44.4747359753
+                      },
+                      {
+                        "year": 2050,
+                        "total": 43.8070358038
                       }
                     ]
                   },
@@ -64499,7 +64499,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -64532,43 +64532,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5525693893
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.3625827134
-                      },
-                      {
-                        "year": 2030,
-                        "total": 35.4985691011
-                      },
-                      {
-                        "year": 2035,
-                        "total": 49.6137084961
-                      },
-                      {
-                        "year": 2040,
-                        "total": 61.5146899223
-                      },
-                      {
-                        "year": 2045,
-                        "total": 63.360871315
-                      },
-                      {
-                        "year": 2050,
-                        "total": 64.1722960472
                       }
                     ]
                   },
@@ -64606,6 +64569,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 11.6163134575
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.3625827134
+                      },
+                      {
+                        "year": 2030,
+                        "total": 35.4985691011
+                      },
+                      {
+                        "year": 2035,
+                        "total": 49.6137084961
+                      },
+                      {
+                        "year": 2040,
+                        "total": 61.5146899223
+                      },
+                      {
+                        "year": 2045,
+                        "total": 63.360871315
+                      },
+                      {
+                        "year": 2050,
+                        "total": 64.1722960472
                       }
                     ]
                   },
@@ -64800,7 +64800,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -64833,43 +64833,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.8472476006
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 21.203056097
-                      },
-                      {
-                        "year": 2030,
-                        "total": 37.8912434578
-                      },
-                      {
-                        "year": 2035,
-                        "total": 45.9734830856
-                      },
-                      {
-                        "year": 2040,
-                        "total": 53.8411905766
-                      },
-                      {
-                        "year": 2045,
-                        "total": 53.5456130505
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.1232436895
                       }
                     ]
                   },
@@ -64907,6 +64870,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 46.3734609857
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 21.203056097
+                      },
+                      {
+                        "year": 2030,
+                        "total": 37.8912434578
+                      },
+                      {
+                        "year": 2035,
+                        "total": 45.9734830856
+                      },
+                      {
+                        "year": 2040,
+                        "total": 53.8411905766
+                      },
+                      {
+                        "year": 2045,
+                        "total": 53.5456130505
+                      },
+                      {
+                        "year": 2050,
+                        "total": 53.1232436895
                       }
                     ]
                   },
@@ -65138,7 +65138,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -65171,43 +65171,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.155913353
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 17.9511966705
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.8308448792
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.1016368866
-                      },
-                      {
-                        "year": 2040,
-                        "total": 50.5960769653
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.6052131653
-                      },
-                      {
-                        "year": 2050,
-                        "total": 50.5701313019
                       }
                     ]
                   },
@@ -65245,6 +65208,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 87.4447669983
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.9511966705
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.8308448792
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.1016368866
+                      },
+                      {
+                        "year": 2040,
+                        "total": 50.5960769653
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.6052131653
+                      },
+                      {
+                        "year": 2050,
+                        "total": 50.5701313019
                       }
                     ]
                   },
@@ -65476,7 +65476,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -65509,43 +65509,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4822131395
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 32.221278131
-                      },
-                      {
-                        "year": 2030,
-                        "total": 48.2500658035
-                      },
-                      {
-                        "year": 2035,
-                        "total": 62.2880167961
-                      },
-                      {
-                        "year": 2040,
-                        "total": 71.4024531841
-                      },
-                      {
-                        "year": 2045,
-                        "total": 71.0557744503
-                      },
-                      {
-                        "year": 2050,
-                        "total": 70.8206107616
                       }
                     ]
                   },
@@ -65583,6 +65546,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 111.6808166504
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 32.221278131
+                      },
+                      {
+                        "year": 2030,
+                        "total": 48.2500658035
+                      },
+                      {
+                        "year": 2035,
+                        "total": 62.2880167961
+                      },
+                      {
+                        "year": 2040,
+                        "total": 71.4024531841
+                      },
+                      {
+                        "year": 2045,
+                        "total": 71.0557744503
+                      },
+                      {
+                        "year": 2050,
+                        "total": 70.8206107616
                       }
                     ]
                   },
@@ -72027,7 +72027,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -72060,43 +72060,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5530223846
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.4336956739
-                      },
-                      {
-                        "year": 2030,
-                        "total": 35.2728131115
-                      },
-                      {
-                        "year": 2035,
-                        "total": 50.4938774109
-                      },
-                      {
-                        "year": 2040,
-                        "total": 61.0250687599
-                      },
-                      {
-                        "year": 2045,
-                        "total": 62.9320149422
-                      },
-                      {
-                        "year": 2050,
-                        "total": 62.7771320343
                       }
                     ]
                   },
@@ -72134,6 +72097,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.8530373573
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.4336956739
+                      },
+                      {
+                        "year": 2030,
+                        "total": 35.2728131115
+                      },
+                      {
+                        "year": 2035,
+                        "total": 50.4938774109
+                      },
+                      {
+                        "year": 2040,
+                        "total": 61.0250687599
+                      },
+                      {
+                        "year": 2045,
+                        "total": 62.9320149422
+                      },
+                      {
+                        "year": 2050,
+                        "total": 62.7771320343
                       }
                     ]
                   },
@@ -72328,7 +72328,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -72361,43 +72361,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.8442065716
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 21.2000656128
-                      },
-                      {
-                        "year": 2030,
-                        "total": 37.9008495808
-                      },
-                      {
-                        "year": 2035,
-                        "total": 46.0633995533
-                      },
-                      {
-                        "year": 2040,
-                        "total": 53.84375
-                      },
-                      {
-                        "year": 2045,
-                        "total": 53.5329217911
-                      },
-                      {
-                        "year": 2050,
-                        "total": 54.2388503551
                       }
                     ]
                   },
@@ -72435,6 +72398,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 46.4342654645
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 21.2000656128
+                      },
+                      {
+                        "year": 2030,
+                        "total": 37.9008495808
+                      },
+                      {
+                        "year": 2035,
+                        "total": 46.0633995533
+                      },
+                      {
+                        "year": 2040,
+                        "total": 53.84375
+                      },
+                      {
+                        "year": 2045,
+                        "total": 53.5329217911
+                      },
+                      {
+                        "year": 2050,
+                        "total": 54.2388503551
                       }
                     ]
                   },
@@ -72666,7 +72666,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -72699,43 +72699,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.155913353
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 17.9133625031
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.8044681549
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.0645294189
-                      },
-                      {
-                        "year": 2040,
-                        "total": 50.564365387
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.5647220612
-                      },
-                      {
-                        "year": 2050,
-                        "total": 50.5238437653
                       }
                     ]
                   },
@@ -72773,6 +72736,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 87.4447669983
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.9133625031
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.8044681549
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.0645294189
+                      },
+                      {
+                        "year": 2040,
+                        "total": 50.564365387
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.5647220612
+                      },
+                      {
+                        "year": 2050,
+                        "total": 50.5238437653
                       }
                     ]
                   },
@@ -73004,7 +73004,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -73037,43 +73037,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4822131395
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.826400876
-                      },
-                      {
-                        "year": 2030,
-                        "total": 47.0873631239
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.6157625914
-                      },
-                      {
-                        "year": 2040,
-                        "total": 69.9784450531
-                      },
-                      {
-                        "year": 2045,
-                        "total": 69.8486107588
-                      },
-                      {
-                        "year": 2050,
-                        "total": 68.8797806501
                       }
                     ]
                   },
@@ -73111,6 +73074,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 111.641242981
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.826400876
+                      },
+                      {
+                        "year": 2030,
+                        "total": 47.0873631239
+                      },
+                      {
+                        "year": 2035,
+                        "total": 60.6157625914
+                      },
+                      {
+                        "year": 2040,
+                        "total": 69.9784450531
+                      },
+                      {
+                        "year": 2045,
+                        "total": 69.8486107588
+                      },
+                      {
+                        "year": 2050,
+                        "total": 68.8797806501
                       }
                     ]
                   },
@@ -79555,7 +79555,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -79588,43 +79588,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5527067184
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.3418515176
-                      },
-                      {
-                        "year": 2030,
-                        "total": 35.5806440711
-                      },
-                      {
-                        "year": 2035,
-                        "total": 49.2087786198
-                      },
-                      {
-                        "year": 2040,
-                        "total": 60.7478237152
-                      },
-                      {
-                        "year": 2045,
-                        "total": 62.6161391735
-                      },
-                      {
-                        "year": 2050,
-                        "total": 63.6141445637
                       }
                     ]
                   },
@@ -79662,6 +79625,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 11.6406641006
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.3418515176
+                      },
+                      {
+                        "year": 2030,
+                        "total": 35.5806440711
+                      },
+                      {
+                        "year": 2035,
+                        "total": 49.2087786198
+                      },
+                      {
+                        "year": 2040,
+                        "total": 60.7478237152
+                      },
+                      {
+                        "year": 2045,
+                        "total": 62.6161391735
+                      },
+                      {
+                        "year": 2050,
+                        "total": 63.6141445637
                       }
                     ]
                   },
@@ -79856,7 +79856,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -79889,43 +79889,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.8457534313
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 21.2073965073
-                      },
-                      {
-                        "year": 2030,
-                        "total": 37.8372802734
-                      },
-                      {
-                        "year": 2035,
-                        "total": 45.8703567982
-                      },
-                      {
-                        "year": 2040,
-                        "total": 53.7371976376
-                      },
-                      {
-                        "year": 2045,
-                        "total": 53.423135519
-                      },
-                      {
-                        "year": 2050,
-                        "total": 53.1111475229
                       }
                     ]
                   },
@@ -79963,6 +79926,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 47.7844376788
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 21.2073965073
+                      },
+                      {
+                        "year": 2030,
+                        "total": 37.8372802734
+                      },
+                      {
+                        "year": 2035,
+                        "total": 45.8703567982
+                      },
+                      {
+                        "year": 2040,
+                        "total": 53.7371976376
+                      },
+                      {
+                        "year": 2045,
+                        "total": 53.423135519
+                      },
+                      {
+                        "year": 2050,
+                        "total": 53.1111475229
                       }
                     ]
                   },
@@ -80194,7 +80194,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -80227,43 +80227,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.155913353
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 17.9507474899
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.8355045319
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.0955753326
-                      },
-                      {
-                        "year": 2040,
-                        "total": 50.6017799377
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.5858192444
-                      },
-                      {
-                        "year": 2050,
-                        "total": 50.8311882019
                       }
                     ]
                   },
@@ -80301,6 +80264,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 80.3911685944
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.9507474899
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.8355045319
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.0955753326
+                      },
+                      {
+                        "year": 2040,
+                        "total": 50.6017799377
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.5858192444
+                      },
+                      {
+                        "year": 2050,
+                        "total": 50.8311882019
                       }
                     ]
                   },
@@ -80532,7 +80532,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -80565,43 +80565,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4822131395
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 32.3288837671
-                      },
-                      {
-                        "year": 2030,
-                        "total": 48.4148724079
-                      },
-                      {
-                        "year": 2035,
-                        "total": 62.3705790043
-                      },
-                      {
-                        "year": 2040,
-                        "total": 71.4412801266
-                      },
-                      {
-                        "year": 2045,
-                        "total": 71.1201684475
-                      },
-                      {
-                        "year": 2050,
-                        "total": 70.9793479443
                       }
                     ]
                   },
@@ -80639,6 +80602,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 109.5955104828
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 32.3288837671
+                      },
+                      {
+                        "year": 2030,
+                        "total": 48.4148724079
+                      },
+                      {
+                        "year": 2035,
+                        "total": 62.3705790043
+                      },
+                      {
+                        "year": 2040,
+                        "total": 71.4412801266
+                      },
+                      {
+                        "year": 2045,
+                        "total": 71.1201684475
+                      },
+                      {
+                        "year": 2050,
+                        "total": 70.9793479443
                       }
                     ]
                   },
@@ -87083,7 +87083,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -87116,43 +87116,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.5530223846
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.33231619
-                      },
-                      {
-                        "year": 2020,
-                        "total": 4.1675360948
-                      },
-                      {
-                        "year": 2025,
-                        "total": 19.4174757302
-                      },
-                      {
-                        "year": 2030,
-                        "total": 35.3507363796
-                      },
-                      {
-                        "year": 2035,
-                        "total": 51.2239818573
-                      },
-                      {
-                        "year": 2040,
-                        "total": 62.1595029831
-                      },
-                      {
-                        "year": 2045,
-                        "total": 64.1683089733
-                      },
-                      {
-                        "year": 2050,
-                        "total": 63.0295329094
                       }
                     ]
                   },
@@ -87190,6 +87153,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 14.2452716827
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.33231619
+                      },
+                      {
+                        "year": 2020,
+                        "total": 4.1675360948
+                      },
+                      {
+                        "year": 2025,
+                        "total": 19.4174757302
+                      },
+                      {
+                        "year": 2030,
+                        "total": 35.3507363796
+                      },
+                      {
+                        "year": 2035,
+                        "total": 51.2239818573
+                      },
+                      {
+                        "year": 2040,
+                        "total": 62.1595029831
+                      },
+                      {
+                        "year": 2045,
+                        "total": 64.1683089733
+                      },
+                      {
+                        "year": 2050,
+                        "total": 63.0295329094
                       }
                     ]
                   },
@@ -87384,7 +87384,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -87417,43 +87417,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 18.8434023857
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 1.3025057018
-                      },
-                      {
-                        "year": 2020,
-                        "total": 2.0783511102
-                      },
-                      {
-                        "year": 2025,
-                        "total": 21.206382513
-                      },
-                      {
-                        "year": 2030,
-                        "total": 37.9130907059
-                      },
-                      {
-                        "year": 2035,
-                        "total": 46.0346848965
-                      },
-                      {
-                        "year": 2040,
-                        "total": 53.8406543732
-                      },
-                      {
-                        "year": 2045,
-                        "total": 53.5437226295
-                      },
-                      {
-                        "year": 2050,
-                        "total": 54.1851917505
                       }
                     ]
                   },
@@ -87491,6 +87454,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 47.5555995405
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 1.3025057018
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.0783511102
+                      },
+                      {
+                        "year": 2025,
+                        "total": 21.206382513
+                      },
+                      {
+                        "year": 2030,
+                        "total": 37.9130907059
+                      },
+                      {
+                        "year": 2035,
+                        "total": 46.0346848965
+                      },
+                      {
+                        "year": 2040,
+                        "total": 53.8406543732
+                      },
+                      {
+                        "year": 2045,
+                        "total": 53.5437226295
+                      },
+                      {
+                        "year": 2050,
+                        "total": 54.1851917505
                       }
                     ]
                   },
@@ -87722,7 +87722,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -87755,43 +87755,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 27.155913353
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 13.6575509515
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.4207805917
-                      },
-                      {
-                        "year": 2025,
-                        "total": 17.9144487381
-                      },
-                      {
-                        "year": 2030,
-                        "total": 33.804485321
-                      },
-                      {
-                        "year": 2035,
-                        "total": 42.0645427704
-                      },
-                      {
-                        "year": 2040,
-                        "total": 50.5724048615
-                      },
-                      {
-                        "year": 2045,
-                        "total": 50.5765666962
-                      },
-                      {
-                        "year": 2050,
-                        "total": 50.9100074768
                       }
                     ]
                   },
@@ -87829,6 +87792,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 79.467168808
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 13.6575509515
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.4207805917
+                      },
+                      {
+                        "year": 2025,
+                        "total": 17.9144487381
+                      },
+                      {
+                        "year": 2030,
+                        "total": 33.804485321
+                      },
+                      {
+                        "year": 2035,
+                        "total": 42.0645427704
+                      },
+                      {
+                        "year": 2040,
+                        "total": 50.5724048615
+                      },
+                      {
+                        "year": 2045,
+                        "total": 50.5765666962
+                      },
+                      {
+                        "year": 2050,
+                        "total": 50.9100074768
                       }
                     ]
                   },
@@ -88060,7 +88060,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Cars",
+                    "indicatorGroup": "Car",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -88093,43 +88093,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 51.4822131395
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "Heating plants",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 8.9355217218
-                      },
-                      {
-                        "year": 2020,
-                        "total": 7.7955732346
-                      },
-                      {
-                        "year": 2025,
-                        "total": 30.8095991611
-                      },
-                      {
-                        "year": 2030,
-                        "total": 47.0927867889
-                      },
-                      {
-                        "year": 2035,
-                        "total": 60.361240983
-                      },
-                      {
-                        "year": 2040,
-                        "total": 70.1134679317
-                      },
-                      {
-                        "year": 2045,
-                        "total": 69.9834955931
-                      },
-                      {
-                        "year": 2050,
-                        "total": 69.1431616545
                       }
                     ]
                   },
@@ -88167,6 +88130,43 @@ export default {
                       {
                         "year": 2050,
                         "total": 108.3146877289
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Other",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 8.9355217218
+                      },
+                      {
+                        "year": 2020,
+                        "total": 7.7955732346
+                      },
+                      {
+                        "year": 2025,
+                        "total": 30.8095991611
+                      },
+                      {
+                        "year": 2030,
+                        "total": 47.0927867889
+                      },
+                      {
+                        "year": 2035,
+                        "total": 60.361240983
+                      },
+                      {
+                        "year": 2040,
+                        "total": 70.1134679317
+                      },
+                      {
+                        "year": 2045,
+                        "total": 69.9834955931
+                      },
+                      {
+                        "year": 2050,
+                        "total": 69.1431616545
                       }
                     ]
                   },
