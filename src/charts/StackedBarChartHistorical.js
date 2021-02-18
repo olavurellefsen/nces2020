@@ -52,11 +52,14 @@ const StackedBarChartHistorical = ({
     gutter = 0
     rowGutter = 0
   } else {
-    gutter = -40
-    rowGutter = -5
+    gutter = 0
+    rowGutter = 0
   }
 
   let maxY = -Infinity
+  let minY = Infinity
+  let base = 0
+  
   Object.keys(totalYearValuesScenario1).forEach(year => {
     //if(chartName==="Cement fuel consumption (PJ)")
       //console.log("maxY: ", maxY)
@@ -65,6 +68,30 @@ const StackedBarChartHistorical = ({
   })
   //maxY = 600000
   //console.log("maxY: ", maxY)
+
+
+  let t = 1
+  let i = 0
+  let range = [2,4,6,8,10]
+  while(t < maxY) {
+    t = range[i%5]*Math.pow(range[4], Math.floor(i/5))
+    i++
+  }
+  maxY = t
+  let u=1
+  let j=0
+  while(u > minY && j < 20) {
+    u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
+    j++
+  }
+  minY = u
+
+  //base is used in tickFormat
+  if (maxY < -minY) 
+    base = -minY
+  else 
+    base = maxY
+  
   return (
     <div>
     <ChartTitle>{chartName}</ChartTitle>
@@ -80,13 +107,13 @@ const StackedBarChartHistorical = ({
         <VictoryAxis key={0} tickValues={[1990, 1995, 2000, 2005, 2010, 2015]} tickFormat={[1990, 1995, 2000, 2005, 2010, 2015]} />
         <VictoryAxis
           dependentAxis
-          axisLabelComponent={<VictoryLabel dx={120} />}
+          axisLabelComponent={<VictoryLabel dx={10} dy={-50} />}
           key={2}
           offsetX={80}
           tickFormat={tick =>
             `${
               YPercentage === false
-                ? ((tick * maxY) / divideValues).toFixed(0)
+                ? ((tick * base) / divideValues).toFixed(0).toLocaleString()
                 : (tick * 100) / divideValues + '%'
             }`
           }
@@ -122,7 +149,7 @@ const StackedBarChartHistorical = ({
           gutter={gutter}
           rowGutter={rowGutter}
           symbolSpacer={4}
-          itemsPerRow={3}
+          itemsPerRow={4}
           style={{
             title: { fontSize: 14, leftPadding: -10 },
           }}
@@ -133,7 +160,7 @@ const StackedBarChartHistorical = ({
                 .substr(0, 16),
               fill: colors[i],
             }))}
-          labelComponent={<VictoryLabel style={{ fontSize: '9px' }} />}
+          labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}
         />
         <VictoryGroup offset={10} style={{ data: { width: 10 } }}>
           <VictoryStack>
