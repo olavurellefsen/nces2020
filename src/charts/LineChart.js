@@ -75,6 +75,7 @@ console.log("scenario: ", )
             axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
             key={2}
             offsetX={80}
+            domain={[0, .001]}
             /*tickFormat={tick =>
               `${
                   (tick * maxY).toFixed(0)
