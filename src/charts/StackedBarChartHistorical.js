@@ -1,7 +1,5 @@
 import React from 'react'
-//import PropTypes from 'prop-types'
 import styled from 'styled-components'
-//import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
   VictoryLabel,
@@ -16,7 +14,6 @@ import {
 
 import {createAccumulatedHistoricalData} from './Tools'
 import {colors} from './chartColors'
-//import periods from './../data/historicalyears'
 
 const ChartTitle = styled.div`
   margin-left: 70px;
@@ -25,6 +22,10 @@ const ChartTitle = styled.div`
   font-weight: bold;
   font-family: Ropa Sans;
 `
+const ChartContainer = styled.div`
+  min-width: 550px;
+`
+
 const StackedBarChartHistorical = ({
   chartName = "nces_eleproduction",
   stackedBar = [],
@@ -93,7 +94,7 @@ const StackedBarChartHistorical = ({
     base = maxY
   
   return (
-    <div>
+    <ChartContainer>
     <ChartTitle>{chartName}</ChartTitle>
       <VictoryChart
         domainPadding={20}
@@ -196,7 +197,7 @@ const StackedBarChartHistorical = ({
           </VictoryStack>
         </VictoryGroup>
       </VictoryChart>
-    </div>
+    </ChartContainer>
   )
 }
 

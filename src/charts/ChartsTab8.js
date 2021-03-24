@@ -4,8 +4,11 @@ import styled from 'styled-components'
 import Welcome from '../alert/Welcome'
 import { MainArea, Flex } from './Charts.style'
 import StackedBarChartHistorical from './StackedBarChartHistorical'
-import HistoricalData from "./../data/stackedBarTab8"
+import StackedBarChartHistoricalPerCountry from './StackedBarChartHistoricalPerCountry'
+import HistoricalData1 from "./../data/stackedBarTab81"
+import HistoricalData2 from "./../data/stackedBarTab82"
 import {createIndicator1Data} from "./Tools"
+import {createIndicator2Data} from "./Tools"
 //import LineChart from './LineChart'
 //import historicalYears from "./../data/historicalyears"
 //import periods from './../data/years'
@@ -22,7 +25,8 @@ import {
   //VictoryTooltip, 
 } from 'victory'
 const HistoricalCharts = props => {
-  const indicator1Data = createIndicator1Data(HistoricalData, props.selectedCountries)
+  const indicator1Data = createIndicator1Data(HistoricalData1, props.selectedCountries)
+  const indicator2Data = createIndicator2Data(HistoricalData2, props.selectedCountries)
   return (
     <MainArea>
         <Welcome 
@@ -30,11 +34,16 @@ const HistoricalCharts = props => {
           closeWelcome={props.closeWelcome} 
           tab="tab-history"/>
       <Flex>
+      <StackedBarChartHistoricalPerCountry
+          chartName={"CO2 emissions (Mt CO2) from power and district heating"}
+          stackedBar={indicator2Data}
+          selectedCountries={props.selectedCountries}
+        ></StackedBarChartHistoricalPerCountry>
         <StackedBarChartHistorical
-          stackedBar={HistoricalData}
+          stackedBar={HistoricalData1}
           selectedCountries={props.selectedCountries}
         ></StackedBarChartHistorical>
-        <div>
+        <ChartContainer>
         <ChartTitle>Share of RE in electricity</ChartTitle>
         <VictoryChart domainPadding={20}
         width={550}
@@ -66,11 +75,17 @@ const HistoricalCharts = props => {
             </VictoryLine></VictoryGroup>
           
           </VictoryChart>
-        </div>
+        </ChartContainer>
+        {console.log("indicator2Data: ", indicator2Data)}
+        
       </Flex>
     </MainArea>
   )
 }
+const ChartContainer = styled.div`
+  min-width: 550px;
+`
+
 const ChartTitle = styled.div`
   margin-left: 70px;
   margin-top: 20px;

@@ -155,7 +155,7 @@ const getTickValues = () => {
 }
 
   return (
-    <div>
+    <ChartContainer>
     <ChartTitle>{chartTitle}</ChartTitle>
       <VictoryChart
         domainPadding={20}
@@ -284,7 +284,7 @@ const getTickValues = () => {
           )}
         </VictoryGroup>
       </VictoryChart>
-    </div>
+    </ChartContainer>
   )
 }
 
@@ -312,5 +312,7 @@ StackedBarChart.propTypes = {
   Y2Percentage: PropTypes.bool,
   selectedCountries: PropTypes.array.isRequired,
 }
-
+const ChartContainer = styled.div`
+  min-width: 550px;
+`
 export default StackedBarChart
