@@ -9,6 +9,8 @@ import HistoricalData1 from "./../data/stackedBarTab81"
 import HistoricalData2 from "./../data/stackedBarTab82"
 import {createIndicator1Data} from "./Tools"
 import {createIndicator2Data} from "./Tools"
+import {createIndicator6Data} from "./Tools"
+import {createIndicator9Data} from "./Tools"
 //import LineChart from './LineChart'
 //import historicalYears from "./../data/historicalyears"
 //import periods from './../data/years'
@@ -27,6 +29,8 @@ import {
 const HistoricalCharts = props => {
   const indicator1Data = createIndicator1Data(HistoricalData1, props.selectedCountries)
   const indicator2Data = createIndicator2Data(HistoricalData2, props.selectedCountries)
+  const indicator6Data = createIndicator6Data(HistoricalData2, props.selectedCountries)
+  const indicator9Data = createIndicator9Data(HistoricalData2, props.selectedCountries)
   return (
     <MainArea>
         <Welcome 
@@ -39,10 +43,21 @@ const HistoricalCharts = props => {
           stackedBar={indicator2Data}
           selectedCountries={props.selectedCountries}
         ></StackedBarChartHistoricalPerCountry>
+      <StackedBarChartHistoricalPerCountry
+        chartName={"CO2 emissions (Mt CO2) from the industrial sector (Decarbonisation of industry)"}
+        stackedBar={indicator6Data}
+        selectedCountries={props.selectedCountries}
+      ></StackedBarChartHistoricalPerCountry>
+      <StackedBarChartHistoricalPerCountry
+        chartName={"CO2 emissions (Mt CO2) from road transport (Green mobility)"}
+        stackedBar={indicator9Data}
+        selectedCountries={props.selectedCountries}
+      ></StackedBarChartHistoricalPerCountry>
         <StackedBarChartHistorical
           stackedBar={HistoricalData1}
           selectedCountries={props.selectedCountries}
         ></StackedBarChartHistorical>
+        
         <ChartContainer>
         <ChartTitle>Share of RE in electricity</ChartTitle>
         <VictoryChart domainPadding={20}
@@ -76,8 +91,6 @@ const HistoricalCharts = props => {
           
           </VictoryChart>
         </ChartContainer>
-        {console.log("indicator2Data: ", indicator2Data)}
-        
       </Flex>
     </MainArea>
   )

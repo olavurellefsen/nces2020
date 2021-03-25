@@ -134,10 +134,10 @@ data.data.nces_eleproduction.forEach((item)=>{
   if (fuelTypes.indexOf(item.nces_fuel_type.fuel_type) === -1)
     fuelTypes.push(item.nces_fuel_type.fuel_type)
 })
-console.log("accumulatedHistoricalData: ", accumulatedHistoricalData)
+//console.log("accumulatedHistoricalData: ", accumulatedHistoricalData)
   return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
 }
-const createAccumulatedHistoricalPerCountryData = (data, chartName, selectedCountries) => {
+/* const createAccumulatedHistoricalPerCountryData = (data, chartName, selectedCountries) => {
   let ret = 0
   console.log("data: ", data)
   console.log("chartName: ", chartName)
@@ -145,8 +145,16 @@ const createAccumulatedHistoricalPerCountryData = (data, chartName, selectedCoun
 
   console.log("ret: ", ret)
   return ret
-}
+} */
 
+const fixedcolorCountries = [ 'Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
+const countryColors = () => {
+  let ret = colors.slice(0, 4)
+  fixedcolorCountries.forEach((country, index)=>{
+    ret[country] = colors[index]
+  })
+  return ret
+}
 //Share of RE in electricity consumption (theme: Transforming the power sector) 
 const createIndicator1Data = (rawData, selectedCountries) => {
   let selectedDataRegions = [] 
@@ -200,43 +208,18 @@ const createIndicator1Data = (rawData, selectedCountries) => {
 //CO2 emissions (Mt CO2) from power and district heating  
 const createIndicator2Data = (rawData, selectedCountries) => {
   const countries = ['Denmark', 'Sweden', 'Norway', 'Finland', 'Iceland']
-  console.log("selectedContries: ", selectedCountries)
   let selectedDataRegions = []
-  let fixedcolorCountries = [ 'Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
-
+  
   mapRegionToDataRegions.forEach((mapRegion) => {
       if(selectedCountries.includes(mapRegion.path_id)) {
       mapRegion.historical_data_regions.forEach((dataRegion) => {
         selectedDataRegions.push(dataRegion)
-        console.log("pushing: ", dataRegion)
       })
     } 
   })
-  console.log("selectedDataRegions: ", selectedDataRegions)
   let re = []
   let total = []
-  /* '#5cbae6',
-    '#b6d957',
-    '#fac364',
-    '#8cd3ff',
-    '#d998cb',
- */
-  const countryColors = (countries) => {
-    ret = colors.slice(0, 4)
-    /* console.log("selected countries: ", countries)
-    countries.forEach((country, i)=>{
-      let index = fixedcolorCountries.findIndex((fixed) => fixed === country)
-      console.log("index: ", index)
-      if (index !== -1)
-        ret[country] = colors[index]
-    }) */
-    fixedcolorCountries.forEach((country, index)=>{
-      //let index = fixedcolorCountries.findIndex((fixed) => fixed === country)
-      ret[country] = colors[index]
-    })
-    console.log("fixed colors: ", ret)
-    return ret
-  }
+  
   countries.forEach((country)=>{
     if (selectedDataRegions.includes(country)) {
       re[country] = []
@@ -247,36 +230,19 @@ const createIndicator2Data = (rawData, selectedCountries) => {
       })
     }
   })
-  console.log("init total: ", total)
-  
-  
-  //console.log("rawdata: ", rawData)
   const filter_src_crf = [
     "Fuel combustion in public electricity and heat production"
   ]
   const filter_airpol = [
-    "Greenhouse gases",
+    "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
     "Carbon dioxide"
   ]
   let ret = {}
   let countryLegends = []
   rawData.data.nces_ghgemission.forEach((item) => {
-    //if(item.country === "Iceland")
-      //console.log("item: ", parseFloat(item.value))
-      //console.log("item: ", item.value)
-      //console.log("isNaN(parseFloat(item.value)): ", isNaN(parseFloat(item.value)))
-    //console.log("item.nces_fuel_type.fuel_type: ", filter_fuel.includes(item.nces_fuel_type.fuel_type))
-    //console.log("item.year-historicalYears[0]: ", item.year-historicalYears[0])
-    //console.log("item.country: ", item.country)
-    
     if (filter_src_crf.includes(item.src_crf) && filter_airpol.includes(item.air_pol)) {
-      //console.log("historicalYears.includes(item.year): ", historicalYears.includes(parseInt(item.year)))
-      //console.log("selectedDataRegions.includes(item.country): ", selectedDataRegions.includes(item.country))
       if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
-        //if(item.country === "Finland")
-          //console.log("item: ", item)
         if(Object.keys(ret).includes(item.nces_country.name)) {
-          //console.log("historicalYears.indexOf(item.year): ", historicalYears.indexOf(parseInt(item.year)))
           if(ret[item.nces_country.name][historicalYears.indexOf(item.year)]) {
             ret[item.nces_country.name][historicalYears.indexOf(item.year)].total += isNaN(item.value) ? 0 : item.value
           } else {
@@ -287,26 +253,149 @@ const createIndicator2Data = (rawData, selectedCountries) => {
           ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value})
         }
         
-      total[parseInt(item.year)-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
+      total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
       if (countryLegends.indexOf(item.nces_country.name) === -1) {
-        console.log("country: ", item.nces_country.name)
+        //console.log("country: ", item.nces_country.name)
         countryLegends.push(item.nces_country.name)
       }
         
       }
     }
-    
-
-    //if(item.country === "Iceland")
-    //console.log("total: ", total[item.country][item.year-historicalYears[0]])
-    //console.log("item: ", item)
-      //console.log("item.value: ", item.value)
-      //console.log("re[item.nces_country]: ", re[item.nces_country.name])
-      //console.log("item.nces_country: ", item.nces_country.name)
-    //total[country][year] +=item.value
   })
-  console.log("ret: ", ret)
   return [ret, total, selectedDataRegions, countryColors(selectedDataRegions)]
 } 
 
-export { createAccumulatedData, createAccumulatedHistoricalData, createIndicator1Data, createIndicator2Data, createAccumulatedHistoricalPerCountryData }
+//6. CO2 emissions (Mt CO2) from the industrial sector (Decarbonisation of industry)  
+const createIndicator6Data = (rawData, selectedCountries) => {
+  const countries = ['Denmark', 'Sweden', 'Norway', 'Finland', 'Iceland']
+  let selectedDataRegions = []
+  
+  mapRegionToDataRegions.forEach((mapRegion) => {
+      if(selectedCountries.includes(mapRegion.path_id)) {
+      mapRegion.historical_data_regions.forEach((dataRegion) => {
+        selectedDataRegions.push(dataRegion)
+      })
+    } 
+  })
+  let re = []
+  let total = []
+  
+  countries.forEach((country)=>{
+    if (selectedDataRegions.includes(country)) {
+      re[country] = []
+      total[country] = []
+      historicalYears.forEach((year) =>{
+        re[country][year-historicalYears[0]]=0
+        total[year-historicalYears[0]]=0
+      })
+    }
+  })
+  const filter_src_crf = [
+    "Industrial processes and product use",
+    "Other product manufacture and use",
+    "Other industrial process and product use",
+  ]
+  const filter_airpol = [
+    "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+    "Carbon dioxide"
+  ]
+  let ret = {}
+  let countryLegends = []
+  rawData.data.nces_ghgemission.forEach((item, i) => {
+    if (filter_src_crf.includes(item.src_crf) && filter_airpol.includes(item.air_pol)) {
+      if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
+        if(Object.keys(ret).includes(item.nces_country.name)) {
+          if(ret[item.nces_country.name][historicalYears.indexOf(item.year)]) {
+            ret[item.nces_country.name][historicalYears.indexOf(item.year)].total += isNaN(item.value) ? 0 : item.value
+          } else {
+            ret[item.nces_country.name].push({"year": item.year, "total": isNaN(item.value) ? 0 : item.value})
+          }
+        } else {
+          ret[item.nces_country.name] = []
+          ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value})
+        }
+      /* if (item.year >= 1995 && item.nces_country.name == "Finland") {
+        console.log("item" + i + ": ", item)
+        console.log("ret" + i + ": ", ret)
+      } */
+        
+      total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
+      if (countryLegends.indexOf(item.nces_country.name) === -1) {
+        //console.log("country: ", item.nces_country.name)
+        countryLegends.push(item.nces_country.name)
+      }
+        
+      }
+    }
+  })
+  return [ret, total, selectedDataRegions, countryColors(selectedDataRegions)]
+} 
+
+//9. CO2 emissions (Mt CO2) from road transport (Green mobility)
+const createIndicator9Data = (rawData, selectedCountries) => {
+  const countries = ['Denmark', 'Sweden', 'Norway', 'Finland', 'Iceland']
+  let selectedDataRegions = []
+  
+  mapRegionToDataRegions.forEach((mapRegion) => {
+      if(selectedCountries.includes(mapRegion.path_id)) {
+      mapRegion.historical_data_regions.forEach((dataRegion) => {
+        selectedDataRegions.push(dataRegion)
+      })
+    } 
+  })
+  let re = []
+  let total = []
+  
+  countries.forEach((country)=>{
+    if (selectedDataRegions.includes(country)) {
+      re[country] = []
+      total[country] = []
+      historicalYears.forEach((year) =>{
+        re[country][year-historicalYears[0]]=0
+        total[year-historicalYears[0]]=0
+      })
+    }
+  })
+  const filter_src_crf = [
+    "Fuel combustion in road transport",
+  ]
+  const filter_airpol = [
+    "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+    "Carbon dioxide"
+  ]
+  let ret = {}
+  let countryLegends = []
+  rawData.data.nces_ghgemission.forEach((item, i) => {
+    if (filter_src_crf.includes(item.src_crf) && filter_airpol.includes(item.air_pol)) {
+      if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
+        if(Object.keys(ret).includes(item.nces_country.name)) {
+          if(ret[item.nces_country.name][historicalYears.indexOf(item.year)]) {
+            ret[item.nces_country.name][historicalYears.indexOf(item.year)].total += isNaN(item.value) ? 0 : item.value
+          } else {
+            ret[item.nces_country.name].push({"year": item.year, "total": isNaN(item.value) ? 0 : item.value})
+          }
+        } else {
+          ret[item.nces_country.name] = []
+          ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value})
+        }
+        
+      total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
+      if (countryLegends.indexOf(item.nces_country.name) === -1) {
+        //console.log("country: ", item.nces_country.name)
+        countryLegends.push(item.nces_country.name)
+      }
+        
+      }
+    }
+  })
+  //console.log("ret", ret)
+  return [ret, total, selectedDataRegions, countryColors(selectedDataRegions)]
+} 
+
+export { 
+  createAccumulatedData, 
+  createAccumulatedHistoricalData, 
+  createIndicator1Data, 
+  createIndicator2Data, 
+  createIndicator6Data,
+  createIndicator9Data }

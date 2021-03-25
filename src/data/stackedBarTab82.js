@@ -3,33 +3,6 @@ export default {
     "nces_ghgemission": [
       {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Fuel combustion in public electricity and heat production",
-        "value": 24790.95,
-        "year": 1990,
-        "nces_country": {
-          "name": "Denmark"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Fuel combustion in road transport",
-        "value": 9522.9,
-        "year": 1990,
-        "nces_country": {
-          "name": "Denmark"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Industrial processes and product use",
-        "value": 2343.52,
-        "year": 1990,
-        "nces_country": {
-          "name": "Denmark"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other product manufacture and use",
         "value": 32.62,
         "year": 1990,
@@ -218,6 +191,24 @@ export default {
         }
       },
       {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Industrial processes and product use",
+        "value": 2343.52,
+        "year": 1990,
+        "nces_country": {
+          "name": "Denmark"
+        }
+      },
+      {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Fuel combustion in public electricity and heat production",
+        "value": 24790.95,
+        "year": 1990,
+        "nces_country": {
+          "name": "Denmark"
+        }
+      },
+      {
         "air_pol": "Carbon dioxide",
         "src_crf": "Fuel combustion in public electricity and heat production",
         "value": 7713.7,
@@ -317,6 +308,15 @@ export default {
         }
       },
       {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Fuel combustion in road transport",
+        "value": 9522.9,
+        "year": 1990,
+        "nces_country": {
+          "name": "Denmark"
+        }
+      },
+      {
         "air_pol": "Carbon dioxide",
         "src_crf": "Other product manufacture and use",
         "value": 0,
@@ -411,6 +411,15 @@ export default {
         "src_crf": "Other industrial process and product use",
         "value": 31.27,
         "year": 1990,
+        "nces_country": {
+          "name": "Norway"
+        }
+      },
+      {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Other product manufacture and use",
+        "value": 90.8,
+        "year": 1991,
         "nces_country": {
           "name": "Norway"
         }
@@ -605,15 +614,6 @@ export default {
         }
       },
       {
-        "air_pol": "Carbon dioxide",
-        "src_crf": "Fuel combustion in public electricity and heat production",
-        "value": 432.49,
-        "year": 1992,
-        "nces_country": {
-          "name": "Norway"
-        }
-      },
-      {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Industrial processes and product use",
         "value": 7387.6,
@@ -777,15 +777,6 @@ export default {
       },
       {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Other product manufacture and use",
-        "value": 90.8,
-        "year": 1991,
-        "nces_country": {
-          "name": "Norway"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other industrial process and product use",
         "value": 42.95,
         "year": 1991,
@@ -834,6 +825,15 @@ export default {
         "src_crf": "Other industrial process and product use",
         "value": 42.95,
         "year": 1991,
+        "nces_country": {
+          "name": "Norway"
+        }
+      },
+      {
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Other industrial process and product use",
+        "value": 41.23,
+        "year": 1992,
         "nces_country": {
           "name": "Norway"
         }
@@ -1190,6 +1190,15 @@ export default {
         }
       },
       {
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Fuel combustion in public electricity and heat production",
+        "value": 432.49,
+        "year": 1992,
+        "nces_country": {
+          "name": "Norway"
+        }
+      },
+      {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Industrial processes and product use",
         "value": 11172.1,
@@ -1236,11 +1245,11 @@ export default {
       },
       {
         "air_pol": "Carbon dioxide",
-        "src_crf": "Other industrial process and product use",
-        "value": 41.23,
-        "year": 1992,
+        "src_crf": "Industrial processes and product use",
+        "value": 425.19,
+        "year": 1993,
         "nces_country": {
-          "name": "Norway"
+          "name": "Iceland"
         }
       },
       {
@@ -1544,15 +1553,6 @@ export default {
         "air_pol": "Carbon dioxide",
         "src_crf": "Fuel combustion in road transport",
         "value": 548.17,
-        "year": 1993,
-        "nces_country": {
-          "name": "Iceland"
-        }
-      },
-      {
-        "air_pol": "Carbon dioxide",
-        "src_crf": "Industrial processes and product use",
-        "value": 425.19,
         "year": 1993,
         "nces_country": {
           "name": "Iceland"
@@ -2433,11 +2433,11 @@ export default {
       },
       {
         "air_pol": "Carbon dioxide",
-        "src_crf": "Other product manufacture and use",
-        "value": 0,
-        "year": 1997,
+        "src_crf": "Other industrial process and product use",
+        "value": 46.97,
+        "year": 1995,
         "nces_country": {
-          "name": "Finland"
+          "name": "Norway"
         }
       },
       {
@@ -2488,8 +2488,8 @@ export default {
       {
         "air_pol": "Carbon dioxide",
         "src_crf": "Other industrial process and product use",
-        "value": 46.97,
-        "year": 1995,
+        "value": 46.77,
+        "year": 1996,
         "nces_country": {
           "name": "Norway"
         }
@@ -2900,15 +2900,6 @@ export default {
         }
       },
       {
-        "air_pol": "Carbon dioxide",
-        "src_crf": "Other industrial process and product use",
-        "value": 46.77,
-        "year": 1996,
-        "nces_country": {
-          "name": "Norway"
-        }
-      },
-      {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Fuel combustion in public electricity and heat production",
         "value": 33571.9,
@@ -3113,6 +3104,15 @@ export default {
         "year": 1997,
         "nces_country": {
           "name": "Sweden"
+        }
+      },
+      {
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Other product manufacture and use",
+        "value": 0,
+        "year": 1997,
+        "nces_country": {
+          "name": "Finland"
         }
       },
       {
@@ -4143,6 +4143,15 @@ export default {
       },
       {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Other industrial process and product use",
+        "value": 102.73,
+        "year": 2000,
+        "nces_country": {
+          "name": "Sweden"
+        }
+      },
+      {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Fuel combustion in public electricity and heat production",
         "value": 23583.68,
         "year": 2000,
@@ -4349,15 +4358,6 @@ export default {
         }
       },
       {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Other industrial process and product use",
-        "value": 102.73,
-        "year": 2000,
-        "nces_country": {
-          "name": "Sweden"
-        }
-      },
-      {
         "air_pol": "Carbon dioxide",
         "src_crf": "Fuel combustion in public electricity and heat production",
         "value": 6364.76,
@@ -4556,21 +4556,12 @@ export default {
         }
       },
       {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Fuel combustion in public electricity and heat production",
-        "value": 24913.89,
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Other industrial process and product use",
+        "value": 71.16,
         "year": 2001,
         "nces_country": {
-          "name": "Denmark"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Fuel combustion in road transport",
-        "value": 11467.06,
-        "year": 2001,
-        "nces_country": {
-          "name": "Denmark"
+          "name": "Norway"
         }
       },
       {
@@ -4889,12 +4880,12 @@ export default {
         }
       },
       {
-        "air_pol": "Carbon dioxide",
-        "src_crf": "Fuel combustion in public electricity and heat production",
-        "value": 8711.45,
-        "year": 2002,
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Fuel combustion in road transport",
+        "value": 11467.06,
+        "year": 2001,
         "nces_country": {
-          "name": "Sweden"
+          "name": "Denmark"
         }
       },
       {
@@ -4922,6 +4913,15 @@ export default {
         "year": 2001,
         "nces_country": {
           "name": "Norway"
+        }
+      },
+      {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Fuel combustion in public electricity and heat production",
+        "value": 24913.89,
+        "year": 2001,
+        "nces_country": {
+          "name": "Denmark"
         }
       },
       {
@@ -4970,12 +4970,21 @@ export default {
         }
       },
       {
-        "air_pol": "Carbon dioxide",
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other industrial process and product use",
-        "value": 71.16,
-        "year": 2001,
+        "value": 73.9,
+        "year": 2002,
         "nces_country": {
           "name": "Norway"
+        }
+      },
+      {
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Fuel combustion in public electricity and heat production",
+        "value": 8711.45,
+        "year": 2002,
+        "nces_country": {
+          "name": "Sweden"
         }
       },
       {
@@ -5324,15 +5333,6 @@ export default {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other product manufacture and use",
         "value": 121.85,
-        "year": 2002,
-        "nces_country": {
-          "name": "Norway"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Other industrial process and product use",
-        "value": 73.9,
         "year": 2002,
         "nces_country": {
           "name": "Norway"
@@ -5799,6 +5799,15 @@ export default {
       },
       {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Other product manufacture and use",
+        "value": 195.59,
+        "year": 2004,
+        "nces_country": {
+          "name": "Sweden"
+        }
+      },
+      {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Fuel combustion in public electricity and heat production",
         "value": 23826.82,
         "year": 2004,
@@ -6006,15 +6015,6 @@ export default {
       },
       {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Other product manufacture and use",
-        "value": 195.59,
-        "year": 2004,
-        "nces_country": {
-          "name": "Sweden"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other industrial process and product use",
         "value": 101.01,
         "year": 2004,
@@ -6213,15 +6213,6 @@ export default {
       },
       {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Fuel combustion in public electricity and heat production",
-        "value": 20591.92,
-        "year": 2005,
-        "nces_country": {
-          "name": "Denmark"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Fuel combustion in road transport",
         "value": 12479.16,
         "year": 2005,
@@ -6407,6 +6398,15 @@ export default {
         "year": 2005,
         "nces_country": {
           "name": "Sweden"
+        }
+      },
+      {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Fuel combustion in public electricity and heat production",
+        "value": 20591.92,
+        "year": 2005,
+        "nces_country": {
+          "name": "Denmark"
         }
       },
       {
@@ -7455,6 +7455,15 @@ export default {
       },
       {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Other product manufacture and use",
+        "value": 155.21,
+        "year": 2008,
+        "nces_country": {
+          "name": "Sweden"
+        }
+      },
+      {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Fuel combustion in public electricity and heat production",
         "value": 21727.35,
         "year": 2008,
@@ -7643,27 +7652,9 @@ export default {
         }
       },
       {
-        "air_pol": "Carbon dioxide",
-        "src_crf": "Fuel combustion in public electricity and heat production",
-        "value": 2021.48,
-        "year": 2009,
-        "nces_country": {
-          "name": "Norway"
-        }
-      },
-      {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Industrial processes and product use",
         "value": 8381.77,
-        "year": 2008,
-        "nces_country": {
-          "name": "Sweden"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Other product manufacture and use",
-        "value": 155.21,
         "year": 2008,
         "nces_country": {
           "name": "Sweden"
@@ -8237,6 +8228,15 @@ export default {
         }
       },
       {
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Fuel combustion in public electricity and heat production",
+        "value": 2021.48,
+        "year": 2009,
+        "nces_country": {
+          "name": "Norway"
+        }
+      },
+      {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other product manufacture and use",
         "value": 86.81,
@@ -8277,6 +8277,15 @@ export default {
         "src_crf": "Other industrial process and product use",
         "value": 84.08,
         "year": 2009,
+        "nces_country": {
+          "name": "Norway"
+        }
+      },
+      {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Other industrial process and product use",
+        "value": 94.94,
+        "year": 2010,
         "nces_country": {
           "name": "Norway"
         }
@@ -8642,15 +8651,6 @@ export default {
         }
       },
       {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Other industrial process and product use",
-        "value": 94.94,
-        "year": 2010,
-        "nces_country": {
-          "name": "Norway"
-        }
-      },
-      {
         "air_pol": "Carbon dioxide",
         "src_crf": "Fuel combustion in public electricity and heat production",
         "value": 2393.63,
@@ -8903,6 +8903,15 @@ export default {
         }
       },
       {
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Other industrial process and product use",
+        "value": 100.54,
+        "year": 2011,
+        "nces_country": {
+          "name": "Norway"
+        }
+      },
+      {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other industrial process and product use",
         "value": 95.92,
@@ -9095,15 +9104,6 @@ export default {
         "air_pol": "Carbon dioxide",
         "src_crf": "Other product manufacture and use",
         "value": 0,
-        "year": 2011,
-        "nces_country": {
-          "name": "Norway"
-        }
-      },
-      {
-        "air_pol": "Carbon dioxide",
-        "src_crf": "Other industrial process and product use",
-        "value": 100.54,
         "year": 2011,
         "nces_country": {
           "name": "Norway"
@@ -9470,15 +9470,6 @@ export default {
         }
       },
       {
-        "air_pol": "Carbon dioxide",
-        "src_crf": "Other product manufacture and use",
-        "value": 0,
-        "year": 2014,
-        "nces_country": {
-          "name": "Finland"
-        }
-      },
-      {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other industrial process and product use",
         "value": 104.61,
@@ -9533,21 +9524,12 @@ export default {
         }
       },
       {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Fuel combustion in public electricity and heat production",
-        "value": 16740.71,
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Other industrial process and product use",
+        "value": 101.11,
         "year": 2013,
         "nces_country": {
-          "name": "Denmark"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Fuel combustion in road transport",
-        "value": 11324.46,
-        "year": 2013,
-        "nces_country": {
-          "name": "Denmark"
+          "name": "Norway"
         }
       },
       {
@@ -9839,6 +9821,15 @@ export default {
         }
       },
       {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Fuel combustion in road transport",
+        "value": 11324.46,
+        "year": 2013,
+        "nces_country": {
+          "name": "Denmark"
+        }
+      },
+      {
         "air_pol": "Carbon dioxide",
         "src_crf": "Industrial processes and product use",
         "value": 1686.09,
@@ -9894,6 +9885,15 @@ export default {
       },
       {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
+        "src_crf": "Fuel combustion in public electricity and heat production",
+        "value": 16740.71,
+        "year": 2013,
+        "nces_country": {
+          "name": "Denmark"
+        }
+      },
+      {
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other industrial process and product use",
         "value": 101.11,
         "year": 2013,
@@ -9938,12 +9938,21 @@ export default {
         }
       },
       {
-        "air_pol": "Carbon dioxide",
+        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other industrial process and product use",
-        "value": 101.11,
-        "year": 2013,
+        "value": 99.89,
+        "year": 2014,
         "nces_country": {
           "name": "Norway"
+        }
+      },
+      {
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Other product manufacture and use",
+        "value": 0,
+        "year": 2014,
+        "nces_country": {
+          "name": "Finland"
         }
       },
       {
@@ -10292,15 +10301,6 @@ export default {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other product manufacture and use",
         "value": 72.33,
-        "year": 2014,
-        "nces_country": {
-          "name": "Norway"
-        }
-      },
-      {
-        "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
-        "src_crf": "Other industrial process and product use",
-        "value": 99.89,
         "year": 2014,
         "nces_country": {
           "name": "Norway"
@@ -10766,6 +10766,15 @@ export default {
         }
       },
       {
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Industrial processes and product use",
+        "value": 1683.58,
+        "year": 2016,
+        "nces_country": {
+          "name": "Iceland"
+        }
+      },
+      {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Fuel combustion in public electricity and heat production",
         "value": 11848.06,
@@ -11066,15 +11075,6 @@ export default {
         "air_pol": "Carbon dioxide",
         "src_crf": "Fuel combustion in road transport",
         "value": 894.58,
-        "year": 2016,
-        "nces_country": {
-          "name": "Iceland"
-        }
-      },
-      {
-        "air_pol": "Carbon dioxide",
-        "src_crf": "Industrial processes and product use",
-        "value": 1683.58,
         "year": 2016,
         "nces_country": {
           "name": "Iceland"
@@ -11954,6 +11954,15 @@ export default {
         }
       },
       {
+        "air_pol": "Carbon dioxide",
+        "src_crf": "Other industrial process and product use",
+        "value": 121.77,
+        "year": 2018,
+        "nces_country": {
+          "name": "Norway"
+        }
+      },
+      {
         "air_pol": "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
         "src_crf": "Other industrial process and product use",
         "value": 121.77,
@@ -11993,15 +12002,6 @@ export default {
         "air_pol": "Carbon dioxide",
         "src_crf": "Other product manufacture and use",
         "value": 0,
-        "year": 2018,
-        "nces_country": {
-          "name": "Norway"
-        }
-      },
-      {
-        "air_pol": "Carbon dioxide",
-        "src_crf": "Other industrial process and product use",
-        "value": 121.77,
         "year": 2018,
         "nces_country": {
           "name": "Norway"

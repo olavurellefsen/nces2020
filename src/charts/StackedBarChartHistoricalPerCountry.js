@@ -20,7 +20,7 @@ const ChartTitle = styled.div`
   font-family: Ropa Sans;
 `
 const ChartContainer = styled.div`
-  min-width: 550px;
+  width: 550px;
 `
 
 const StackedBarChartHistoricalPerCountry = ({
@@ -35,15 +35,10 @@ const StackedBarChartHistoricalPerCountry = ({
   combinedChart = false,
   maxY2 = 100,
 }) => {
-  //const dataScenario1 = createAccumulatedHistoricalPerCountryData(stackedBar, chartName, selectedCountries)
-  
-
-  //const accumulatedData = dataScenario1[0]
   const accumulatedData = stackedBar[0]
   const totalYearValuesScenario1 = stackedBar[1]
   const legends = stackedBar[2]
   const colors2 = stackedBar[3]
-  //console.log("accumulatedData: ", accumulatedData)
   let gutter, rowGutter
   if (
     !process.env.NODE_ENV ||
@@ -62,14 +57,8 @@ const StackedBarChartHistoricalPerCountry = ({
   let base = 0
   
   Object.keys(totalYearValuesScenario1).forEach(year => {
-    //if(chartName==="Cement fuel consumption (PJ)")
-      //console.log("maxY: ", maxY)
-      //console.log("totalYearValuesScenario1[year]: ", totalYearValuesScenario1[year])
     maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year]))
   })
-  //maxY = 600000
-  //console.log("maxY: ", maxY)
-
 
   let t = 1
   let i = 0
@@ -93,9 +82,6 @@ const StackedBarChartHistoricalPerCountry = ({
   else 
     base = maxY
 
-    console.log("chart colors2: ", colors2)
-    console.log("total: ", stackedBar[1])
-    console.log("maxY: ", maxY)
 return (
   <ChartContainer>
   <ChartTitle>{chartName}</ChartTitle>
@@ -107,7 +93,6 @@ return (
       theme={VictoryTheme.material}
       // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated
     >
-      {/* <ChartHeader x={90} y={24} text={chartName} /> */}
       <VictoryAxis key={0} tickValues={[1990, 1995, 2000, 2005, 2010, 2015]} tickFormat={[1990, 1995, 2000, 2005, 2010, 2015]} />
       <VictoryAxis
         dependentAxis
@@ -157,7 +142,6 @@ return (
         style={{
           title: { fontSize: 14, leftPadding: -10 },
         }}
-        //colorScale={colors2}
         data={Array.from(legends).map((legend, i) => ({
             name: legend
               .concat('        ')

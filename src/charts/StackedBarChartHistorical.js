@@ -62,15 +62,8 @@ const StackedBarChartHistorical = ({
   let base = 0
   
   Object.keys(totalYearValuesScenario1).forEach(year => {
-    //if(chartName==="Cement fuel consumption (PJ)")
-      //console.log("maxY: ", maxY)
-      //console.log("totalYearValuesScenario1[year]: ", totalYearValuesScenario1[year])
     maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year]))
   })
-  //maxY = 600000
-  //console.log("maxY: ", maxY)
-
-
   let t = 1
   let i = 0
   let range = [2,4,6,8,10]
@@ -102,9 +95,7 @@ const StackedBarChartHistorical = ({
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
         theme={VictoryTheme.material}
-        // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated
       >
-        {/* <ChartHeader x={90} y={24} text={chartName} /> */}
         <VictoryAxis key={0} tickValues={[1990, 1995, 2000, 2005, 2010, 2015]} tickFormat={[1990, 1995, 2000, 2005, 2010, 2015]} />
         <VictoryAxis
           dependentAxis
@@ -200,13 +191,4 @@ const StackedBarChartHistorical = ({
     </ChartContainer>
   )
 }
-
-/* const ChartHeader = styled(VictoryLabel)`
-  text-anchor: start;
-  fill: #000000;
-  font-family: inherit;
-  font-size: 18px;
-  font-weight: bold;
-` */
-
 export default StackedBarChartHistorical
