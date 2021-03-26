@@ -202,6 +202,7 @@ const createIndicator1Data = (rawData, selectedCountries) => {
       "y": item/total[index],
     }
   })
+  //console.log("ind1 ret: ", ret)
   return ret
 }
 
@@ -392,10 +393,79 @@ const createIndicator9Data = (rawData, selectedCountries) => {
   return [ret, total, selectedDataRegions, countryColors(selectedDataRegions)]
 } 
 
+//Battery and plug-in hybrid electric vehicles share of new passenger vehicle sales (Electrification of transport)
+const createIndicator4Data = (rawData, selectedCountries) => {
+  let selectedDataRegions = [] 
+  mapRegionToDataRegions.forEach((mapRegion) => {
+      if(selectedCountries.includes(mapRegion.path_id)) {
+      mapRegion.historical_data_regions.forEach((dataRegion) => {
+        selectedDataRegions.push(dataRegion)
+      })
+    }
+  })
+  const countries = ['Denmark', 'Sweden', 'Norway', 'Finland','Iceland']
+  const car_years = [2013, 2014, 2015, 2016, 2017, 2018, 2019]
+  let re = []
+  let totalPerCountry = [];
+  countries.forEach((country)=>{
+    re[country] = []
+    totalPerCountry[country] = []
+    car_years.forEach((year) =>{
+      re[country][year-car_years[0]]=0
+      totalPerCountry[country][year-car_years[0]]=0
+    })
+  })
+  //console.log("rawData: ", rawData)
+  
+  const filter_cartype = [
+    "BEV",
+    "PHEV",
+    ]
+  rawData.data.nces_vehiclenumber.forEach((item) => {
+    if (selectedDataRegions.includes(item.nces_country.name)) {
+      if (filter_cartype.includes(item.car_type)) {
+        re[item.nces_country.name][item.year-car_years[0]] += item.value
+      } else {
+        totalPerCountry[item.nces_country.name][item.year-car_years[0]] += item.value
+      }
+    }
+  })
+  console.log("re: ", re)
+  //console.table("table: ", re)
+  console.log("re len: ", re.length)
+  console.log("totalPerCountry: ", totalPerCountry)
+  let ret = []
+  re.forEach((value, index, self)=>{
+    console.log("re forech: ", value, index, self)
+  })
+  for(let country in selectedDataRegions) {
+    ret[selectedDataRegions[country]] = []
+    console.log("con: ", country)
+    re[selectedDataRegions[country]].forEach((value, index)=>{
+      ret[selectedDataRegions[country]][index] = { "x": index + 2013, "y": value/totalPerCountry[selectedDataRegions[country]][index] }
+    })
+  }
+  re.forEach((item, index)=>{
+    console.log("item: ", item)
+    ret[item] = []
+    item.forEach((year)=>{
+      console.log("item: ", item)
+      console.log("year: ", year)
+      ret[item][year] = {
+        "x": year + 2013,
+        "y": item/totalPerCountry[item][year],
+      }
+    })
+  })
+  console.log("ind4 ret: ", ret)
+  return ret
+}
+
 export { 
   createAccumulatedData, 
   createAccumulatedHistoricalData, 
   createIndicator1Data, 
-  createIndicator2Data, 
+  createIndicator2Data,
+  createIndicator4Data, 
   createIndicator6Data,
   createIndicator9Data }

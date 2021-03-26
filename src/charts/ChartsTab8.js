@@ -5,10 +5,13 @@ import Welcome from '../alert/Welcome'
 import { MainArea, Flex } from './Charts.style'
 import StackedBarChartHistorical from './StackedBarChartHistorical'
 import StackedBarChartHistoricalPerCountry from './StackedBarChartHistoricalPerCountry'
+import LineChartHistorical from './LineChartHistorical'
 import HistoricalData1 from "./../data/stackedBarTab81"
 import HistoricalData2 from "./../data/stackedBarTab82"
+import HistoricalData3 from "./../data/stackedBarTab83"
 import {createIndicator1Data} from "./Tools"
 import {createIndicator2Data} from "./Tools"
+import {createIndicator4Data} from "./Tools"
 import {createIndicator6Data} from "./Tools"
 import {createIndicator9Data} from "./Tools"
 //import LineChart from './LineChart'
@@ -29,8 +32,10 @@ import {
 const HistoricalCharts = props => {
   const indicator1Data = createIndicator1Data(HistoricalData1, props.selectedCountries)
   const indicator2Data = createIndicator2Data(HistoricalData2, props.selectedCountries)
+  const indicator4Data = createIndicator4Data(HistoricalData3, props.selectedCountries)
   const indicator6Data = createIndicator6Data(HistoricalData2, props.selectedCountries)
   const indicator9Data = createIndicator9Data(HistoricalData2, props.selectedCountries)
+  //console.log("indicatorData1: ", indicator1Data)
   return (
     <MainArea>
         <Welcome 
@@ -38,6 +43,12 @@ const HistoricalCharts = props => {
           closeWelcome={props.closeWelcome} 
           tab="tab-history"/>
       <Flex>
+      <LineChartHistorical
+        chartName={"Battery and plug-in hybrid electric vehicles share of new passenger vehicle sales (Electrification of transport)"}
+        data={indicator4Data}
+        selectedCountries={props.selectedCountries}
+      >
+      </LineChartHistorical>
       <StackedBarChartHistoricalPerCountry
           chartName={"CO2 emissions (Mt CO2) from power and district heating"}
           stackedBar={indicator2Data}
