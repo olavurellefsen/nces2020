@@ -167,13 +167,17 @@ const createIndicator1Data = (rawData, selectedCountries) => {
   })
   const countries = ['Denmark', 'Sweden', 'Norway', 'Finland','Iceland']
   let re = []
-  let total = [];
+  let totalPerCountry = []
+  let reAll = []
+  let totalAll = []
   countries.forEach((country)=>{
-    re = []
-    total = []
+    re[country] = []
+    totalPerCountry[country] = []
     historicalYears.forEach((year) =>{
-      re[year-historicalYears[0]]=0
-      total[year-historicalYears[0]]=0
+      re[country][year-historicalYears[0]]=0
+      totalPerCountry[country][year-historicalYears[0]]=0
+      reAll[year-historicalYears[0]] = 0
+      totalAll[year-historicalYears[0]] = 0
     })
   })
   
@@ -189,20 +193,26 @@ const createIndicator1Data = (rawData, selectedCountries) => {
   rawData.data.nces_eleproduction.forEach((item) => {
     if (selectedDataRegions.includes(item.nces_country.name)) {
       if (filter_fuel.includes(item.nces_fuel_type.fuel_type)) {
-        re[item.year-historicalYears[0]] += item.value
+        re[item.nces_country.name][item.year-historicalYears[0]] += item.value
+        reAll[item.year-historicalYears[0]] += item.value
       }
-      total[item.year-historicalYears[0]] += item.value
+      totalPerCountry[item.nces_country.name][item.year-historicalYears[0]] += item.value
+      totalAll[item.year-historicalYears[0]] += item.value
     }
-    
   })
+  
   let ret = []
-  re.forEach((item, index)=>{
-    ret[index] = {
-      "x": index + 1990,
-      "y": item/total[index],
-    }
+  ret['total'] = []
+  for(let country in selectedDataRegions) {
+    ret[selectedDataRegions[country]] = []
+    re[selectedDataRegions[country]].forEach((value, index)=>{
+      ret[selectedDataRegions[country]][index] = { "x": index + 1990, "y": value/totalPerCountry[selectedDataRegions[country]][index] }
+    })
+  }
+  reAll.forEach((value,index)=>{
+    ret["total"][index] = {"x": index + 1990, "y": value/totalAll[index]}
   })
-  //console.log("ind1 ret: ", ret)
+  console.log("ind1 ret: ", ret)
   return ret
 }
 
@@ -406,13 +416,17 @@ const createIndicator4Data = (rawData, selectedCountries) => {
   const countries = ['Denmark', 'Sweden', 'Norway', 'Finland','Iceland']
   const car_years = [2013, 2014, 2015, 2016, 2017, 2018, 2019]
   let re = []
-  let totalPerCountry = [];
+  let totalPerCountry = []
+  let reAll = []
+  let totalAll = []
   countries.forEach((country)=>{
     re[country] = []
     totalPerCountry[country] = []
     car_years.forEach((year) =>{
       re[country][year-car_years[0]]=0
       totalPerCountry[country][year-car_years[0]]=0
+      reAll[year-car_years[0]] = 0
+      totalAll[year-car_years[0]] = 0
     })
   })
   //console.log("rawData: ", rawData)
@@ -425,8 +439,10 @@ const createIndicator4Data = (rawData, selectedCountries) => {
     if (selectedDataRegions.includes(item.nces_country.name)) {
       if (filter_cartype.includes(item.car_type)) {
         re[item.nces_country.name][item.year-car_years[0]] += item.value
+        reAll[item.year-car_years[0]] += item.value
       } else {
         totalPerCountry[item.nces_country.name][item.year-car_years[0]] += item.value
+        totalAll[item.year-car_years[0]] += item.value
       }
     }
   })
@@ -435,17 +451,21 @@ const createIndicator4Data = (rawData, selectedCountries) => {
   console.log("re len: ", re.length)
   console.log("totalPerCountry: ", totalPerCountry)
   let ret = []
+  ret['total'] = []
   re.forEach((value, index, self)=>{
     console.log("re forech: ", value, index, self)
   })
   for(let country in selectedDataRegions) {
     ret[selectedDataRegions[country]] = []
-    console.log("con: ", country)
     re[selectedDataRegions[country]].forEach((value, index)=>{
       ret[selectedDataRegions[country]][index] = { "x": index + 2013, "y": value/totalPerCountry[selectedDataRegions[country]][index] }
     })
   }
-  re.forEach((item, index)=>{
+  reAll.forEach((value,index)=>{
+    ret["total"][index] = {"x": index + 2013, "y": value/totalAll[index]}
+  })
+
+  /* re.forEach((item, index)=>{
     console.log("item: ", item)
     ret[item] = []
     item.forEach((year)=>{
@@ -456,7 +476,7 @@ const createIndicator4Data = (rawData, selectedCountries) => {
         "y": item/totalPerCountry[item][year],
       }
     })
-  })
+  }) */
   console.log("ind4 ret: ", ret)
   return ret
 }

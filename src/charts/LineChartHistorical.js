@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 import { colors } from "./chartColors"
+import historicalYears from "./../data/historicalyears"
 import {
   VictoryChart,
   VictoryLabel,
@@ -20,6 +21,9 @@ const ChartTitle = styled.div`
   font-family: Ropa Sans;
 `
 const ChartContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   width: 550px;
 `
 
@@ -34,6 +38,7 @@ const LineChartHistorical = ({
   selectedCountries = [],
   combinedChart = false,
   maxY2 = 100,
+  xRange = historicalYears
 }) => {
   //const accumulatedData = stackedBar[0]
   //const totalYearValuesScenario1 = stackedBar[1]
@@ -52,9 +57,9 @@ const LineChartHistorical = ({
     rowGutter = 0
   }
 
-  let maxY = -Infinity
-  let minY = Infinity
-  let base = 0
+  //let maxY = -Infinity
+  //let minY = Infinity
+  //let base = 0
   
   /* Object.keys(totalYearValuesScenario1).forEach(year => {
     maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year]))
@@ -96,13 +101,12 @@ const countryColors = () => {
   fixedcolorCountries.forEach((country, index)=>{
     ret[country] = colors[index]
   })
+  ret['total'] = 'black'
   return ret
 }
-console.log("data: ", data)
 const renderLines = (lineData) => {
   let ret = []
   for (let line in lineData) {
-    console.log("sdgfsfs: ", lineData[line])
     ret.push(<VictoryLine 
       key={"lini2"} 
       data={lineData[line]}
@@ -111,20 +115,23 @@ const renderLines = (lineData) => {
       }}>
     </VictoryLine>)
   }
-  console.log("ret: ", ret)
   return ret
 }
+const legends = selectedDataRegions
+legends.push("total")
 
 return (
+  <>
   <ChartContainer>
   <ChartTitle>{chartName}</ChartTitle>
+  <div>
     <VictoryChart domainPadding={20}
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
         theme={VictoryTheme.material}>
         <VictoryAxis 
-          key={'lineAxis'} tickValues={[2013, 2014, 2015, 2016, 2017, 2018, 2019]} />
+          key={'lineAxis'} tickValues={xRange} />
           <VictoryAxis
             dependentAxis
             axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
@@ -138,11 +145,32 @@ return (
             tickValues={[0, 0.25, 0.5, 0.75]}*/
             label={"Share"}
           />
+          <VictoryLegend
+        x={90}
+        y={5}
+        orientation="horizontal"
+        gutter={gutter}
+        rowGutter={rowGutter}
+        symbolSpacer={4}
+        itemsPerRow={4}
+        style={{
+          title: { fontSize: 14, leftPadding: -10 },
+        }}
+        data={Array.from(legends).map((legend, i) => ({
+            name: legend
+              .concat('        ')
+              .substr(0, 16),
+            symbol: {fill: countryColors(selectedDataRegions)[legend]},
+          }))}
+        labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}
+      />
           <VictoryGroup>
             {renderLines(data)}
           </VictoryGroup>
     </VictoryChart>
+    </div>
   </ChartContainer>
+  </>
 )
 }
 export default LineChartHistorical
