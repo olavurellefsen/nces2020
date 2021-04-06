@@ -306,13 +306,13 @@ export default {
 					}, 
 				"CNB": { 
 					"opt0": true,
-					"opt1": false,
+					"opt1": true,
 					"opt2": false,
 					"opt3": false,
 					}, 
 				"CNB_copy": { 
 					"opt0": true,
-					"opt1": false,
+					"opt1": true,
 					"opt2": false,
 					"opt3": false,
 					}, 
