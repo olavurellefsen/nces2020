@@ -7,6 +7,8 @@ import { useTranslation } from "react-i18next";
 
 const TabLayout = styled.div`
   display: none;
+  
+  
   ${breakpoint("desktop")`
     display: flex;  
     height: 50px;
@@ -16,27 +18,35 @@ const TabLayout = styled.div`
     width: 100%;
     padding-left: 20px;
     color: white;
-    background: rgb(80, 80, 80);
+    //background: rgb(80, 80, 80);
+    background: #efefef;
     visibility: visible;
+    box-shadow: 0 0 0.5333333333rem rgb(26 26 26 / 12%);
   `}
+  
+  
 `;
 
 const TabItem = styled(Link)`
-  font-weight: ${props => (props.selected ? "bold" : "normal")};
+  ${'' /* font-weight: ${props => (props.selected ? "bold" : "normal")}; */}
+  font-weight: normal;
   font-size: 1em;
   margin: 3px 0px 0px 0px;
   padding: 10px;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
+  ${'' /* border-top-left-radius: 5px;
+  border-top-right-radius: 5px; */}
+  border-bottom: ${props => (props.selected ? "3px solid #006eb3": "none")};
   display: flex;
   align-items: center;
   text-decoration: none;
   :hover {
-    text-decoration: underline;
     cursor: pointer;
+    opacity: 1;
+    border-bottom: 3px solid #006eb3;
   }
-  color: ${props => (props.selected ? "black" : "inherit")};
-  background: ${props => (props.selected ? "white" : "inherit")};
+  color: #212121;
+  opacity: ${props => (props.selected ? "1" : "0.6")};
+  ${'' /* background: ${props => (props.selected ? "white" : "inherit")}; */}
 `;
 
 function Tabs(props) {

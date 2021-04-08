@@ -9,7 +9,7 @@ const countryColorsCSS = props =>
   props.countries.map(
     country => `
     #${country} {
-      fill:  ${props.selectedCountries.includes(country) ? 'red' : '#cccccc'};
+      fill:  ${props.selectedCountries.includes(country) ? '#f33' : '#aaa'};
       :hover {fill: #80b3c3;}
     }
     `

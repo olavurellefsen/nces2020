@@ -24,6 +24,13 @@ const ChartTitle = styled.div`
   font-weight: bold;
   font-family: Ropa Sans;
 `
+const ChartContainer = styled.div`
+  width: 550px;
+  background: white;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+`
 
 const StackedBarChart = props => {
   //const { t } = useTranslation()
@@ -211,7 +218,7 @@ const StackedBarChart = props => {
   };
 
   return (
-    <div>
+    <ChartContainer>
       <ChartTitle>{chartTitle}</ChartTitle>
       <VictoryChart
         domainPadding={20}
@@ -294,7 +301,7 @@ const StackedBarChart = props => {
           </VictoryStack>
         </VictoryGroup>
       </VictoryChart>
-    </div>
+    </ChartContainer>
   )
 }
 
