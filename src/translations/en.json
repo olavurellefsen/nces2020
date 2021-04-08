@@ -22,7 +22,7 @@
     "unavailable": "(unavailable)"
   },
   "general": {
-    "scenarios": "Scenarios",
+    "scenarios": "Choose scenarios",
     "opt0": "CCS",
     "opt1": "BIO",
     "opt2": "ELC",
@@ -31,7 +31,7 @@
     "red-minus-green": "(red minus green)",
     "tokni": "Tokni",
     "developed-by": "Developed by",
-    "countries": "Countries"
+    "countries": "Choose countries"
   },
   "scenario": {
     "Shift and Avoid": "Shift & Avoid",

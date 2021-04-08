@@ -9,9 +9,9 @@ const AlertContainer = styled.div`
   right: ${props => props.isOpen ? null : '35px'};
   padding: 10px;
   margin-bottom: 30px;
-  border-width: 1px;
+  ${'' /* border-width: 1px;
   border-color: blue;
-  border-style: solid;
+  border-style: solid; */}
   background-color: mintcream;
   display: flex;
   flex: 1;
@@ -21,6 +21,8 @@ const AlertContainer = styled.div`
   flex-direction: column;
   min-height: 20px;
   width: ${props => props.isOpen ? null : '20px'};
+  box-shadow: 0 0 0.5333333333rem rgb(26 26 26 / 12%);
+  border-radius: .35em;
 `;
 AlertContainer.displayName = "AlertContainer";
 const AlertBody = styled.div`

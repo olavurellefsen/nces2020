@@ -23,7 +23,7 @@ const ChartTitle = styled.div`
   font-family: Ropa Sans;
 `
 const ChartContainer = styled.div`
-  min-width: 550px;
+  width: 550px;
 `
 
 const StackedBarChartHistorical = ({

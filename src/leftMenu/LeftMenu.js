@@ -10,12 +10,13 @@ import MapContainer from "../map/MapContainer";
 
 const MenuLayout = styled.div`
   display: none;
+  height: calc(100vh);
   ${breakpoint("desktop")`
     display: flex;
     flex-direction: column;
     width: 220px;
     color: white;
-    background: rgb(50, 50, 50);
+    background: #cccccc;
     visibility: visible;
     overflow: visible;
   `}
@@ -28,6 +29,7 @@ const MenuHeader = styled.div`
   display: flex;
   flex-direction: column;
   align-items: top;
+  color: #212121;
 `;
 
 const AppLogo = styled.img`
@@ -62,8 +64,9 @@ const MenuItem = styled(Link)`
   display: flex;
   align-items: center;
   text-decoration: none;
-  :hover {
-    text-decoration: underline;
+  opacity: 0.6;
+  &:hover {
+    opacity: 1;
     cursor: pointer;
   }
   color: ${props => (props.selected ? "yellow" : "inherit")};
@@ -84,7 +87,7 @@ const ToggleDifference = styled.div`
 
 const ToggleSwitchText = styled.div`
   color: ${props =>
-    props.singleMode ? "gray" : props.selected ? "#2196F3" : "white"};
+    props.singleMode ? "#eeeeeeee" : props.selected ? "gray" : "#999999"};
   margin-left: 10px;
 `;
 
@@ -145,6 +148,7 @@ const Header = styled.h1`
   margin: 0;
   height: 26px;
   align-self: flex-start;
+  color: #666666;
 `;
 function ScenarioSelectionMenu(props) {
   const { t } = useTranslation();
@@ -235,12 +239,12 @@ function ScenarioSelectionMenu(props) {
           {t("general.scenario-difference")}
         </ToggleSwitchText>
       </ToggleDifference>
-      <ScenarioDifferenceText
+      {props.scenarioSelection.scenarioSelection2 !== "" && <ScenarioDifferenceText
         singleMode={props.scenarioSelection.scenarioSelection2 === ""}
         selected={props.scenarioSelection.showDifference}
       >
         {t("general.red-minus-green")}
-      </ScenarioDifferenceText>
+      </ScenarioDifferenceText>}
       <MenuSeparatorLine /></>}
       <MenuFooter>
         <CopyrightNotice>

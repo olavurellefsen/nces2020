@@ -26,6 +26,16 @@ const ChartTitle = styled.div`
   font-weight: bold;
   font-family: Ropa Sans;
 `
+const ChartContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 550px;
+  background: white;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+`
 const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCountries, chartName }) => {
   console.log("scenario1: ", selectedScenario)
   console.log("scenario2: ", selectedScenario2)
@@ -61,7 +71,8 @@ let indicatorData = selectedScenarioData.indicators.find((indicator) => {
 })
 console.log("scenario: ", )
   return (
-    <div>
+    <>
+  <ChartContainer>
       <ChartTitle>{chartName}</ChartTitle>
       <VictoryChart domainPadding={20}
         width={550}
@@ -153,7 +164,8 @@ console.log("scenario: ", )
             //labelComponent={<MyCustomHTMLLabel />}
           />
       </VictoryChart>
-    </div>
+      </ChartContainer>
+  </>
     )
 }
 

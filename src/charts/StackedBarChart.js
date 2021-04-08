@@ -313,6 +313,6 @@ StackedBarChart.propTypes = {
   selectedCountries: PropTypes.array.isRequired,
 }
 const ChartContainer = styled.div`
-  min-width: 550px;
+  width: 550px;
 `
 export default StackedBarChart

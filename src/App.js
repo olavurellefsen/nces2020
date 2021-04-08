@@ -27,6 +27,7 @@ const Page = styled.div`
   margin: 0px;
   display: flex;
   box-sizing: border-box;
+  
 `
 const LeftColumn = styled.div`
   height: 100%;
@@ -40,6 +41,7 @@ const RightColumn = styled.div`
   display: flex;
   flex-direction: column;
   background: white;
+  background-color: #ebebeb;
 `
 const Content = styled.div`
   flex-grow: 1; /*ensures that the container will take up the full height of the parent container*/

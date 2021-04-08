@@ -14,6 +14,8 @@ export const ScenarioHeader = styled.div`
   padding: ${props => (props.narrowVersion ? "5px" : "0 12px 0 15px")};
   margin: 0px 0px 5px 0px;
   text-align: center;
+  color: #666666;
+  font-weight: bold;
 `;
 
 export const ScenarioOption = styled.div`
@@ -30,11 +32,13 @@ export const ScenarioOption = styled.div`
   border-radius: 0;
   background-color: ${props =>
     props.selected ? "#b50404" : props.selected2 ? "green" : "inherit"};
+  ${'' /* color: ${props =>
+    props.selected ? "white" : props.selected2 ? "white" : "rgb(184,176,183)"}; */}
   color: ${props =>
-    props.selected ? "white" : props.selected2 ? "white" : "rgb(184,176,183)"};
+    props.selected ? "white" : props.selected2 ? "white" : "#666666"};
   &:hover {
     background-color: ${props =>
-      props.selected ? "#b50404" : props.selected2 ? "green" : "#555"};
+      props.selected ? "#b50404" : props.selected2 ? "green" : "#999"};
     > * {
       font-weight: ${props =>
         props.selected ? "bold" : props.selected2 ? "bold" : "normal"};
@@ -71,7 +75,7 @@ export const Icon = styled.div`
     props.available ? "black" :  "default"};;
   }
   color: ${props =>
-    props.selected ? "blue" :  "rgb(184,176,183)"};
+    props.selected ? "blue" :  "#666666"};
 `;
 
 export const MenuSeparatorLine = styled.hr`

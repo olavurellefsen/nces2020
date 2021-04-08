@@ -10,6 +10,7 @@ import MapContainer from "../map/MapContainer";
 
 const MenuLayout = styled.div`
   display: none;
+  height: calc(100vh);
   ${breakpoint("mobile", "desktop")`
     display: flex;  
     min-height: 100vh;
@@ -106,6 +107,7 @@ const ScenarioDifferenceText = styled.div`
 
 const MenuFooter = styled.div`
   margin: 0;
+  margin-top: auto;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -248,9 +250,6 @@ function ScenarioSelectionMenu(props) {
             </ExternalLink>
           </CopyrightItem>
           <CopyrightItem>
-            <ExternalLink href="https://energymodelling.club/">
-              <AppLogo src="./images/emc.png" alt="Energy Modelling Club" maxWidth="75px" data-tip="Energy Modelling Club"/>
-            </ExternalLink>
             <ExternalLink href="https://energymodellinglab.com/">
               <AppLogo src="./images/eml.png" alt="Energy Modelling Lab" maxWidth="75px" data-tip="Energy Modelling Lab"/>
             </ExternalLink>
