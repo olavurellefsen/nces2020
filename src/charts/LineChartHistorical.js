@@ -25,6 +25,10 @@ const ChartContainer = styled.div`
   flex-direction: column;
   justify-content: space-between;
   width: 550px;
+  background: white;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
 `
 
 const LineChartHistorical = ({

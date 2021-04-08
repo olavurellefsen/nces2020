@@ -314,5 +314,9 @@ StackedBarChart.propTypes = {
 }
 const ChartContainer = styled.div`
   width: 550px;
+  background: white;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
 `
 export default StackedBarChart
