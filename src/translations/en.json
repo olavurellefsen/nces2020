@@ -62,7 +62,7 @@
   },
   "tabs": {
     "tab1": "Main results",
-    "tab2": "Supply",
+    "tab2": "Upstream",
     "tab3": "Power & DH",
     "tab4": "Heavy industry",
     "tab5": "Other sectors",
@@ -72,7 +72,7 @@
     "tab9": "KPIs",
 	"mobile": {
       "tab1": "Main results",
-      "tab2": "Supply",
+      "tab2": "Upstream",
       "tab3": "Power & DH",
       "tab4": "Heavy industry",
       "tab5": "Other sectors",
