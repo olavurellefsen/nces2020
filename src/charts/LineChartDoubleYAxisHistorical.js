@@ -69,23 +69,17 @@ mapRegionToDataRegions.forEach((mapRegion) => {
   })
 }
 })
-const fixedcolorCountries = [ 'Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
 const legendColors = () => {
   let ret = colors.slice(0, 2)
-  //console.log("keys: ", Object.keys(data) )
   Object.keys(data).forEach((key, i) => {
     ret[key] = colors[i] 
   })
-  //console.log("daata: ", data)
-  //ret['energy'] = colors[0]
-  //ret['emission'] = colors[1]
   return ret
 }
 
 const renderLines = (lineData) => {
   let ret = []
   for (let line in lineData) {
-    //console.log("line: ", line)
     ret.push(<VictoryLine 
       key={"lini2"} 
       data={lineData[line]}

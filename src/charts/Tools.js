@@ -23,16 +23,11 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
     })
     if (!scenario) return undefined //this will be the case for sceanrio2 if only one scenario is selected
     let accumulatedData = {}
-    //if (scenario.substring(3, 8) === "_copy")
     if (scenario.includes("_copy"))
       scenario = scenario.replace("_copy", "")
     let scen = data.scenarios
     .find(o => o.scenario.toLowerCase() === scenario.toLowerCase())
-    //console.log("data: ", data)
-    //console.log("scenario: ", scenario)
     let ind = scen.indicators.find(o => o.indicator === chartName)
-        //console.log("ind: ", ind)
-        //console.log("chartName: ", chartName)
         unit = ind.unit
         ind.regions.forEach(r => {
             r.indicatorGroups.forEach(indicatorGroup => {
@@ -43,7 +38,6 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
                 })
               }
               if (selectedDataRegions.includes(r.region)) {//Only include selected countries
-                //console.log("indicatorGroup.indicatorGroup", indicatorGroup.indicatorGroup)
                 indicatorGroup.indicatorGroupValues.forEach((value, index) => {
                   if (accumulatedData[indicatorGroup.indicatorGroup][index].year !== value.year ) {
                      //Extra check we rely on the two arrays being indexed the same way
@@ -60,33 +54,6 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
         })
         return [accumulatedData, totalYearValuesPositive, totalYearValuesNegative , unit]
 }
-
-// export function getMinMaxStackedValues(yearValues1, yearValues2) {
-//   let minValue = -0.00001
-//   let maxValue = 0.00001
-//   for (var i = 0; i < years.length; i++) {
-//     let totalValuePos = 0
-//     let totalValueNeg = 0
-//     Object.keys(data).forEach(indicatorName => {
-//         let value = data[indicatorName][i].total
-//         if (value < 0) {
-//           totalValueNeg += value
-//         } else {
-//           totalValuePos += value
-//         }
-
-//     })
-//     if (totalValuePos > maxValue) {
-//       maxValue = totalValuePos
-//     }
-//     if (totalValueNeg < minValue) {
-//       minValue = totalValueNeg
-//     }
-//   }
-//   if (-minValue > maxValue) {
-//     maxValue = -minValue
-//   }
-// }
 
 function createAccumulatedHistoricalData1(data, selectedCountries) {
   let accumulatedHistoricalData = {}
@@ -108,9 +75,6 @@ data.data.nces_eleproduction.forEach((item, i)=>{
     if(Object.keys(accumulatedHistoricalData).includes(item.nces_fuel_type.fuel_type)) {
       //checks if a value is already there, and then accumulate
       if (accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)]) {
-      
-        //if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
-          //console.log("accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)].value: ", accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)].value)
         accumulatedHistoricalData[item.nces_fuel_type.fuel_type][historicalYears.indexOf(item.year)].total += item.value
         totalHistoricalYearValues[item.year] += item.value
       } else {
@@ -121,20 +85,15 @@ data.data.nces_eleproduction.forEach((item, i)=>{
       accumulatedHistoricalData[item.nces_fuel_type.fuel_type] = []
       accumulatedHistoricalData[item.nces_fuel_type.fuel_type].push({"year": item.year, "total": item.value})
       totalHistoricalYearValues[item.year] += item.value
-      //if(item.year === 1990 && item.nces_fuel_type.fuel_type === "Oil")
-      //console.log("new entry: ", accumulatedHistoricalData)
     }
   }
 })
-//console.log("accumulatedHistoricalData: ", accumulatedHistoricalData)
-//console.log("totalHistoricalYearValues: ", totalHistoricalYearValues)
 
 let fuelTypes = []
 data.data.nces_eleproduction.forEach((item)=>{
   if (fuelTypes.indexOf(item.nces_fuel_type.fuel_type) === -1)
     fuelTypes.push(item.nces_fuel_type.fuel_type)
 })
-//console.log("accumulatedHistoricalData: ", accumulatedHistoricalData)
   return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
 }
 
@@ -164,7 +123,6 @@ function createAccumulatedHistoricalData2(data, selectedCountries) {
   fuel_source_filter.forEach((source)=>{
     fuelTypes.push(Object.keys(source)[0])
   }) 
-  console.log("fuelTypes: ", fuelTypes)
 
   data.data.nces_enercons_ind.forEach((item, i)=>{ 
     let source 
@@ -195,9 +153,6 @@ return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
 function createAccumulatedHistoricalData3(data, selectedCountries) {
   let accumulatedHistoricalData = {}
   let totalHistoricalYearValues = {}
-  /* historicalYears.forEach(year => {
-    totalHistoricalYearValues[year] = 0
-  }) */
   const used_years = [2019]
   totalHistoricalYearValues[2019] = 0
   let selectedDataRegions = [] 
@@ -247,15 +202,6 @@ function createAccumulatedHistoricalData3(data, selectedCountries) {
   })
 return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
 }
-/* const createAccumulatedHistoricalPerCountryData = (data, chartName, selectedCountries) => {
-  let ret = 0
-  console.log("data: ", data)
-  console.log("chartName: ", chartName)
-  console.log("selectedCountries: ", selectedCountries)
-
-  console.log("ret: ", ret)
-  return ret
-} */
 
 const fixedcolorCountries = [ 'Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
 const countryColors = () => {
@@ -322,7 +268,6 @@ const createIndicator1Data = (rawData, selectedCountries) => {
   reAll.forEach((value,index)=>{
     ret["total"][index] = {"x": index + 1990, "y": value/totalAll[index]}
   })
-  console.log("ind1 ret: ", ret)
   return ret
 }
 
@@ -376,7 +321,6 @@ const createIndicator2Data = (rawData, selectedCountries) => {
         
       total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
       if (countryLegends.indexOf(item.nces_country.name) === -1) {
-        //console.log("country: ", item.nces_country.name)
         countryLegends.push(item.nces_country.name)
       }
         
@@ -435,14 +379,9 @@ const createIndicator6Data = (rawData, selectedCountries) => {
           ret[item.nces_country.name] = []
           ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value})
         }
-      /* if (item.year >= 1995 && item.nces_country.name == "Finland") {
-        console.log("item" + i + ": ", item)
-        console.log("ret" + i + ": ", ret)
-      } */
-        
+      
       total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
       if (countryLegends.indexOf(item.nces_country.name) === -1) {
-        //console.log("country: ", item.nces_country.name)
         countryLegends.push(item.nces_country.name)
       }
         
@@ -502,14 +441,12 @@ const createIndicator9Data = (rawData, selectedCountries) => {
         
       total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
       if (countryLegends.indexOf(item.nces_country.name) === -1) {
-        //console.log("country: ", item.nces_country.name)
         countryLegends.push(item.nces_country.name)
       }
         
       }
     }
   })
-  //console.log("ret", ret)
   return [ret, total, selectedDataRegions, countryColors(selectedDataRegions)]
 } 
 const createIndicator3Data = (enercons_res, enercons_ser, enercons_ind, elecprod, selectedCountries) => {
@@ -557,7 +494,6 @@ const createIndicator3Data = (enercons_res, enercons_ser, enercons_ind, elecprod
     "Ambient heat (heat pumps)"
   ]
   
-  console.log("elecprod: ", elecprod.data)
   elecprod.data.nces_eleproduction.forEach((item)=>{
     if (selectedDataRegions.includes(item.nces_country.name) && countries.includes(item.nces_country.name)) {
       if (used_years.includes(item.year)) {
@@ -608,8 +544,7 @@ const createIndicator3Data = (enercons_res, enercons_ser, enercons_ind, elecprod
       }
     }
   })
-  console.log("cumulativeElecprodBiofuel: ", cumulativeElecprodBiofuel)
-  console.log("cumulativeElecprodRenewable: ", cumulativeElecprodRenewable)
+
   let ret = []
   ret['Electricity'] = []
   used_years.forEach((year)=>{
@@ -632,7 +567,6 @@ const createIndicator3Data = (enercons_res, enercons_ser, enercons_ind, elecprod
       "y": cumulativeEnerconsIndBiofuel[year - used_years[0]]/cumulativeEnerconsIndRenewable[year-used_years[0]]
     }
   })
-  console.log("ind3 ret: ", ret)
   return ret
 }
 //Battery and plug-in hybrid electric vehicles share of new passenger vehicle sales (Electrification of transport)
@@ -661,7 +595,6 @@ const createIndicator4Data = (rawData, selectedCountries) => {
       totalAll[year-car_years[0]] = 0
     })
   })
-  //console.log("rawData: ", rawData)
   
   const filter_cartype = [
     "BEV",
@@ -766,10 +699,6 @@ const createIndicator8Data = (buildingData, enerconResData, enerconSerData, ghgD
       "y": cumulativeEmission[year - used_years[0]]*kTons_to_kg/totalBuildingArea[year - used_years[0]]
     }
   })
-  console.log("cumulativeEnergy: ", cumulativeEnergy)
-  console.log("totalBuildingArea: ", totalBuildingArea)
-  console.log("cumulativeEmission: ", cumulativeEmission)
-  console.log("ret: ", ret)
   return ret
 }
 
@@ -830,7 +759,6 @@ const createIndicator7Data = (rawData, selectedCountries) => {
   reAll.forEach((value,index)=>{
     ret["total"][index] = {"x": index + 1990, "y": value/totalAll[index]}
   })
-  console.log("ind1 ret: ", ret)
   return ret
 }
 export { 

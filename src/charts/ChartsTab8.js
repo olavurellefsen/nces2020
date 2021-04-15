@@ -13,7 +13,8 @@ import HistoricalData5 from "./../data/stackedBarTab85" //nces_enercons_res
 import HistoricalData6 from "./../data/stackedBarTab86" //nces_enercons_ser
 import HistoricalData7 from "./../data/stackedBarTab87" //nces_enercons_ind
 import HistoricalData8 from "./../data/stackedBarTab88" //nces_dh_gen
-import {createAccumulatedHistoricalData1, createIndicator1Data} from "./Tools"
+//import {createAccumulatedHistoricalData1} from "./Tools"
+import {createIndicator1Data} from "./Tools"
 import {createIndicator2Data} from "./Tools"
 import {createIndicator3Data} from "./Tools"
 import {createIndicator4Data} from "./Tools"
@@ -26,7 +27,7 @@ import {createAccumulatedHistoricalData3} from "./Tools"
 //import historicalYears from "./../data/historicalyears"
 //import periods from './../data/years'
 
-const HistoricalCharts = props => {
+const HistoricalCharts = props => { 
   const indicator1Data = createIndicator1Data(HistoricalData1, props.selectedCountries)
   const indicator2Data = createIndicator2Data(HistoricalData2, props.selectedCountries)
   const indicator3Data = createIndicator3Data(HistoricalData5, HistoricalData6, HistoricalData7, HistoricalData1, props.selectedCountries)
@@ -36,8 +37,8 @@ const HistoricalCharts = props => {
   const indicator7Data = createAccumulatedHistoricalData2(HistoricalData7, props.selectedCountries)
   const indicator8Data = createIndicator8Data(HistoricalData4, HistoricalData5, HistoricalData6, HistoricalData2, props.selectedCountries)
   const indicator9Data = createIndicator9Data(HistoricalData2, props.selectedCountries)
-  const HistoricalTableData1 = createAccumulatedHistoricalData1(HistoricalData1, props.selectedCountries)
-  console.log("indicator3Data: ", indicator3Data)
+  //const HistoricalTableData1 = createAccumulatedHistoricalData1(HistoricalData1, props.selectedCountries)
+  
   return (
     <MainArea>
         <Welcome 
@@ -45,65 +46,65 @@ const HistoricalCharts = props => {
           closeWelcome={props.closeWelcome} 
           tab="tab-history"/>
       <Flex>
+      <LineChartHistorical
+        chartName={"Share of RE in electricity"}
+        data={indicator1Data}
+        selectedCountries={props.selectedCountries}
+        xRange={[1990, 1995, 2000, 2005, 2010, 2015]}
+      />
+      <StackedBarChartHistoricalPerCountry
+          chartName={"CO2 emissions from power and district heating"}
+          stackedBar={indicator2Data}
+          selectedCountries={props.selectedCountries}
+          label={"Mt CO2"}
+        />
       <LineChartDoubleYAxisHistorical
         chartName={"Share of bioenergy from gross RE consumption"}
         data={indicator3Data}
         selectedCountries={props.selectedCountries}
         xRange={[2013, 2014, 2015, 2016, 2017, 2018]}
-      ></LineChartDoubleYAxisHistorical>
+        label={"share"}
+      />
+      <LineChartHistorical
+        chartName={"Battery and plug-in hybrid electric vehicles share of new passenger vehicle sales (Electrification of transport)"}
+        data={indicator4Data}
+        selectedCountries={props.selectedCountries}
+        xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
+      />
       <StackedBarChartHistorical
         chartName={"District heat generation (PJ) by fuel (Electrification of heat supply)"}
         stackedBar={indicator5Data}
         selectedCountries={props.selectedCountries}
-      ></StackedBarChartHistorical>
+      />
+      <StackedBarChartHistoricalPerCountry
+        chartName={"CO2 emissions from the industrial sector (Decarbonisation of industry)"}
+        stackedBar={indicator6Data}
+        selectedCountries={props.selectedCountries}
+        label={"Mt CO2"}
+      />
       <StackedBarChartHistorical
         chartName={"Final energy consumption by source (PJ) in industry (Decarbonisation of industry)"}
         stackedBar={indicator7Data}
         selectedCountries={props.selectedCountries}
-      ></StackedBarChartHistorical>
+      />
       <LineChartDoubleYAxisHistorical
         chartName={"Energy intensity and CO2 emissions intensity in the buildings sector (Energy efficient and smart buildings) "}
         data={indicator8Data}
         selectedCountries={props.selectedCountries}
         xRange={[2013, 2014, 2015, 2016, 2017, 2018]}
         label={"energy: kWh/m2, emission: kgCO2/m2"}
-      ></LineChartDoubleYAxisHistorical>
-      <LineChartHistorical
-        chartName={"Battery and plug-in hybrid electric vehicles share of new passenger vehicle sales (Electrification of transport)"}
-        data={indicator4Data}
-        selectedCountries={props.selectedCountries}
-        xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
-      >
-      </LineChartHistorical>
-      <LineChartHistorical
-        chartName={"Share of RE in electricity"}
-        data={indicator1Data}
-        selectedCountries={props.selectedCountries}
-        xRange={[1990, 1995, 2000, 2005, 2010, 2015]}
-      >
-      </LineChartHistorical>
-      <StackedBarChartHistoricalPerCountry
-          chartName={"CO2 emissions from power and district heating"}
-          stackedBar={indicator2Data}
-          selectedCountries={props.selectedCountries}
-          label={"Mt CO2"}
-        ></StackedBarChartHistoricalPerCountry>
-      <StackedBarChartHistoricalPerCountry
-        chartName={"CO2 emissions from the industrial sector (Decarbonisation of industry)"}
-        stackedBar={indicator6Data}
-        selectedCountries={props.selectedCountries}
-        label={"Mt CO2"}
-      ></StackedBarChartHistoricalPerCountry>
+      />
       <StackedBarChartHistoricalPerCountry
         chartName={"CO2 emissions from road transport (Green mobility)"}
         stackedBar={indicator9Data}
         selectedCountries={props.selectedCountries}
         label={"Mt CO2"}
-      ></StackedBarChartHistoricalPerCountry>
-        <StackedBarChartHistorical
+      />
+       {/*  <StackedBarChartHistorical
+
           stackedBar={HistoricalTableData1}
           selectedCountries={props.selectedCountries}
-        ></StackedBarChartHistorical>
+        ></StackedBarChartHistorical> */}
       </Flex>
     </MainArea>
   )

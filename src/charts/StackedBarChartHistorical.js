@@ -45,7 +45,6 @@ const StackedBarChartHistorical = ({
   const totalYearValuesScenario1 = stackedBar[1]
   const legends = stackedBar[2]
 
-  console.log("stackedBar_________________   : ", stackedBar)
   let gutter, rowGutter
   if (
     !process.env.NODE_ENV ||
@@ -156,7 +155,6 @@ const StackedBarChartHistorical = ({
             }))}
           labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}
         />
-        {console.log("accumulatedData: ", accumulatedData)}
         {Object.entries(accumulatedData).length !== 0 && <VictoryGroup offset={10} style={{ data: { width: 10 } }}>
           <VictoryStack>
             {Object.keys(accumulatedData).map((chartGroupName, i) => (
