@@ -12,7 +12,6 @@ import {
   VictoryTooltip,
 } from 'victory'
 
-import {createAccumulatedHistoricalData} from './Tools'
 import {colors} from './chartColors'
 
 const ChartTitle = styled.div`
@@ -42,12 +41,11 @@ const StackedBarChartHistorical = ({
   combinedChart = false,
   maxY2 = 100,
 }) => {
-  const dataScenario1 = createAccumulatedHistoricalData(stackedBar, chartName, selectedCountries)
-  
+  const accumulatedData = stackedBar[0]
+  const totalYearValuesScenario1 = stackedBar[1]
+  const legends = stackedBar[2]
 
-  const accumulatedData = dataScenario1[0]
-  const totalYearValuesScenario1 = dataScenario1[1]
-  const legends = dataScenario1[2]
+  console.log("stackedBar_________________   : ", stackedBar)
   let gutter, rowGutter
   if (
     !process.env.NODE_ENV ||
@@ -89,7 +87,7 @@ const StackedBarChartHistorical = ({
     base = -minY
   else 
     base = maxY
-  
+
   return (
     <ChartContainer>
     <ChartTitle>{chartName}</ChartTitle>
@@ -158,7 +156,8 @@ const StackedBarChartHistorical = ({
             }))}
           labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}
         />
-        <VictoryGroup offset={10} style={{ data: { width: 10 } }}>
+        {console.log("accumulatedData: ", accumulatedData)}
+        {Object.entries(accumulatedData).length !== 0 && <VictoryGroup offset={10} style={{ data: { width: 10 } }}>
           <VictoryStack>
             {Object.keys(accumulatedData).map((chartGroupName, i) => (
                 <VictoryBar
@@ -190,7 +189,7 @@ const StackedBarChartHistorical = ({
                 />
               ))}
           </VictoryStack>
-        </VictoryGroup>
+        </VictoryGroup>}
       </VictoryChart>
     </ChartContainer>
   )

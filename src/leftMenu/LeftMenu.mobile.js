@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 import breakpoint from "styled-components-breakpoint";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import ScenarioSelectionList from "../scenarioSelection/ScenarioSelectionList";
 import ToggleSwitch from "./ToggleSwitch";
 import { useTranslation } from "react-i18next";
@@ -141,7 +141,8 @@ const CopyrightItem = styled.div`
   text-align: center;
 `;
 function ScenarioSelectionMenu(props) {
-  const { t } = useTranslation();
+  const { t } = useTranslation()
+  const location = useLocation()
   // const language = i18n.language;
 
   // const toggleLanguage = e => {
@@ -193,7 +194,7 @@ function ScenarioSelectionMenu(props) {
         selectCountry={props.selectCountry}
       />
       <MenuSeparatorLine />
-      <ScenarioSelection>
+      {location.pathname !== "/tab8" && <><ScenarioSelection>
         <ScenarioSelectionList
           updateScenarioSelection={props.updateScenarioSelection}
           name="scenarioSelection"
@@ -224,7 +225,7 @@ function ScenarioSelectionMenu(props) {
         selected={props.scenarioSelection.showDifference}
       >
         {t("general.red-minus-green")}
-      </ScenarioDifferenceText>
+      </ScenarioDifferenceText></>}
       {/* <MenuSeparatorLine />
         <ToggleDifference onClick={e => toggleLanguage(e)}>
         <ToggleLanguageText selected={language === "dk"}>
