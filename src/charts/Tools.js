@@ -3,6 +3,8 @@ import historicalYears from "./../data/historicalyears"
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 import { colors } from "./chartColors"
 
+const kiloToMega = 1000;
+
 function createAccumulatedData(data, scenario, percentage, chartName, selectedCountries) { 
   let selectedDataRegions = [] 
   mapRegionToDataRegions.forEach((mapRegion) => {
@@ -310,16 +312,16 @@ const createIndicator2Data = (rawData, selectedCountries) => {
       if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
         if(Object.keys(ret).includes(item.nces_country.name)) {
           if(ret[item.nces_country.name][historicalYears.indexOf(item.year)]) {
-            ret[item.nces_country.name][historicalYears.indexOf(item.year)].total += isNaN(item.value) ? 0 : item.value
+            ret[item.nces_country.name][historicalYears.indexOf(item.year)].total += isNaN(item.value) ? 0 : item.value/kiloToMega
           } else {
-            ret[item.nces_country.name].push({"year": item.year, "total": isNaN(item.value) ? 0 : item.value})
+            ret[item.nces_country.name].push({"year": item.year, "total": isNaN(item.value) ? 0 : item.value/kiloToMega})
           }
         } else {
           ret[item.nces_country.name] = []
-          ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value})
+          ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value/kiloToMega})
         }
         
-      total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
+      total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value/kiloToMega
       if (countryLegends.indexOf(item.nces_country.name) === -1) {
         countryLegends.push(item.nces_country.name)
       }
@@ -371,16 +373,16 @@ const createIndicator6Data = (rawData, selectedCountries) => {
       if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
         if(Object.keys(ret).includes(item.nces_country.name)) {
           if(ret[item.nces_country.name][historicalYears.indexOf(item.year)]) {
-            ret[item.nces_country.name][historicalYears.indexOf(item.year)].total += isNaN(item.value) ? 0 : item.value
+            ret[item.nces_country.name][historicalYears.indexOf(item.year)].total += isNaN(item.value) ? 0 : item.value/kiloToMega
           } else {
-            ret[item.nces_country.name].push({"year": item.year, "total": isNaN(item.value) ? 0 : item.value})
+            ret[item.nces_country.name].push({"year": item.year, "total": isNaN(item.value) ? 0 : item.value/kiloToMega})
           }
         } else {
           ret[item.nces_country.name] = []
-          ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value})
+          ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value/kiloToMega})
         }
       
-      total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
+      total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value/kiloToMega
       if (countryLegends.indexOf(item.nces_country.name) === -1) {
         countryLegends.push(item.nces_country.name)
       }
@@ -423,7 +425,7 @@ const createIndicator9Data = (rawData, selectedCountries) => {
     "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
     "Carbon dioxide"
   ]
-  //const kiloToMega = 1000;
+  
   let ret = {}
   let countryLegends = []
   rawData.data.nces_ghgemission.forEach((item, i) => {
@@ -431,16 +433,16 @@ const createIndicator9Data = (rawData, selectedCountries) => {
       if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
         if(Object.keys(ret).includes(item.nces_country.name)) {
           if(ret[item.nces_country.name][historicalYears.indexOf(item.year)]) {
-            ret[item.nces_country.name][historicalYears.indexOf(item.year)].total += isNaN(item.value) ? 0 : item.value
+            ret[item.nces_country.name][historicalYears.indexOf(item.year)].total += isNaN(item.value) ? 0 : item.value/kiloToMega
           } else {
-            ret[item.nces_country.name].push({"year": item.year, "total": isNaN(item.value) ? 0 : item.value})
+            ret[item.nces_country.name].push({"year": item.year, "total": isNaN(item.value) ? 0 : item.value/kiloToMega})
           }
         } else {
           ret[item.nces_country.name] = []
-          ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value})
+          ret[item.nces_country.name].push({"year": item.year, total: isNaN(item.value) ? 0 : item.value/kiloToMega})
         }
         
-      total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value
+      total[item.year-historicalYears[0]] += isNaN(item.value) ? 0 : item.value/kiloToMega
       if (countryLegends.indexOf(item.nces_country.name) === -1) {
         countryLegends.push(item.nces_country.name)
       }
