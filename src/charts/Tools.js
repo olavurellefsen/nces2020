@@ -423,7 +423,7 @@ const createIndicator9Data = (rawData, selectedCountries) => {
     "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)",
     "Carbon dioxide"
   ]
-  const kiloToMega = 1000;
+  //const kiloToMega = 1000;
   let ret = {}
   let countryLegends = []
   rawData.data.nces_ghgemission.forEach((item, i) => {
