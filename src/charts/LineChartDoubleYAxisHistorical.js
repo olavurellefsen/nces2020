@@ -70,7 +70,7 @@ mapRegionToDataRegions.forEach((mapRegion) => {
 }
 })
 const legendColors = () => {
-  let ret = colors.slice(0, 2)
+  let ret = colors.slice(0, 3)
   Object.keys(data).forEach((key, i) => {
     ret[key] = colors[i] 
   })
