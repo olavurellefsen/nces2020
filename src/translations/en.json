@@ -28,7 +28,7 @@
     "opt2": "ELC",
     "opt3": "SAC",
     "scenario-difference": "Scenario difference",
-    "red-minus-green": "(red minus green)",
+    "red-minus-green": "(red minus blue)",
     "tokni": "Tokni",
     "developed-by": "Developed by",
     "countries": "Choose countries"
@@ -68,8 +68,8 @@
     "tab5": "Other sectors",
     "tab6": "Residential",
     "tab7": "Transport",
-    "tab8": "Historical Data",
-    "tab9": "KPIs",
+    "tab8": "KPIs",
+    "tab9": "Historical Data",
 	"mobile": {
       "tab1": "Main results",
       "tab2": "Upstream",
@@ -78,8 +78,8 @@
       "tab5": "Other sectors",
       "tab6": "Residential",
       "tab7": "Transport",
-      "tab8": "Historical",
-	    "tab9": "KPIs"
+      "tab8": "KPIs",
+	    "tab9": "Historical"
     }
   },
   "welcome-text": {

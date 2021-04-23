@@ -3,6 +3,15 @@ import PropTypes from "prop-types";
 import styled from "styled-components";
 import Octicon from "react-octicon";
 import { useTranslation } from "react-i18next";
+import {createBreakpoint} from 'styled-components-breakpoint';
+
+export const breakpoint = createBreakpoint({
+  xs: 0,
+  sm: 550,
+  md: 1394,
+  lg: 1950,
+  xl: 2400,
+});
 
 const AlertContainer = styled.div`
   position: ${props => props.isOpen ? 'relative' : 'absolute'};
@@ -23,6 +32,22 @@ const AlertContainer = styled.div`
   width: ${props => props.isOpen ? null : '20px'};
   box-shadow: 0 0 0.5333333333rem rgb(26 26 26 / 12%);
   border-radius: .35em;
+  ${breakpoint('sm')`
+    max-width: 530px;
+    border: 3px solid pink;
+  `}
+  ${breakpoint('md')`
+    max-width: 1100px;
+    border: 3px solid red;
+  `}
+  ${breakpoint('lg')`
+    max-width: 1650px;
+    border: 3px solid blue;
+  `}
+  ${breakpoint('xl')`
+    max-width: 2200px;
+    border: 3px solid green;
+  `}
 `;
 AlertContainer.displayName = "AlertContainer";
 const AlertBody = styled.div`

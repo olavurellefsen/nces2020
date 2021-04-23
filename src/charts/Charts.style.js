@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+
 export const MainArea = styled.div`
   flex: 1;
   padding: 20px;
@@ -8,6 +9,7 @@ export const MainArea = styled.div`
 export const Flex = styled.div`
   display: flex;
   flex: 1;
+  position: relative;
   flex-wrap: wrap;
   align-content: flex-start;
   flex-direction: ${props => (props.direction === "column" ? "column" : "row")};
