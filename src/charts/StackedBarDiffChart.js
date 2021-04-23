@@ -16,6 +16,7 @@ import {
 } from 'victory'
 import {createAccumulatedData} from './Tools'
 import parseHtml from 'html-react-parser'
+import { colorNER } from "./chartColors"
 
 const ChartTitle = styled.div`
   margin-left: 70px;
@@ -167,46 +168,6 @@ const StackedBarChart = props => {
       return ret
     }
 
-  const colors = [
-    '#5cbae6',
-    '#b6d957',
-    '#fac364',
-    '#8cd3ff',
-    '#d998cb',
-    '#f2d249',
-    '#93b9c6',
-    '#ccc5a8',
-    '#ffcc00',
-    '#ff9900',
-    '#ff6600',
-    '#ff0000',
-    '#990000',
-    '#ff0099',
-    '#cc3399',
-    '#990066',
-    '#660066',
-    '#660099',
-    '#3366cc',
-    '#33ccff',
-    '#99cc33',
-    '#66cc00',
-    '#aad199',
-    '#45535c',
-    '#471442',
-    '#612e30',
-    '#7a713c',
-    '#09e682',
-    '#160154',
-    '#fc53ec',
-    '#454023',
-    '#4b7060',
-    '#4221a6',
-    '#f2aceb',
-    '#ede095',
-    '#0395f7',
-    '#7346fa',
-    '#82627f',
-  ]
   const HTMLLabel = props => {
     const text = props.text.replaceAll('§', '')
   
@@ -261,12 +222,12 @@ const StackedBarChart = props => {
           style={{
             title: { fontSize: 14, leftPadding: -10 },
           }}
-          colorScale={colors}
+          colorScale={colorNER}
           data={Object.keys(diffData).map((indicatorName, i) => ({
             name: indicatorName
               .concat('§§§§§§§§§§§§§§§§§§§§§')
               .substr(0, 16),
-            fill: colors[i],
+            fill: colorNER[i],
           }))}
           labelComponent={<HTMLLabel />}
         />
@@ -294,7 +255,7 @@ const StackedBarChart = props => {
                 y={datum => maxValue === 0 ? 0 : datum['total'] / base}
                 labelComponent={<VictoryTooltip />}
                 style={{
-                  data: { fill: colors[i] },
+                  data: { fill: colorNER[i] },
                 }}
               />
             ))}

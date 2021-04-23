@@ -12,7 +12,7 @@ import {
   VictoryTooltip,
 } from 'victory'
 
-import {colors} from './chartColors'
+import {colorNER} from './chartColors'
 
 const ChartTitle = styled.div`
   margin-left: 70px;
@@ -146,12 +146,12 @@ const StackedBarChartHistorical = ({
           style={{
             title: { fontSize: 14, leftPadding: -10 },
           }}
-          colorScale={colors}
+          colorScale={colorNER}
           data={Array.from(legends).map((legend, i) => ({
               name: legend
                 .concat('        ')
                 .substr(0, 16),
-              fill: colors[i],
+              fill: colorNER[i],
             }))}
           labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}
         />
@@ -182,7 +182,7 @@ const StackedBarChartHistorical = ({
                   y={datum => datum['total'] / (maxY === 0 ? 100 : maxY)}
                   labelComponent={<VictoryTooltip />}
                   style={{
-                    data: { fill: colors[i] },
+                    data: { fill: colorNER[i] },
                   }}
                 />
               ))}

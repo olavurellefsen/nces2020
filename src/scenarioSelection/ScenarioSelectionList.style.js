@@ -31,14 +31,14 @@ export const ScenarioOption = styled.div`
   width: 100%;
   border-radius: 0;
   background-color: ${props =>
-    props.selected ? "#b50404" : props.selected2 ? "green" : "inherit"};
+    props.selected ? "#ef403b" : props.selected2 ? "#385988" : "inherit"};
   ${'' /* color: ${props =>
     props.selected ? "white" : props.selected2 ? "white" : "rgb(184,176,183)"}; */}
   color: ${props =>
     props.selected ? "white" : props.selected2 ? "white" : "#666666"};
   &:hover {
     background-color: ${props =>
-      props.selected ? "#b50404" : props.selected2 ? "green" : "#999"};
+      props.selected ? "#ef403b" : props.selected2 ? "#385988" : "#999"};
     > * {
       font-weight: ${props =>
         props.selected ? "bold" : props.selected2 ? "bold" : "normal"};

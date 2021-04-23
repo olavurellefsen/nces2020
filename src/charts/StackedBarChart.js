@@ -15,7 +15,8 @@ import {
   VictoryTooltip, 
 } from 'victory'
 import {createAccumulatedData} from './Tools'
-import {colors, colors2} from './chartColors'
+//import {colors, colors2} from './chartColors'
+import {colorNER} from './chartColors'
 import periods from './../data/years'
 
 /* const ChartHeader = styled(VictoryLabel)`
@@ -211,12 +212,14 @@ const getTickValues = () => {
           style={{
             title: { fontSize: 14, leftPadding: -10 },
           }}
-          colorScale={colors}
+          //colorScale={colors}
+          colorScale={colorNER}
           data={Array.from(legends).map((legend, i) => ({
               name: legend
                 .concat('        ')
                 .substr(0, 16),
-              fill: colors[i],
+              //fill: colors[i],
+              fill: colorNER[i],
             }))}
           labelComponent={<MyCustomHTMLLabel />}
         />
@@ -246,7 +249,8 @@ const getTickValues = () => {
                   y={datum => datum['total'] / (base === 0 ? 100 : base)}
                   labelComponent={<VictoryTooltip />}
                   style={{
-                    data: { fill: colors[i] },
+                    //data: { fill: colors[i] },
+                    data: { fill: colorNER[i] },
                   }}
                 />
               ))}
@@ -276,7 +280,8 @@ const getTickValues = () => {
                     y={datum => datum['total'] / (base === 0 ? 100 : base)}
                     labelComponent={<VictoryTooltip />}
                     style={{
-                      data: { fill: colors2[i] },
+                      //data: { fill: colors2[i] },
+                      data: { fill: colorNER[i] + '88' },
                     }}
                   />
                 ))}

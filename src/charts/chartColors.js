@@ -80,4 +80,44 @@ const colors = [
     '#52627f',
   ]
 
-  export {colors, colors2}
+  const colorNER = [
+    '#385988',
+    '#006eb6',
+    '#ef403b',
+    '#fdcf41',
+    '#55a946',
+    '#454647',
+    '#3d72ab',
+    '#3e92cc',
+    '#ec6255',
+    '#ffe14d',
+    '#accc83',
+    '#87898c',
+    '#859bc9',
+    '#7eb9e5',
+    '#f4a6a0',
+    '#ffec8c',
+    '#d8e8c5',
+    '#c8cacc',
+    '#c7c9e6',
+    '#ffdde2',
+    '#fff0be', //new
+    '#7ad199', //old just in case
+    '#15535c',
+    '#171442',
+    '#312e30',
+    '#4a713c',
+    '#39e682',
+    '#460154',
+    '#cc53ec',
+    '#154023',
+    '#1b7060',
+    '#1221a6',
+    '#c2aceb',
+    '#bde095',
+    '#3395f7',
+    '#4346fa',
+    '#52627f',
+  ]
+
+  export {colors, colors2, colorNER}
