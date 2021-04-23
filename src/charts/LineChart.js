@@ -15,7 +15,8 @@ import {
   //VictoryTooltip, 
 } from 'victory' 
 //import {createAccumulatedData} from './Tools'
-import {colors} from './chartColors'
+//import {colors} from './chartColors'
+import {colorNER} from './chartColors'
 import periods from './../data/years'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 
@@ -111,7 +112,8 @@ console.log("scenario: ", )
               key={"lini"+i} 
               data={lineChartData} 
               style={{
-                data: { stroke: colors[i] },
+                //data: { stroke: colors[i] },
+                data: { stroke: colorNER[i] },
               }}>
             </VictoryLine>
           )
@@ -136,7 +138,8 @@ console.log("scenario: ", )
               key={"lini"+i} 
               data={lineChartData2} 
               style={{
-                data: { stroke: colors[i], strokeDasharray: "4" },
+                //data: { stroke: colors[i], strokeDasharray: "4" },
+                data: { stroke: colorNER[i], strokeDasharray: "4" },
               }}>
             </VictoryLine>
           )
@@ -154,12 +157,14 @@ console.log("scenario: ", )
             style={{
               title: { fontSize: 34, leftPadding: -10 },
             }}
-            colorScale={colors}
+            //colorScale={colors}
+            colorScale={colorNER}
             data={Array.from(legends).map((legend, i) => ({
                 name: legend
                   .concat('        ')
                   .substr(0, 16),
-                fill: colors[i],
+                //fill: colors[i],
+                fill: colorNER[i],
               }))}
             //labelComponent={<MyCustomHTMLLabel />}
           />

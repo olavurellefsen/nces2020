@@ -37,6 +37,7 @@ const AppLogo = styled.img`
   max-width: 180px;
   border: 0;
   align-self: center;
+  transform: scale(1.5) translate(25px);
 `;
 
 const MenuSeparatorLine = styled.hr`
@@ -100,7 +101,7 @@ const ToggleSwitchText = styled.div`
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
-    props.singleMode ? "gray" : props.selected ? "#2196F3" : "white"};
+    props.singleMode ? "gray" : props.selected ? "#006eb6" : "white"};
   margin-left: 60px;
   margin-bottom: 5px;
 `;
@@ -168,7 +169,7 @@ function ScenarioSelectionMenu(props) {
       <MenuHeader>
       <ExternalLink href="https://www.nordicenergy.org">
           <AppLogo
-            src="./images/nordic_energy_research_cropped.png"
+            src="./images/NER-Logo.png"
             alt="Nordic Energy Research"
           />
         </ExternalLink>
@@ -206,7 +207,7 @@ function ScenarioSelectionMenu(props) {
         selectCountry={props.selectCountry}
       />
       <MenuSeparatorLine />
-      {location.pathname !== "/tab8" && <><ScenarioSelection>
+      {location.pathname !== "/tab9" && <><ScenarioSelection>
         <ScenarioSelectionList
           updateScenarioSelection={props.updateScenarioSelection}
           name="scenarioSelection"

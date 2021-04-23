@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
-import { colors } from "./chartColors"
+import { colorNER } from "./chartColors"
 import historicalYears from "./../data/historicalyears"
 import {
   VictoryChart,
@@ -101,9 +101,9 @@ mapRegionToDataRegions.forEach((mapRegion) => {
 })
 const fixedcolorCountries = [ 'Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
 const countryColors = () => {
-  let ret = colors.slice(0, 4)
+  let ret = colorNER.slice(0, 4)
   fixedcolorCountries.forEach((country, index)=>{
-    ret[country] = colors[index]
+    ret[country] = colorNER[index]
   })
   ret['total'] = 'black'
   return ret

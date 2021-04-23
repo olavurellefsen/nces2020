@@ -33,8 +33,8 @@ const TabItem = styled(Link)`
   font-size: 1em;
   margin: 3px 0px 0px 0px;
   padding: 10px;
-  ${'' /* border-top-left-radius: 5px;
-  border-top-right-radius: 5px; */}
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   border-bottom: ${props => (props.selected ? "3px solid #006eb3": "none")};
   display: flex;
   align-items: center;
@@ -44,9 +44,9 @@ const TabItem = styled(Link)`
     opacity: 1;
     border-bottom: 3px solid #006eb3;
   }
-  color: #212121;
+  color: ${props => props.historical ? '#212121' : '#212121'};
   opacity: ${props => (props.selected ? "1" : "0.6")};
-  ${'' /* background: ${props => (props.selected ? "white" : "inherit")}; */}
+  background: ${props => (props.historical ? "#bbb" : "inherit")};
 `;
 
 function Tabs(props) {
@@ -77,7 +77,7 @@ function Tabs(props) {
       <TabItem to="/tab8" selected={props.selectedChartgroup === "/tab8"}>
         {t("tabs.tab8")}
       </TabItem>
-      <TabItem to="/tab9" selected={props.selectedChartgroup === "/tab9"}>
+      <TabItem historical={true} to="/tab9" selected={props.selectedChartgroup === "/tab9"}>
         {t("tabs.tab9")}
       </TabItem>
     </TabLayout>

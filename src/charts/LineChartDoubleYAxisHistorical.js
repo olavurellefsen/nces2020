@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
-import { colors } from "./chartColors"
+import { colorNER } from "./chartColors"
 import historicalYears from "./../data/historicalyears"
 import {
   VictoryChart,
@@ -70,9 +70,9 @@ mapRegionToDataRegions.forEach((mapRegion) => {
 }
 })
 const legendColors = () => {
-  let ret = colors.slice(0, 3)
+  let ret = colorNER.slice(0, 3)
   Object.keys(data).forEach((key, i) => {
-    ret[key] = colors[i] 
+    ret[key] = colorNER[i] 
   })
   return ret
 }

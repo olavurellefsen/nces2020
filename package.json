@@ -21,7 +21,7 @@
     "react-scripts": "^3.4.3",
     "react-tooltip": "^4.2.9",
     "styled-components": "^5.1.1",
-    "styled-components-breakpoint": "^2.1.1",
+    "styled-components-breakpoint": "^3.0.0-preview.20",
     "typeface-roboto": "0.0.75",
     "victory": "^35.0.8"
   },
@@ -38,8 +38,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@babel/core": "^7.7.7",
     "@testing-library/jest-dom": "^5.11.4",
-    "react-testing-library": "^6.1.2",
-    "@babel/core": "^7.7.7"
+    "react-testing-library": "^6.1.2"
   }
 }

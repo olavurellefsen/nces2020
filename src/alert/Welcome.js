@@ -3,16 +3,25 @@ import PropTypes from "prop-types";
 import styled from "styled-components";
 import Octicon from "react-octicon";
 import { useTranslation } from "react-i18next";
+import {createBreakpoint} from 'styled-components-breakpoint';
+
+export const breakpoint = createBreakpoint({
+  xs: 0,
+  sm: 550,
+  md: 1394,
+  lg: 1953,
+  xl: 2512,
+});
 
 const AlertContainer = styled.div`
   position: ${props => props.isOpen ? 'relative' : 'absolute'};
   right: ${props => props.isOpen ? null : '35px'};
   padding: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   ${'' /* border-width: 1px;
   border-color: blue;
   border-style: solid; */}
-  background-color: mintcream;
+  background-color: #eff0f9;
   display: flex;
   flex: 1;
   flex-wrap: wrap;
@@ -23,6 +32,19 @@ const AlertContainer = styled.div`
   width: ${props => props.isOpen ? null : '20px'};
   box-shadow: 0 0 0.5333333333rem rgb(26 26 26 / 12%);
   border-radius: .35em;
+  ${breakpoint('sm')`
+    max-width: 530px;
+  `}
+  ${breakpoint('md')`
+    max-width: 1090px;
+  `}
+  ${breakpoint('lg')`
+    max-width: 1650px;
+  `}
+  ${breakpoint('xl')`
+    max-width: 2210px;
+  `}
+  z-index: 20;
 `;
 AlertContainer.displayName = "AlertContainer";
 const AlertBody = styled.div`
@@ -51,6 +73,7 @@ const CloseWindowIcon = styled.div`
   
   :hover {
     cursor: pointer;
+    transform: scale(1.15)
   }
 `;
 CloseWindowIcon.displayName = "CloseWindowIcon";
