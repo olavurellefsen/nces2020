@@ -10,5 +10,4 @@ export default
 		"Number of trucks",
 		"Aviation fuel consumption",
 		"Shipping fuel consumption",
-		"Transport System Cost",
 	 ]

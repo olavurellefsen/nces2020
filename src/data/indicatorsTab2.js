@@ -6,5 +6,4 @@ export default
 		"Import/Export of bio-energy",
 		"RE refineries input",
 		"RE refineries output",
-		"Upstream annual system costs",
 	 ]

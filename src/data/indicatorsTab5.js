@@ -6,5 +6,4 @@ export default
 		"Agriculture fuel consumption",
 		"Manufacturing fuel consumption",
 		"Trade and service fuel consumption",
-		"Other sectors annual costs",
 	 ]

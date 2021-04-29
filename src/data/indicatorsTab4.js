@@ -8,5 +8,4 @@ export default
 		"Pulp and paper fuel consumption",
 		"Mining fuel consumption",
 		"Non-ferrous fuel consumption",
-		"Heavy Industry annual costs",
 	 ]

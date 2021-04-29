@@ -4,5 +4,4 @@ export default
 		"Residential fuel consumption",
 		"Residential heating",
 		"Electric appliances consumption",
-		"Residential annual costs",
 	 ]
