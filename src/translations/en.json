@@ -1,17 +1,17 @@
 {
-  "title": "NCES2020",
+  "title": "NCES",
   "menu": {
     "mobile": {
-      "about": "About NCES2020",
+      "about": "About NCES",
       "scenarios": "Scenarios",
       "findings": "Key findings",
       "subscribe": "Statistics"
     },
     "desktop": {
-      "about": "About NCES2020",
+      "about": "About Nordic Clean Energy Scenarios",
       "scenarios": "Description of scenarios",
-      "findings": "NCES2020 key findings",
-      "subscribe": "Nordic historical daata"
+      "findings": "Key findings",
+      "subscribe": "Nordic historical data"
     }
   },
   "options": {

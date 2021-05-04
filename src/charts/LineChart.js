@@ -12,13 +12,15 @@ import {
   VictoryTheme,
   VictoryAxis,
   VictoryLine,
-  //VictoryTooltip, 
+  VictoryTooltip, 
+  VictoryVoronoiContainer,
 } from 'victory' 
 //import {createAccumulatedData} from './Tools'
 //import {colors} from './chartColors'
 import {colorNER} from './chartColors'
 import periods from './../data/years'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
+import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
 
 const ChartTitle = styled.div`
   margin-left: 70px;
@@ -38,8 +40,8 @@ const ChartContainer = styled.div`
   border-radius: 4px;
 `
 const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCountries, chartName }) => {
-  console.log("scenario1: ", selectedScenario)
-  console.log("scenario2: ", selectedScenario2)
+  //console.log("scenario1: ", selectedScenario)
+  //console.log("scenario2: ", selectedScenario2)
 let selectedDataRegions = [] 
   mapRegionToDataRegions.forEach((mapRegion) => {
       if(selectedCountries.includes(mapRegion.path_id)) {
@@ -70,12 +72,16 @@ let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
 let indicatorData = selectedScenarioData.indicators.find((indicator) => {
   return indicator.indicator === chartName
 })
-console.log("scenario: ", )
   return (
     <>
   <ChartContainer>
       <ChartTitle>{chartName}</ChartTitle>
       <VictoryChart domainPadding={20}
+      containerComponent={
+    <VictoryVoronoiContainer
+      labels={({ datum }) => `${datum.x}, ${Math.round(datum.y, 2)}`}
+    />
+  }
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
@@ -139,8 +145,15 @@ console.log("scenario: ", )
               data={lineChartData2} 
               style={{
                 //data: { stroke: colors[i], strokeDasharray: "4" },
-                data: { stroke: colorNER[i], strokeDasharray: "4" },
-              }}>
+                data: { stroke: () => {
+                      if (indicatorgroup_colors[country]) 
+                        return indicatorgroup_colors[country]
+                      else
+                        return colorNER[i]
+                      }, strokeDasharray: "4" },
+              }}
+              labelComponent={<VictoryTooltip />}
+            >
             </VictoryLine>
           )
         })}
@@ -163,10 +176,14 @@ console.log("scenario: ", )
                 name: legend
                   .concat('        ')
                   .substr(0, 16),
-                //fill: colors[i],
-                fill: colorNER[i],
+                  symbol: { fill: () => {
+                    if (indicatorgroup_colors[legend]) 
+                      return indicatorgroup_colors[legend]
+                    else
+                      return colorNER[i]
+                    },
+                  }
               }))}
-            //labelComponent={<MyCustomHTMLLabel />}
           />
       </VictoryChart>
       </ChartContainer>

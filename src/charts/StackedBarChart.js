@@ -18,6 +18,7 @@ import {createAccumulatedData} from './Tools'
 //import {colors, colors2} from './chartColors'
 import {colorNER} from './chartColors'
 import periods from './../data/years'
+import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
 
 /* const ChartHeader = styled(VictoryLabel)`
   text-anchor: start;
@@ -127,7 +128,7 @@ const MyCustomHTMLLabel = props => {
   const text = props.text.replaceAll('§', '')
 
   return (
-    <foreignObject x={props.x+3} y={props.y-9} width={600} height={700}>
+    <foreignObject x={props.x+3} y={props.y-9} width={100} height={40}>
       <div style={{ fontSize: '12px', fontFamily: "Open Sans" }}>{parseHtml(text)}</div>
     </foreignObject>
   );
@@ -166,7 +167,7 @@ const getTickValues = () => {
         theme={VictoryTheme.material}
         // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated
       >
-        <VictoryAxis key={0} tickValues={periods} tickFormat={periods} />
+        
         <VictoryAxis
           dependentAxis
           axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
@@ -201,28 +202,7 @@ const getTickValues = () => {
             tickValues={[0, 0.25, 0.5, 0.75, 1.0]}
           />
         )}
-        <VictoryLegend
-          x={90}
-          y={10}
-          orientation="horizontal"
-          gutter={gutter}
-          rowGutter={rowGutter}
-          symbolSpacer={4}
-          itemsPerRow={4}
-          style={{
-            title: { fontSize: 14, leftPadding: -10 },
-          }}
-          //colorScale={colors}
-          colorScale={colorNER}
-          data={Array.from(legends).map((legend, i) => ({
-              name: legend
-                .concat('        ')
-                .substr(0, 16),
-              //fill: colors[i],
-              fill: colorNER[i],
-            }))}
-          labelComponent={<MyCustomHTMLLabel />}
-        />
+        
         <VictoryGroup offset={15} style={{ data: { width: 15 } }}>
           <VictoryStack>
             {Object.keys(accumulatedDataScenario1).map((chartGroupName, i) => (
@@ -249,8 +229,13 @@ const getTickValues = () => {
                   y={datum => datum['total'] / (base === 0 ? 100 : base)}
                   labelComponent={<VictoryTooltip />}
                   style={{
-                    //data: { fill: colors[i] },
-                    data: { fill: colorNER[i] },
+                    data: { fill: () => {
+                      if (indicatorgroup_colors[chartGroupName]) 
+                        return indicatorgroup_colors[chartGroupName]
+                      else
+                        return colorNER[i]
+                      }, 
+                    },
                   }}
                 />
               ))}
@@ -280,14 +265,50 @@ const getTickValues = () => {
                     y={datum => datum['total'] / (base === 0 ? 100 : base)}
                     labelComponent={<VictoryTooltip />}
                     style={{
-                      //data: { fill: colors2[i] },
-                      data: { fill: colorNER[i] + '88' },
-                    }}
+                    data: { fill: () => {
+                      if (indicatorgroup_colors[chartGroupName]) 
+                        return indicatorgroup_colors[chartGroupName] + '88'
+                      else
+                        return colorNER[i] +'88'
+                      }, 
+                    },
+                  }}
                   />
                 ))}
             </VictoryStack>
           )}
         </VictoryGroup>
+        <VictoryAxis key={0} tickValues={periods} tickFormat={periods} style={{
+          grid: { strokeWidth: 0 },
+        }}/>
+        <VictoryLegend
+          x={90}
+          y={10}
+          orientation="horizontal"
+          gutter={gutter}
+          rowGutter={rowGutter}
+          symbolSpacer={4}
+          itemsPerRow={4}
+          style={{
+            title: { fontSize: 14, leftPadding: -10 },
+          }}
+          //colorScale={colors}
+          colorScale={colorNER}
+          data={Array.from(legends).map((legend, i) => ({
+              name: legend
+                .concat('        ')
+                .substr(0, 16),
+              //fill: colors[i],
+              symbol: { fill: () => {
+                if (indicatorgroup_colors[legend]) 
+                  return indicatorgroup_colors[legend]
+                else
+                  return colorNER[i]
+                },
+              }}
+          ))}
+          labelComponent={<MyCustomHTMLLabel />}
+        />
       </VictoryChart>
     </ChartContainer>
   )

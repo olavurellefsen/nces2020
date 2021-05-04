@@ -17,6 +17,7 @@ import {
 import {createAccumulatedData} from './Tools'
 import parseHtml from 'html-react-parser'
 import { colorNER } from "./chartColors"
+import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
 
 const ChartTitle = styled.div`
   margin-left: 70px;
@@ -227,7 +228,13 @@ const StackedBarChart = props => {
             name: indicatorName
               .concat('§§§§§§§§§§§§§§§§§§§§§')
               .substr(0, 16),
-            fill: colorNER[i],
+              symbol: { fill: () => {
+                if (indicatorgroup_colors[indicatorName]) 
+                  return indicatorgroup_colors[indicatorName]
+                else
+                  return colorNER[i]
+                },
+              }
           }))}
           labelComponent={<HTMLLabel />}
         />
@@ -255,8 +262,14 @@ const StackedBarChart = props => {
                 y={datum => maxValue === 0 ? 0 : datum['total'] / base}
                 labelComponent={<VictoryTooltip />}
                 style={{
-                  data: { fill: colorNER[i] },
-                }}
+                    data: { fill: () => {
+                      if (indicatorgroup_colors[indicatorName]) 
+                        return indicatorgroup_colors[indicatorName]
+                      else
+                        return colorNER[i]
+                      }, 
+                    },
+                  }}
               />
             ))}
           </VictoryStack>
