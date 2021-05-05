@@ -324,10 +324,10 @@ export class App extends React.Component {
                 }}
               />
 			  <Route
-                path="/subscribe"
+                path="/model"
                 render={() => {
                   return (
-                    <PageRenderer markdownFiles={['descriptions/more.md']} />
+                    <PageRenderer markdownFiles={['descriptions/model.md']} />
                   )
                 }}
               />
@@ -344,6 +344,14 @@ export class App extends React.Component {
                 render={() => {
                   return (
                     <PageRenderer markdownFiles={['descriptions/findings.md']} />
+                  )
+                }}
+              />
+          <Route
+                path="/historical"
+                render={() => {
+                  return (
+                    <PageRenderer markdownFiles={['descriptions/historical.md']} />
                   )
                 }}
               />

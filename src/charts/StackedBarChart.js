@@ -310,6 +310,7 @@ const getTickValues = () => {
           labelComponent={<MyCustomHTMLLabel />}
         />
       </VictoryChart>
+      <button></button>
     </ChartContainer>
   )
 }

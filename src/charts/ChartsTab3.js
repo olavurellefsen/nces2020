@@ -21,6 +21,7 @@ const Charts = props => {
   return (
     <MainArea>
       <Welcome 
+          tab="tab3"
           isOpen={props.scenarioSelection.showWelcome}
           closeWelcome={props.closeWelcome}  />
       <ScenarioDescriptionsContainer isWelcomeOpen={props.scenarioSelection.showWelcome}>

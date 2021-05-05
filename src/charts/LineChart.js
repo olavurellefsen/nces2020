@@ -119,7 +119,12 @@ let indicatorData = selectedScenarioData.indicators.find((indicator) => {
               data={lineChartData} 
               style={{
                 //data: { stroke: colors[i] },
-                data: { stroke: colorNER[i] },
+                data: { stroke: () => {
+                      if (indicatorgroup_colors[country]) 
+                        return indicatorgroup_colors[country]
+                      else
+                        return colorNER[i]
+                      } },
               }}>
             </VictoryLine>
           )

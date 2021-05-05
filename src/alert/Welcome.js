@@ -83,7 +83,21 @@ function Welcome(props) {
   return (
     <AlertContainer  isOpen={props.isOpen}>
     {props.isOpen && <AlertTitle>{t("welcome-text." + props.tab + ".welcome-1")}</AlertTitle>}
-      {props.isOpen && <AlertBody>
+      {props.isOpen && props.tab === "tab1" && <AlertBody>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-2")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-3")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-4")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-5")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-6")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-7")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-8")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-9")}</AlertBodyParagraph>
+      </AlertBody>}
+      {props.isOpen && props.tab === "tab2" && <AlertBody>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-2")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-3")}</AlertBodyParagraph>
+      </AlertBody>}
+      {props.isOpen && props.tab === "tab3" && <AlertBody>
         <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-2")}</AlertBodyParagraph>
         <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-3")}</AlertBodyParagraph>
         <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-4")}</AlertBodyParagraph>

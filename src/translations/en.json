@@ -4,14 +4,16 @@
     "mobile": {
       "about": "About NCES",
       "scenarios": "Scenarios",
-      "findings": "Key findings",
-      "subscribe": "Statistics"
+      "findings": "NCES in 10",
+      "model": "Model and data",
+      "historical": "Historical data"
     },
     "desktop": {
       "about": "About Nordic Clean Energy Scenarios",
       "scenarios": "Description of scenarios",
-      "findings": "Key findings",
-      "subscribe": "Nordic historical data"
+      "findings": "NCES2020 in 10 messages",
+      "model": "The ON-TIMES model and data",
+      "historical": "Nordic historical data"
     }
   },
   "options": {
@@ -85,10 +87,25 @@
   "welcome-text": {
     "tab1": {
       "welcome-1": "Welcome to Nordic Clean Energy Scenarios 2020 (NCES2020) scenario viewer.",
-      "welcome-2": "The project is funded by Nordic Energy Research and is carried out by a Nordic team of researchers and consultants.",
-      "welcome-3": "On this web-page you can compare scenarios and change assumptions. All the scenarios reach carbon neutrality before 2050, but technology choice, fuel consumption and cost will change when changing assumptions about readiness of technologies and whether the countries can import biomass and bio-fuels.",
-      "welcome-4": "The model used for calculating the scenarios is called Open Nordic TIMES model (ON-TIMES), as with all modelling results - be critical to what you see, do not just accept it. The many combinations of scenarios represented in this viewer indicate the uncertainty of how the future Nordic energy system will develop, but also illustrate which solutions compete and which have synergies",
-      "welcome-5": "Close this window and start exploring..."
+      "welcome-2": "The project is funded by Nordic Energy Research and is carried out by a Nordic team of researchers and consultants – see about NCES2020.",
+      "welcome-3": "On this webpage you can compare scenarios and change assumptions. All the scenarios reach carbon neutrality before 2050, but technology choice, fuel consumption and cost will change when changing assumptions about readiness of technologies and whether the countries can import biomass and biofuels.",
+      "welcome-4": "You can look at results for all countries or for individual countries by clicking them on and off on the map to the left.",
+      "welcome-5": "You can compare scenarios by clicking on the two scenarios you want to compare. The scenario with the red colour is always shown to the left in the figures and the blue coloured scenarios to the right. If you want to see the absolute difference between the scenarios - activate the “Scenario Difference” slider and the blue scenarios will be subtracted from the red.",
+      "welcome-6": "The model used for calculating the scenarios is called Open Nordic TIMES model (ON-TIMES) and is developed during the project.",
+      "welcome-7": "As with all modelling results - be critical to what you see, do not just accept it. The many combinations of scenarios represented in this viewer indicate the uncertainty of how the future Nordic energy system will develop, but also illustrate which solutions compete and which have synergies. The modelling results are highly dependent on projections of technologies, their availability, efficiency and cost, by future fuel prices and access to resources.",
+      "welcome-8": "On this first result page we show some main results like primary energy consumption, final energy consumption and total CO2-emissions.",
+      "welcome-9": "Try to select the CNN scenario twice and then increase cost of storing CO2 in one of the scenarios by activating the “barrel”. Try and see how effects the amount of stored CO2."
+    },
+    "tab2": {
+      "welcome-1": "The upstream sector includes oil and gas production, fossil refineries, biorefineries and PtX plants.",
+      "welcome-2": "The total used biomass in the Nordic countries is tracked and also import of biomass and biofuels. Feedstock and produced fuel from both fossil based refineries and renewable based refineries are also shown.",
+      "welcome-3": "Try to choose the same scenario twice and then activate the bioenergy constraint, the “leaf”, on one of the scenarios – then you can see a big difference in imported bioenergy and input to the RE-refineries."
+    },
+    "tab3": {
+      "welcome-1": "Power and district heat production.",
+      "welcome-2": "Here you can see the fuel use for power and district heat production, power plant capacities and the electricity and district heating production divided on fuels.",
+      "welcome-3": "The marginal electricity price and district heating price is the weighted average price of the time slices in the model over a year. These prices are endogenous calculated by the model and it is the prices which the model “trade” power and heat between sectors.",
+      "welcome-4": "Try to select the CNN scenario and the NPH scenario and compare electricitydemand and the difference in needed power capacity."
     },
     "tab-history": {
       "welcome-1": "Welcome to Nordic Energy Statistics Database visualisations.",
