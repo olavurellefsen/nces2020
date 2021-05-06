@@ -26,12 +26,12 @@ const Charts = props => {
       <ScenarioDescriptionsContainer isWelcomeOpen={props.scenarioSelection.showWelcome}>
           <Scenario1Description>
             {scenarioCombinations.scenarioCombinations.scenarioOptions.find(
-              (option)=>option.name === selectedScenario)?.desc
+              (option)=>option.name.toLowerCase() === selectedScenario.toLowerCase())?.desc
             }
           </Scenario1Description>
           {selectedScenario2 && <Scenario2Description>{
             scenarioCombinations.scenarioCombinations.scenarioOptions.find(
-              (option)=>option.name === selectedScenario2
+              (option)=>option.name.toLowerCase() === selectedScenario2.toLowerCase()
             )?.desc
           }</Scenario2Description>}
         </ScenarioDescriptionsContainer> 

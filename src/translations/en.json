@@ -4,14 +4,14 @@
     "mobile": {
       "about": "About NCES",
       "scenarios": "Scenarios",
-      "findings": "NCES in 10",
+      "findings": "Ten key",
       "model": "Model and data",
       "historical": "Historical data"
     },
     "desktop": {
       "about": "About Nordic Clean Energy Scenarios",
       "scenarios": "Description of scenarios",
-      "findings": "NCES2020 in 10 messages",
+      "findings": "Ten key messages",
       "model": "The ON-TIMES model and data",
       "historical": "Nordic historical data"
     }

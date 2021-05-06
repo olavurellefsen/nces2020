@@ -16,7 +16,12 @@ const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection
   const selectedScenario2 = props.scenarioSelection.scenarioSelection2
   const selectedCountries = props.selectedCountries
-
+let temp = scenarioCombinations.scenarioCombinations.scenarioOptions.find(
+  (option)=>{
+    
+    return option.name.toLowerCase() === selectedScenario.toLowerCase()})
+  console.log("name: ", selectedScenario)
+  console.log("temp: ", temp)
 
   return (
     <MainArea>
@@ -28,12 +33,12 @@ const Charts = props => {
         <ScenarioDescriptionsContainer isWelcomeOpen={props.scenarioSelection.showWelcome}>
           <Scenario1Description>
             {scenarioCombinations.scenarioCombinations.scenarioOptions.find(
-              (option)=>option.name === selectedScenario)?.desc
+              (option)=>option.name.toLowerCase() === selectedScenario.toLowerCase())?.desc
             }
           </Scenario1Description>
           {selectedScenario2 && <Scenario2Description>{
             scenarioCombinations.scenarioCombinations.scenarioOptions.find(
-              (option)=>option.name === selectedScenario2
+              (option)=>option.name.toLowerCase() === selectedScenario2.toLowerCase()
             )?.desc
           }</Scenario2Description>}
         </ScenarioDescriptionsContainer> 
@@ -139,7 +144,7 @@ const ScenarioDescriptionsContainer = styled(Flex)`
 const Scenario1Description = styled.div`
   flex: 1;
   background-color: #ef403b;
-  max-width: 45%;
+  max-width: 50%;
   margin-right: 10px;
   padding: 15px 25px;
   color: white;

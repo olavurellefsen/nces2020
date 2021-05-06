@@ -22,18 +22,18 @@ const Charts = props => {
           isOpen={props.scenarioSelection.showWelcome}
           closeWelcome={props.closeWelcome}  />
 
-      <ScenarioDescriptionsContainer isWelcomeOpen={props.scenarioSelection.showWelcome}>
+        <ScenarioDescriptionsContainer isWelcomeOpen={props.scenarioSelection.showWelcome}>
           <Scenario1Description>
             {scenarioCombinations.scenarioCombinations.scenarioOptions.find(
-              (option)=>option.name === selectedScenario)?.desc
+              (option)=>option.name.toLowerCase() === selectedScenario.toLowerCase())?.desc
             }
           </Scenario1Description>
           {selectedScenario2 && <Scenario2Description>{
             scenarioCombinations.scenarioCombinations.scenarioOptions.find(
-              (option)=>option.name === selectedScenario2
+              (option)=>option.name.toLowerCase() === selectedScenario2.toLowerCase()
             )?.desc
           }</Scenario2Description>}
-        </ScenarioDescriptionsContainer> 
+        </ScenarioDescriptionsContainer>
       {(props.scenarioSelection.showDifference === false ||
         (props.scenarioSelection.showDifference === true &&
           selectedScenario2 === '')) && (
