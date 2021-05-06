@@ -19,18 +19,28 @@ import {createAccumulatedData} from './Tools'
 import {colorNER} from './chartColors'
 import periods from './../data/years'
 import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
+import { CSVLink } from 'react-csv'
 
-/* const ChartHeader = styled(VictoryLabel)`
-  text-anchor: start;
-  fill: #000000;
-  font-family: inherit;
-  font-size: 18px;
-  font-weight: bold;
+const showButton = true;
+const ChartContainer = styled.div`
+  width: 550px;
+  height: 625px;
+  background: white;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
 `
-ChartHeader.displayName = 'ChartHeader' */
-const ChartTitle = styled.div`
+const ChartHeader = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin-left: 70px;
+  margin-right: 30px;
   margin-top: 20px;
+  margin-bottom: 10px;
+`
+const ChartTitle = styled.div`
+  
   font-size: 18px;
   font-weight: bold;
   font-family: Ropa Sans;
@@ -77,6 +87,7 @@ const StackedBarChart = props => {
  
   const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
+  console.log("datascenario1: ", dataScenario1)
   const accumulatedDataScenario1 = dataScenario1[0]
   const accumulatedDataScenario2 = scenario2 ? dataScenario2[0] : undefined
   const totalYearValuesPositiveScenario1 = dataScenario1[1]
@@ -155,19 +166,42 @@ const getTickValues = () => {
   
   return ret
 }
-
+const getCSVData = (accumulatedData) => {
+  let ret = []
+  console.log("accu entries: ", Object.entries(accumulatedData))
+  Object.entries(accumulatedData).forEach((indicatorGroup) => {
+    //console.log("indicatorGroup: ", indicatorGroup[0])
+    indicatorGroup[1].forEach((item)=>{
+      //console.log("item.year: ", item.year)
+      //console.log("item.value: ", item.total)
+      ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
+    })
+  //console.log('ret: ', ret)
+  })
+  return ret
+  //{scenario: scen.scenario, indicator: ind.indicator, indicatorGroup: indicatorGroup.indicatorGroup, year: y, value:0}
+}
+//getCSVData(dataScenario1[0])
   return (
     <ChartContainer>
-    <ChartTitle>{chartTitle}</ChartTitle>
+    <ChartHeader>
+      <ChartTitle>{chartTitle}</ChartTitle>
+      {showButton && <CSVLink 
+        data={getCSVData(dataScenario1[0])}
+        filename={chartTitle + " " + selectedCountries + ".csv"}
+      >
+        Download as CSV</CSVLink>}
+    </ChartHeader>
       <VictoryChart
         domainPadding={20}
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
         theme={VictoryTheme.material}
+        style={{parent: { height: "550px" }}}
         // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated
       >
-        
+      
         <VictoryAxis
           dependentAxis
           axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
@@ -310,7 +344,6 @@ const getTickValues = () => {
           labelComponent={<MyCustomHTMLLabel />}
         />
       </VictoryChart>
-      <button></button>
     </ChartContainer>
   )
 }
@@ -339,11 +372,6 @@ StackedBarChart.propTypes = {
   Y2Percentage: PropTypes.bool,
   selectedCountries: PropTypes.array.isRequired,
 }
-const ChartContainer = styled.div`
-  width: 550px;
-  background: white;
-  margin-right: 10px;
-  margin-bottom: 10px;
-  border-radius: 4px;
-`
+
+
 export default StackedBarChart
