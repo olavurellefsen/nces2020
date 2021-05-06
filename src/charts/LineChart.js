@@ -166,7 +166,7 @@ let indicatorData = selectedScenarioData.indicators.find((indicator) => {
         </VictoryGroup>
         <VictoryLegend
             x={90}
-            y={70}
+            y={10}
             orientation="horizontal"
             gutter={10}
             rowGutter={10}

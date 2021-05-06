@@ -89,7 +89,7 @@ const StackedBarChartHistoricalPerCountry = ({
 return (
   <ChartContainer>
   <ChartTitle>{chartName}</ChartTitle>
-    <VictoryChart
+    {selectedCountries.length !== 0 && <VictoryChart
       domainPadding={20}
       width={550}
       height={550}
@@ -187,7 +187,7 @@ return (
             ))}
         </VictoryStack>
       </VictoryGroup>
-    </VictoryChart>
+    </VictoryChart>}
   </ChartContainer>
 )
 }

@@ -97,7 +97,7 @@ return (
   <ChartContainer>
   <ChartTitle>{chartName}</ChartTitle>
   <div>
-    <VictoryChart domainPadding={20}
+    {selectedCountries.length !== 0 && <VictoryChart domainPadding={20}
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
@@ -133,7 +133,7 @@ return (
           <VictoryGroup>
             {renderLines(data)}
           </VictoryGroup>
-    </VictoryChart>
+    </VictoryChart>}
     </div>
   </ChartContainer>
   </>

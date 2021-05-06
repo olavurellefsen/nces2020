@@ -102,6 +102,11 @@ function Welcome(props) {
         <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-3")}</AlertBodyParagraph>
         <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-4")}</AlertBodyParagraph>
       </AlertBody>}
+      {props.isOpen && props.tab === "tab-history" && <AlertBody>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-2")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-3")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-4")}</AlertBodyParagraph>
+      </AlertBody>}
       <CloseWindowIcon
         onClick={() => props.closeWelcome(!props.isOpen)}
       >
