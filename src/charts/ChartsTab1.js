@@ -138,7 +138,7 @@ const ScenarioDescriptionsContainer = styled(Flex)`
 const Scenario1Description = styled.div`
   flex: 1;
   background-color: #ef403b;
-  max-width: 50%;
+  max-width: 45%;
   margin-right: 10px;
   padding: 15px 25px;
   color: white;

@@ -154,16 +154,7 @@ const Header = styled.h1`
 function ScenarioSelectionMenu(props) {
   const { t } = useTranslation();
   const location = useLocation()
-  //console.log("___******************location: ", location)
-  // const toggleLanguage = e => {
-  //   e.preventDefault();
-  //   if (language === "en") {
-  //     i18n.changeLanguage("dk");
-  //   } else {
-  //     i18n.changeLanguage("en");
-  //   }
-  // };
-
+  const scenarioSelectorVisible = location.pathname.includes("tab") || location.pathname === "/"
   return (
     <MenuLayout>
       <MenuHeader>
@@ -206,14 +197,20 @@ function ScenarioSelectionMenu(props) {
           </MenuItem>
         </MenuRoutes>
       </MenuHeader>
-      <MenuSeparatorLine />
-      <Header narrowVersion={false}>{t("general.countries")}</Header>
-      <MapContainer
-        selectedCountries={props.selectedCountries}
-        selectCountry={props.selectCountry}
-      />
-      <MenuSeparatorLine />
-      {location.pathname !== "/tab9" && <><ScenarioSelection>
+      {scenarioSelectorVisible && 
+      <>
+        <MenuSeparatorLine />
+        <Header narrowVersion={false}>{t("general.countries")}</Header>
+          <MapContainer
+            selectedCountries={props.selectedCountries}
+            selectCountry={props.selectCountry}
+          />
+        <MenuSeparatorLine />
+      </>
+      }
+      {location.pathname !== "/tab9" && scenarioSelectorVisible &&
+      <>
+      <ScenarioSelection>
         <ScenarioSelectionList
           updateScenarioSelection={props.updateScenarioSelection}
           name="scenarioSelection"
@@ -227,7 +224,7 @@ function ScenarioSelectionMenu(props) {
           scenarioSelection={props.scenarioSelection}
         />
       </ScenarioSelection>
-      <MenuSeparatorLine />
+      {location.pathname !== "/tab8" && <><MenuSeparatorLine />
       <ToggleDifference
         onClick={e => {
           if (props.scenarioSelection.scenarioSelection2 !== "") {
@@ -245,7 +242,8 @@ function ScenarioSelectionMenu(props) {
         >
           {t("general.scenario-difference")}
         </ToggleSwitchText>
-      </ToggleDifference>
+      </ToggleDifference></>
+      }
       {props.scenarioSelection.scenarioSelection2 !== "" && <ScenarioDifferenceText
         singleMode={props.scenarioSelection.scenarioSelection2 === ""}
         selected={props.scenarioSelection.showDifference}
