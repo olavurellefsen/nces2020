@@ -11,22 +11,32 @@ import {
   VictoryBar,
   VictoryTooltip,
 } from 'victory'
+import { CSVLink } from 'react-csv'
 
 import {colorNER} from './chartColors'
 
-const ChartTitle = styled.div`
-  margin-left: 70px;
-  margin-top: 20px;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: Ropa Sans;
-`
 const ChartContainer = styled.div`
   width: 550px;
+  height: 650px;
   background: white;
   margin-right: 10px;
   margin-bottom: 10px;
   border-radius: 4px;
+`
+const ChartHeader = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 70px;
+  margin-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+`
+const ChartTitle = styled.div`
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Ropa Sans;
+  margin-right: 10px;
 `
 
 const StackedBarChartHistorical = ({
@@ -87,14 +97,31 @@ const StackedBarChartHistorical = ({
   else 
     base = maxY
 
+  const getCSVData = (lineData) => {
+      let ret = []
+      Object.entries(lineData).forEach((indicatorGroup) => {
+        indicatorGroup[1].forEach((item)=>{
+          ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
+        })
+      })
+      return ret
+    }
   return (
     <ChartContainer>
-    <ChartTitle>{chartName}</ChartTitle>
+    <ChartHeader>
+      <ChartTitle>{chartName}</ChartTitle>
+      <CSVLink 
+        data={getCSVData(accumulatedData)}
+        filename={chartName + " " + selectedCountries + ".csv"}
+      >
+        Download as CSV</CSVLink>
+    </ChartHeader>
       {selectedCountries.length !== 0 && <VictoryChart
         domainPadding={20}
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
+        style={{parent: { height: "550px" }}}
         theme={VictoryTheme.material}
       >
         <VictoryAxis key={0} tickValues={[1990, 1995, 2000, 2005, 2010, 2015]} tickFormat={[1990, 1995, 2000, 2005, 2010, 2015]} />

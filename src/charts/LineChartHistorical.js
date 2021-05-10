@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 import { colorNER } from "./chartColors"
 import historicalYears from "./../data/historicalyears"
+import { CSVLink } from 'react-csv'
 import {
   VictoryChart,
   VictoryLabel,
@@ -13,41 +14,44 @@ import {
   VictoryLine
 } from 'victory'
 
-const ChartTitle = styled.div`
-  margin-left: 70px;
-  margin-top: 20px;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: Ropa Sans;
-`
 const ChartContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   width: 550px;
+  height: 650px;
   background: white;
   margin-right: 10px;
   margin-bottom: 10px;
   border-radius: 4px;
 `
-
+const ChartHeader = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 70px;
+  margin-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+`
+const ChartTitle = styled.div`
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Ropa Sans;
+  margin-right: 10px;
+`
+const getCSVData = (lineData) => {
+  let ret = []
+  Object.entries(lineData).forEach((indicatorGroup) => {
+    indicatorGroup[1].forEach((item)=>{
+      ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y})
+    })
+  })
+  return ret
+}
 const LineChartHistorical = ({
   chartName = "chart name",
   data = [],
-  YPercentage = false,
-  Y2Percentage = false,
-  divideValues = 1,
-  label="PJ",
-  label2="c",
   selectedCountries = [],
-  combinedChart = false,
-  maxY2 = 100,
   xRange = historicalYears
 }) => {
-  //const accumulatedData = stackedBar[0]
-  //const totalYearValuesScenario1 = stackedBar[1]
-  //const legends = stackedBar[2]
-  //const colors2 = stackedBar[3]
   let gutter, rowGutter
   if (
     !process.env.NODE_ENV ||
@@ -61,36 +65,6 @@ const LineChartHistorical = ({
     rowGutter = 0
   }
 
-  //let maxY = -Infinity
-  //let minY = Infinity
-  //let base = 0
-  
-  /* Object.keys(totalYearValuesScenario1).forEach(year => {
-    maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year]))
-  })
-
-  let t = 1
-  let i = 0
-  let range = [2,4,6,8,10]
-  while(t < maxY) {
-    t = range[i%5]*Math.pow(range[4], Math.floor(i/5))
-    i++
-  }
-  maxY = t
-  let u=1
-  let j=0
-  while(u > minY && j < 20) {
-    u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
-    j++
-  }
-  minY = u
-
-  //base is used in tickFormat
-  if (maxY < -minY) 
-    base = -minY
-  else 
-    base = maxY
- */
 let selectedDataRegions = [] 
 mapRegionToDataRegions.forEach((mapRegion) => {
   if(selectedCountries.includes(mapRegion.path_id)) {
@@ -127,12 +101,20 @@ legends.push("total")
 return (
   <>
   <ChartContainer>
-  <ChartTitle>{chartName}</ChartTitle>
+  <ChartHeader>
+      <ChartTitle>{chartName}</ChartTitle>
+      <CSVLink 
+        data={getCSVData(data)}
+        filename={chartName + " " + selectedCountries + ".csv"}
+      >
+        Download as CSV</CSVLink>
+    </ChartHeader>
   <div>
     {selectedCountries.length !== 0 && <VictoryChart domainPadding={20}
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
+        style={{parent: { height: "550px" }}}
         theme={VictoryTheme.material}>
         <VictoryAxis 
           key={'lineAxis'} tickValues={xRange} />

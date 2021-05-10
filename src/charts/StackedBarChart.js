@@ -21,7 +21,6 @@ import periods from './../data/years'
 import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
 import { CSVLink } from 'react-csv'
 
-const showButton = true;
 const ChartContainer = styled.div`
   width: 550px;
   height: 625px;
@@ -40,7 +39,6 @@ const ChartHeader = styled.div`
   margin-bottom: 10px;
 `
 const ChartTitle = styled.div`
-  
   font-size: 18px;
   font-weight: bold;
   font-family: Ropa Sans;
@@ -87,7 +85,7 @@ const StackedBarChart = props => {
  
   const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
-  console.log("datascenario1: ", dataScenario1)
+
   const accumulatedDataScenario1 = dataScenario1[0]
   const accumulatedDataScenario2 = scenario2 ? dataScenario2[0] : undefined
   const totalYearValuesPositiveScenario1 = dataScenario1[1]
@@ -135,62 +133,69 @@ const StackedBarChart = props => {
     })
   })
   
-const MyCustomHTMLLabel = props => {
-  const text = props.text.replaceAll('§', '')
+  const MyCustomHTMLLabel = props => {
+    const text = props.text.replaceAll('§', '')
 
-  return (
-    <foreignObject x={props.x+3} y={props.y-9} width={100} height={40}>
-      <div style={{ fontSize: '12px', fontFamily: "Open Sans" }}>{parseHtml(text)}</div>
-    </foreignObject>
-  );
-};
-const defTick = [0, 0.25, 0.5, 0.75]
-const getTickValues = () => {
-  let ret = []
-  if (-minY > maxY) {
-    ret=[-0.75,-0.5, -0.25, 0]
-    defTick.forEach((tick, i)=> {
-      if (tick !== 0.75)
-      if (-tick*minY < maxY)
-      ret.push(defTick[i+1])
-    })
+    return (
+      <foreignObject x={props.x+3} y={props.y-9} width={100} height={40}>
+        <div style={{ fontSize: '12px', fontFamily: "Open Sans" }}>{parseHtml(text)}</div>
+      </foreignObject>
+    );
+  };
+  const defTick = [0, 0.25, 0.5, 0.75]
+  const getTickValues = () => {
+    let ret = []
+    if (-minY > maxY) {
+      ret=[-0.75,-0.5, -0.25, 0]
+      defTick.forEach((tick, i)=> {
+        if (tick !== 0.75)
+        if (-tick*minY < maxY)
+        ret.push(defTick[i+1])
+      })
+    }
+    else {
+      ret=[0, 0.25, 0.5, 0.75]
+      defTick.forEach((tick, i)=> {
+        if (tick !== 0.75)
+          if (tick*maxY + maxY*0.05 < -minY)
+            ret.unshift(-defTick[i+1])
+      })
+    }
+    
+    return ret
   }
-  else {
-    ret=[0, 0.25, 0.5, 0.75]
-    defTick.forEach((tick, i)=> {
-      if (tick !== 0.75)
-        if (tick*maxY + maxY*0.05 < -minY)
-          ret.unshift(-defTick[i+1])
-    })
-  }
-  
-  return ret
-}
-const getCSVData = (accumulatedData) => {
+const getCSVData = (accumulatedData1, scenarioName1, accumulatedData2, scenarioName2) => {
   let ret = []
-  console.log("accu entries: ", Object.entries(accumulatedData))
-  Object.entries(accumulatedData).forEach((indicatorGroup) => {
+  Object.entries(accumulatedData1).forEach((indicatorGroup) => {
     //console.log("indicatorGroup: ", indicatorGroup[0])
     indicatorGroup[1].forEach((item)=>{
       //console.log("item.year: ", item.year)
       //console.log("item.value: ", item.total)
-      ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
+      ret.push({scenario: scenarioName1, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
+    })
+  //console.log('ret: ', ret)
+  })
+  Object.entries(accumulatedData2).forEach((indicatorGroup) => {
+    //console.log("indicatorGroup: ", indicatorGroup[0])
+    indicatorGroup[1].forEach((item)=>{
+      //console.log("item.year: ", item.year)
+      //console.log("item.value: ", item.total)
+      ret.push({scenario: scenarioName2, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
     })
   //console.log('ret: ', ret)
   })
   return ret
   //{scenario: scen.scenario, indicator: ind.indicator, indicatorGroup: indicatorGroup.indicatorGroup, year: y, value:0}
 }
-//getCSVData(dataScenario1[0])
   return (
     <ChartContainer>
     <ChartHeader>
       <ChartTitle>{chartTitle}</ChartTitle>
-      {showButton && <CSVLink 
-        data={getCSVData(dataScenario1[0])}
+      <CSVLink 
+        data={getCSVData(dataScenario1[0], scenario, dataScenario2 ? dataScenario2[0] : [], scenario2)}
         filename={chartTitle + " " + selectedCountries + ".csv"}
       >
-        Download as CSV</CSVLink>}
+        Download as CSV</CSVLink>
     </ChartHeader>
       <VictoryChart
         domainPadding={20}
@@ -254,9 +259,9 @@ const getCSVData = (accumulatedData) => {
                               (chartGroupValue.total * 100) /
                               props.divideValues
                             ).toFixed(0) + '%'
-                          : (
-                              chartGroupValue.total / props.divideValues
-                            ).toFixed(0)),
+                          : 
+                              Math.round(chartGroupValue.total / props.divideValues * 100, 2)/100
+                            ),
                     })}
                   )}
                   x="year"

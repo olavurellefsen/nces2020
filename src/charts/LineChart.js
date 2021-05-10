@@ -21,10 +21,18 @@ import {colorNER} from './chartColors'
 import periods from './../data/years'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
+import { CSVLink } from 'react-csv'
 
-const ChartTitle = styled.div`
+const ChartHeader = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin-left: 70px;
+  margin-right: 30px;
   margin-top: 20px;
+  margin-bottom: 10px;
+`
+const ChartTitle = styled.div`
   font-size: 18px;
   font-weight: bold;
   font-family: Ropa Sans;
@@ -39,47 +47,79 @@ const ChartContainer = styled.div`
   margin-bottom: 10px;
   border-radius: 4px;
 `
-const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCountries, chartName }) => {
-  //console.log("scenario1: ", selectedScenario)
-  //console.log("scenario2: ", selectedScenario2)
-let selectedDataRegions = [] 
-  mapRegionToDataRegions.forEach((mapRegion) => {
-      if(selectedCountries.includes(mapRegion.path_id)) {
-      mapRegion.data_regions.forEach((dataRegion) => {
-        selectedDataRegions.push(dataRegion)
-      })
-    }
-  })
-  if (selectedScenario.includes("_copy"))
-selectedScenario = selectedScenario.replace("_copy", "")
-if (selectedScenario2.includes("_copy"))
-selectedScenario2 = selectedScenario2.replace("_copy", "")
-let legends = new Set()
-  lineData.data.scenarios
-  .find(o => o.scenario.toLowerCase() === selectedScenario.toLowerCase())
-  .indicators.find(o => o.indicator === chartName).regions.forEach((reg)=>{
-    reg.indicatorGroups.forEach((group)=>{
-      legends.add(group.indicatorGroup)
+
+const getCSVData = (lineData1, scenarioName1, lineData2 = [], scenarioName2) => {
+  let ret = []
+  
+  lineData1.regions.forEach((region) => {
+    region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
+      ret.push({scenario: scenarioName1, indicatorGroup: region.region, year: item.year, value: item.total})
     })
   })
-  
-legends = selectedDataRegions
+  lineData2 && lineData2.length !== 0 && lineData2.regions.forEach((region) => {
+    region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
+      ret.push({scenario: scenarioName2, indicatorGroup: region.region, year: item.year, value: item.total})
+    })
+  })
+  return ret
+}
+const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCountries, chartName }) => {
+  let selectedDataRegions = [] 
+    mapRegionToDataRegions.forEach((mapRegion) => {
+        if(selectedCountries.includes(mapRegion.path_id)) {
+        mapRegion.data_regions.forEach((dataRegion) => {
+          selectedDataRegions.push(dataRegion)
+        })
+      }
+    })
+    if (selectedScenario.includes("_copy"))
+  selectedScenario = selectedScenario.replace("_copy", "")
+  if (selectedScenario2.includes("_copy"))
+  selectedScenario2 = selectedScenario2.replace("_copy", "")
+  let legends = new Set()
+    lineData.data.scenarios
+    .find(o => o.scenario.toLowerCase() === selectedScenario.toLowerCase())
+    .indicators.find(o => o.indicator === chartName).regions.forEach((reg)=>{
+      reg.indicatorGroups.forEach((group)=>{
+        legends.add(group.indicatorGroup)
+      })
+    })
+    
+  legends = selectedDataRegions
 
-//const maxY = 4
-let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
-  return scenario.scenario.toLowerCase() === selectedScenario.toLowerCase()
-})
-let indicatorData = selectedScenarioData.indicators.find((indicator) => {
-  return indicator.indicator === chartName
-})
+  //const maxY = 4
+  let indicatorData1 = []
+  let indicatorData2 = []
+  let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
+    return scenario.scenario.toLowerCase() === selectedScenario.toLowerCase()
+  })
+  indicatorData1 = selectedScenarioData.indicators.find((indicator) => {
+    return indicator.indicator === chartName
+  })
+  selectedScenario2 !== "" && selectedDataRegions.forEach((country, i)=>{
+    let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
+      return scenario.scenario.toLowerCase() === selectedScenario2.toLowerCase()
+    })
+    indicatorData2 = selectedScenarioData.indicators.find((indicator) => {
+      return indicator.indicator === chartName
+    })
+  })
+
   return (
     <>
   <ChartContainer>
-      <ChartTitle>{chartName}</ChartTitle>
+    <ChartHeader>
+      <ChartTitle>{indicatorData1.indicator}</ChartTitle>
+      <CSVLink 
+        data={getCSVData(indicatorData1, selectedScenario, indicatorData2, selectedScenario2)}
+        filename={indicatorData1.indicator + " " + selectedCountries + ".csv"}
+      >
+        Download as CSV</CSVLink>
+    </ChartHeader>
       <VictoryChart domainPadding={20}
       containerComponent={
     <VictoryVoronoiContainer
-      labels={({ datum }) => `${datum.x}, ${Math.round(datum.y, 2)}`}
+      labels={({ datum }) => `${datum.x}, ${Math.round(100*datum.y, 2)/100}`}
     />
   }
         width={550}
@@ -100,13 +140,13 @@ let indicatorData = selectedScenarioData.indicators.find((indicator) => {
               }`
             }
             tickValues={[0, 0.25, 0.5, 0.75]}*/
-            label={indicatorData.unit}
+            label={indicatorData1.unit}
           />
           <VictoryGroup >
         {selectedDataRegions.map((country, i)=>{
           let lineChartData = []
           
-          indicatorData.regions.forEach((region)=>{
+          indicatorData1.regions.forEach((region)=>{
             if (region.region === country) {
               region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
               lineChartData.push({x: item.year, y: item.total})

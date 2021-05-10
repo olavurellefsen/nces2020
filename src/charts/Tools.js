@@ -60,6 +60,7 @@ function createAccumulatedData(data, scenario, percentage, chartName, selectedCo
 function createAccumulatedHistoricalData1(data, selectedCountries) {
   let accumulatedHistoricalData = {}
   let totalHistoricalYearValues = {}
+  let csv =[]
   historicalYears.forEach(year => {
     totalHistoricalYearValues[year] = 0
 })
@@ -91,12 +92,13 @@ data.data.nces_eleproduction.forEach((item, i)=>{
   }
 })
 
+
 let fuelTypes = []
 data.data.nces_eleproduction.forEach((item)=>{
   if (fuelTypes.indexOf(item.nces_fuel_type.fuel_type) === -1)
     fuelTypes.push(item.nces_fuel_type.fuel_type)
 })
-  return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
+  return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes, csv]
 }
 
 function createAccumulatedHistoricalData2(data, selectedCountries) {

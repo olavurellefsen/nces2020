@@ -12,23 +12,30 @@ import {
   VictoryAxis,
   VictoryLine
 } from 'victory'
+import { CSVLink } from 'react-csv'
 
-const ChartTitle = styled.div`
-  margin-left: 70px;
-  margin-top: 20px;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: Ropa Sans;
-`
 const ChartContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   width: 550px;
+  height: 650px;
   background: white;
   margin-right: 10px;
   margin-bottom: 10px;
   border-radius: 4px;
+`
+const ChartHeader = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 70px;
+  margin-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+`
+const ChartTitle = styled.div`
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Ropa Sans;
+  margin-right: 10px;
 `
 
 const LineChartDoubleYAxisHistorical = ({
@@ -76,7 +83,15 @@ const legendColors = () => {
   })
   return ret
 }
-
+const getCSVData = (lineData) => {
+  let ret = []
+  Object.entries(lineData).forEach((indicatorGroup) => {
+    indicatorGroup[1].forEach((item)=>{
+      ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y})
+    })
+  })
+  return ret
+}
 const renderLines = (lineData) => {
   let ret = []
   for (let line in lineData) {
@@ -95,12 +110,20 @@ const legends = Object.keys(data)
 return (
   <>
   <ChartContainer>
-  <ChartTitle>{chartName}</ChartTitle>
+  <ChartHeader>
+      <ChartTitle>{chartName}</ChartTitle>
+      <CSVLink 
+        data={getCSVData(data)}
+        filename={chartName + " " + selectedCountries + ".csv"}
+      >
+        Download as CSV</CSVLink>
+    </ChartHeader>
   <div>
     {selectedCountries.length !== 0 && <VictoryChart domainPadding={20}
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
+        style={{parent: { height: "550px" }}}
         theme={VictoryTheme.material}>
         <VictoryAxis 
           key={'lineAxis'} tickValues={xRange} />
