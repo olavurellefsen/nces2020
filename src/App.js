@@ -74,6 +74,7 @@ scenarioCombinations.scenarioCombinations.scenarioOptions
 export class App extends React.Component {
   constructor(props) {
     super(props)
+    
     this.state = {
       scenarioSelection: default_scenario,
       scenarioSelection2: '',
@@ -191,7 +192,6 @@ export class App extends React.Component {
   }
   
   render() {
-    //console.log("router: ", router)
     return (
       <Page>
         <LeftColumn>
