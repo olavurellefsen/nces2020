@@ -24,14 +24,17 @@ const Charts = props => {
 
         <ScenarioDescriptionsContainer isWelcomeOpen={props.scenarioSelection.showWelcome}>
           <Scenario1Description>
+            {selectedScenario2 && <div>LEFT COLUMN IN CHART</div>}
             {scenarioCombinations.scenarioCombinations.scenarioOptions.find(
-              (option)=>option.name.toLowerCase() === selectedScenario.toLowerCase())?.desc
+              (option)=>option.name.toLowerCase() === selectedScenario.toLowerCase())?.desc.toUpperCase()
             }
           </Scenario1Description>
-          {selectedScenario2 && <Scenario2Description>{
+          {selectedScenario2 && <Scenario2Description>
+            <div>RIGHT COLUMN IN CHART</div> 
+          {
             scenarioCombinations.scenarioCombinations.scenarioOptions.find(
               (option)=>option.name.toLowerCase() === selectedScenario2.toLowerCase()
-            )?.desc
+            )?.desc.toUpperCase()
           }</Scenario2Description>}
         </ScenarioDescriptionsContainer>
       {(props.scenarioSelection.showDifference === false ||
@@ -116,7 +119,7 @@ const ScenarioDescriptionsContainer = styled(Flex)`
 `
 const Scenario1Description = styled.div`
   flex: 1;
-  background-color: #ef403b;
+  background-color: #385988;
   max-width: 45%;
   margin-right: 10px;
   padding: 15px 25px;
@@ -125,7 +128,7 @@ const Scenario1Description = styled.div`
 `
 const Scenario2Description = styled.div`
   flex: 1;
-  background-color: #385988;
+  background-color: #bcbde2;
   padding: 15px 25px;
   color: white;
   border-radius: 4px;

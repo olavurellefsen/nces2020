@@ -27,7 +27,7 @@ const AppLogo = styled.img`
   max-width: 75px;
   margin: 5px;
   border: 0;
-  transform: scale(1.5) translate(10px);
+  transform: scale(2) translate(12px);
 `;
 
 const LinkLogo = styled.img`
@@ -35,7 +35,7 @@ const LinkLogo = styled.img`
   max-width: 100px;
   border: 0;
   align-self: center;
-  transform: scale(0.8);
+  transform: scale(0.6);
 `;
 
 const MenuHeader = styled.div`

@@ -104,7 +104,8 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
       return indicator.indicator === chartName
     })
   })
-
+  let tempValue = null
+  let tempLine = null
   return (
     <>
   <ChartContainer>
@@ -119,7 +120,19 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
       <VictoryChart domainPadding={20}
       containerComponent={
     <VictoryVoronoiContainer
-      labels={({ datum }) => `${datum.x}, ${Math.round(100*datum.y, 2)/100}`}
+      labels={({ datum }) => {
+        if (datum.y === tempValue){
+          if(datum.childName === tempLine){
+            return (`${datum.x}, ${Math.round(100*datum.y, 2)/100}`)
+          }
+        } 
+        else {
+          tempValue = datum.y
+          tempLine = datum.childName
+          return(`${datum.x}, ${Math.round(100*datum.y, 2)/100}`)
+        }  
+      }}
+      labelComponent={<VictoryTooltip />}
     />
   }
         width={550}
@@ -165,7 +178,11 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
                       else
                         return colorNER[i]
                       } },
-              }}>
+              }}
+              //labels={()=> "heelo"}
+              labelComponent={<VictoryTooltip />}
+              >
+              
             </VictoryLine>
           )
         })}
@@ -184,6 +201,7 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
               })
             }
           })
+          console.log("linechartData2")
           return(
             <VictoryLine 
               key={"lini"+i} 
@@ -197,7 +215,11 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
                         return colorNER[i]
                       }, strokeDasharray: "4" },
               }}
-              labelComponent={<VictoryTooltip />}
+              /*labelComponent={(data)=>{
+                console.log("data: ", data)
+                return (<VictoryTooltip data={[{2020: 100}]} />)
+                }
+              }*/
             >
             </VictoryLine>
           )

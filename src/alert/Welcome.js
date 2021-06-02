@@ -52,12 +52,17 @@ const AlertBody = styled.div`
   margin: 0px;
   align-self: center;
   ${'' /* flex: 1; */}
+  max-width: 1090px;
 `;
 AlertBody.displayName = "AlertBody";
 const AlertTitle = styled.div`
   font-size: 1.3em;
+  color: #454547;
+  max-width: 1090px;
 `;
-const AlertBodyParagraph = styled.p``;
+const AlertBodyParagraph = styled.p`
+  color: #6F7173;
+`;
 AlertBodyParagraph.displayName = "AlertBodyParagraph";
 const CloseWindowIcon = styled.div`
   position: absolute;
@@ -70,6 +75,7 @@ const CloseWindowIcon = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  
   
   :hover {
     cursor: pointer;

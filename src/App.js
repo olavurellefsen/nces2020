@@ -323,7 +323,7 @@ export class App extends React.Component {
                   )
                 }}
               />
-			  <Route
+              <Route
                 path="/model"
                 render={() => {
                   return (
@@ -339,19 +339,27 @@ export class App extends React.Component {
                   )
                 }}
               />
-			  <Route
+              <Route
                 path="/findings"
-                render={() => {
-                  return (
-                    <PageRenderer markdownFiles={['descriptions/findings.md']} />
-                  )
-                }}
-              />
-          <Route
+                  render={() => {
+                    return (
+                      <PageRenderer markdownFiles={['descriptions/findings.md']} />
+                    )
+                  }}
+                />
+              <Route
                 path="/historical"
                 render={() => {
                   return (
                     <PageRenderer markdownFiles={['descriptions/historical.md']} />
+                  )
+                }}
+              />
+              <Route
+                path="/how-to-use"
+                render={() => {
+                  return (
+                    <PageRenderer markdownFiles={['descriptions/howto.md']} />
                   )
                 }}
               />

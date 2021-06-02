@@ -4,13 +4,21 @@ import styled from "styled-components";
 import { ReactComponent as Regions } from './regions.svg'
 
 const activeCountries = ['dk', 'no', 'se', 'fi', 'is']
-
+const CountryName = styled.div`
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  border: 1px solid pink;
+`
 const countryColorsCSS = props =>
   props.countries.map(
     country => `
     #${country} {
       fill:  ${props.selectedCountries.includes(country) ? '#006eb6' : '#aaa'};
       :hover {fill: #adcff1;}
+      :hover ${CountryName} {
+        border: 10px solid pink;
+      }
     }
     `
 )
@@ -23,8 +31,9 @@ const countryColorsCSS = props =>
   stroke-miterlimit: 22.9256;
   position: relative;
 `
+
 const MapContainer = (props) => (
-    <StyledRegions selectedCountries={props.selectedCountries} countries={activeCountries}> 
+  <StyledRegions selectedCountries={props.selectedCountries} countries={activeCountries}> 
     <Regions
       onClick={event => {
         const id = event.target.id
@@ -34,6 +43,7 @@ const MapContainer = (props) => (
         }
       }}
     />
+    <CountryName>Hello</CountryName>
   </StyledRegions>
 )
 

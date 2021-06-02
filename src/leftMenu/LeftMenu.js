@@ -37,7 +37,7 @@ const AppLogo = styled.img`
   max-width: 180px;
   border: 0;
   align-self: center;
-  transform: scale(1.5) translate(25px);
+  transform: scale(2.2) translate(43px);
 `;
 
 const MenuSeparatorLine = styled.hr`
@@ -101,7 +101,7 @@ const ToggleSwitchText = styled.div`
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
-    props.singleMode ? "gray" : props.selected ? "#006eb6" : "white"};
+    props.singleMode ? "gray" : props.selected ? "#385988" : "white"};
   margin-left: 60px;
   margin-bottom: 5px;
 `;
@@ -142,6 +142,7 @@ const LinkLogo = styled.img`
   max-width: 100px;
   border: 0;
   align-self: center;
+  transform: scale(0.85);
 `;
 const Header = styled.h1`
   font-size: ${props => (props.narrowVersion ? "0.9em" : "1em")};
@@ -195,6 +196,12 @@ function ScenarioSelectionMenu(props) {
           >
             {t("menu.desktop.historical")}
           </MenuItem>
+          <MenuItem
+            to="/how-to-use"
+            selected={props.selectedChartgroup === "/how-to-use"}
+          >
+            {t("menu.desktop.howto")}
+          </MenuItem>
         </MenuRoutes>
       </MenuHeader>
       {scenarioSelectorVisible && 
@@ -225,13 +232,15 @@ function ScenarioSelectionMenu(props) {
         />
       </ScenarioSelection>
       {location.pathname !== "/tab8" && <><MenuSeparatorLine />
+      
       <ToggleDifference
         onClick={e => {
           if (props.scenarioSelection.scenarioSelection2 !== "") {
             props.toggleDifference(e);
           }
         }}
-      >
+      > 
+        
         <ToggleSwitch
           available={props.scenarioSelection.scenarioSelection2 !== ""}
           checked={props.scenarioSelection.showDifference}

@@ -6,19 +6,21 @@
       "scenarios": "Scenarios",
       "findings": "Ten key",
       "model": "Model and data",
-      "historical": "Historical data"
+      "historical": "Historical data",
+      "howto": "How to use"
     },
     "desktop": {
       "about": "About Nordic Clean Energy Scenarios",
       "scenarios": "Description of scenarios",
       "findings": "Ten key messages",
       "model": "The ON-TIMES model and data",
-      "historical": "Nordic historical data"
+      "historical": "Nordic historical data",
+      "howto": "How to use"
     }
   },
   "options": {
-    "opt0": "Expensive CO2 storage",
-    "opt1": "Restrict bioenergy import",
+    "opt0": "Increased cost for CCS",
+    "opt1": "Restrictions for bioenergy imports",
     "opt2": "Increase cost of electrict vehicles",
     "opt3": "Include shared autonomous cars",
     "unavailable": "(unavailable)"
@@ -30,7 +32,7 @@
     "opt2": "ELC",
     "opt3": "SAC",
     "scenario-difference": "Scenario difference",
-    "red-minus-green": "(red minus blue)",
+    "red-minus-green": "This function will calculate the difference in value between the blue and violet model results.",
     "tokni": "Tokni",
     "developed-by": "Developed by",
     "countries": "Choose countries"
