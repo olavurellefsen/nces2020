@@ -201,7 +201,6 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
               })
             }
           })
-          console.log("linechartData2")
           return(
             <VictoryLine 
               key={"lini"+i} 

@@ -191,6 +191,7 @@ export class App extends React.Component {
   }
   
   render() {
+    //console.log("router: ", router)
     return (
       <Page>
         <LeftColumn>
@@ -340,6 +341,7 @@ export class App extends React.Component {
                 }}
               />
               <Route
+                exact
                 path="/findings"
                   render={() => {
                     return (
@@ -348,6 +350,7 @@ export class App extends React.Component {
                   }}
                 />
               <Route
+                exact
                 path="/historical"
                 render={() => {
                   return (
@@ -356,6 +359,7 @@ export class App extends React.Component {
                 }}
               />
               <Route
+                exact
                 path="/how-to-use"
                 render={() => {
                   return (

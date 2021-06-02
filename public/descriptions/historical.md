@@ -12,4 +12,5 @@ From these data variables progress indicators have been calculated:
 - Energy intensity (kWh/m2) and CO2 emissions intensity (kgCO2/m2) in the buildings sector 
 - CO2 emissions (Mt CO2) from road transport
 
-You can review these indicators under the [Historical Data tab][./tab9].
+You can review these indicators under the 
+[Historical Data tab](./tab9).
