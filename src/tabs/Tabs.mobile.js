@@ -59,6 +59,7 @@ function Tabs(props) {
           <TabItem to='/tab7' selected={props.selectedChartgroup==='/tab7'}>{t("tabs.mobile.tab7")}</TabItem>
           <TabItem to="/tab8" selected={props.selectedChartgroup==="/tab8"}>{t("tabs.mobile.tab8")}</TabItem>
           <TabItem historical="true" to='/tab9' selected={props.selectedChartgroup==='/tab9'}>{t("tabs.mobile.tab9")}</TabItem>
+          <TabItem historical="true" to="/tab10" selected={props.selectedChartgroup === "/tab10"}>{t("tabs.tab10")}</TabItem>
       </TabLayout>
     );
   }

@@ -74,6 +74,7 @@
     "tab7": "Transport",
     "tab8": "KPIs",
     "tab9": "Historical Data",
+    "tab10": "Raw Historical Data",
 	"mobile": {
       "tab1": "Main results",
       "tab2": "Upstream",
@@ -83,12 +84,13 @@
       "tab6": "Residential",
       "tab7": "Transport",
       "tab8": "KPIs",
-	    "tab9": "Historical"
+	    "tab9": "Historical",
+      "tab10": "Raw Hist Data"
     }
   },
   "welcome-text": {
     "tab1": {
-      "welcome-1": "Welcome to Nordic Clean Energy Scenarios 2020 (NCES2020) scenario viewer.",
+      "welcome-1": "Welcome to Nordic Clean Energy Scenarios 2020 (NCES2020) scenario viewer.CO<sub>2</sub>",
       "welcome-2": "The project is funded by Nordic Energy Research and is carried out by a Nordic team of researchers and consultants – see about NCES2020.",
       "welcome-3": "On this webpage you can compare scenarios and change assumptions. All the scenarios reach carbon neutrality before 2050, but technology choice, fuel consumption and cost will change when changing assumptions about readiness of technologies and whether the countries can import biomass and biofuels.",
       "welcome-4": "You can look at results for all countries or for individual countries by clicking them on and off on the map to the left.",
@@ -114,6 +116,9 @@
       "welcome-2": "The database aims for harmonising energy sector and related data across all the five Nordic countries. It will serve as a reference for research work as well as for the general public to see energy related data and selected progress indicators. ",
       "welcome-3": "The database will be published and maintained by Nordic Energy Research. Original sources of the data are mentioned in the metadata part for each data item. ",
       "welcome-4": "Sources: Eurostat, IEA, national statistics"
+    },
+    "tab-raw-history": {
+      "welcome-1": "Welcome to Nordic Energy Statistics Database Raw Historical Data"
     }
   },
   "chartTitle": {
