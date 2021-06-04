@@ -44,7 +44,7 @@ const HistoricalCharts = props => {
         <Welcome 
           isOpen={props.scenarioSelection.showWelcome}
           closeWelcome={props.closeWelcome} 
-          tab="tab-history"/>
+          tab="tabHistory"/>
       <Flex>
       <LineChartHistorical
         chartName={"Share of RE in electricity"}

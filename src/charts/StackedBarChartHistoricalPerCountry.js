@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import parseHtml from 'html-react-parser'
 import {
   VictoryChart,
   VictoryLabel,
@@ -105,10 +106,19 @@ const StackedBarChartHistoricalPerCountry = ({
     })
     return ret
   }
+  const HTMLYAxisLabel = props => {
+    const text = props.text.replaceAll('§', '')
+    const co2Text = text.replace("CO2", "CO<sub>2</sub>")
+    return (
+      <foreignObject x={props.x+3-95} y={props.y-9} width={90} height={60}>
+        <div style={{ fontSize: '12px', transform: "rotate(-90deg)" }}>{parseHtml(co2Text)}</div>
+      </foreignObject>
+    );
+  };
 return (
   <ChartContainer>
   <ChartHeader>
-      <ChartTitle>{chartName}</ChartTitle>
+      <ChartTitle>{parseHtml(chartName.replaceAll("CO2", "CO<sub>2</sub>"))}</ChartTitle>
       <CSVLink 
         data={getCSVData(accumulatedData)}
         filename={chartName + " " + selectedCountries + ".csv"}
@@ -127,7 +137,7 @@ return (
       <VictoryAxis key={0} tickValues={[1990, 1995, 2000, 2005, 2010, 2015]} tickFormat={[1990, 1995, 2000, 2005, 2010, 2015]} />
       <VictoryAxis
         dependentAxis
-        axisLabelComponent={<VictoryLabel dx={10} dy={-50} />}
+        axisLabelComponent={<HTMLYAxisLabel dx={10} dy={-50} />}
         key={2}
         offsetX={80}
         tickFormat={tick =>

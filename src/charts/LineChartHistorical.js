@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import parseHtml from 'html-react-parser'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 import { colorNER } from "./chartColors"
 import historicalYears from "./../data/historicalyears"
@@ -102,7 +103,7 @@ return (
   <>
   <ChartContainer>
   <ChartHeader>
-      <ChartTitle>{chartName}</ChartTitle>
+      <ChartTitle>{parseHtml(chartName.replaceAll("CO2", "CO<sub>2</sub>"))}</ChartTitle>
       <CSVLink 
         data={getCSVData(data)}
         filename={chartName + " " + selectedCountries + ".csv"}

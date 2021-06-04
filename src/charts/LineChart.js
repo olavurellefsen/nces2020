@@ -1,11 +1,10 @@
 import React from 'react'
 //import PropTypes from 'prop-types'
 import styled from 'styled-components'
-//import parseHtml from 'html-react-parser'
+import parseHtml from 'html-react-parser'
 //import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
-  VictoryLabel,
   VictoryLegend,
   VictoryGroup,
   //VictoryStack,
@@ -104,13 +103,33 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
       return indicator.indicator === chartName
     })
   })
+
+  const HTMLYAxisLabel = props => {
+    const text = props.text.replaceAll('§', '')
+    const co2Text = text.replace("CO2", "CO<sub>2</sub>")
+    return (
+      <foreignObject x={props.x+3-115} y={props.y-9} width={120} height={90}>
+        <div style={{ fontSize: '12px', transform: "rotate(-90deg)" }}>{parseHtml(co2Text)}</div>
+      </foreignObject>
+    );
+  };
+  const HTMLLabel = props => {
+    const text = props.text.replaceAll('§', '')
+    const co2Text = text.replace("CO2", "CO<sub>2</sub>")
+    return (
+      <foreignObject x={props.x+3} y={props.y-9} width={90} height={60}>
+        <div style={{ fontSize: '12px' }}>{parseHtml(co2Text)}</div>
+      </foreignObject>
+    );
+  };
+
   let tempValue = null
   let tempLine = null
   return (
     <>
   <ChartContainer>
     <ChartHeader>
-      <ChartTitle>{indicatorData1.indicator}</ChartTitle>
+      <ChartTitle>{parseHtml(indicatorData1.indicator.replaceAll("CO2", "CO<sub>2</sub>"))}</ChartTitle>
       <CSVLink 
         data={getCSVData(indicatorData1, selectedScenario, indicatorData2, selectedScenario2)}
         filename={indicatorData1.indicator + " " + selectedCountries + ".csv"}
@@ -143,7 +162,7 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
           key={0} tickValues={periods} tickFormat={periods} />
           <VictoryAxis
             dependentAxis
-            axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
+            axisLabelComponent={<HTMLYAxisLabel dx={10} dy={-50}/>}
             key={2}
             offsetX={80}
             domain={[0, .001]}
@@ -232,7 +251,7 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
             gutter={10}
             rowGutter={10}
             symbolSpacer={4}
-            itemsPerRow={4}
+            itemsPerRow={5}
             style={{
               title: { fontSize: 34, leftPadding: -10 },
             }}
@@ -250,6 +269,8 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
                     },
                   }
               }))}
+              
+            labelComponent={<HTMLLabel />}
           />
       </VictoryChart>
       </ChartContainer>

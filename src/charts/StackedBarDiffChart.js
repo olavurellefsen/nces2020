@@ -181,7 +181,7 @@ const StackedBarChart = props => {
 
   return (
     <ChartContainer>
-      <ChartTitle>{chartTitle}</ChartTitle>
+      <ChartTitle>{parseHtml(chartTitle.replaceAll("CO2", "CO<sub>2</sub>"))}</ChartTitle>
       <VictoryChart
         domainPadding={20}
         width={550}

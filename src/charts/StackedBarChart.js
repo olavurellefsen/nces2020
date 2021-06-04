@@ -5,7 +5,6 @@ import parseHtml from 'html-react-parser'
 //import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
-  VictoryLabel,
   VictoryLegend,
   VictoryGroup,
   VictoryStack,
@@ -133,15 +132,6 @@ const StackedBarChart = props => {
     })
   })
   
-  const MyCustomHTMLLabel = props => {
-    const text = props.text.replaceAll('§', '')
-
-    return (
-      <foreignObject x={props.x+3} y={props.y-9} width={100} height={40}>
-        <div style={{ fontSize: '12px', fontFamily: "Open Sans" }}>{parseHtml(text)}</div>
-      </foreignObject>
-    );
-  };
   const defTick = [0, 0.25, 0.5, 0.75]
   const getTickValues = () => {
     let ret = []
@@ -187,10 +177,29 @@ const getCSVData = (accumulatedData1, scenarioName1, accumulatedData2, scenarioN
   return ret
   //{scenario: scen.scenario, indicator: ind.indicator, indicatorGroup: indicatorGroup.indicatorGroup, year: y, value:0}
 }
+const HTMLYAxisLabel = props => {
+  const text = props.text.replaceAll('§', '')
+  const co2Text = text.replace("CO2", "CO<sub>2</sub>")
+  return (
+    <foreignObject x={props.x+3-95} y={props.y-9} width={90} height={60}>
+      <div style={{ fontSize: '12px', transform: "rotate(-90deg)" }}>{parseHtml(co2Text)}</div>
+    </foreignObject>
+  );
+};
+const HTMLLabel = props => {
+  const text = props.text.replaceAll('§', '')
+  console.log("text labell: ", text)
+  const co2Text = text.replace("CO2", "CO<sub>2</sub>")
+  return (
+    <foreignObject x={props.x+3} y={props.y-9} width={90} height={60}>
+      <div style={{ fontSize: '12px' }}>{parseHtml(co2Text)}</div>
+    </foreignObject>
+  );
+};
   return (
     <ChartContainer>
     <ChartHeader>
-      <ChartTitle>{chartTitle}</ChartTitle>
+      <ChartTitle>{parseHtml(chartTitle.replaceAll("CO2", "CO<sub>2</sub>"))}</ChartTitle>
       <CSVLink 
         data={getCSVData(dataScenario1[0], scenario, dataScenario2 ? dataScenario2[0] : [], scenario2)}
         filename={chartTitle + " " + selectedCountries + ".csv"}
@@ -209,7 +218,7 @@ const getCSVData = (accumulatedData1, scenarioName1, accumulatedData2, scenarioN
       
         <VictoryAxis
           dependentAxis
-          axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
+          axisLabelComponent={<HTMLYAxisLabel dx={100} dy={-50}/>}
           key={2}
           offsetX={80}
           tickFormat={tick =>
@@ -346,7 +355,7 @@ const getCSVData = (accumulatedData1, scenarioName1, accumulatedData2, scenarioN
                 },
               }}
           ))}
-          labelComponent={<MyCustomHTMLLabel />}
+          labelComponent={<HTMLLabel />}
         />
       </VictoryChart>
     </ChartContainer>

@@ -8,7 +8,7 @@ const RawHistoricalCharts = props => {
         <Welcome 
           isOpen={props.scenarioSelection.showWelcome}
           closeWelcome={props.closeWelcome} 
-          tab="tab-raw-history"/>
+          tab="tabRawHistory"/>
       <Flex>
       
       </Flex>

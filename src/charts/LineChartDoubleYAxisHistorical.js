@@ -3,9 +3,9 @@ import styled from 'styled-components'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 import { colorNER } from "./chartColors"
 import historicalYears from "./../data/historicalyears"
+import parseHtml from 'html-react-parser'
 import {
   VictoryChart,
-  VictoryLabel,
   VictoryLegend,
   VictoryGroup,
   VictoryTheme,
@@ -107,11 +107,30 @@ const renderLines = (lineData) => {
 }
 const legends = Object.keys(data)
 
+const HTMLYAxisLabel = props => {
+  const text = props.text.replaceAll('§', '')
+  const co2Text = text.replaceAll("CO2", "CO<sub>2</sub>")
+  const m2Text = co2Text.replaceAll("m2", "m<sup>2</sup>")
+  return (
+    <foreignObject x={props.x+3-275} y={props.y-189} width={450} height={450}>
+      <div style={{ fontSize: '12px', transform: "rotate(-90deg)" }}>{parseHtml(m2Text)}</div>
+    </foreignObject>
+    );
+  };
+  const HTMLLabel = props => {
+  const text = props.text.replaceAll('§', '')
+  const co2Text = text.replaceAll("CO2", "CO<sub>2</sub>")
+  return (
+    <foreignObject x={props.x+3} y={props.y-9} width={290} height={260}>
+      <div style={{ fontSize: '12px' }}>{parseHtml(co2Text)}</div>
+    </foreignObject>
+  );
+};
 return (
   <>
   <ChartContainer>
   <ChartHeader>
-      <ChartTitle>{chartName}</ChartTitle>
+      <ChartTitle>{parseHtml(chartName.replaceAll("CO2", "CO<sub>2</sub>"))}</ChartTitle>
       <CSVLink 
         data={getCSVData(data)}
         filename={chartName + " " + selectedCountries + ".csv"}
@@ -129,7 +148,7 @@ return (
           key={'lineAxis'} tickValues={xRange} />
           <VictoryAxis
             dependentAxis
-            axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
+            axisLabelComponent={<HTMLYAxisLabel dx={10} dy={-50}/>}
             key={2}
             offsetX={80}
             label={label}
@@ -141,7 +160,7 @@ return (
         gutter={gutter}
         rowGutter={rowGutter}
         symbolSpacer={4}
-        itemsPerRow={4}
+        itemsPerRow={5}
         style={{
           title: { fontSize: 14, leftPadding: -10 },
         }}
@@ -151,7 +170,7 @@ return (
               .substr(0, 16),
             symbol: {fill: legendColors()[i]},
           }))}
-        labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}
+        labelComponent={<HTMLLabel style={{ fontSize: '12px' }} />}
       />
           <VictoryGroup>
             {renderLines(data)}
