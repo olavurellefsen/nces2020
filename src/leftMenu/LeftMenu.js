@@ -215,7 +215,7 @@ function ScenarioSelectionMenu(props) {
         <MenuSeparatorLine />
       </>
       }
-      {location.pathname !== "/tab9" && scenarioSelectorVisible &&
+      {location.pathname !== "/tab9" && location.pathname !== "/tab10" && scenarioSelectorVisible &&
       <>
       <ScenarioSelection>
         <ScenarioSelectionList

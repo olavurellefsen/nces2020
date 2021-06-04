@@ -30,13 +30,13 @@ const CountryName = styled.div`
   ${StyledRegions}:hover & {
     display: contents;
   }
-  font-size: 20px;
+  font-size: ${props => props.narrowVersion ? '10px' :'20px'};
   color: #666666;
 `
 const CountryNameContainer = styled.div`
   position: absolute;
-  bottom: 20px;
-  left: 20px;
+  bottom: ${props => props.narrowVersion ? '5px' :'20px'};
+  left: ${props => props.narrowVersion ? '5px' :'20px'};
 `
 const MapContainer = (props) => {
   const [hoverCountry, setHoverCountry] = useState(null) 
@@ -59,8 +59,8 @@ const MapContainer = (props) => {
         setHoverCountry(country)
       }}
     />
-    <CountryNameContainer>
-      <CountryName>{hoverCountry}</CountryName>
+    <CountryNameContainer narrowVersion={props.narrowVersion}>
+      <CountryName narrowVersion={props.narrowVersion}>{hoverCountry}</CountryName>
     </CountryNameContainer>
   </StyledRegions>
 )}

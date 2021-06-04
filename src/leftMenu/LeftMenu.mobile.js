@@ -71,7 +71,7 @@ const MenuItem = styled(Link)`
   width: 100%;
   display: flex;
   align-items: center;
-  color: ${props => (props.selected ? "yellow" : "inherit")};
+  color: ${props => (props.selected ? "yellow" : "#212121")};
   text-decoration: none;
   :hover {
     text-decoration: underline;
@@ -142,6 +142,7 @@ const Header = styled.div`
   padding: ${props => (props.narrowVersion ? "5px" : "0 12px 0 15px")};
   margin: 0px 0px 5px 0px;
   text-align: center;
+  color: #212121;
 `;
 const CopyrightItem = styled.div`
   font-size: ${props => (props.narrowVersion ? "10px" : "12px")};
@@ -205,11 +206,12 @@ function ScenarioSelectionMenu(props) {
       <MenuSeparatorLine />
       <Header narrowVersion={true}> {t("general.countries")}</Header>
       <MapContainer
+        narrowVersion={true}
         selectedCountries={props.selectedCountries}
         selectCountry={props.selectCountry}
       />
       <MenuSeparatorLine />
-      {location.pathname !== "/tab9" && <><ScenarioSelection>
+      {location.pathname !== "/tab9" && location.pathname !== "/tab10" && <><ScenarioSelection>
         <ScenarioSelectionList
           updateScenarioSelection={props.updateScenarioSelection}
           name="scenarioSelection"
