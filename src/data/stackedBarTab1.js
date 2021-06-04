@@ -1227,7 +1227,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1417,7 +1417,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1570,7 +1570,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1913,7 +1913,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8041,7 +8041,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8231,7 +8231,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8384,7 +8384,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8727,7 +8727,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14855,7 +14855,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15045,7 +15045,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15198,7 +15198,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15541,7 +15541,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21669,7 +21669,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21859,7 +21859,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22012,7 +22012,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22355,7 +22355,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28483,7 +28483,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28673,7 +28673,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28826,7 +28826,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29169,7 +29169,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35297,7 +35297,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35487,7 +35487,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35640,7 +35640,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35983,7 +35983,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42111,7 +42111,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42301,7 +42301,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42454,7 +42454,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42797,7 +42797,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48925,7 +48925,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49115,7 +49115,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49268,7 +49268,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49611,7 +49611,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55739,7 +55739,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55929,7 +55929,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56082,7 +56082,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56425,7 +56425,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62553,7 +62553,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62743,7 +62743,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62896,7 +62896,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -63239,7 +63239,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69367,7 +69367,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69557,7 +69557,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69710,7 +69710,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -70053,7 +70053,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76181,7 +76181,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76371,7 +76371,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76524,7 +76524,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76867,7 +76867,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Bio-CCS",
+                    "indicatorGroup": "BECCS",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
