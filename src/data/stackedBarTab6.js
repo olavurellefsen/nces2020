@@ -202,7 +202,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -244,7 +244,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4433,7 +4433,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -4475,7 +4475,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8664,7 +8664,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8706,7 +8706,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12895,7 +12895,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12937,7 +12937,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17126,7 +17126,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -17168,7 +17168,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21357,7 +21357,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21399,7 +21399,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25588,7 +25588,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -25630,7 +25630,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29819,7 +29819,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -29861,7 +29861,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34050,7 +34050,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34092,7 +34092,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38281,7 +38281,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -38323,7 +38323,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42512,7 +42512,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42554,7 +42554,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46743,7 +46743,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46785,7 +46785,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "Aggr. appliances in Norway",
+                    "indicatorGroup": "Aggr. appliances in NO",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
