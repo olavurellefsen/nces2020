@@ -21,7 +21,9 @@ const AlertContainer = styled.div`
   ${'' /* border-width: 1px;
   border-color: blue;
   border-style: solid; */}
-  background-color: #eff0f9;
+  ${'' /* background-color: #eff0f9; */}
+  background-color: #385988;
+  color: white;
   display: flex;
   flex: 1;
   flex-wrap: wrap;
@@ -53,15 +55,19 @@ const AlertBody = styled.div`
   align-self: center;
   ${'' /* flex: 1; */}
   max-width: 1090px;
+  
 `;
 AlertBody.displayName = "AlertBody";
 const AlertTitle = styled.div`
-  font-size: 1.3em;
-  color: #454547;
-  max-width: 1090px;
+  font-size: 1.7em;
+  font-weight: 600;
+  ${'' /* color: #454547; */}
+  color: white;
+  max-width: 1090px
 `;
-const AlertBodyParagraph = styled.p`
-  color: #6F7173;
+const AlertBodyParagraph = styled.div`
+  ${'' /* color: #6F7173; */}
+  color: white;
 `;
 AlertBodyParagraph.displayName = "AlertBodyParagraph";
 const CloseWindowIcon = styled.div`
@@ -85,15 +91,11 @@ const CloseWindowIcon = styled.div`
 CloseWindowIcon.displayName = "CloseWindowIcon";
 const welcomeText = {
   "tab1": {
-    "welcome1": <p>Welcome to Nordic Clean Energy Scenarios 2020 (NCES2020) scenario viewer.</p>,
-    "welcome2": <p>The project is funded by Nordic Energy Research and is carried out by a Nordic team of researchers and consultants – see about NCES2020.</p>,
-    "welcome3": <p>On this webpage you can compare scenarios and change assumptions. All the scenarios reach carbon neutrality before 2050, but technology choice, fuel consumption and cost will change when changing assumptions about readiness of technologies and whether the countries can import biomass and biofuels.</p>,
-    "welcome4": <p>You can look at results for all countries or for individual countries by clicking them on and off on the map to the left.</p>,
-    "welcome5": <p>You can compare scenarios by clicking on the two scenarios you want to compare. The scenario with the red colour is always shown to the left in the figures and the blue coloured scenarios to the right. If you want to see the absolute difference between the scenarios - activate the “Scenario Difference” slider and the blue scenarios will be subtracted from the red.</p>,
-    "welcome6": <p>The model used for calculating the scenarios is called Open Nordic TIMES model (ON-TIMES) and is developed during the project.</p>,
-    "welcome7": <p>As with all modelling results - be critical to what you see, do not just accept it. The many combinations of scenarios represented in this viewer indicate the uncertainty of how the future Nordic energy system will develop, but also illustrate which solutions compete and which have synergies. The modelling results are highly dependent on projections of technologies, their availability, efficiency and cost, by future fuel prices and access to resources.</p>,
-    "welcome8": <p>On this first result page we show some main results like primary energy consumption, final energy consumption and total CO<sub>2</sub>-emissions.</p>,
-    "welcome9": <p>Try to select the CNN scenario twice and then increase cost of storing CO<sub>2</sub> in one of the scenarios by activating the “barrel”. Try and see how effects the amount of stored CO<sub>2</sub>.</p>
+    "welcome1": <p>Welcome to the Nordic Clean Energy Scenarios results viewer</p>,
+    "welcome2": <p>On this webpage you can explore the full modelling results from the Nordic Clean Energy Scenarios project, funded by Nordic Energy Research.</p>,
+    "welcome4": <p>This web tool allows you to compare the results from three different scenarios developed by the project, view the effects on the energy system when applying additional assumptions to the model, and delve deeper into the full downloadable data provided in the statistics database and model results. For further instructions on how to use the web tool and get the most out of the presented results please see, <a href="./how-to-use">How to use the results viewer tool</a>. To learn more about the project and access the full report please see <a href="./about">About Nordic Clean Energy Scenarios.</a></p>,
+    "welcome5": <p>All NCES scenarios reach carbon neutrality by 2050, but technology choice, fuel consumption, and cost will adapt to the options available to change assumptions on the technological readiness of CCS technologies and limitations on bioenergy availability.</p>,
+    "welcome6": <p>The results presented here are highly dependent on assumptions for technology developments and their potential availability, efficiency, and cost to just mention a few factors influencing future pathway developments. The many combinations of scenarios represented in this tool demonstrates the inherent uncertainty of using scenario modelling to predict the future Nordic energy system. What these results tell us is rather which solutions are competing, what synergies exists between low carbon energy technologies, and what factors their development is contingent on.</p>,
   },
   "tab2": {
     "welcome1": <p>The upstream sector includes oil and gas production, fossil refineries, biorefineries and PtX plants.</p>,

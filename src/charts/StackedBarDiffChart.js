@@ -24,7 +24,6 @@ const ChartTitle = styled.div`
   margin-top: 20px;
   font-size: 18px;
   font-weight: bold;
-  font-family: Ropa Sans;
 `
 const ChartContainer = styled.div`
   width: 550px;

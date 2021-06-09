@@ -40,7 +40,6 @@ const ChartHeader = styled.div`
 const ChartTitle = styled.div`
   font-size: 18px;
   font-weight: bold;
-  font-family: Ropa Sans;
 `
 const StackedBarChart = props => {
   //const { t } = useTranslation()
@@ -53,8 +52,8 @@ const StackedBarChart = props => {
   const chartTitle = props.chartTitle
   const combinedChart = false //props.combinedChart
 
-  let gutter, rowGutter
-  if (
+  //let gutter, rowGutter
+  /* if (
     !process.env.NODE_ENV ||
     process.env.NODE_ENV === 'development' ||
     process.env.NODE_ENV === 'test'
@@ -64,7 +63,7 @@ const StackedBarChart = props => {
   } else {
     gutter = 0
     rowGutter = 0
-  }
+  } */
 
    let maxY2 = 1
   // let minY2 = 0
@@ -181,14 +180,13 @@ const HTMLYAxisLabel = props => {
   const text = props.text.replaceAll('§', '')
   const co2Text = text.replace("CO2", "CO<sub>2</sub>")
   return (
-    <foreignObject x={props.x+3-95} y={props.y-9} width={90} height={60}>
+    <foreignObject x={props.x+3-95} y={props.y-9} width={120} height={120}>
       <div style={{ fontSize: '12px', transform: "rotate(-90deg)" }}>{parseHtml(co2Text)}</div>
     </foreignObject>
   );
 };
 const HTMLLabel = props => {
   const text = props.text.replaceAll('§', '')
-  console.log("text labell: ", text)
   const co2Text = text.replace("CO2", "CO<sub>2</sub>")
   return (
     <foreignObject x={props.x+3} y={props.y-9} width={90} height={60}>
@@ -333,9 +331,9 @@ const HTMLLabel = props => {
           x={90}
           y={10}
           orientation="horizontal"
-          gutter={gutter}
-          rowGutter={rowGutter}
-          symbolSpacer={4}
+          gutter={18}
+          rowGutter={0}
+          symbolSpacer={5}
           itemsPerRow={4}
           style={{
             title: { fontSize: 14, leftPadding: -10 },
@@ -344,8 +342,7 @@ const HTMLLabel = props => {
           colorScale={colorNER}
           data={Array.from(legends).map((legend, i) => ({
               name: legend
-                .concat('        ')
-                .substr(0, 16),
+                ,
               //fill: colors[i],
               symbol: { fill: () => {
                 if (indicatorgroup_colors[legend]) 

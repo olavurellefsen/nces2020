@@ -10,6 +10,7 @@ const AboutContainer = styled.div`
   flex-wrap: wrap;
   align-content: flex-start;
   flex-direction: column;
+  max-width: 1110px;
 `;
 
 class ScenarioDescriptions extends Component {

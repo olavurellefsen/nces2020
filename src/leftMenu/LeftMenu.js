@@ -54,6 +54,7 @@ const MenuRoutes = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  z-index: 100;
 `;
 
 const MenuItem = styled(Link)`
@@ -65,12 +66,12 @@ const MenuItem = styled(Link)`
   display: flex;
   align-items: center;
   text-decoration: none;
-  opacity: 0.6;
+  opacity:  ${props => (props.selected ? "0.8" : "0.6")};
   &:hover {
     opacity: 1;
     cursor: pointer;
   }
-  color: ${props => (props.selected ? "yellow" : "inherit")};
+  color: inherit;
 `;
 
 const ScenarioSelection = styled.div`
@@ -159,7 +160,7 @@ function ScenarioSelectionMenu(props) {
   return (
     <MenuLayout>
       <MenuHeader>
-      <ExternalLink href="https://www.nordicenergy.org">
+        <ExternalLink href="https://www.nordicenergy.org">
           <AppLogo
             src="./images/NER-Logo.png"
             alt="Nordic Energy Research"
@@ -168,37 +169,37 @@ function ScenarioSelectionMenu(props) {
         <MenuRoutes>
           <MenuItem
             to="/about"
-            selected={props.selectedChartgroup === "/about"}
+            selected={props.selectedPage === "/about"}
           >
             {t("menu.desktop.about")}
           </MenuItem>
           <MenuItem
             to="/scenarios"
-            selected={props.selectedChartgroup === "/scenarios"}
+            selected={props.selectedPage === "/scenarios"}
           >
             {t("menu.desktop.scenarios")}
           </MenuItem>
           <MenuItem
             to="/findings"
-            selected={props.selectedChartgroup === "/findings"}
+            selected={props.selectedPage === "/findings"}
           >
             {t("menu.desktop.findings")}
           </MenuItem>
           <MenuItem
             to="/model"
-            selected={props.selectedChartgroup === "/model"}
+            selected={props.selectedPage === "/model"}
           >
             {t("menu.desktop.model")}
           </MenuItem>
           <MenuItem
             to="/historical"
-            selected={props.selectedChartgroup === "/historical"}
+            selected={props.selectedPage === "/historical"}
           >
             {t("menu.desktop.historical")}
           </MenuItem>
           <MenuItem
             to="/how-to-use"
-            selected={props.selectedChartgroup === "/how-to-use"}
+            selected={props.selectedPage === "/how-to-use"}
           >
             {t("menu.desktop.howto")}
           </MenuItem>

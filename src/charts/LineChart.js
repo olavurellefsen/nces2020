@@ -34,7 +34,6 @@ const ChartHeader = styled.div`
 const ChartTitle = styled.div`
   font-size: 18px;
   font-weight: bold;
-  font-family: Ropa Sans;
 `
 const ChartContainer = styled.div`
   display: flex;
@@ -123,8 +122,8 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
     );
   };
 
-  let tempValue = null
-  let tempLine = null
+  //let tempValue = null
+  //let tempLine = null
   return (
     <>
   <ChartContainer>
@@ -140,16 +139,18 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
       containerComponent={
     <VictoryVoronoiContainer
       labels={({ datum }) => {
-        if (datum.y === tempValue){
+        console.log("datum: ", datum)
+        /* if (datum.y === tempValue){
           if(datum.childName === tempLine){
-            return (`${datum.x}, ${Math.round(100*datum.y, 2)/100}`)
+            return (`${datum.country}, ${Math.round(100*datum.y, 2)/100}`)
           }
         } 
         else {
           tempValue = datum.y
           tempLine = datum.childName
           return(`${datum.x}, ${Math.round(100*datum.y, 2)/100}`)
-        }  
+        }  */
+        return (`${datum.country}, ${Math.round(100*datum.y, 2)/100}`)
       }}
       labelComponent={<VictoryTooltip />}
     />
@@ -181,7 +182,7 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
           indicatorData1.regions.forEach((region)=>{
             if (region.region === country) {
               region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
-              lineChartData.push({x: item.year, y: item.total})
+              lineChartData.push({x: item.year, y: item.total, country: country})
               })
             }
           })

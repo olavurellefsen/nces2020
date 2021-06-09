@@ -35,7 +35,6 @@ const ChartHeader = styled.div`
 const ChartTitle = styled.div`
   font-size: 18px;
   font-weight: bold;
-  font-family: Ropa Sans;
   margin-right: 10px;
 `
 const getCSVData = (lineData) => {

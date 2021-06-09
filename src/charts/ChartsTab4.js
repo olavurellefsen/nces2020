@@ -5,7 +5,7 @@ import styled from 'styled-components'
 import Welcome from '../alert/Welcome'
 import StackedBarChart from './StackedBarChart'
 import StackedBarDiffChart from './StackedBarDiffChart'
-import { MainArea, Flex } from './Charts.style'
+import { MainArea, Flex, Scenario1Description, Scenario2Description  } from './Charts.style'
 import stackedBar from '../data/stackedBarTab4'
 //import line from '../data/line'
 import indicators from '../data/indicatorsTab4'
@@ -116,22 +116,6 @@ const ScenarioDescriptionsContainer = styled(Flex)`
   ${breakpoint('xl')`
     max-width: 2230px;
   `}
-`
-const Scenario1Description = styled.div`
-  flex: 1;
-  background-color: #385988;
-  max-width: 45%;
-  margin-right: 10px;
-  padding: 15px 25px;
-  color: white;
-  border-radius: 4px;
-`
-const Scenario2Description = styled.div`
-  flex: 1;
-  background-color: #bcbde2;
-  padding: 15px 25px;
-  color: white;
-  border-radius: 4px;
 `
 
 export default Charts
