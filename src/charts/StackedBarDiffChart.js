@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import years from "../data/years"
-//import { useTranslation } from 'react-i18next'
+
 import {
   VictoryChart,
   VictoryLabel,
@@ -34,13 +34,11 @@ const ChartContainer = styled.div`
 `
 
 const StackedBarChart = props => {
-  //const { t } = useTranslation()
   const stackedBar = props.stackedBar
   const scenario = props.selectedScenario
   const scenario2 = props.selectedScenario2
   const selectedCountries = props.selectedCountries
   const chartName = props.chartName
-  //const chartTitle = t('chartTitle.' + props.chartTitle)
   const chartTitle = props.chartTitle
   const combinedChart = props.combinedChart
   const periods = years
@@ -109,10 +107,6 @@ const StackedBarChart = props => {
     })
   })
   Object.keys(totalYearValuesPos).forEach(year => {
-    /* console.log("maxValue: ", maxValue)
-    console.log("minValue: ", minValue)
-    console.log("totalYearValuesPos[year]: ", totalYearValuesPos[year])
-    console.log("totalYearValuesNeg[year]: ", totalYearValuesNeg[year]) */
     maxValue = Math.round(Math.max(maxValue, totalYearValuesPos[year]))
     minValue = Math.round(Math.min(minValue, totalYearValuesNeg[year]))
   })
@@ -120,8 +114,6 @@ const StackedBarChart = props => {
   let i = 0
   let range = [2,4,6,8,10]
   while(t < maxValue) {
-    /* console.log("t: ", t)
-    console.log("maxValue: ", maxValue) */
     t = range[i%5]*Math.pow(range[4], Math.floor(i/5))
     i++
   }
@@ -129,8 +121,6 @@ const StackedBarChart = props => {
   let u=1
   let j=0
   while(u > minValue && j < 20) {
-    /* console.log("u: ", u)
-    console.log("minValue: ", minValue) */
     u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
     j++
   }
@@ -142,9 +132,6 @@ const StackedBarChart = props => {
   else 
     base = maxValue
 
-  /* console.log("maxValue: ", maxValue)
-  console.log("minValue: ", minValue)
-  console.log("base: ", base) */
   const defTick = [0, 0.25, 0.5, 0.75]
   const getTickValues = () => {
       let ret = []
@@ -164,7 +151,6 @@ const StackedBarChart = props => {
               ret.unshift(-defTick[i+1])
         })
       }
-      //console.log("ticks: ", ret)
       return ret
     }
 

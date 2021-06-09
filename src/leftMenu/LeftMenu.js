@@ -93,12 +93,6 @@ const ToggleSwitchText = styled.div`
   margin-left: 10px;
 `;
 
-// const ToggleLanguageText = styled.div`
-//   color: ${props => (props.selected ? "white" : "gray")};
-//   margin-left: 10px;
-//   margin-right: 10px;
-// `;
-
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>

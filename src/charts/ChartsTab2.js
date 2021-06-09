@@ -5,10 +5,8 @@ import {createBreakpoint} from 'styled-components-breakpoint';
 import Welcome from '../alert/Welcome'
 import StackedBarChart from './StackedBarChart'
 import StackedBarDiffChart from './StackedBarDiffChart'
-import LineChart from './LineChart'
 import { MainArea, Flex, Scenario1Description, Scenario2Description  } from './Charts.style'
 import stackedBar from '../data/stackedBarTab2'
-//import line from '../data/line'
 import indicators from '../data/indicatorsTab2'
 import scenarioCombinations from "../data/scenarioCombinations"
 
@@ -46,20 +44,6 @@ const Charts = props => {
           {
             indicators.map((i, index) => 
             {
-              if (false) 
-                return(<LineChart 
-                  key={i+' '+index}
-                  chartName={i}
-                  chartTitle={i}
-                  selectedScenario={selectedScenario}
-                  selectedScenario2={selectedScenario2}
-                  selectedCountries={selectedCountries}
-                  label=" "
-                  minY={0}
-                  maxY={15}
-                  lineData={stackedBar}
-                />)
-              else
               return (
                 <StackedBarChart
                   key={i+' '+index}
@@ -73,7 +57,6 @@ const Charts = props => {
                   minY={0}
                   maxY={1500}
                   stackedBar={stackedBar}
-                  //line={line}
               />)}
             )
           }
@@ -95,7 +78,6 @@ const Charts = props => {
                 minY={-1}
                 maxY={1}
                 stackedBar={stackedBar}
-                //line={line}
               />
             )
           }

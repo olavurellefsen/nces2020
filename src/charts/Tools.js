@@ -163,7 +163,6 @@ function createAccumulatedRawHistoricalData3(data, selectedCountries) {
     })
 
   data.data.nces_enercons_ind.forEach((item, i)=>{ 
-    console.log("item: ", item)
     if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
       if(Object.keys(accumulatedHistoricalData).includes(item.fuel)) {
         //checks if a value is already there, and then accumulate
@@ -206,7 +205,6 @@ function createAccumulatedRawHistoricalData4(data, selectedCountries) {
     })
 
   data.data.nces_enercons_ser.forEach((item, i)=>{ 
-    console.log("item: ", item)
     if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
       if(Object.keys(accumulatedHistoricalData).includes(item.fuel)) {
         //checks if a value is already there, and then accumulate
@@ -249,7 +247,6 @@ function createAccumulatedRawHistoricalData5(data, selectedCountries) {
     })
 
   data.data.nces_enercons_res.forEach((item, i)=>{ 
-    console.log("item: ", item)
     if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
       if(Object.keys(accumulatedHistoricalData).includes(item.fuel)) {
         //checks if a value is already there, and then accumulate

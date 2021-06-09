@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import parseHtml from 'html-react-parser'
-//import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
   VictoryLegend,
@@ -14,7 +13,6 @@ import {
   VictoryTooltip, 
 } from 'victory'
 import {createAccumulatedData} from './Tools'
-//import {colors, colors2} from './chartColors'
 import {colorNER} from './chartColors'
 import periods from './../data/years'
 import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
@@ -42,45 +40,16 @@ const ChartTitle = styled.div`
   font-weight: bold;
 `
 const StackedBarChart = props => {
-  //const { t } = useTranslation()
   const stackedBar = props.stackedBar
   const scenario = props.selectedScenario.includes("_copy") ? props.selectedScenario.replace("_copy", "") : props.selectedScenario
   const scenario2 = props.selectedScenario2
   const selectedCountries = props.selectedCountries
   const chartName = props.chartName
-  //const chartTitle = t('chartTitle.' + props.chartTitle)
   const chartTitle = props.chartTitle
   const combinedChart = false //props.combinedChart
 
-  //let gutter, rowGutter
-  /* if (
-    !process.env.NODE_ENV ||
-    process.env.NODE_ENV === 'development' ||
-    process.env.NODE_ENV === 'test'
-  ) {
-    gutter = 0
-    rowGutter = 0
-  } else {
-    gutter = 0
-    rowGutter = 0
-  } */
-
-   let maxY2 = 1
-  // let minY2 = 0
-  // if (combinedChart === true) {
-  //   maxY2 = props.maxY2
-  //   minY2 = props.minY2
-  // }
-
-  // let yDomain = [0, 1]
-  // if (props.minY < 0 || minY2 < 0) {
-  //   let stackedRatio = props.minY / props.maxY
-  //   let lineRatio = minY2 / maxY2
-  //   yDomain = stackedRatio < lineRatio ? [stackedRatio, 1] : [lineRatio, 1]
-  // }
-
+  let maxY2 = 1
   
- 
   const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
 
@@ -156,25 +125,16 @@ const StackedBarChart = props => {
 const getCSVData = (accumulatedData1, scenarioName1, accumulatedData2, scenarioName2) => {
   let ret = []
   Object.entries(accumulatedData1).forEach((indicatorGroup) => {
-    //console.log("indicatorGroup: ", indicatorGroup[0])
     indicatorGroup[1].forEach((item)=>{
-      //console.log("item.year: ", item.year)
-      //console.log("item.value: ", item.total)
       ret.push({scenario: scenarioName1, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
     })
-  //console.log('ret: ', ret)
   })
   Object.entries(accumulatedData2).forEach((indicatorGroup) => {
-    //console.log("indicatorGroup: ", indicatorGroup[0])
     indicatorGroup[1].forEach((item)=>{
-      //console.log("item.year: ", item.year)
-      //console.log("item.value: ", item.total)
       ret.push({scenario: scenarioName2, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
     })
-  //console.log('ret: ', ret)
   })
   return ret
-  //{scenario: scen.scenario, indicator: ind.indicator, indicatorGroup: indicatorGroup.indicatorGroup, year: y, value:0}
 }
 const HTMLYAxisLabel = props => {
   const text = props.text.replaceAll('§', '')
@@ -211,9 +171,7 @@ const HTMLLabel = props => {
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
         theme={VictoryTheme.material}
         style={{parent: { height: "550px" }}}
-        // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated
       >
-      
         <VictoryAxis
           dependentAxis
           axisLabelComponent={<HTMLYAxisLabel dx={100} dy={-50}/>}
@@ -338,12 +296,9 @@ const HTMLLabel = props => {
           style={{
             title: { fontSize: 14, leftPadding: -10 },
           }}
-          //colorScale={colors}
           colorScale={colorNER}
           data={Array.from(legends).map((legend, i) => ({
-              name: legend
-                ,
-              //fill: colors[i],
+              name: legend,
               symbol: { fill: () => {
                 if (indicatorgroup_colors[legend]) 
                   return indicatorgroup_colors[legend]

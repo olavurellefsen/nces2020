@@ -59,7 +59,6 @@ const ScenarioSelectionList = props => {
     })
   let scenarioOptions = OptionDisplay.map(option => {
       let optionValue = option.nameNoOptions;
-      //console.log("option: ", option)
       if (optionValue === "division_line") {
         return <MenuSeparatorLine key={option.id} />;
       } else {

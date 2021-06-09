@@ -3,12 +3,10 @@ import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import {createBreakpoint} from 'styled-components-breakpoint';
 import Welcome from '../alert/Welcome'
-//import StackedBarChart from './StackedBarChart'
 import StackedBarDiffChart from './StackedBarDiffChart'
 import LineChart from './LineChart'
 import { MainArea, Flex, Scenario1Description, Scenario2Description  } from './Charts.style'
 import stackedBar from '../data/stackedBarTab9'
-//import line from '../data/line'
 import indicators from '../data/indicatorsTab9'
 import scenarioCombinations from "../data/scenarioCombinations"
 
@@ -76,7 +74,6 @@ const Charts = props => {
                 minY={-1}
                 maxY={1}
                 stackedBar={stackedBar}
-                //line={line}
               />
             )
           }
@@ -96,7 +93,6 @@ const ScenarioDescriptionsContainer = styled(Flex)`
   flex: 1;
   justify-content: space-between;
   margin-bottom: 10px;
-  ${'' /* max-width: ${props => props.isWelcomeOpen ? "100%" : "90%"}; */}
   ${breakpoint('sm')`
     max-width: 550px;
   `}

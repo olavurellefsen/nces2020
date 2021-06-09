@@ -100,13 +100,6 @@ const ToggleSwitchText = styled.div`
   margin-top: 5px;
 `;
 
-// const ToggleLanguageText = styled.div`
-//   font-size: 0.7em;
-//   color: ${props => (props.selected ? "white" : "gray")};
-//   margin-left: 3px;
-//   margin-right: 3px;
-// `;
-
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
@@ -153,16 +146,6 @@ const CopyrightItem = styled.div`
 function ScenarioSelectionMenu(props) {
   const { t } = useTranslation()
   const location = useLocation()
-  // const language = i18n.language;
-
-  // const toggleLanguage = e => {
-  //   e.preventDefault();
-  //   if (language === "en") {
-  //     i18n.changeLanguage("dk");
-  //   } else {
-  //     i18n.changeLanguage("en");
-  //   }
-  // };
 
   return (
     <MenuLayout>
@@ -243,16 +226,6 @@ function ScenarioSelectionMenu(props) {
       >
         {t("general.red-minus-green")}
       </ScenarioDifferenceText></>}
-      {/* <MenuSeparatorLine />
-        <ToggleDifference onClick={e => toggleLanguage(e)}>
-        <ToggleLanguageText selected={language === "dk"}>
-          Danish
-        </ToggleLanguageText>
-        <ToggleSwitch checked={language !== "dk"} dimmed={false} />
-        <ToggleLanguageText selected={language === "en"}>
-          English
-        </ToggleLanguageText>
-      </ToggleDifference> */}
       <MenuFooter>
         <CopyrightNotice>
           <Header> {t("general.developed-by")}</Header>

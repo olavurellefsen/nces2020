@@ -53,7 +53,6 @@ const AlertBody = styled.div`
   font-size: 1em;
   margin: 0px;
   align-self: center;
-  ${'' /* flex: 1; */}
   max-width: 1090px;
   
 `;

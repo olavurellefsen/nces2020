@@ -1,21 +1,16 @@
 import React from 'react'
-//import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import parseHtml from 'html-react-parser'
-//import { useTranslation } from 'react-i18next'
 import {
   VictoryChart,
   VictoryLegend,
   VictoryGroup,
-  //VictoryStack,
   VictoryTheme,
   VictoryAxis,
   VictoryLine,
   VictoryTooltip, 
   VictoryVoronoiContainer,
 } from 'victory' 
-//import {createAccumulatedData} from './Tools'
-//import {colors} from './chartColors'
 import {colorNER} from './chartColors'
 import periods from './../data/years'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
@@ -85,7 +80,6 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
     
   legends = selectedDataRegions
 
-  //const maxY = 4
   let indicatorData1 = []
   let indicatorData2 = []
   let selectedScenarioData = lineData.data.scenarios.find((scenario)=>{
@@ -139,7 +133,6 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
       containerComponent={
     <VictoryVoronoiContainer
       labels={({ datum }) => {
-        console.log("datum: ", datum)
         /* if (datum.y === tempValue){
           if(datum.childName === tempLine){
             return (`${datum.country}, ${Math.round(100*datum.y, 2)/100}`)
@@ -167,31 +160,24 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
             key={2}
             offsetX={80}
             domain={[0, .001]}
-            /*tickFormat={tick =>
-              `${
-                  (tick * maxY).toFixed(0)
-              }`
-            }
-            tickValues={[0, 0.25, 0.5, 0.75]}*/
             label={indicatorData1.unit}
           />
           <VictoryGroup >
-        {selectedDataRegions.map((country, i)=>{
-          let lineChartData = []
+            {selectedDataRegions.map((country, i)=>{
+            let lineChartData = []
           
-          indicatorData1.regions.forEach((region)=>{
-            if (region.region === country) {
-              region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
-              lineChartData.push({x: item.year, y: item.total, country: country})
-              })
-            }
-          })
+            indicatorData1.regions.forEach((region)=>{
+              if (region.region === country) {
+                region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
+                  lineChartData.push({x: item.year, y: item.total, country: country})
+                })
+              }
+            })
           return(
             <VictoryLine 
               key={"lini"+i} 
               data={lineChartData} 
               style={{
-                //data: { stroke: colors[i] },
                 data: { stroke: () => {
                       if (indicatorgroup_colors[country]) 
                         return indicatorgroup_colors[country]
@@ -199,10 +185,8 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
                         return colorNER[i]
                       } },
               }}
-              //labels={()=> "heelo"}
               labelComponent={<VictoryTooltip />}
               >
-              
             </VictoryLine>
           )
         })}
@@ -226,7 +210,6 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
               key={"lini"+i} 
               data={lineChartData2} 
               style={{
-                //data: { stroke: colors[i], strokeDasharray: "4" },
                 data: { stroke: () => {
                       if (indicatorgroup_colors[country]) 
                         return indicatorgroup_colors[country]
@@ -234,11 +217,6 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
                         return colorNER[i]
                       }, strokeDasharray: "4" },
               }}
-              /*labelComponent={(data)=>{
-                console.log("data: ", data)
-                return (<VictoryTooltip data={[{2020: 100}]} />)
-                }
-              }*/
             >
             </VictoryLine>
           )
@@ -256,7 +234,6 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
             style={{
               title: { fontSize: 34, leftPadding: -10 },
             }}
-            //colorScale={colors}
             colorScale={colorNER}
             data={Array.from(legends).map((legend, i) => ({
                 name: legend

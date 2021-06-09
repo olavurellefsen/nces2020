@@ -123,12 +123,6 @@ return (
             axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
             key={2}
             offsetX={80}
-            /*tickFormat={tick =>
-              `${
-                  (tick * maxY).toFixed(0)
-              }`
-            }
-            tickValues={[0, 0.25, 0.5, 0.75]}*/
             label={"Share"}
           />
           <VictoryLegend

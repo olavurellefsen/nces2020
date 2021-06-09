@@ -50,10 +50,6 @@ const LineChartDoubleYAxisHistorical = ({
   maxY2 = 100,
   xRange = historicalYears
 }) => {
-  //const accumulatedData = stackedBar[0]
-  //const totalYearValuesScenario1 = stackedBar[1]
-  //const legends = stackedBar[2]
-  //const colors2 = stackedBar[3]
   let gutter, rowGutter
   if (
     !process.env.NODE_ENV ||
