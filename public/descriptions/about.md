@@ -40,7 +40,7 @@ Energiforsk, EA Energy Analyses, Energy Modelling Lab, IVL Svenska Miljöinstitu
 <img src="./images/ivl-svenska-miljoinstitutet-logo-vector.svg" width="60px" style="margin: 10px"/>
 <img src="./images/nmbu.png" width="180px" style="margin: 10px"/>
 <img src="./images/Profu_grå_RÄTT.png" width="45px" style="margin: 10px"/>
-<img src="./images/VTT_Orange_Logo.png" width="45px" style="margin: 10px"/>
+<img src="./images/THEMA_logo_transparent.png" width="180px" style="margin: 10px"/>
 <img src="./images/VTT_Orange_Logo.png" width="90px" style="margin: 10px"/>
 
 ***Contact***
