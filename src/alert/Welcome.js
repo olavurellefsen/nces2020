@@ -18,6 +18,7 @@ const AlertContainer = styled.div`
   right: ${props => props.isOpen ? null : '35px'};
   padding: 10px;
   margin-bottom: 10px;
+  margin-right: 15px;
   ${'' /* border-width: 1px;
   border-color: blue;
   border-style: solid; */}
@@ -34,18 +35,6 @@ const AlertContainer = styled.div`
   width: ${props => props.isOpen ? null : '20px'};
   box-shadow: 0 0 0.5333333333rem rgb(26 26 26 / 12%);
   border-radius: .35em;
-  ${breakpoint('sm')`
-    max-width: 530px;
-  `}
-  ${breakpoint('md')`
-    max-width: 1090px;
-  `}
-  ${breakpoint('lg')`
-    max-width: 1650px;
-  `}
-  ${breakpoint('xl')`
-    max-width: 2210px;
-  `}
   z-index: 20;
 `;
 AlertContainer.displayName = "AlertContainer";

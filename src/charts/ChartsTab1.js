@@ -114,25 +114,15 @@ export const breakpoint = createBreakpoint({
   sm: 550,
   md: 1394,
   lg: 1953,
-  xl: 2512,
+  xl: 2612,
 });
 
 const ScenarioDescriptionsContainer = styled(Flex)`
   flex: 1;
   justify-content: space-between;
+  box-sizing: border-box;
   margin-bottom: 10px;
-  ${breakpoint('sm')`
-    max-width: 550px;
-  `}
-  ${breakpoint('md')`
-    max-width: 1110px;
-  `}
-  ${breakpoint('lg')`
-    max-width: 1670px;
-  `}
-  ${breakpoint('xl')`
-    max-width: 2230px;
-  `}
+  margin-right: 15px;
 `
 
 export default Charts

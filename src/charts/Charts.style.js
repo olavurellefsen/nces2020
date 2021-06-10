@@ -6,17 +6,33 @@ export const breakpoint = createBreakpoint({
   sm: 550,
   md: 1394,
   lg: 1953,
-  xl: 2512,
+  xl: 2612,
 });
 
 export const MainArea = styled.div`
   flex: 1;
   padding: 20px;
+  max-width: 2360px;
+  box-sizing: border-box;
+  ${breakpoint('sm')`
+    width: 570px;
+  `}
+  ${breakpoint('md')`
+    width: 1165px;
+  `}
+  ${breakpoint('lg')`
+    width: 1725px;
+  `}
+  ${breakpoint('xl')`
+    width: 2285px;
+  `}
+  transition: width 0.3s;
 `;
 
 export const Flex = styled.div`
   display: flex;
   flex: 1;
+  box-sizing: border-box;
   position: relative;
   flex-wrap: wrap;
   align-content: flex-start;
@@ -24,25 +40,12 @@ export const Flex = styled.div`
 `;
 
 export const Scenario1Description = styled.div`
-  flex: 1;
   box-sizing: border-box;
   background-color: #385988;
-  margin-right: 10px;
   padding: 15px 25px;
   color: white;
+  width: calc(50% - 5px);
   border-radius: 4px;
-  ${breakpoint('sm')`
-    max-width: 225px;
-  `}
-  ${breakpoint('md')`
-    max-width: 550px;
-  `}
-  ${breakpoint('lg')`
-    max-width: 830px;
-  `}
-  ${breakpoint('xl')`
-    max-width: 1110px;
-  `}
 `
 export const Scenario2Description = styled.div`
   flex: 1;
@@ -51,4 +54,5 @@ export const Scenario2Description = styled.div`
   padding: 15px 25px;
   color: white;
   border-radius: 4px;
+  margin-left: 10px;
 `
