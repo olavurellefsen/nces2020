@@ -1,6 +1,7 @@
 export default 
  	 [ 
 		"Heavy Industry CO2 emissions",
+		"Heavy Industry CO2 emissions by sector",
 		"Heavy Industry Energy service demand",
 		"Heavy Industry fuel consumption",
 		"Cement fuel consumption",
