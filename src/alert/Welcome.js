@@ -110,7 +110,7 @@ function Welcome(props) {
   const { t } = useTranslation();
   return (
     <AlertContainer  isOpen={props.isOpen}>
-    {props.isOpen && <AlertTitle><p>{welcomeText[props.tab].welcome1}</p></AlertTitle>}
+    {props.isOpen && <AlertTitle>{welcomeText[props.tab].welcome1}</AlertTitle>}
       {props.isOpen && props.tab === "tab1" && <AlertBody>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>

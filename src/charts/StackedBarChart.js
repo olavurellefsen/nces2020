@@ -78,7 +78,7 @@ const StackedBarChart = props => {
     i++
   }
   maxY = t
-  let u=1
+  let u=0
   let j=0
   while(u > minY && j < 20) {
     u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
@@ -287,10 +287,10 @@ const HTMLLabel = props => {
         }}/>
         <VictoryLegend
           x={90}
-          y={10}
+          y={5}
           orientation="horizontal"
-          gutter={18}
-          rowGutter={0}
+          gutter={15}
+          rowGutter={2}
           symbolSpacer={5}
           itemsPerRow={4}
           style={{
