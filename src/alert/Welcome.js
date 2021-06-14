@@ -126,6 +126,9 @@ const welcomeText = {
 	  "welcome4": <p>The results in the transport sector is very robust to the different scenario assumptions, which leads to only minor differences between the scenarios.</p>,
 	  "welcome5": <p>But the CNB scenarios differs as demand for transport are not assumed to increase in future. Therefore, try to select CNN and CNB and compare the need for cars.</p>,
   },
+  "tab8": {
+	  "welcome1": <p>Key Progress Indicators.</p>
+  },
   "tab9": {
 	  "welcome1": <p>Key Performance Indicators.</p>,
 	  "welcome2": <p>Here we have chosen some indicators that can say something about the development of the Nordic energy system. The indicators show development in renewable energy shares, electrification of end-use energy consumption and energy intensity of industries. The indicators illustrate differences in the structure of the energy system across the Nordic countries.</p>,

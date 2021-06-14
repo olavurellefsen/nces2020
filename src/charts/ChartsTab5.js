@@ -19,8 +19,9 @@ const Charts = props => {
   return (
     <MainArea>
       <Welcome 
-          isOpen={props.scenarioSelection.showWelcome}
-          closeWelcome={props.closeWelcome}  />
+        tab="tab5"
+        isOpen={props.scenarioSelection.showWelcome}
+        closeWelcome={props.closeWelcome}  />
       <ScenarioDescriptionsContainer isWelcomeOpen={props.scenarioSelection.showWelcome}>
           <Scenario1Description>
             {selectedScenario2 && <div>LEFT COLUMN IN CHART</div>}
