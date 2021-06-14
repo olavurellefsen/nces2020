@@ -92,13 +92,13 @@ const welcomeText = {
   "tab2": {
     "welcome1": <p>The upstream sector includes oil and gas production, fossil refineries, biorefineries and PtX plants.</p>,
     "welcome2": <p>The total used biomass in the Nordic countries is tracked and also import of biomass and biofuels. Feedstock and produced fuel from both fossil based refineries and renewable based refineries are also shown.</p>,
-    "welcome3": <p>Try to choose the same scenario twice and then activate the bioenergy constraint, the “leaf”, on one of the scenarios – then you can see a big difference in imported bioenergy and input to the RE-refineries.</p>
+    "welcome3": <p>Try to choose the same scenario twice and then activate the bioenergy constraint, the “leaf”, on one of the scenarios – then you can see a big difference in imported bioenergy and input to the RE-refineries.</p>,
   },
   "tab3": {
     "welcome1": <p>Power and district heat production.</p>,
     "welcome2": <p>Here you can see the fuel use for power and district heat production, power plant capacities and the electricity and district heating production divided on fuels.</p>,
     "welcome3": <p>The marginal electricity price and district heating price is the weighted average price of the time slices in the model over a year. These prices are endogenous calculated by the model and it is the prices which the model “trade” power and heat between sectors.</p>,
-    "welcome4": <p>Try to select the CNN scenario and the NPH scenario and compare electricity demand and the difference in needed power capacity.</p>
+    "welcome4": <p>Try to select the CNN scenario and the NPH scenario and compare electricity demand and the difference in needed power capacity.</p>,
   },
   "tab4": {
 	  "welcome1": <p>Heavy industry energy consumption.<\p>,
