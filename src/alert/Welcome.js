@@ -187,7 +187,7 @@ function Welcome(props) {
         <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome5}</AlertBodyParagraph>
       </AlertBody>}
-      {props.isOpen && props.tab === "tab9" && <AlertBody>
+      {props.isOpen && props.tab === "tab8" && <AlertBody>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
       </AlertBody>}
