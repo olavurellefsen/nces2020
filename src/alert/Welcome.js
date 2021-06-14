@@ -165,6 +165,29 @@ function Welcome(props) {
         <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
       </AlertBody>}
+      {props.isOpen && props.tab === "tab4" && <AlertBody>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome5}</AlertBodyParagraph>
+      </AlertBody>}
+      {props.isOpen && props.tab === "tab5" && <AlertBody>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
+      {props.isOpen && props.tab === "tab6" && <AlertBody>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
+      {props.isOpen && props.tab === "tab7" && <AlertBody>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome5}</AlertBodyParagraph>
+      {props.isOpen && props.tab === "tab9" && <AlertBody>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
+      </AlertBody>}
       {props.isOpen && props.tab === "tab-history" && <AlertBody>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
