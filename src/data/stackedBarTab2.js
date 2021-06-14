@@ -1518,6 +1518,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.0718303348
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.0573141674
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5.9105772442
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -1527,6 +1564,80 @@ export default {
                       {
                         "year": 2020,
                         "total": -0.0277777782
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.1199722025
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
@@ -1584,6 +1695,43 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.3930079672
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.5059512986
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.763081895
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.4238539272
                       },
                       {
                         "year": 2050,
@@ -1670,6 +1818,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -2236,6 +2458,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7396322147
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.7854483393
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.8500173357
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.3006466147
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.1573514342
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.2010860443
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -2269,6 +2528,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.8409228325
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0444444435
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.2174155424
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.8247034376
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1.5012804998
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.8383889248
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.1263992524
                       }
                     ]
                   },
@@ -2352,6 +2722,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.9971420235
+                      },
+                      {
+                        "year": 2030,
+                        "total": 31.9980855121
+                      },
+                      {
+                        "year": 2035,
+                        "total": 14.6314483219
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9.8141023848
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.5122059849
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.1241844893
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -2385,6 +2792,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0225770473
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3532427632
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.0262628942
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.2285440697
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.1746293373
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.2559639944
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.3122009171
                       }
                     ]
                   },
@@ -5496,7 +6014,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -5686,7 +6204,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6251,7 +6769,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6626,7 +7144,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -8359,6 +8877,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.3932488056
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -8396,6 +8951,80 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.1290061801
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
@@ -8409,6 +9038,43 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.5507544676
                       },
                       {
                         "year": 2030,
@@ -8511,6 +9177,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -9077,6 +9817,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7118861201
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -9094,6 +9871,117 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.2222739326
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0348307803
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0451095071
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.1964132239
                       },
                       {
                         "year": 2035,
@@ -9193,6 +10081,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.9711742335
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.4444444014
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.5106162228
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -9214,6 +10139,117 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.2777777778
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.5887871042
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.2696626208
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.6369201011
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.4166666592
                       },
                       {
                         "year": 2040,
@@ -12337,7 +13373,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -12527,7 +13563,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13092,7 +14128,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13467,7 +14503,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -15200,6 +16236,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 3.0718303348
+                      },
+                      {
+                        "year": 2030,
+                        "total": 6.5802970694
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.7945985761
+                      },
+                      {
+                        "year": 2050,
+                        "total": 5.9105772442
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -15209,6 +16282,80 @@ export default {
                       {
                         "year": 2020,
                         "total": -0.0277777782
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.8544143041
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
@@ -15266,6 +16413,43 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.3445454174
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.3258104987
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.6260706849
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.4781100618
                       },
                       {
                         "year": 2050,
@@ -15352,6 +16536,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -15918,6 +17176,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7396322147
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.8000067075
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.8561328385
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.3051373859
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.9403873152
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.6628840235
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -15951,6 +17246,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.8780786461
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0451095071
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.3338936954
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.7629052367
+                      },
+                      {
+                        "year": 2040,
+                        "total": 3.3499656121
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.9188473192
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.9586673447
                       }
                     ]
                   },
@@ -16034,6 +17440,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.9971420566
+                      },
+                      {
+                        "year": 2030,
+                        "total": 32.386736696
+                      },
+                      {
+                        "year": 2035,
+                        "total": 15.2152071397
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9.8141023848
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.6441184812
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.1241408454
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -16067,6 +17510,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3532427632
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.0573368155
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.3372028636
+                      },
+                      {
+                        "year": 2040,
+                        "total": 9.7727770276
+                      },
+                      {
+                        "year": 2045,
+                        "total": 11.6865467363
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.2479626142
                       }
                     ]
                   },
@@ -19178,7 +20732,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19368,7 +20922,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -19933,7 +21487,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20308,7 +21862,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -22041,6 +23595,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.3932488056
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -22078,6 +23669,80 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.1290146365
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
@@ -22091,6 +23756,43 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.5455891954
                       },
                       {
                         "year": 2030,
@@ -22193,6 +23895,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -22759,6 +24535,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.7118861201
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -22776,6 +24589,117 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.0809009208
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0348307803
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0451095071
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.3384093361
                       },
                       {
                         "year": 2035,
@@ -22875,6 +24799,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 39.9303471049
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.444444461
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.8905011312
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -22896,6 +24857,117 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.2777777818
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.6945010747
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3079489205
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.4949240086
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.4166666584
                       },
                       {
                         "year": 2040,
@@ -26019,7 +28091,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26209,7 +28281,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26774,7 +28846,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27149,7 +29221,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28882,6 +30954,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.4836140209
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.5274397665
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.445347091
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.0594805082
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -28891,6 +31000,80 @@ export default {
                       {
                         "year": 2020,
                         "total": -0.0277777782
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.2462245093
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
@@ -28948,6 +31131,43 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.7578925027
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.7732900514
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.559742464
+                      },
+                      {
+                        "year": 2045,
+                        "total": 2.1715457241
                       },
                       {
                         "year": 2050,
@@ -29034,6 +31254,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -29600,6 +31894,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.9248157694
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.6714398048
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.5620325671
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.5995911525
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.4121131433
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.140124374
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -29633,6 +31964,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.2718003061
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1243901039
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.3973955392
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.9036766407
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.5480417742
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.0321057422
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.3044193124
                       }
                     ]
                   },
@@ -29716,6 +32158,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 42.0063006547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 36.22918023
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.3212567965
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.839292407
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.7388056252
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.5296619071
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -29749,6 +32228,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.1365634126
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3532427632
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.9568524966
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.318503605
+                      },
+                      {
+                        "year": 2040,
+                        "total": 7.2211187416
+                      },
+                      {
+                        "year": 2045,
+                        "total": 8.1249504622
+                      },
+                      {
+                        "year": 2050,
+                        "total": 3.4041184356
                       }
                     ]
                   },
@@ -32860,7 +35450,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33050,7 +35640,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33615,7 +36205,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -33990,7 +36580,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35723,6 +38313,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.9902221693
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -35760,6 +38387,80 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.1293313648
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
@@ -35773,6 +38474,43 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.9133172035
                       },
                       {
                         "year": 2030,
@@ -35875,6 +38613,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -36441,6 +39253,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.9248157694
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -36462,6 +39311,117 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0344742679
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1243901039
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.4889289041
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0253395364
                       },
                       {
                         "year": 2040,
@@ -36557,6 +39517,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 42.0035663578
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.4444444155
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.3888888889
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -36578,6 +39575,117 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.2777777695
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0928296761
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3534826874
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.3444044146
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.3913271262
                       },
                       {
                         "year": 2040,
@@ -39701,7 +42809,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -39891,7 +42999,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -40456,7 +43564,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -40831,7 +43939,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42564,6 +45672,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.4836140209
+                      },
+                      {
+                        "year": 2030,
+                        "total": 8.8737908337
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0429863338
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.8116969632
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.0594481892
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -42573,6 +45718,80 @@ export default {
                       {
                         "year": 2020,
                         "total": -0.0277777782
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 2.0348873403
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.6200882461
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
@@ -42630,6 +45849,43 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.0594100422
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.5823009511
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.6099503073
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0372951105
                       },
                       {
                         "year": 2050,
@@ -42716,6 +45972,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -43282,6 +46612,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.9248157694
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.5356671015
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.446358131
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.6315369242
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.2126246426
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.9251426723
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -43315,6 +46682,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.8472619851
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1243901039
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.3783632525
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.3174135718
+                      },
+                      {
+                        "year": 2040,
+                        "total": 4.4740071562
+                      },
+                      {
+                        "year": 2045,
+                        "total": 3.8060066766
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.2542921174
                       }
                     ]
                   },
@@ -43398,6 +46876,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 42.0063006547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 36.5175657802
+                      },
+                      {
+                        "year": 2035,
+                        "total": 17.5163740582
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.839292407
+                      },
+                      {
+                        "year": 2045,
+                        "total": 9.8143051068
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.3547361824
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -43431,6 +46946,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.2575288879
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3532427632
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.1063828345
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.8381478919
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.9489659998
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.8865218166
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.2708345833
                       }
                     ]
                   },
@@ -46542,7 +50168,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46732,7 +50358,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47297,7 +50923,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47672,7 +51298,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49405,6 +53031,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.9902221362
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -49442,6 +53105,80 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.1290146324
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
@@ -49455,6 +53192,43 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.8097041316
                       },
                       {
                         "year": 2030,
@@ -49557,6 +53331,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -50123,6 +53971,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.9248157694
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -50144,6 +54029,117 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0348307803
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1216221818
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.8333333333
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.2421984573
                       },
                       {
                         "year": 2040,
@@ -50239,6 +54235,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 41.9370112816
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.4444444983
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.3888888889
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -50260,6 +54293,117 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.2777777778
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0903773568
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3555109486
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.1744682189
                       },
                       {
                         "year": 2040,
@@ -53383,7 +57527,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -53573,7 +57717,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54138,7 +58282,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54513,7 +58657,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56246,6 +60390,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.4836139547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.3267130057
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0510423041
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.0553497738
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -56255,6 +60436,80 @@ export default {
                       {
                         "year": 2020,
                         "total": -0.0277777782
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.9663303693
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.9706443548
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.1653279993
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
@@ -56312,6 +60567,43 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.6848768128
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 6.9792429606
+                      },
+                      {
+                        "year": 2040,
+                        "total": 6.3171652953
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.6456698047
                       },
                       {
                         "year": 2050,
@@ -56398,6 +60690,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -56964,6 +61330,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.9248157694
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.4952117072
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.4234047797
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.6451282071
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.8681246307
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.6364064482
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -56997,6 +61400,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.5833352274
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 2.3424225383
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1243896902
+                      },
+                      {
+                        "year": 2030,
+                        "total": 1.9907901436
+                      },
+                      {
+                        "year": 2035,
+                        "total": 4.7656477822
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.0053501659
+                      },
+                      {
+                        "year": 2045,
+                        "total": 6.5961207284
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.6540195944
                       }
                     ]
                   },
@@ -57080,6 +61594,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 42.0063006547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 37.5421531664
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.9578395651
+                      },
+                      {
+                        "year": 2040,
+                        "total": 12.0809467841
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.3170133962
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.4583664073
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -57113,6 +61664,117 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3276981165
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.8449169033
+                      },
+                      {
+                        "year": 2035,
+                        "total": 12.0292510589
+                      },
+                      {
+                        "year": 2040,
+                        "total": 18.3656905426
+                      },
+                      {
+                        "year": 2045,
+                        "total": 14.5963894659
+                      },
+                      {
+                        "year": 2050,
+                        "total": 13.2512770759
                       }
                     ]
                   },
@@ -60224,7 +64886,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -60414,7 +65076,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -60979,7 +65641,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61354,7 +66016,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -63087,6 +67749,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.9902221693
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -63124,6 +67823,80 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.132046613
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0002967432
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
@@ -63137,6 +67910,43 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.8170625899
                       },
                       {
                         "year": 2030,
@@ -63239,6 +68049,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -63805,6 +68689,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.9248157694
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -63822,6 +68743,117 @@ export default {
                       {
                         "year": 2030,
                         "total": 0.5555555556
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0338318271
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1243896902
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.7559558418
                       },
                       {
                         "year": 2035,
@@ -63921,6 +68953,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 42.0062108172
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.4444443999
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.2222222264
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -63942,6 +69011,117 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.2777777757
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.257301285
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3456383033
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0773775039
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.4166666667
                       },
                       {
                         "year": 2040,
@@ -67065,7 +72245,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67255,7 +72435,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -67820,7 +73000,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68195,7 +73375,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69928,6 +75108,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.4836139547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 9.1631671455
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.4700488949
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.5680990219
+                      },
+                      {
+                        "year": 2050,
+                        "total": 6.0553497738
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -69937,6 +75154,80 @@ export default {
                       {
                         "year": 2020,
                         "total": -0.0277777782
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 1.6117311849
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
                       },
                       {
                         "year": 2025,
@@ -69990,6 +75281,43 @@ export default {
                       {
                         "year": 2040,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 1.3011332353
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 3.6761607064
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.5057251785
                       },
                       {
                         "year": 2045,
@@ -70080,6 +75408,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -70646,6 +76048,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.9248157694
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.5112699933
+                      },
+                      {
+                        "year": 2035,
+                        "total": 1.4236502184
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.6131824023
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.3041130718
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.3138931675
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -70675,6 +76114,117 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.4167684913
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 1.4974043104
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1241970679
+                      },
+                      {
+                        "year": 2030,
+                        "total": 2.2465993961
+                      },
+                      {
+                        "year": 2035,
+                        "total": 5.379546086
+                      },
+                      {
+                        "year": 2040,
+                        "total": 8.1730810801
+                      },
+                      {
+                        "year": 2045,
+                        "total": 5.9709996647
                       },
                       {
                         "year": 2050,
@@ -70762,6 +76312,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 42.0063006547
+                      },
+                      {
+                        "year": 2030,
+                        "total": 37.698204981
+                      },
+                      {
+                        "year": 2035,
+                        "total": 19.5576428208
+                      },
+                      {
+                        "year": 2040,
+                        "total": 10.9160806901
+                      },
+                      {
+                        "year": 2045,
+                        "total": 10.3001496527
+                      },
+                      {
+                        "year": 2050,
+                        "total": 10.4583664073
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -70791,6 +76378,117 @@ export default {
                       {
                         "year": 2045,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 1.2288881673
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.3533228238
+                      },
+                      {
+                        "year": 2030,
+                        "total": 3.8449169142
+                      },
+                      {
+                        "year": 2035,
+                        "total": 10.5153733492
+                      },
+                      {
+                        "year": 2040,
+                        "total": 13.2002757655
+                      },
+                      {
+                        "year": 2045,
+                        "total": 7.035891513
                       },
                       {
                         "year": 2050,
@@ -73906,7 +79604,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74096,7 +79794,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74661,7 +80359,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75036,7 +80734,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76769,6 +82467,43 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 2.7777777281
+                      },
+                      {
+                        "year": 2020,
+                        "total": 2.4877777447
+                      },
+                      {
+                        "year": 2025,
+                        "total": 2.2363189194
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0125050897
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -76806,6 +82541,80 @@ export default {
                     ]
                   },
                   {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.129694978
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0002155013
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Firewood",
                     "indicatorGroupValues": [
                       {
@@ -76819,6 +82628,43 @@ export default {
                       {
                         "year": 2025,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.6779791911
                       },
                       {
                         "year": 2030,
@@ -76921,6 +82767,80 @@ export default {
               {
                 "region": "FI",
                 "indicatorGroups": [
+                  {
+                    "indicatorGroup": "Bio-oil",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biogasoline",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
                   {
                     "indicatorGroup": "Energy crops",
                     "indicatorGroupValues": [
@@ -77487,6 +83407,43 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 4.0903033399
+                      },
+                      {
+                        "year": 2020,
+                        "total": 5.5988119232
+                      },
+                      {
+                        "year": 2025,
+                        "total": 5.9248157694
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -77508,6 +83465,117 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0341504398
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.1243896907
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.8331314723
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.4164650374
                       },
                       {
                         "year": 2040,
@@ -77603,6 +83671,43 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
+                    "indicatorGroup": "Biodiesel",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 10.6708330273
+                      },
+                      {
+                        "year": 2020,
+                        "total": 17.2397222184
+                      },
+                      {
+                        "year": 2025,
+                        "total": 42.0062108172
+                      },
+                      {
+                        "year": 2030,
+                        "total": 4.4444444134
+                      },
+                      {
+                        "year": 2035,
+                        "total": 2.2097171088
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
                     "indicatorGroup": "Biogas",
                     "indicatorGroupValues": [
                       {
@@ -77624,6 +83729,117 @@ export default {
                       {
                         "year": 2035,
                         "total": 0.2777777778
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biokerosene",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Biomethanol",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.1060903934
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2040,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2045,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2050,
+                        "total": 0.0
+                      }
+                    ]
+                  },
+                  {
+                    "indicatorGroup": "Synth. nat. gas",
+                    "indicatorGroupValues": [
+                      {
+                        "year": 2015,
+                        "total": 0.0249633007
+                      },
+                      {
+                        "year": 2020,
+                        "total": 0.0
+                      },
+                      {
+                        "year": 2025,
+                        "total": 0.2985435559
+                      },
+                      {
+                        "year": 2030,
+                        "total": 0.0002018299
+                      },
+                      {
+                        "year": 2035,
+                        "total": 0.0002016129
                       },
                       {
                         "year": 2040,
@@ -80747,7 +86963,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -80937,7 +87153,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81502,7 +87718,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -81877,7 +88093,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
