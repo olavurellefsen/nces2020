@@ -87,7 +87,7 @@ const welcomeText = {
 	"welcome6": <p>The model used for calculating the scenarios is called Open Nordic TIMES model (ON-TIMES) and is developed during the project.</p>,
 	"welcome7": <p>As with all modelling results - be critical to what you see, do not just accept it. The many combinations of scenarios represented in this viewer indicate the uncertainty of how the future Nordic energy system will develop, but also illustrate which solutions compete and which have synergies. The modelling results are highly dependent on projections of technologies, their availability, efficiency and cost, by future fuel prices and access to resources.</p>,
 	"welcome8": <p>On this first result page we show some main results like primary energy consumption, final energy consumption and total CO<sub>2</sub>-emissions.</p>,
-	"welcome9": <p>Try to select the CNN scenario twice and then increase cost of storing CO<sub>2</sub> in one of the scenarios by activating the “barrel”. Try and see how effects the amount of stored CO<sub>2</sub>.</p>,
+	"welcome9": <p>Try to select the CNN scenario twice and then increase cost of storing CO<sub>2</sub> in one of the scenarios by activating the &quot;barrel&quot;. Try and see how effects the amount of stored CO<sub>2</sub>.</p>,
   },
   "tab2": {
     "welcome1": <p>The upstream sector includes oil and gas production, fossil refineries, biorefineries and PtX plants.</p>,
