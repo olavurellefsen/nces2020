@@ -101,36 +101,36 @@ const welcomeText = {
     "welcome4": <p>Try to select the CNN scenario and the NPH scenario and compare electricity demand and the difference in needed power capacity.</p>,
   },
   "tab4": {
-	  "welcome1": <p>Heavy industry energy consumption.<\p>,
-	  "welcome2": <p>Here you can investigate energy consumption and CO<sub>2</sub>-emissions from heavy industry.<\p>,
-	  "welcome3": <p>In heavy industry we include: Pulp and paper, Mining, Iron and steel, Aluminium and cement.<\p>,
-	  "welcome4": <p>Try to select the CNN scenario and the NPH scenario and you will see the assumed increase in activity in NPH – if you choose to compare with CNB instead you can see the impact of the assumed decrease in activity.<\p>,
-	  "welcome5": <p>Try also to select CNN twice and then activate increased cost of CO<sub>2</sub> storage and compare CO<sub>2</sub>-reductions.<\p>,
-  }
+	  "welcome1": <p>Heavy industry energy consumption.</p>,
+	  "welcome2": <p>Here you can investigate energy consumption and CO<sub>2</sub>-emissions from heavy industry.</p>,
+	  "welcome3": <p>In heavy industry we include: Pulp and paper, Mining, Iron and steel, Aluminium and cement.</p>,
+	  "welcome4": <p>Try to select the CNN scenario and the NPH scenario and you will see the assumed increase in activity in NPH – if you choose to compare with CNB instead you can see the impact of the assumed decrease in activity.</p>,
+	  "welcome5": <p>Try also to select CNN twice and then activate increased cost of CO<sub>2</sub> storage and compare CO<sub>2</sub>-reductions.</p>,
+  },
   "tab5": {
-	  "welcome1": <p>Other sectors energy consumption.<\p>,
-	  "welcome2": <p>Here you can investigate energy consumption and CO<sub>2</sub>-emissions from other sectors.<\p>,
-	  "welcome3": <p>In Other sectors we include: Manufacturing industries, Service sector, Agriculture and Fishery.<\p>,
-	  "welcome4": <p>Try to select CNN twice and then activate increased cost of CO<sub>2</sub> storage and compare CO<sub>2</sub>-reductions and fuel use in agriculture and fishery.<\p>,
-  }
+	  "welcome1": <p>Other sectors energy consumption.</p>,
+	  "welcome2": <p>Here you can investigate energy consumption and CO<sub>2</sub>-emissions from other sectors.</p>,
+	  "welcome3": <p>In Other sectors we include: Manufacturing industries, Service sector, Agriculture and Fishery.</p>,
+	  "welcome4": <p>Try to select CNN twice and then activate increased cost of CO<sub>2</sub> storage and compare CO<sub>2</sub>-reductions and fuel use in agriculture and fishery.</p>,
+  },
   "tab6": {
-	  "welcome1": <p>Residential sector.<\p>,
-	  "welcome2": <p>Here you can investigate development in heat demand, electricity demand and fuel use for residential sector.<\p>,
-	  "welcome3": <p>The results are split in room heat and electricity for appliances. The solutions for the residential sector are very robust towards the variation in assumptions are therefore all scenarios look very similar.<\p>,
-	  "welcome4": <p>So instead of comparing two scenarios try to look at the difference in heating solutions between the countries. Turn on one country at the time on the map to the left to go through country results.<\p>,
-  }
+	  "welcome1": <p>Residential sector.</p>,
+	  "welcome2": <p>Here you can investigate development in heat demand, electricity demand and fuel use for residential sector.</p>,
+	  "welcome3": <p>The results are split in room heat and electricity for appliances. The solutions for the residential sector are very robust towards the variation in assumptions are therefore all scenarios look very similar.</p>,
+	  "welcome4": <p>So instead of comparing two scenarios try to look at the difference in heating solutions between the countries. Turn on one country at the time on the map to the left to go through country results.</p>,
+  },
   "tab7": {
-	  "welcome1": <p>Transport sector energy consumption.<\p>,
-	  "welcome2": <p>Here you can investigate energy consumption, transport service level and CO<sub>2<\sub>-emissions from passenger and freight transport.<\p>,
-	  "welcome3": <p>The model includes international shipping and aviation which also can be shown on country level. For cars and trucks the stock are shown divided on vehicle types.<\p>,
-	  "welcome4": <p>The results in the transport sector is very robust to the different scenario assumptions, which leads to only minor differences between the scenarios.<\p>,
-	  "welcome5": <p>But the CNB scenarios differs as demand for transport are not assumed to increase in future. Therefore, try to select CNN and CNB and compare the need for cars.<\p>,
-  }
+	  "welcome1": <p>Transport sector energy consumption.</p>,
+	  "welcome2": <p>Here you can investigate energy consumption, transport service level and CO<sub>2</sub>-emissions from passenger and freight transport.</p>,
+	  "welcome3": <p>The model includes international shipping and aviation which also can be shown on country level. For cars and trucks the stock are shown divided on vehicle types.</p>,
+	  "welcome4": <p>The results in the transport sector is very robust to the different scenario assumptions, which leads to only minor differences between the scenarios.</p>,
+	  "welcome5": <p>But the CNB scenarios differs as demand for transport are not assumed to increase in future. Therefore, try to select CNN and CNB and compare the need for cars.</p>,
+  },
   "tab9": {
-	  "welcome1": <p>Key Performance Indicators.<\p>,
-	  "welcome2": <p>Here we have chosen some indicators that can say something about the development of the Nordic energy system. The indicators show development in renewable energy shares, electrification of end-use energy consumption and energy intensity of industries. The indicators illustrate differences in the structure of the energy system across the Nordic countries.<\p>,
-	  "welcome3": <p>Try to select the same scenario twice and see how increase price of CO<sub>2</sub> storage or limit on import of biomass influence the indicators.<\p>,
-  }
+	  "welcome1": <p>Key Performance Indicators.</p>,
+	  "welcome2": <p>Here we have chosen some indicators that can say something about the development of the Nordic energy system. The indicators show development in renewable energy shares, electrification of end-use energy consumption and energy intensity of industries. The indicators illustrate differences in the structure of the energy system across the Nordic countries.</p>,
+	  "welcome3": <p>Try to select the same scenario twice and see how increase price of CO<sub>2</sub> storage or limit on import of biomass influence the indicators.</p>,
+  },
   "tabHistory": {
     "welcome1": <p>Welcome to Nordic Energy Statistics Database visualisations.</p>,
     "welcome2": <p>The database aims for harmonising energy sector and related data across all the five Nordic countries. It will serve as a reference for research work as well as for the general public to see energy related data and selected progress indicators. </p>,
@@ -175,15 +175,18 @@ function Welcome(props) {
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
+      </AlertBody>}
       {props.isOpen && props.tab === "tab6" && <AlertBody>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
+      </AlertBody>}
       {props.isOpen && props.tab === "tab7" && <AlertBody>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome5}</AlertBodyParagraph>
+      </AlertBody>}
       {props.isOpen && props.tab === "tab9" && <AlertBody>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
