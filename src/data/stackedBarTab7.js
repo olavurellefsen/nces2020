@@ -6007,7 +6007,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6350,7 +6350,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6614,7 +6614,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6878,7 +6878,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16016,7 +16016,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16359,7 +16359,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16623,7 +16623,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -16887,7 +16887,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26025,7 +26025,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26368,7 +26368,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26632,7 +26632,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -26896,7 +26896,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36034,7 +36034,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36377,7 +36377,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36641,7 +36641,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -36905,7 +36905,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46043,7 +46043,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46386,7 +46386,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46650,7 +46650,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -46914,7 +46914,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56052,7 +56052,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56395,7 +56395,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56659,7 +56659,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -56923,7 +56923,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -66061,7 +66061,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -66404,7 +66404,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -66668,7 +66668,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -66932,7 +66932,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76070,7 +76070,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76413,7 +76413,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76677,7 +76677,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76941,7 +76941,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -86079,7 +86079,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -86422,7 +86422,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -86686,7 +86686,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -86950,7 +86950,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96088,7 +96088,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96431,7 +96431,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96695,7 +96695,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -96959,7 +96959,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -106097,7 +106097,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -106440,7 +106440,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -106704,7 +106704,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -106968,7 +106968,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -116106,7 +116106,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -116449,7 +116449,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -116713,7 +116713,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -116977,7 +116977,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "Synth. natural gas",
+                    "indicatorGroup": "Synth. nat. gas",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
