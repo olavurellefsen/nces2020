@@ -19,7 +19,7 @@ const Charts = props => {
   return (
     <MainArea>
       <Welcome 
-        tab="tab8"
+        tab="tab9"
         isOpen={props.scenarioSelection.showWelcome}
         closeWelcome={props.closeWelcome}  />
       <ScenarioDescriptionsContainer isWelcomeOpen={props.scenarioSelection.showWelcome}>
