@@ -11,3 +11,6 @@ Find out more about:
 - The TIMES-Nordic model – contact [Kenneth Karlsson](mailto:kenneth.karlsson@ivl.se), IVL
 
 - The web tool – [contact Tokni](https://www.tokni.com)
+
+- Entire Dataset, download by right clicking the link and choose 'save link as..'  – [dataset](https://raw.githubusercontent.com/tokni/nces2020/develop/ON-TIMES_complete_results.csv)
+
