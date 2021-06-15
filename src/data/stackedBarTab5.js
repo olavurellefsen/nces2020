@@ -5,7 +5,7 @@ export default {
         "scenario": "CNB",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -5296,7 +5296,7 @@ export default {
         "scenario": "CNB_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -10587,7 +10587,7 @@ export default {
         "scenario": "CNB_CCS",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -15878,7 +15878,7 @@ export default {
         "scenario": "CNB_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -21169,7 +21169,7 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -26460,7 +26460,7 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -31751,7 +31751,7 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -37042,7 +37042,7 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -42333,7 +42333,7 @@ export default {
         "scenario": "NPH",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -47624,7 +47624,7 @@ export default {
         "scenario": "NPH_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -52915,7 +52915,7 @@ export default {
         "scenario": "NPH_CCS",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -58206,7 +58206,7 @@ export default {
         "scenario": "NPH_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture fuel consumption",
+            "indicator": "Agriculture & Fishery fuel consumption",
             "unit": "TWh",
             "regions": [
               {
