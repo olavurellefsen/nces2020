@@ -239,7 +239,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7053,7 +7053,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13867,7 +13867,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20681,7 +20681,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27495,7 +27495,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34309,7 +34309,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41123,7 +41123,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47937,7 +47937,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54751,7 +54751,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61565,7 +61565,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68379,7 +68379,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75193,7 +75193,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture",
+                    "indicatorGroup": "CO2-Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
