@@ -12,7 +12,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -49,7 +49,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -86,7 +86,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -123,7 +123,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -160,7 +160,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -197,7 +197,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -239,7 +239,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -276,7 +276,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -313,7 +313,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -350,7 +350,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -387,7 +387,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -424,7 +424,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -461,7 +461,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -498,7 +498,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -535,7 +535,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -577,7 +577,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -614,7 +614,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -651,7 +651,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -688,7 +688,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -725,7 +725,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -767,7 +767,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -804,7 +804,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -841,7 +841,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -878,7 +878,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -915,7 +915,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -952,7 +952,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -994,7 +994,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1031,7 +1031,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1068,7 +1068,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1105,7 +1105,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1142,7 +1142,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -1179,7 +1179,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6826,7 +6826,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6863,7 +6863,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6900,7 +6900,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6937,7 +6937,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -6974,7 +6974,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7011,7 +7011,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7053,7 +7053,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7090,7 +7090,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7127,7 +7127,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7164,7 +7164,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7201,7 +7201,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7238,7 +7238,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7275,7 +7275,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7312,7 +7312,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7349,7 +7349,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7391,7 +7391,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7428,7 +7428,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7465,7 +7465,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7502,7 +7502,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7539,7 +7539,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7581,7 +7581,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7618,7 +7618,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7655,7 +7655,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7692,7 +7692,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7729,7 +7729,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7766,7 +7766,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7808,7 +7808,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7845,7 +7845,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7882,7 +7882,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7919,7 +7919,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7956,7 +7956,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -7993,7 +7993,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13640,7 +13640,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13677,7 +13677,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13714,7 +13714,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13751,7 +13751,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13788,7 +13788,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13825,7 +13825,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13867,7 +13867,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13904,7 +13904,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13941,7 +13941,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -13978,7 +13978,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14015,7 +14015,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14052,7 +14052,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14089,7 +14089,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14126,7 +14126,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14163,7 +14163,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14205,7 +14205,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14242,7 +14242,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14279,7 +14279,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14316,7 +14316,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14353,7 +14353,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14395,7 +14395,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14432,7 +14432,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14469,7 +14469,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14506,7 +14506,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14543,7 +14543,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14580,7 +14580,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14622,7 +14622,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14659,7 +14659,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14696,7 +14696,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14733,7 +14733,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14770,7 +14770,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -14807,7 +14807,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20454,7 +20454,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20491,7 +20491,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20528,7 +20528,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20565,7 +20565,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20602,7 +20602,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20639,7 +20639,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20681,7 +20681,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20718,7 +20718,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20755,7 +20755,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20792,7 +20792,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20829,7 +20829,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20866,7 +20866,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20903,7 +20903,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20940,7 +20940,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -20977,7 +20977,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21019,7 +21019,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21056,7 +21056,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21093,7 +21093,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21130,7 +21130,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21167,7 +21167,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21209,7 +21209,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21246,7 +21246,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21283,7 +21283,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21320,7 +21320,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21357,7 +21357,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21394,7 +21394,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21436,7 +21436,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21473,7 +21473,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21510,7 +21510,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21547,7 +21547,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21584,7 +21584,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -21621,7 +21621,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27268,7 +27268,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27305,7 +27305,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27342,7 +27342,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27379,7 +27379,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27416,7 +27416,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27453,7 +27453,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27495,7 +27495,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27532,7 +27532,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27569,7 +27569,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27606,7 +27606,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27643,7 +27643,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27680,7 +27680,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27717,7 +27717,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27754,7 +27754,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27791,7 +27791,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27833,7 +27833,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27870,7 +27870,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27907,7 +27907,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27944,7 +27944,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -27981,7 +27981,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28023,7 +28023,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28060,7 +28060,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28097,7 +28097,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28134,7 +28134,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28171,7 +28171,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28208,7 +28208,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28250,7 +28250,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28287,7 +28287,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28324,7 +28324,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28361,7 +28361,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28398,7 +28398,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -28435,7 +28435,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34082,7 +34082,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34119,7 +34119,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34156,7 +34156,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34193,7 +34193,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34230,7 +34230,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34267,7 +34267,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34309,7 +34309,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34346,7 +34346,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34383,7 +34383,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34420,7 +34420,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34457,7 +34457,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34494,7 +34494,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34531,7 +34531,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34568,7 +34568,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34605,7 +34605,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34647,7 +34647,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34684,7 +34684,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34721,7 +34721,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34758,7 +34758,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34795,7 +34795,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34837,7 +34837,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34874,7 +34874,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34911,7 +34911,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34948,7 +34948,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -34985,7 +34985,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35022,7 +35022,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35064,7 +35064,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35101,7 +35101,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35138,7 +35138,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35175,7 +35175,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35212,7 +35212,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -35249,7 +35249,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -40896,7 +40896,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -40933,7 +40933,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -40970,7 +40970,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41007,7 +41007,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41044,7 +41044,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41081,7 +41081,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41123,7 +41123,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41160,7 +41160,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41197,7 +41197,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41234,7 +41234,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41271,7 +41271,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41308,7 +41308,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41345,7 +41345,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41382,7 +41382,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41419,7 +41419,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41461,7 +41461,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41498,7 +41498,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41535,7 +41535,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41572,7 +41572,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41609,7 +41609,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41651,7 +41651,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41688,7 +41688,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41725,7 +41725,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41762,7 +41762,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41799,7 +41799,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41836,7 +41836,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41878,7 +41878,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41915,7 +41915,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41952,7 +41952,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -41989,7 +41989,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42026,7 +42026,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -42063,7 +42063,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47710,7 +47710,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47747,7 +47747,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47784,7 +47784,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47821,7 +47821,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47858,7 +47858,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47895,7 +47895,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47937,7 +47937,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -47974,7 +47974,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48011,7 +48011,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48048,7 +48048,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48085,7 +48085,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48122,7 +48122,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48159,7 +48159,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48196,7 +48196,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48233,7 +48233,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48275,7 +48275,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48312,7 +48312,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48349,7 +48349,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48386,7 +48386,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48423,7 +48423,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48465,7 +48465,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48502,7 +48502,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48539,7 +48539,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48576,7 +48576,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48613,7 +48613,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48650,7 +48650,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48692,7 +48692,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48729,7 +48729,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48766,7 +48766,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48803,7 +48803,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48840,7 +48840,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -48877,7 +48877,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54524,7 +54524,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54561,7 +54561,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54598,7 +54598,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54635,7 +54635,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54672,7 +54672,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54709,7 +54709,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54751,7 +54751,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54788,7 +54788,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54825,7 +54825,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54862,7 +54862,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54899,7 +54899,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54936,7 +54936,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -54973,7 +54973,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55010,7 +55010,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55047,7 +55047,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55089,7 +55089,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55126,7 +55126,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55163,7 +55163,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55200,7 +55200,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55237,7 +55237,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55279,7 +55279,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55316,7 +55316,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55353,7 +55353,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55390,7 +55390,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55427,7 +55427,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55464,7 +55464,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55506,7 +55506,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55543,7 +55543,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55580,7 +55580,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55617,7 +55617,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55654,7 +55654,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -55691,7 +55691,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61338,7 +61338,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61375,7 +61375,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61412,7 +61412,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61449,7 +61449,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61486,7 +61486,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61523,7 +61523,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61565,7 +61565,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61602,7 +61602,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61639,7 +61639,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61676,7 +61676,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61713,7 +61713,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61750,7 +61750,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61787,7 +61787,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61824,7 +61824,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61861,7 +61861,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61903,7 +61903,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61940,7 +61940,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -61977,7 +61977,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62014,7 +62014,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62051,7 +62051,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62093,7 +62093,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62130,7 +62130,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62167,7 +62167,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62204,7 +62204,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62241,7 +62241,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62278,7 +62278,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62320,7 +62320,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62357,7 +62357,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62394,7 +62394,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62431,7 +62431,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62468,7 +62468,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -62505,7 +62505,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68152,7 +68152,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68189,7 +68189,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68226,7 +68226,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68263,7 +68263,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68300,7 +68300,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68337,7 +68337,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68379,7 +68379,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68416,7 +68416,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68453,7 +68453,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68490,7 +68490,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68527,7 +68527,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68564,7 +68564,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68601,7 +68601,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68638,7 +68638,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68675,7 +68675,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68717,7 +68717,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68754,7 +68754,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68791,7 +68791,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68828,7 +68828,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68865,7 +68865,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68907,7 +68907,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68944,7 +68944,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -68981,7 +68981,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69018,7 +69018,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69055,7 +69055,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69092,7 +69092,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69134,7 +69134,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69171,7 +69171,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69208,7 +69208,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69245,7 +69245,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69282,7 +69282,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -69319,7 +69319,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -74966,7 +74966,7 @@ export default {
                 "region": "DK",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75003,7 +75003,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75040,7 +75040,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75077,7 +75077,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75114,7 +75114,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75151,7 +75151,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75193,7 +75193,7 @@ export default {
                 "region": "FI",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Agriculture&Fishery",
+                    "indicatorGroup": "Agriculture&Fishery",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75230,7 +75230,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75267,7 +75267,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75304,7 +75304,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Internation transport",
+                    "indicatorGroup": "Internation transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75341,7 +75341,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75378,7 +75378,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75415,7 +75415,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Service",
+                    "indicatorGroup": "Service",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75452,7 +75452,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75489,7 +75489,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75531,7 +75531,7 @@ export default {
                 "region": "IS",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75568,7 +75568,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75605,7 +75605,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75642,7 +75642,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75679,7 +75679,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75721,7 +75721,7 @@ export default {
                 "region": "NO",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75758,7 +75758,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75795,7 +75795,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75832,7 +75832,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75869,7 +75869,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75906,7 +75906,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75948,7 +75948,7 @@ export default {
                 "region": "SE",
                 "indicatorGroups": [
                   {
-                    "indicatorGroup": "CO2-Captured",
+                    "indicatorGroup": "Captured",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -75985,7 +75985,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Industry",
+                    "indicatorGroup": "Industry",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76022,7 +76022,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Power and Heat",
+                    "indicatorGroup": "Power and Heat",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76059,7 +76059,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Residential",
+                    "indicatorGroup": "Residential",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76096,7 +76096,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Transport",
+                    "indicatorGroup": "Transport",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
@@ -76133,7 +76133,7 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "CO2-Upstream",
+                    "indicatorGroup": "Upstream",
                     "indicatorGroupValues": [
                       {
                         "year": 2015,
