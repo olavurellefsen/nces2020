@@ -269,7 +269,8 @@ function createAccumulatedRawHistoricalData5(data, selectedCountries) {
   let fuelTypes = []
   data.data.nces_enercons_res.forEach((item)=>{
     if (fuelTypes.indexOf(item.fuel) === -1)
-      fuelTypes.push(item.fuel)
+      if (item.value !== 0) 
+        fuelTypes.push(item.fuel)
   })
   return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes, csv]
 }

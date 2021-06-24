@@ -43,7 +43,7 @@ const getCSVData = (lineData) => {
   let ret = []
   Object.entries(lineData).forEach((indicatorGroup) => {
     indicatorGroup[1].forEach((item)=>{
-      console.log("in gr: ", indicatorGroup)
+      //console.log("in gr: ", indicatorGroup)
       ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y, country: indicatorGroup[0]})
     })
   })
@@ -57,18 +57,6 @@ const LineChartHistorical = ({
   addTotal = true,
   label= "share"
 }) => {
-  let gutter, rowGutter
-  if (
-    !process.env.NODE_ENV ||
-    process.env.NODE_ENV === 'development' ||
-    process.env.NODE_ENV === 'test'
-  ) {
-    gutter = 0
-    rowGutter = 0
-  } else {
-    gutter = 0
-    rowGutter = 0
-  }
 
 let selectedDataRegions = [] 
 mapRegionToDataRegions.forEach((mapRegion) => {
@@ -159,17 +147,15 @@ return (
         x={90}
         y={5}
         orientation="horizontal"
-        gutter={gutter}
-        rowGutter={rowGutter}
-        symbolSpacer={4}
+        gutter={15}
+        rowGutter={2}
+        symbolSpacer={5}
         itemsPerRow={4}
         style={{
           title: { fontSize: 14, leftPadding: -10 },
         }}
         data={Array.from(legends).map((legend, i) => ({
-            name: legend
-              .concat('        ')
-              .substr(0, 16),
+            name: legend,
             symbol: {fill: countryColors(selectedDataRegions)[legend]},
           }))}
         labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}

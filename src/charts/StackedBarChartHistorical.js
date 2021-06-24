@@ -55,20 +55,6 @@ const StackedBarChartHistorical = ({
   const accumulatedData = stackedBar[0]
   const totalYearValuesScenario1 = stackedBar[1]
   const legends = stackedBar[2]
-
-  let gutter, rowGutter
-  if (
-    !process.env.NODE_ENV ||
-    process.env.NODE_ENV === 'development' ||
-    process.env.NODE_ENV === 'test'
-  ) {
-    gutter = 0
-    rowGutter = 0
-  } else {
-    gutter = 0
-    rowGutter = 0
-  }
-
   let maxY = -Infinity
   let minY = Infinity
   let base = 0
@@ -77,9 +63,7 @@ const StackedBarChartHistorical = ({
     maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year]))
     minY = Math.round(Math.min(minY, totalYearValuesScenario1[year]))
   })
-  console.log("miny: ", minY)
-  console.log("maxy: ", maxY)
-  console.log("base: ", base)
+
   let t = 1
   let i = 0
   let range = [2,4,6,8,10]
@@ -98,11 +82,19 @@ const StackedBarChartHistorical = ({
   minY = u
 
   //base is used in tickFormat
-  if (maxY < -minY) 
-    base = -minY
-  else 
-    base = maxY
-
+  if (maxY < -minY) {
+    if(chartName !== "Final energy consumption in services sector" && chartName !== "Final energy consumption in transport ")
+      base = -minY
+    else
+      base = -minY*1.5
+    }
+  else {
+    if(chartName !== "Final energy consumption in services sector" && chartName !== "Final energy consumption in transport ")
+      base = maxY
+    else
+      base = maxY*1.5
+  }
+      
     const defTick = [0, 0.25, 0.5, 0.75]
     const getTickValues = () => {
       let ret = []
@@ -122,19 +114,11 @@ const StackedBarChartHistorical = ({
               ret.unshift(-defTick[i+1])
         })
       }
-      console.log("ret def: ", ret)
       return ret
     }
-    console.log("totals: ", totalYearValuesScenario1)
-  console.log("miny: ", minY)
-  console.log("maxy: ", maxY)
-  console.log("base: ", base)
   const getCSVData = (lineData) => {
-      //console.log("getscv: ", lineData)
-      //console.log("chartName; ", chartName)
       let ret = []
       Object.entries(lineData).forEach((indicatorGroup) => {
-        console.log("indica grp: ", indicatorGroup)
         indicatorGroup[1].forEach((item)=>{
           ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
         })
@@ -206,28 +190,25 @@ const StackedBarChartHistorical = ({
             tickValues={[0, 0.25, 0.5, 0.75, 1.0]}
           />
         )}
+        {console.log("CO: ", chartName === "CO<sub>2</sub> emissions" ? 2 : 3)}
         <VictoryLegend
           x={90}
           y={5}
           orientation="horizontal"
-          gutter={gutter}
-          rowGutter={rowGutter}
-          symbolSpacer={4}
-          itemsPerRow={4}
+          gutter={chartName === "CO<sub>2</sub> emissions" ? 0 : 15}
+          rowGutter={2}
+          symbolSpacer={5}
+          itemsPerRow={chartName === "CO<sub>2</sub> emissions" ? 2 : 3}
           style={{
-            title: { fontSize: 14, leftPadding: -10 },
+            title: { fontSize: 14, leftPadding: -10 }, margin: 10,
           }}
           colorScale={colorNER}
           data={Array.from(legends).map((legend, i) => ({
-              name: legend
-                .concat('        ')
-                .substr(0, 16),
+              name: legend,
               fill: colorNER[i],
             }))}
           labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}
         />
-        {console.log("Object.entries(accumulatedData): ", Object.entries(accumulatedData))}
-        {console.log("Object.keys(accumulatedData): ", Object.keys(accumulatedData))}
         {Object.entries(accumulatedData).length !== 0 && <VictoryGroup offset={10} style={{ data: { width: 10 } }}>
           <VictoryStack>
             {Object.keys(accumulatedData).map((chartGroupName, i) => (

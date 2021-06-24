@@ -91,6 +91,7 @@ const StackedBarChartHistoricalPerCountry = ({
   minY = u
 
   //base is used in tickFormat
+  console.log("chartNAme: ", chartName)
   if (maxY < -minY) 
     base = -minY
   else 

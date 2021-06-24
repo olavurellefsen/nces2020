@@ -50,18 +50,6 @@ const LineChartDoubleYAxisHistorical = ({
   maxY2 = 100,
   xRange = historicalYears
 }) => {
-  let gutter, rowGutter
-  if (
-    !process.env.NODE_ENV ||
-    process.env.NODE_ENV === 'development' ||
-    process.env.NODE_ENV === 'test'
-  ) {
-    gutter = 0
-    rowGutter = 0
-  } else {
-    gutter = 0
-    rowGutter = 0
-  }
 
 let selectedDataRegions = [] 
 mapRegionToDataRegions.forEach((mapRegion) => {
@@ -152,17 +140,15 @@ return (
         x={90}
         y={5}
         orientation="horizontal"
-        gutter={gutter}
-        rowGutter={rowGutter}
-        symbolSpacer={4}
-        itemsPerRow={5}
+        gutter={15}
+        rowGutter={2}
+        symbolSpacer={5}
+        itemsPerRow={4}
         style={{
           title: { fontSize: 14, leftPadding: -10 },
         }}
         data={Array.from(legends).map((legend, i) => ({
-            name: legend
-              .concat('        ')
-              .substr(0, 16),
+            name: legend,
             symbol: {fill: legendColors()[i]},
           }))}
         labelComponent={<HTMLLabel style={{ fontSize: '12px' }} />}

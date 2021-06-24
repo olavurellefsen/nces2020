@@ -114,7 +114,7 @@ const RawHistoricalCharts = props => {
           label="kt CO2"
       ></StackedBarChartHistorical>
       <LineChartHistorical 
-        chartName="line prime"
+        chartName="Total primary energy demand "
         data={HistoricalLinechartData01}
         selectedCountries={props.selectedCountries}
         xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
@@ -123,12 +123,12 @@ const RawHistoricalCharts = props => {
         >
       </LineChartHistorical>
       <StackedBarChartHistorical
-          chartName="number of new passenger car registrations"
+          chartName="Number of new passenger car registrations"
           stackedBar={HistoricalTableData9}
           selectedCountries={props.selectedCountries}
       ></StackedBarChartHistorical>
       <StackedBarChartHistorical
-          chartName="number of passenger cars "
+          chartName="Number of passenger cars "
           stackedBar={HistoricalTableData10}
           selectedCountries={props.selectedCountries}
       ></StackedBarChartHistorical>
