@@ -80,10 +80,10 @@ CloseWindowIcon.displayName = "CloseWindowIcon";
 const welcomeText = {
   "tab1": {
     "welcome1": <p>Welcome to Nordic Clean Energy Scenarios 2020 (NCES2020) scenario viewer.</p>,
-	"welcome2": <p>The project is funded by Nordic Energy Research and is carried out by a Nordic team of researchers and consultants – see about NCES2020.</p>,
+	"welcome2": <p>The project is funded by Nordic Energy Research and is carried out by a Nordic team of researchers and consultants – see About Nordic Clean Energy Scenarios.</p>,
 	"welcome3": <p>On this webpage you can compare scenarios and change assumptions. All the scenarios reach carbon neutrality before 2050, but technology choice, fuel consumption and cost will change when changing assumptions about readiness of technologies and whether the countries can import biomass and biofuels.</p>,
 	"welcome4": <p>You can look at results for all countries or for individual countries by clicking them on and off on the map to the left. </p>,
-	"welcome5": <p>You can compare scenarios by clicking on the two scenarios you want to compare. The scenario with the red colour is always shown to the left in the figures and the blue coloured scenarios to the right. If you want to see the absolute difference between the scenarios - activate the &quot;Scenario Difference&quot; slider and the blue scenarios will be subtracted from the red.</p>,
+	"welcome5": <p>You can compare scenarios by clicking on the two scenarios you want to compare. The scenario with the blue colour is always shown to the left in the figures and the violet coloured scenarios to the right. If you want to see the absolute difference between the scenarios - activate the &quot;Scenario Difference&quot; slider and the violet scenarios will be subtracted from the blue.</p>,
 	"welcome6": <p>The model used for calculating the scenarios is called Open Nordic TIMES model (ON-TIMES) and is developed during the project.</p>,
 	"welcome7": <p>As with all modelling results - be critical to what you see, do not just accept it. The many combinations of scenarios represented in this viewer indicate the uncertainty of how the future Nordic energy system will develop, but also illustrate which solutions compete and which have synergies. The modelling results are highly dependent on projections of technologies, their availability, efficiency and cost, by future fuel prices and access to resources.</p>,
 	"welcome8": <p>On this first result page we show some main results like primary energy consumption, final energy consumption and total CO<sub>2</sub>-emissions.</p>,
@@ -103,7 +103,7 @@ const welcomeText = {
   "tab4": {
 	  "welcome1": <p>Heavy industry energy consumption.</p>,
 	  "welcome2": <p>Here you can investigate energy consumption and CO<sub>2</sub>-emissions from heavy industry.</p>,
-	  "welcome3": <p>In heavy industry we include: Pulp and paper, Mining, Iron and steel, Aluminium and cement.</p>,
+	  "welcome3": <p>In heavy industry we include: Pulp and paper, Mining, Iron and steel, Aluminium and Cement.</p>,
 	  "welcome4": <p>Try to select the CNN scenario and the NPH scenario and you will see the assumed increase in activity in NPH – if you choose to compare with CNB instead you can see the impact of the assumed decrease in activity.</p>,
 	  "welcome5": <p>Try also to select CNN twice and then activate increased cost of CO<sub>2</sub> storage and compare CO<sub>2</sub>-reductions.</p>,
   },

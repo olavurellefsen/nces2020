@@ -264,6 +264,7 @@ function createAccumulatedRawHistoricalData5(data, selectedCountries) {
       }
     }
   })
+  
 
   let fuelTypes = []
   data.data.nces_enercons_res.forEach((item)=>{
@@ -273,7 +274,324 @@ function createAccumulatedRawHistoricalData5(data, selectedCountries) {
   return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes, csv]
 }
 
+function createAccumulatedRawHistoricalData6(data, selectedCountries) {
+  let accumulatedHistoricalData = {}
+  let totalHistoricalYearValues = {}
+  let csv =[]
+  historicalYears.forEach(year => {
+    totalHistoricalYearValues[year] = 0
+  })
+  let selectedDataRegions = [] 
+    mapRegionToDataRegions.forEach((mapRegion) => {
+        if(selectedCountries.includes(mapRegion.path_id)) {
+        mapRegion.historical_data_regions.forEach((dataRegion) => {
+          selectedDataRegions.push(dataRegion)
+        })
+      }
+    })
 
+  data.data.nces_eleccons.forEach((item, i)=>{ 
+    if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
+      if(Object.keys(accumulatedHistoricalData).includes(item.sector)) {
+        //checks if a value is already there, and then accumulate
+        if (accumulatedHistoricalData[item.sector][historicalYears.indexOf(item.year)]) {
+          accumulatedHistoricalData[item.sector][historicalYears.indexOf(item.year)].total += item.value
+          totalHistoricalYearValues[item.year] += item.value
+        } else {
+          accumulatedHistoricalData[item.sector].push({"year": item.year, "total": item.value})
+          totalHistoricalYearValues[item.year] += item.value
+        }
+      } else {
+        accumulatedHistoricalData[item.sector] = []
+        accumulatedHistoricalData[item.sector].push({"year": item.year, "total": item.value})
+        totalHistoricalYearValues[item.year] += item.value
+      }
+    }
+  })
+
+let sectors = []
+data.data.nces_eleccons.forEach((item)=>{
+  if (sectors.indexOf(item.sector) === -1)
+    sectors.push(item.sector)
+})
+return [accumulatedHistoricalData,totalHistoricalYearValues, sectors, csv]
+}
+
+function createAccumulatedRawHistoricalData7(data, selectedCountries) {
+  let accumulatedHistoricalData = {}
+  let totalHistoricalYearValues = {}
+  let csv =[]
+  historicalYears.forEach(year => {
+    totalHistoricalYearValues[year] = 0
+  })
+  let selectedDataRegions = [] 
+    mapRegionToDataRegions.forEach((mapRegion) => {
+        if(selectedCountries.includes(mapRegion.path_id)) {
+        mapRegion.historical_data_regions.forEach((dataRegion) => {
+          selectedDataRegions.push(dataRegion)
+        })
+      }
+    })
+
+  data.data.nces_elecprod.forEach((item, i)=>{ 
+    if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
+      if(Object.keys(accumulatedHistoricalData).includes(item.fuel)) {
+        //checks if a value is already there, and then accumulate
+        if (accumulatedHistoricalData[item.fuel][historicalYears.indexOf(item.year)]) {
+          accumulatedHistoricalData[item.fuel][historicalYears.indexOf(item.year)].total += item.value
+          totalHistoricalYearValues[item.year] += item.value
+        } else {
+          accumulatedHistoricalData[item.fuel].push({"year": item.year, "total": item.value})
+          totalHistoricalYearValues[item.year] += item.value
+        }
+      } else {
+        accumulatedHistoricalData[item.fuel] = []
+        accumulatedHistoricalData[item.fuel].push({"year": item.year, "total": item.value})
+        totalHistoricalYearValues[item.year] += item.value
+      }
+    }
+  })
+
+let fuelTypes = []
+data.data.nces_elecprod.forEach((item)=>{
+  if (fuelTypes.indexOf(item.fuel) === -1)
+  fuelTypes.push(item.fuel)
+})
+console.log("accumulatedHistoricalData", accumulatedHistoricalData)
+return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes, csv]
+}
+
+function createAccumulatedRawHistoricalData8(data, selectedCountries) {
+  let accumulatedHistoricalData = {}
+  let totalHistoricalYearValues = {}
+  let csv =[]
+  historicalYears.forEach(year => {
+    totalHistoricalYearValues[year] = 0
+  })
+  let selectedDataRegions = [] 
+    mapRegionToDataRegions.forEach((mapRegion) => {
+        if(selectedCountries.includes(mapRegion.path_id)) {
+        mapRegion.historical_data_regions.forEach((dataRegion) => {
+          selectedDataRegions.push(dataRegion)
+        })
+      }
+    })
+
+  data.data.nces_enercons_trans.forEach((item, i)=>{ 
+    if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
+      if(Object.keys(accumulatedHistoricalData).includes(item.fuel)) {
+        //checks if a value is already there, and then accumulate
+        if (accumulatedHistoricalData[item.fuel][historicalYears.indexOf(item.year)]) {
+          accumulatedHistoricalData[item.fuel][historicalYears.indexOf(item.year)].total += item.value
+          totalHistoricalYearValues[item.year] += item.value
+        } else {
+          accumulatedHistoricalData[item.fuel].push({"year": item.year, "total": item.value})
+          totalHistoricalYearValues[item.year] += item.value
+        }
+      } else {
+        accumulatedHistoricalData[item.fuel] = []
+        accumulatedHistoricalData[item.fuel].push({"year": item.year, "total": item.value})
+        totalHistoricalYearValues[item.year] += item.value
+      }
+    }
+  })
+
+let fuelTypes = []
+data.data.nces_enercons_trans.forEach((item)=>{
+  if (fuelTypes.indexOf(item.fuel) === -1)
+  fuelTypes.push(item.fuel)
+})
+console.log("accumulatedHistoricalData", accumulatedHistoricalData)
+return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes, csv]
+}
+
+function createAccumulatedRawHistoricalData9(data, selectedCountries) {
+  let accumulatedHistoricalData = {}
+  let totalHistoricalYearValues = {}
+  let csv =[]
+  const histYears = [2013, 2014, 2015, 2016, 2017, 2018]
+  histYears.forEach(year => {
+    totalHistoricalYearValues[year] = 0
+  })
+  let selectedDataRegions = [] 
+    mapRegionToDataRegions.forEach((mapRegion) => {
+        if(selectedCountries.includes(mapRegion.path_id)) {
+        mapRegion.historical_data_regions.forEach((dataRegion) => {
+          selectedDataRegions.push(dataRegion)
+        })
+      }
+    })
+    console.log("data.data: ", data.data)
+  data.data.nces_vehiclenumber.forEach((item, i)=>{ 
+    if(histYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
+      if(Object.keys(accumulatedHistoricalData).includes(item.car_type)) {
+        //checks if a value is already there, and then accumulate
+        if (accumulatedHistoricalData[item.car_type][histYears.indexOf(item.year)]) {
+          accumulatedHistoricalData[item.car_type][histYears.indexOf(item.year)].total += item.value
+          totalHistoricalYearValues[item.year] += item.value
+        } else {
+          accumulatedHistoricalData[item.car_type].push({"year": item.year, "total": item.value})
+          totalHistoricalYearValues[item.year] += item.value
+        }
+      } else {
+        accumulatedHistoricalData[item.car_type] = []
+        accumulatedHistoricalData[item.car_type].push({"year": item.year, "total": item.value})
+        totalHistoricalYearValues[item.year] += item.value
+      }
+    }
+  })
+
+let carTypes = []
+data.data.nces_vehiclenumber.forEach((item)=>{
+  if (carTypes.indexOf(item.car_type) === -1)
+  carTypes.push(item.car_type)
+})
+console.log("accumulatedHistoricalData", accumulatedHistoricalData)
+console.log("fueltypes: ", carTypes)
+return [accumulatedHistoricalData,totalHistoricalYearValues, carTypes, csv]
+}
+
+function createAccumulatedRawHistoricalData10(data, selectedCountries) {
+  let accumulatedHistoricalData = {}
+  let totalHistoricalYearValues = {}
+  let csv =[]
+  const histYears = [2013, 2014, 2015, 2016, 2017, 2018]
+  histYears.forEach(year => {
+    totalHistoricalYearValues[year] = 0
+  })
+  let selectedDataRegions = [] 
+    mapRegionToDataRegions.forEach((mapRegion) => {
+        if(selectedCountries.includes(mapRegion.path_id)) {
+        mapRegion.historical_data_regions.forEach((dataRegion) => {
+          selectedDataRegions.push(dataRegion)
+        })
+      }
+    })
+    console.log("data.data10: ", data.data)
+  data.data.nces_vehiclenumber_stock.forEach((item, i)=>{ 
+    if(histYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
+      
+      if(Object.keys(accumulatedHistoricalData).includes(item.car_model)) {
+        //checks if a value is already there, and then accumulate
+        if (accumulatedHistoricalData[item.car_model][histYears.indexOf(item.year)]) {
+          //console.log("new year: ", item)
+          accumulatedHistoricalData[item.car_model][histYears.indexOf(item.year)].total += item.value
+          totalHistoricalYearValues[item.year] += item.value
+
+        } else {
+          //console.log("accum: ", item)
+          accumulatedHistoricalData[item.car_model].push({"year": item.year, "total": item.value})
+          totalHistoricalYearValues[item.year] += item.value
+        }
+      } else {
+        //console.log("new car_type: ", item)
+        //console.log("accum: ", accumulatedHistoricalData)
+        accumulatedHistoricalData[item.car_model] = []
+        accumulatedHistoricalData[item.car_model].push({"year": item.year, "total": item.value})
+        totalHistoricalYearValues[item.year] += item.value
+      }
+    }
+  })
+
+let carTypes = []
+data.data.nces_vehiclenumber_stock.forEach((item)=>{
+  if (carTypes.indexOf(item.car_model) === -1)
+  carTypes.push(item.car_model)
+})
+console.log("accumulatedHistoricalData", accumulatedHistoricalData)
+console.log("fueltypes: ", carTypes)
+return [accumulatedHistoricalData,totalHistoricalYearValues, carTypes, csv]
+}
+function createAccumulatedRawHistoricalData11(data, selectedCountries) {
+  let accumulatedHistoricalDataPositive = {}
+  let accumulatedHistoricalDataNegative = {}
+  let totalHistoricalYearValuesPositive = {}
+  let totalHistoricalYearValuesNegative = {}
+  let csv =[]
+  const histYears = [2015, 2016, 2017, 2018, 2019, 2020]
+  histYears.forEach(year => {
+    totalHistoricalYearValuesPositive[year] = 0
+    totalHistoricalYearValuesNegative[year + 'n'] = 0
+  })
+  let selectedDataRegions = [] 
+    mapRegionToDataRegions.forEach((mapRegion) => {
+        if(selectedCountries.includes(mapRegion.path_id)) {
+        mapRegion.historical_data_regions.forEach((dataRegion) => {
+          selectedDataRegions.push(dataRegion)
+        })
+      }
+    })
+    console.log("data.data11: ", data.data)
+  data.data.nces_elecexchange_3rd_country.forEach((item, i)=>{ 
+    if(histYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
+      if(item.exchange_type ==="import") {
+        if(Object.keys(accumulatedHistoricalDataPositive).includes(item.country_3rd + " import")) {
+          //checks if a value is already there, and then accumulate
+          if (accumulatedHistoricalDataPositive[item.country_3rd + " import"][histYears.indexOf(item.year)]) {
+            //console.log("new year: ", item)
+            accumulatedHistoricalDataPositive[item.country_3rd + " import"][histYears.indexOf(item.year)].total += item.value
+            totalHistoricalYearValuesPositive[item.year] += item.value
+  
+          } else {
+            //console.log("accum: ", item)
+            accumulatedHistoricalDataPositive[item.country_3rd + " import"].push({"year": item.year, "total": item.value})
+            totalHistoricalYearValuesPositive[item.year] += item.value
+          }
+        } else {
+          //console.log("new car_type: ", item)
+          //console.log("accum: ", accumulatedHistoricalData)
+          accumulatedHistoricalDataPositive[item.country_3rd + " import"] = []
+          accumulatedHistoricalDataPositive[item.country_3rd + " import"].push({"year": item.year, "total": item.value})
+          totalHistoricalYearValuesPositive[item.year] += item.value
+        }
+      }
+      else {
+        if(Object.keys(accumulatedHistoricalDataNegative).includes(item.country_3rd + " export")) {
+          //checks if a value is already there, and then accumulate
+          if (accumulatedHistoricalDataNegative[item.country_3rd + " export"][histYears.indexOf(item.year)]) {
+            //console.log("new year: ", item)
+            accumulatedHistoricalDataNegative[item.country_3rd + " export"][histYears.indexOf(item.year)].total -= item.value
+            totalHistoricalYearValuesNegative[item.year + 'n'] -= item.value
+  
+          } else {
+            //console.log("accum: ", item)
+            accumulatedHistoricalDataNegative[item.country_3rd + " export"].push({"year": item.year, "total": -item.value})
+            totalHistoricalYearValuesNegative[item.year + 'n'] -= item.value
+          }
+        } else {
+          //console.log("new car_type: ", item)
+          //console.log("accum: ", accumulatedHistoricalData)
+          accumulatedHistoricalDataNegative[item.country_3rd + " export"] = []
+          accumulatedHistoricalDataNegative[item.country_3rd + " export"].push({"year": item.year, "total": -item.value})
+          totalHistoricalYearValuesNegative[item.year + 'n'] -= item.value
+        }
+      }
+      
+    }
+  })
+
+let carTypes = []
+console.log("keys: ", Object.keys(accumulatedHistoricalDataPositive).concat(Object.keys(accumulatedHistoricalDataNegative)) )
+/* Object.keys(accumulatedHistoricalDataPositive).forEach((key) => {
+  carTypes.push()
+}) */
+
+/* data.data.nces_elecexchange_3rd_country.forEach((item)=>{
+  if (carTypes.indexOf(item.country_3rd + " import") === -1) {
+    carTypes.push(item.country_3rd + " import")
+    carTypes.push(item.country_3rd + " export")
+  }
+}) */
+
+console.log("accumulatedHistoricalData", accumulatedHistoricalDataPositive)
+console.log("accumulatedHistoricalData", accumulatedHistoricalDataNegative)
+console.log("fueltypes: ", carTypes)
+return [
+  {...accumulatedHistoricalDataPositive, ...accumulatedHistoricalDataNegative},
+  {...totalHistoricalYearValuesPositive, ...totalHistoricalYearValuesNegative}, 
+  Object.keys(accumulatedHistoricalDataPositive).concat(Object.keys(accumulatedHistoricalDataNegative)), 
+  csv]
+}
 
 function createAccumulatedHistoricalData2(data, selectedCountries) {
   let accumulatedHistoricalData = {}
@@ -940,6 +1258,76 @@ const createIndicator7Data = (rawData, selectedCountries) => {
   })
   return ret
 }
+
+const createLineChartData1 = (rawData, selectedCountries) => {
+  let selectedDataRegions = [] 
+  mapRegionToDataRegions.forEach((mapRegion) => {
+      if(selectedCountries.includes(mapRegion.path_id)) {
+      mapRegion.historical_data_regions.forEach((dataRegion) => {
+        selectedDataRegions.push(dataRegion)
+      })
+    }
+  })
+  const countries = ['Denmark', 'Sweden', 'Norway', 'Finland','Iceland']
+  const car_years = [2013, 2014, 2015, 2016, 2017, 2018, 2019]
+  let re = []
+  countries.forEach((country)=>{
+    re[country] = []
+    car_years.forEach((year) =>{
+      re[country][year-car_years[0]]=0
+    })
+  })
+  rawData.data.nces_primencons.forEach((item) => {
+    if (selectedDataRegions.includes(item.nces_country.name)) {
+      re[item.nces_country.name][item.year-car_years[0]] += item.value
+    }
+  })
+  
+  let ret = []
+  
+  for(let country in selectedDataRegions) {
+    ret[selectedDataRegions[country]] = []
+    re[selectedDataRegions[country]].forEach((value, index)=>{
+      ret[selectedDataRegions[country]][index] = { "x": index + 2013, "y": value, country: selectedDataRegions[country] }
+    })
+  }
+  return ret
+}
+const createLineChartData2 = (rawData, selectedCountries) => {
+  let selectedDataRegions = [] 
+  mapRegionToDataRegions.forEach((mapRegion) => {
+      if(selectedCountries.includes(mapRegion.path_id)) {
+      mapRegion.historical_data_regions.forEach((dataRegion) => {
+        selectedDataRegions.push(dataRegion)
+      })
+    }
+  })
+  const countries = ['Denmark', 'Sweden', 'Norway', 'Finland','Iceland']
+  const car_years = [2013, 2014, 2015, 2016, 2017, 2018, 2019]
+  let re = []
+  countries.forEach((country)=>{
+    re[country] = []
+    car_years.forEach((year) =>{
+      re[country][year-car_years[0]]=0
+    })
+  })
+  rawData.data.nces_building_area.forEach((item) => {
+    if (selectedDataRegions.includes(item.nces_country.name)) {
+      re[item.nces_country.name][item.year-car_years[0]] += item.value
+    }
+  })
+  
+  let ret = []
+  
+  for(let country in selectedDataRegions) {
+    ret[selectedDataRegions[country]] = []
+    re[selectedDataRegions[country]].forEach((value, index)=>{
+      ret[selectedDataRegions[country]][index] = { "x": index + 2013, "y": value, country: selectedDataRegions[country] }
+    })
+  }
+  return ret
+}
+
 export { 
   createAccumulatedData, 
   createAccumulatedHistoricalData1,
@@ -956,4 +1344,13 @@ export {
   createAccumulatedRawHistoricalData2,
   createAccumulatedRawHistoricalData3,
   createAccumulatedRawHistoricalData4,
-  createAccumulatedRawHistoricalData5 }
+  createAccumulatedRawHistoricalData5,
+  createAccumulatedRawHistoricalData6,
+  createAccumulatedRawHistoricalData7,
+  createAccumulatedRawHistoricalData8,
+  createAccumulatedRawHistoricalData9,
+  createAccumulatedRawHistoricalData10,
+  createLineChartData1,
+  createLineChartData2,
+  createAccumulatedRawHistoricalData11,
+}

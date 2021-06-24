@@ -12,7 +12,9 @@ import {
   VictoryGroup,
   VictoryTheme,
   VictoryAxis,
-  VictoryLine
+  VictoryLine,
+  VictoryVoronoiContainer,
+  VictoryTooltip
 } from 'victory'
 
 const ChartContainer = styled.div`
@@ -41,7 +43,8 @@ const getCSVData = (lineData) => {
   let ret = []
   Object.entries(lineData).forEach((indicatorGroup) => {
     indicatorGroup[1].forEach((item)=>{
-      ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y})
+      console.log("in gr: ", indicatorGroup)
+      ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y, country: indicatorGroup[0]})
     })
   })
   return ret
@@ -50,7 +53,9 @@ const LineChartHistorical = ({
   chartName = "chart name",
   data = [],
   selectedCountries = [],
-  xRange = historicalYears
+  xRange = historicalYears,
+  addTotal = true,
+  label= "share"
 }) => {
   let gutter, rowGutter
   if (
@@ -73,13 +78,25 @@ mapRegionToDataRegions.forEach((mapRegion) => {
   })
 }
 })
-const fixedcolorCountries = [ 'Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
+
+const HTMLYAxisLabel = props => {
+  const text = props.text.replaceAll('§', '')
+  const co2Text = text.replace("CO2", "CO<sub>2</sub>")
+  return (
+    <foreignObject x={props.x+3-95} y={props.y-9} width={120} height={120}>
+      <div style={{ fontSize: '12px', transform: "rotate(-90deg)" }}>{parseHtml(co2Text)}</div>
+    </foreignObject>
+  );
+};
+
+const fixedcolorCountries = ['Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
 const countryColors = () => {
   let ret = colorNER.slice(0, 4)
   fixedcolorCountries.forEach((country, index)=>{
     ret[country] = colorNER[index]
   })
-  ret['total'] = 'black'
+  if (addTotal)
+    ret['total'] = 'black'
   return ret
 }
 const renderLines = (lineData) => {
@@ -90,7 +107,10 @@ const renderLines = (lineData) => {
       data={lineData[line]}
       style={{
         data: { stroke: countryColors(selectedDataRegions)[line] },
-      }}>
+      }}
+      labelComponent={<VictoryTooltip />}
+      >
+      
     </VictoryLine>)
   }
   return ret
@@ -110,7 +130,17 @@ return (
         Download as CSV</CSVLink>
     </ChartHeader>
   <div>
-    {selectedCountries.length !== 0 && <VictoryChart domainPadding={20}
+    {selectedCountries.length !== 0 && 
+      <VictoryChart 
+        containerComponent={
+          <VictoryVoronoiContainer
+            labels={({ datum }) => {
+              return (`${datum.country}, ${Math.round(100*datum.y, 2)/100}`)
+            }}
+            labelComponent={<VictoryTooltip />}
+          />
+        }
+        domainPadding={20}
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
@@ -120,10 +150,10 @@ return (
           key={'lineAxis'} tickValues={xRange} />
           <VictoryAxis
             dependentAxis
-            axisLabelComponent={<VictoryLabel dx={10} dy={-50}/>}
+            axisLabelComponent={<HTMLYAxisLabel dx={100} dy={50}/>}
             key={2}
             offsetX={80}
-            label={"Share"}
+            label={label}
           />
           <VictoryLegend
         x={90}

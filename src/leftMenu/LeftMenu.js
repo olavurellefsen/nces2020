@@ -38,6 +38,11 @@ const AppLogo = styled.img`
   border: 0;
   align-self: center;
   transform: scale(2.2) translate(43px);
+  transition: .2s;
+  &:hover {
+    cursor: pointer;
+    transform: scale(2.3) translate(43px);
+  }
 `;
 
 const MenuSeparatorLine = styled.hr`
@@ -67,9 +72,11 @@ const MenuItem = styled(Link)`
   align-items: center;
   text-decoration: none;
   opacity:  ${props => (props.selected ? "0.8" : "0.6")};
+  transition: .2s;
   &:hover {
     opacity: 1;
     cursor: pointer;
+    transform: scale(1.05)
   }
   color: inherit;
 `;
@@ -83,7 +90,7 @@ const ScenarioSelection = styled.div`
 const ToggleDifference = styled.div`
   padding: 5px 15px;
   display: flex;
-  justify-content: start;
+  justify-content: space-between;
   align-content: center;
 `;
 
@@ -97,7 +104,8 @@ const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
     props.singleMode ? "gray" : props.selected ? "#385988" : "white"};
-  margin-left: 60px;
+  margin-left: 30px;
+  margin-right: 10px;
   margin-bottom: 5px;
 `;
 
@@ -236,16 +244,17 @@ function ScenarioSelectionMenu(props) {
         }}
       > 
         
-        <ToggleSwitch
-          available={props.scenarioSelection.scenarioSelection2 !== ""}
-          checked={props.scenarioSelection.showDifference}
-        />
+        
         <ToggleSwitchText
           singleMode={props.scenarioSelection.scenarioSelection2 === ""}
           selected={props.scenarioSelection.showDifference}
         >
           {t("general.scenario-difference")}
         </ToggleSwitchText>
+        <ToggleSwitch
+          available={props.scenarioSelection.scenarioSelection2 !== ""}
+          checked={props.scenarioSelection.showDifference}
+        />
       </ToggleDifference></>
       }
       {props.scenarioSelection.scenarioSelection2 !== "" && <ScenarioDifferenceText

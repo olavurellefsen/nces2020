@@ -4,9 +4,9 @@ Nordic decision makers will play a leading role in shaping the future energy sys
 
 ### **Carbon Neutral Nordic (CNN) is the central storyline seeking the least-cost pathway, taking into account current national plans, strategies, and targets.**
 
-This storyline does not produce a business-as-usual scenario. Rather it shows what effects stated, but not yet implemented, strategies and targets would achieve. Decarbonisation of energy consumption will require fast actions in all sectors as the amount of renewable power and heat production must increase to provide clean energy to end-use sectors. Nordic countries in this scenario therefore increase electricity exports to central Europe, but the amount does not increase much above current projections as electrification of Nordic heating, transport, and industry require a large supply of low carbon electricity
+This storyline does not produce a business-as-usual scenario. Rather it shows what effects stated, but not yet implemented, strategies and targets would achieve. Decarbonisation of energy consumption will require fast actions in all sectors as the amount of renewable power and heat production must increase to provide clean energy to end-use sectors. Nordic countries in this scenario therefore increase electricity exports to central Europe, but the amount does not increase much above current projections as electrification of Nordic heating, transport, and industry require a large supply of low carbon electricity.
 
-Biomass imports from outside the Nordics are limited to current or slightly higher levels to ensure sustainability of bioenergy use. BECCS is utilised compensate some of the most expensive CO2 emission abatement options. In addition, onshore wind development is limited below the technical potential due to social acceptability and land use issues.
+Biomass imports from outside the Nordics are limited to current or slightly higher levels to ensure sustainability of bioenergy use. BECCS is utilised compensate some of the most expensive CO<sub>2</sub> emission abatement options. In addition, onshore wind development is limited below the technical potential due to social acceptability and land use issues.
 
 ### **Nordic Powerhouse (NPH) explores the opportunity for the Nordics to play a larger role in the broader European energy transition by providing clean electricity, clean fuels, and carbon storage.**
 
@@ -23,7 +23,7 @@ Energy demand for transport decrease due to more efficient use of transportation
 
 ### **Carbon Capture and Storage**
 
-Without negative emissions the targets of the Nordic countries cannot be reached. But one critical part of carbon capture and storage solutions is the storage. Where to store it and at what cost. In this sensitivity there are less opportunity to store CO2 and the costs of storage are assumed to increase the total costs from 20-60% depending on the technology.
+Without negative emissions the targets of the Nordic countries cannot be reached. But one critical part of carbon capture and storage solutions is the storage. Where to store it and at what cost. In this sensitivity there are less opportunity to store CO<sub>2</sub> and the costs of storage are assumed to increase the total costs from 20-60% depending on the technology.
 
 To apply this sensitivity to the scenario results, click the barrel icon on the chosen scenario. ![barrel icon](./images/barrel.png)
 
@@ -34,7 +34,7 @@ To apply this sensitivity to the scenario results, click the leaf icon on the ch
 
 ### ***Definition of carbon neutrality in the NCES analysis***
 
-The NCES project focuses on activities that cause energy-related CO2 emissions, which represent ~80% of total Nordic GHG emissions. The adopted definition of carbon neutrality by this project sets the limit for total energy-related CO2 emissions in each modelled scenario. Differences arise between the Nordic countries in the target years for reaching carbon neutrality, in their mid-term targets, and in the use of carbon offsets. Carbon neutrality target years range from 2030 in Norway to 2050 in Denmark. The difference in target years cannot be directly compared as some countries allow the use of carbon offsets and some will benefit from considerable forest carbon sinks, such as Sweden.
+The NCES project focuses on activities that cause energy-related CO<sub>2</sub> emissions, which represent ~80% of total Nordic GHG emissions. The adopted definition of carbon neutrality by this project sets the limit for total energy-related CO<sub>2</sub> emissions in each modelled scenario. Differences arise between the Nordic countries in the target years for reaching carbon neutrality, in their mid-term targets, and in the use of carbon offsets. Carbon neutrality target years range from 2030 in Norway to 2050 in Denmark. The difference in target years cannot be directly compared as some countries allow the use of carbon offsets and some will benefit from considerable forest carbon sinks, such as Sweden.
 
 The resulting total Nordic GHG reduction trajectory that constrains the scenarios are shown in the figures below for the Nordic aggregate and for each Nordic country. Because of differences in national targets and the inclusion or exclusion of LULUCF the profiles of each country are different.
 

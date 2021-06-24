@@ -130,24 +130,24 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
         Download as CSV</CSVLink>
     </ChartHeader>
       <VictoryChart domainPadding={20}
-      containerComponent={
-    <VictoryVoronoiContainer
-      labels={({ datum }) => {
-        /* if (datum.y === tempValue){
-          if(datum.childName === tempLine){
-            return (`${datum.country}, ${Math.round(100*datum.y, 2)/100}`)
-          }
-        } 
-        else {
-          tempValue = datum.y
-          tempLine = datum.childName
-          return(`${datum.x}, ${Math.round(100*datum.y, 2)/100}`)
-        }  */
-        return (`${datum.country}, ${Math.round(100*datum.y, 2)/100}`)
-      }}
-      labelComponent={<VictoryTooltip />}
-    />
-  }
+        containerComponent={
+          <VictoryVoronoiContainer
+            labels={({ datum }) => {
+              /* if (datum.y === tempValue){
+                if(datum.childName === tempLine){
+                  return (`${datum.country}, ${Math.round(100*datum.y, 2)/100}`)
+                }
+              } 
+              else {
+                tempValue = datum.y
+                tempLine = datum.childName
+                return(`${datum.x}, ${Math.round(100*datum.y, 2)/100}`)
+              }  */
+              return (`${datum.country}, ${Math.round(100*datum.y, 2)/100}`)
+            }}
+            labelComponent={<VictoryTooltip />}
+          />
+        }
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
@@ -169,6 +169,7 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
             indicatorData1.regions.forEach((region)=>{
               if (region.region === country) {
                 region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
+                  console.log("country: ", country)
                   lineChartData.push({x: item.year, y: item.total, country: country})
                 })
               }

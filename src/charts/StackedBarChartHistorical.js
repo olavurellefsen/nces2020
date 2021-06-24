@@ -50,6 +50,7 @@ const StackedBarChartHistorical = ({
   selectedCountries = [],
   combinedChart = false,
   maxY2 = 100,
+  xRange = [1990, 1995, 2000, 2005, 2010, 2015],
 }) => {
   const accumulatedData = stackedBar[0]
   const totalYearValuesScenario1 = stackedBar[1]
@@ -74,7 +75,11 @@ const StackedBarChartHistorical = ({
   
   Object.keys(totalYearValuesScenario1).forEach(year => {
     maxY = Math.round(Math.max(maxY, totalYearValuesScenario1[year]))
+    minY = Math.round(Math.min(minY, totalYearValuesScenario1[year]))
   })
+  console.log("miny: ", minY)
+  console.log("maxy: ", maxY)
+  console.log("base: ", base)
   let t = 1
   let i = 0
   let range = [2,4,6,8,10]
@@ -85,7 +90,8 @@ const StackedBarChartHistorical = ({
   maxY = t
   let u=0
   let j=0
-  while(u > minY && j < 20) {
+  while(u > minY && j < 40) {
+    console.log("u: ", u)
     u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
     j++
   }
@@ -97,9 +103,38 @@ const StackedBarChartHistorical = ({
   else 
     base = maxY
 
+    const defTick = [0, 0.25, 0.5, 0.75]
+    const getTickValues = () => {
+      let ret = []
+      if (-minY > maxY) {
+        ret=[-0.75,-0.5, -0.25, 0]
+        defTick.forEach((tick, i)=> {
+          if (tick !== 0.75)
+          if (-tick*minY < maxY)
+          ret.push(defTick[i+1])
+        })
+      }
+      else {
+        ret=[0, 0.25, 0.5, 0.75]
+        defTick.forEach((tick, i)=> {
+          if (tick !== 0.75)
+            if (tick*maxY + maxY*0.05 < -minY)
+              ret.unshift(-defTick[i+1])
+        })
+      }
+      console.log("ret def: ", ret)
+      return ret
+    }
+    console.log("totals: ", totalYearValuesScenario1)
+  console.log("miny: ", minY)
+  console.log("maxy: ", maxY)
+  console.log("base: ", base)
   const getCSVData = (lineData) => {
+      //console.log("getscv: ", lineData)
+      //console.log("chartName; ", chartName)
       let ret = []
       Object.entries(lineData).forEach((indicatorGroup) => {
+        console.log("indica grp: ", indicatorGroup)
         indicatorGroup[1].forEach((item)=>{
           ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
         })
@@ -133,7 +168,7 @@ const StackedBarChartHistorical = ({
         style={{parent: { height: "550px" }}}
         theme={VictoryTheme.material}
       >
-        <VictoryAxis key={0} tickValues={[1990, 1995, 2000, 2005, 2010, 2015]} tickFormat={[1990, 1995, 2000, 2005, 2010, 2015]} />
+        <VictoryAxis key={0} tickValues={xRange} tickFormat={xRange} />
         <VictoryAxis
           dependentAxis
           axisLabelComponent={<HTMLYAxisLabel dx={10} dy={-50} />}
@@ -146,7 +181,7 @@ const StackedBarChartHistorical = ({
                 : (tick * 100) / divideValues + '%'
             }`
           }
-          tickValues={[0, 0.25, 0.5, 0.75]}
+          tickValues={getTickValues()}
           label={label}
         />
         {combinedChart === true && (
@@ -191,6 +226,8 @@ const StackedBarChartHistorical = ({
             }))}
           labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}
         />
+        {console.log("Object.entries(accumulatedData): ", Object.entries(accumulatedData))}
+        {console.log("Object.keys(accumulatedData): ", Object.keys(accumulatedData))}
         {Object.entries(accumulatedData).length !== 0 && <VictoryGroup offset={10} style={{ data: { width: 10 } }}>
           <VictoryStack>
             {Object.keys(accumulatedData).map((chartGroupName, i) => (
@@ -215,7 +252,7 @@ const StackedBarChartHistorical = ({
                     })}
                   )}
                   x="year"
-                  y={datum => datum['total'] / (maxY === 0 ? 100 : maxY)}
+                  y={datum => datum['total'] / (base === 0 ? 100 : base)}
                   labelComponent={<VictoryTooltip />}
                   style={{
                     data: { fill: colorNER[i] },

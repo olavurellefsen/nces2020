@@ -1,7 +1,7 @@
-# NCES2020 key findings in short
+# Nordic Clean Energy Scenarios - Ten key messages
 
 **1) Three scenarios show different pathways to carbon neutrality.** 
-The NCES project developed three scenarios, all designed \textcolor{red}{red} to meet the carbon neutrality target by balancing carbon emissions and sinks. While acknowledging the importance of cost-effectiveness, the analytical approach recognised that considering only this criterion is too narrow in scope for policy planning and decision making. As such, the NCES analysis seeks to balance multiple factors that will influence outcomes. Each of the three scenarios reflects a different core element:
+The NCES project developed three scenarios, all designed to meet the carbon neutrality target by balancing carbon emissions and sinks. While acknowledging the importance of cost-effectiveness, the analytical approach recognised that considering only this criterion is too narrow in scope for policy planning and decision making. As such, the NCES analysis seeks to balance multiple factors that will influence outcomes. Each of the three scenarios reflects a different core element:
 - Carbon Neutral Nordic (CNN) seeks the least-cost pathway, taking into account current national plans, strategies, and targets.
 - Nordic Powerhouse (NPH) explores the opportunity for the Nordics to play a larger role in the broader European energy transition by providing clean electricity, clean fuels, and carbon storage.
 - Climate Neutral Behaviour (CNB) reflects Nordic societies taking additional energy and material efficiency measures in all sectors, ultimately leading to lower demand for both.
@@ -25,7 +25,7 @@ Bioenergy already plays an important role in Nordic energy systems, used extensi
 All NCES scenarios assert that achieving net-zero emissions will be difficult without technologies for CCS, including technologies that would enable negative emissions. In sectors where no viable alternatives for reducing emissions yet exist, CCS or compensation with negative emissions become critical. The Nordic countries are well suited to develop and apply these technologies.
 
 **8) Behavioural change and social acceptance for infrastructure must be considered**
-8) Behavioural change and social acceptance for infrastructure must be considered
+Behavioural change and social acceptance for infrastructure must be considered
 Changes in behaviour will directly impact the Nordic energy transition by affecting energy demand and the associated need for infrastructure. But changes need to be significant to have a profound impact on scenario results.
 
 **9) Nordic collaboration is instrumental and would strengthen the Nordics’ Role in the European transition**

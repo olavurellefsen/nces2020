@@ -209,16 +209,16 @@ function ScenarioSelectionMenu(props) {
       </ScenarioSelection>
       <MenuSeparatorLine />
       <ToggleDifference onClick={e => props.toggleDifference(e)}>
-        <ToggleSwitch
-          dimmed={props.scenarioSelection.scenarioSelection2 === ""}
-          checked={props.scenarioSelection.showDifference}
-        />
         <ToggleSwitchText
           singleMode={props.scenarioSelection.scenarioSelection2 === ""}
           selected={props.scenarioSelection.showDifference}
         >
           {t("general.scenario-difference")}
         </ToggleSwitchText>
+        <ToggleSwitch
+          dimmed={props.scenarioSelection.scenarioSelection2 === ""}
+          checked={props.scenarioSelection.showDifference}
+        />
       </ToggleDifference>
       <ScenarioDifferenceText
         singleMode={props.scenarioSelection.scenarioSelection2 === ""}

@@ -21,7 +21,7 @@ The NCES analytical approach seeks to balance multiple factors that will influen
 
 --Klaus Skytte, CEO Nordic Energy Research
 
-To read more about this project and access the full report please visit [the project page at Nordic Energy Research’s webpage.](https://www.nordicenergy.org/project/nces/) 
+To read more about this project and access the full report please visit [the project page at Nordic Energy Research’s webpage.](https://www.nordicenergy.org/project/nordic-clean-energy-scenarios-solutions-for-carbon-neutrality/) 
 
 
 ***Acknowledgements***
