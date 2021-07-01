@@ -1,9 +1,9 @@
 export default 
  	 [ 
-		"Primary energy supply by energy source",
-		"Marginal prices - CO2",
-		"CO2 emissions",
-		"Carbon capture",
-		"Final energy consumption by energy source",
-		"Final energy consumption by sector",
+		"Primary Energy Supply by Energy Source",
+		"CO2 Emissions",
+		"Carbon Capture",
+		"Final Energy Consumption by Energy Source",
+		"Final Energy Consumption by Sector",
+		"Marginal Prices - CO2",
 	 ]

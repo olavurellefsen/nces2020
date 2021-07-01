@@ -5,7 +5,7 @@ export default {
         "scenario": "CNB",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -1220,7 +1220,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -2102,7 +2102,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -3835,7 +3835,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -4421,7 +4421,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -4637,7 +4637,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -5595,23 +5595,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -5.3346448474
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": -9.3247074551
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": -14.3269348145
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": -15.3545856476
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": -16.0271549225
+                        "total": 0.0
                       }
                     ]
                   },
@@ -6819,7 +6819,7 @@ export default {
         "scenario": "CNB_Bio",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -8034,7 +8034,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -8916,7 +8916,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -10649,7 +10649,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -11235,7 +11235,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -11451,7 +11451,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -13633,7 +13633,7 @@ export default {
         "scenario": "CNB_CCS",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -14848,7 +14848,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -15730,7 +15730,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -17463,7 +17463,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -18049,7 +18049,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -18265,7 +18265,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -19223,23 +19223,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -1.4504606194
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": -5.8333529366
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": -10.7651392619
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": -11.9912910461
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": -12.0799848768
+                        "total": 0.0
                       }
                     ]
                   },
@@ -20447,7 +20447,7 @@ export default {
         "scenario": "CNB_CCS_Bio",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -21662,7 +21662,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -22544,7 +22544,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -24277,7 +24277,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -24863,7 +24863,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -25079,7 +25079,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -27261,7 +27261,7 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -28476,7 +28476,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -29358,7 +29358,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -31091,7 +31091,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -31677,7 +31677,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -31893,7 +31893,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -32851,23 +32851,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -5.4516527388
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": -9.4992828369
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": -14.349726571
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": -15.3568649292
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": -16.0260020362
+                        "total": 0.0
                       }
                     ]
                   },
@@ -34075,7 +34075,7 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -35290,7 +35290,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -36172,7 +36172,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -37905,7 +37905,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -38491,7 +38491,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -38707,7 +38707,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -40889,7 +40889,7 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -42104,7 +42104,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -42986,7 +42986,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -44719,7 +44719,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -45305,7 +45305,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -45521,7 +45521,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -46479,23 +46479,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -1.5710024039
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": -5.9343889025
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": -10.7879310184
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": -11.9978872935
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": -12.0843908522
+                        "total": 0.0
                       }
                     ]
                   },
@@ -47703,7 +47703,7 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -48918,7 +48918,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -49800,7 +49800,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -51533,7 +51533,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -52119,7 +52119,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -52335,7 +52335,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -54517,7 +54517,7 @@ export default {
         "scenario": "NPH",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -55732,7 +55732,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -56614,7 +56614,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -58347,7 +58347,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -58933,7 +58933,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -59149,7 +59149,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -60107,23 +60107,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -5.5369859272
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": -9.4285488129
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": -14.349726571
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": -15.3568649292
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": -16.1204772525
+                        "total": 0.0
                       }
                     ]
                   },
@@ -61331,7 +61331,7 @@ export default {
         "scenario": "NPH_Bio",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -62546,7 +62546,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -63428,7 +63428,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -65161,7 +65161,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -65747,7 +65747,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -65963,7 +65963,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -68145,7 +68145,7 @@ export default {
         "scenario": "NPH_CCS",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -69360,7 +69360,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -70242,7 +70242,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -71975,7 +71975,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -72561,7 +72561,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -72777,7 +72777,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -73735,23 +73735,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -1.5766274929
+                        "total": 0.0
                       },
                       {
                         "year": 2035,
-                        "total": -5.9353404575
+                        "total": 0.0
                       },
                       {
                         "year": 2040,
-                        "total": -10.7879310184
+                        "total": 0.0
                       },
                       {
                         "year": 2045,
-                        "total": -11.9924439324
+                        "total": 0.0
                       },
                       {
                         "year": 2050,
-                        "total": -12.1806812286
+                        "total": 0.0
                       }
                     ]
                   },
@@ -74959,7 +74959,7 @@ export default {
         "scenario": "NPH_CCS_Bio",
         "indicators": [
           {
-            "indicator": "CO2 emissions",
+            "indicator": "CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -76174,7 +76174,7 @@ export default {
             ]
           },
           {
-            "indicator": "Carbon capture",
+            "indicator": "Carbon Capture",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -77056,7 +77056,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by energy source",
+            "indicator": "Final Energy Consumption by Energy Source",
             "unit": "TWh",
             "regions": [
               {
@@ -78789,7 +78789,7 @@ export default {
             ]
           },
           {
-            "indicator": "Final energy consumption by sector",
+            "indicator": "Final Energy Consumption by Sector",
             "unit": "TWh",
             "regions": [
               {
@@ -79375,7 +79375,7 @@ export default {
             ]
           },
           {
-            "indicator": "Marginal prices - CO2",
+            "indicator": "Marginal Prices - CO2",
             "unit": "EUR15/t CO2",
             "regions": [
               {
@@ -79591,7 +79591,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary energy supply by energy source",
+            "indicator": "Primary Energy Supply by Energy Source",
             "unit": "TWh",
             "regions": [
               {

@@ -5,7 +5,7 @@ export default {
         "scenario": "CNB",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -475,7 +475,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -691,7 +691,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -2461,7 +2461,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -4236,7 +4236,7 @@ export default {
         "scenario": "CNB_Bio",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -4706,7 +4706,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -4922,7 +4922,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -6692,7 +6692,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -8467,7 +8467,7 @@ export default {
         "scenario": "CNB_CCS",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -8937,7 +8937,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -9153,7 +9153,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -10923,7 +10923,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -12698,7 +12698,7 @@ export default {
         "scenario": "CNB_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -13168,7 +13168,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -13384,7 +13384,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -15154,7 +15154,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -16929,7 +16929,7 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -17399,7 +17399,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -17615,7 +17615,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -19385,7 +19385,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -21160,7 +21160,7 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -21630,7 +21630,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -21846,7 +21846,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -23616,7 +23616,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -25391,7 +25391,7 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -25861,7 +25861,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -26077,7 +26077,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -27847,7 +27847,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -29622,7 +29622,7 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -30092,7 +30092,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -30308,7 +30308,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -32078,7 +32078,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -33853,7 +33853,7 @@ export default {
         "scenario": "NPH",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -34323,7 +34323,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -34539,7 +34539,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -36309,7 +36309,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -38084,7 +38084,7 @@ export default {
         "scenario": "NPH_Bio",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -38554,7 +38554,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -38770,7 +38770,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -40540,7 +40540,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -42315,7 +42315,7 @@ export default {
         "scenario": "NPH_CCS",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -42785,7 +42785,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -43001,7 +43001,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -44771,7 +44771,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {
@@ -46546,7 +46546,7 @@ export default {
         "scenario": "NPH_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Electric appliances consumption",
+            "indicator": "Electric Appliances Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -47016,7 +47016,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential CO2 emissions",
+            "indicator": "Residential CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -47232,7 +47232,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential fuel consumption",
+            "indicator": "Residential Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -49002,7 +49002,7 @@ export default {
             ]
           },
           {
-            "indicator": "Residential heating",
+            "indicator": "Residential Heating",
             "unit": "TWh",
             "regions": [
               {

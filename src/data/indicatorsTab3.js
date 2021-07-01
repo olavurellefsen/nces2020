@@ -1,12 +1,12 @@
 export default 
  	 [ 
-		"Power and heat CO2 emissions",
-		"Power & Heat fuel consumption",
-		"District heat production",
-		"Marginal prices - district heat",
-		"Power capacity",
-		"Power production by energy source",
-		"Power trade",
-		"Marginal prices - electricity",
-		"Power consumption by sector",
+		"Power and Heat CO2 Emissions",
+		"Power and Heat Fuel Consumption",
+		"District Heat Production",
+		"Marginal Prices - District Heat",
+		"Power Capacity",
+		"Power Production by Energy Source",
+		"Power Trade",
+		"Marginal Prices - Electricity",
+		"Power Consumption by Sector",
 	 ]

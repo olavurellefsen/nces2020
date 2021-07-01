@@ -1,11 +1,11 @@
 export default 
  	 [ 
-		"Electrification of final energy consumption",
-		"CO2 intensity of primary energy supply",
-		"Renewable primary energy share",
-		"Renewable primary energy share, excl. electricity exports",
-		"Heavy Industry energy intensity",
-		"Other sectors energy intensity",
-		"Car energy intensity",
-		"Trucks energy intensity",
+		"Electrification of Final Energy Consumption",
+		"CO2 Intensity of Primary Energy Supply",
+		"Renewable Primary Energy Share",
+		"Renewable Primary Energy Share, excl. Electricity Exports",
+		"Heavy Industry Energy Intensity",
+		"Other Sectors Energy Intensity",
+		"Car Energy Intensity",
+		"Truck Energy Intensity",
 	 ]

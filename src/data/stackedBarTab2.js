@@ -5,7 +5,7 @@ export default {
         "scenario": "CNB",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -1511,7 +1511,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -2985,7 +2985,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -4459,7 +4459,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -5711,7 +5711,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -7185,7 +7185,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -7364,7 +7364,7 @@ export default {
         "scenario": "CNB_Bio",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -8870,7 +8870,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -10344,7 +10344,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -11818,7 +11818,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -13070,7 +13070,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -14544,7 +14544,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -14723,7 +14723,7 @@ export default {
         "scenario": "CNB_CCS",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -16229,7 +16229,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -17703,7 +17703,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -19177,7 +19177,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -20429,7 +20429,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -21903,7 +21903,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -22082,7 +22082,7 @@ export default {
         "scenario": "CNB_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -23588,7 +23588,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -25062,7 +25062,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -26536,7 +26536,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -27788,7 +27788,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -29262,7 +29262,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -29441,7 +29441,7 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -30947,7 +30947,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -32421,7 +32421,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -33895,7 +33895,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -35147,7 +35147,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -36621,7 +36621,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -36800,7 +36800,7 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -38306,7 +38306,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -39780,7 +39780,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -41254,7 +41254,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -42506,7 +42506,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -43980,7 +43980,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -44159,7 +44159,7 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -45665,7 +45665,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -47139,7 +47139,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -48613,7 +48613,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -49865,7 +49865,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -51339,7 +51339,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -51518,7 +51518,7 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -53024,7 +53024,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -54498,7 +54498,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -55972,7 +55972,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -57224,7 +57224,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -58698,7 +58698,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -58877,7 +58877,7 @@ export default {
         "scenario": "NPH",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -60383,7 +60383,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -61857,7 +61857,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -63331,7 +63331,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -64583,7 +64583,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -66057,7 +66057,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -66236,7 +66236,7 @@ export default {
         "scenario": "NPH_Bio",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -67742,7 +67742,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -69216,7 +69216,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -70690,7 +70690,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -71942,7 +71942,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -73416,7 +73416,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -73595,7 +73595,7 @@ export default {
         "scenario": "NPH_CCS",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -75101,7 +75101,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -76575,7 +76575,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -78049,7 +78049,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -79301,7 +79301,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -80775,7 +80775,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -80954,7 +80954,7 @@ export default {
         "scenario": "NPH_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Fossil refineries",
+            "indicator": "Fossil Refineries",
             "unit": "TWh",
             "regions": [
               {
@@ -82460,7 +82460,7 @@ export default {
             ]
           },
           {
-            "indicator": "Import/Export of bio-energy",
+            "indicator": "Import/Export of Bio-Energy",
             "unit": "TWh",
             "regions": [
               {
@@ -83934,7 +83934,7 @@ export default {
             ]
           },
           {
-            "indicator": "Primary biomass supply",
+            "indicator": "Primary Biomass Supply",
             "unit": "TWh",
             "regions": [
               {
@@ -85408,7 +85408,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries input",
+            "indicator": "RE Refineries Input",
             "unit": "TWh",
             "regions": [
               {
@@ -86660,7 +86660,7 @@ export default {
             ]
           },
           {
-            "indicator": "RE refineries output",
+            "indicator": "RE Refineries Output",
             "unit": "TWh",
             "regions": [
               {
@@ -88134,7 +88134,7 @@ export default {
             ]
           },
           {
-            "indicator": "Upstream sector CO2 emission",
+            "indicator": "Upstream Sector CO2 Emission",
             "unit": "Mt CO2",
             "regions": [
               {

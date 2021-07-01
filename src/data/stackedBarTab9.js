@@ -5,7 +5,7 @@ export default {
         "scenario": "CNB",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -112,23 +112,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -0.0018174053
+                        "total": -0.0015423619
                       },
                       {
                         "year": 2035,
-                        "total": -0.0197301569
+                        "total": -0.0150508558
                       },
                       {
                         "year": 2040,
-                        "total": -0.0377577294
+                        "total": -0.0256989113
                       },
                       {
                         "year": 2045,
-                        "total": -0.0435927013
+                        "total": -0.0287135578
                       },
                       {
                         "year": 2050,
-                        "total": -0.0487321047
+                        "total": -0.0315220731
                       }
                     ]
                   }
@@ -221,7 +221,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -437,7 +437,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -653,7 +653,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -869,7 +869,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -1085,7 +1085,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -1192,23 +1192,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 80.6582590451
+                        "total": 68.4515591309
                       },
                       {
                         "year": 2035,
-                        "total": 101.4912312337
+                        "total": 77.421071228
                       },
                       {
                         "year": 2040,
-                        "total": 123.0318750812
+                        "total": 83.7387548443
                       },
                       {
                         "year": 2045,
-                        "total": 130.4481301664
+                        "total": 85.9233269909
                       },
                       {
                         "year": 2050,
-                        "total": 136.2599856099
+                        "total": 88.1389641765
                       }
                     ]
                   }
@@ -1301,7 +1301,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -1408,23 +1408,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 80.6582590451
+                        "total": 68.4515591309
                       },
                       {
                         "year": 2035,
-                        "total": 101.4912312337
+                        "total": 77.421071228
                       },
                       {
                         "year": 2040,
-                        "total": 123.0318750812
+                        "total": 83.7387548443
                       },
                       {
                         "year": 2045,
-                        "total": 130.4481301664
+                        "total": 85.9233269909
                       },
                       {
                         "year": 2050,
-                        "total": 136.2599856099
+                        "total": 88.1389641765
                       }
                     ]
                   }
@@ -1517,7 +1517,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -1738,7 +1738,7 @@ export default {
         "scenario": "CNB_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -1954,7 +1954,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -2170,7 +2170,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -2386,7 +2386,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -2602,7 +2602,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -2818,7 +2818,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -3034,7 +3034,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -3250,7 +3250,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -3471,7 +3471,7 @@ export default {
         "scenario": "CNB_CCS",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -3578,23 +3578,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -0.0018021609
+                        "total": -0.0017194892
                       },
                       {
                         "year": 2035,
-                        "total": -0.0195864207
+                        "total": -0.0164167473
                       },
                       {
                         "year": 2040,
-                        "total": -0.037410956
+                        "total": -0.0277253572
                       },
                       {
                         "year": 2045,
-                        "total": -0.04323098
+                        "total": -0.0308499954
                       },
                       {
                         "year": 2050,
-                        "total": -0.0483103556
+                        "total": -0.0343126664
                       }
                     ]
                   }
@@ -3687,7 +3687,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -3903,7 +3903,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -4119,7 +4119,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -4335,7 +4335,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -4551,7 +4551,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -4658,23 +4658,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 82.5624653418
+                        "total": 78.7750250593
                       },
                       {
                         "year": 2035,
-                        "total": 102.5293379224
+                        "total": 85.9369998499
                       },
                       {
                         "year": 2040,
-                        "total": 124.3344190413
+                        "total": 92.1445625408
                       },
                       {
                         "year": 2045,
-                        "total": 131.3659619377
+                        "total": 93.7438689276
                       },
                       {
                         "year": 2050,
-                        "total": 137.3822940001
+                        "total": 97.5764463518
                       }
                     ]
                   }
@@ -4767,7 +4767,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -4874,23 +4874,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 82.5624653418
+                        "total": 78.7750250593
                       },
                       {
                         "year": 2035,
-                        "total": 102.5293379224
+                        "total": 85.9369998499
                       },
                       {
                         "year": 2040,
-                        "total": 124.3344190413
+                        "total": 92.1445625408
                       },
                       {
                         "year": 2045,
-                        "total": 131.3659619377
+                        "total": 93.7438689276
                       },
                       {
                         "year": 2050,
-                        "total": 137.3822940001
+                        "total": 97.5764463518
                       }
                     ]
                   }
@@ -4983,7 +4983,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -5204,7 +5204,7 @@ export default {
         "scenario": "CNB_CCS_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -5420,7 +5420,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -5636,7 +5636,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -5852,7 +5852,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -6068,7 +6068,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -6284,7 +6284,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -6500,7 +6500,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -6716,7 +6716,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -6937,7 +6937,7 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -7044,23 +7044,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -0.0018010341
+                        "total": -0.0015255295
                       },
                       {
                         "year": 2035,
-                        "total": -0.0193010878
+                        "total": -0.014735541
                       },
                       {
                         "year": 2040,
-                        "total": -0.0365802547
+                        "total": -0.0251354588
                       },
                       {
                         "year": 2045,
-                        "total": -0.0416910389
+                        "total": -0.0278746673
                       },
                       {
                         "year": 2050,
-                        "total": -0.0459711647
+                        "total": -0.0303440325
                       }
                     ]
                   }
@@ -7153,7 +7153,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -7369,7 +7369,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -7585,7 +7585,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -7801,7 +7801,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -8017,7 +8017,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -8124,23 +8124,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 80.6329351708
+                        "total": 68.2984997868
                       },
                       {
                         "year": 2035,
-                        "total": 101.1619922566
+                        "total": 77.2327811693
                       },
                       {
                         "year": 2040,
-                        "total": 122.2762333985
+                        "total": 84.0198969316
                       },
                       {
                         "year": 2045,
-                        "total": 129.1160749383
+                        "total": 86.3271276003
                       },
                       {
                         "year": 2050,
-                        "total": 134.201954501
+                        "total": 88.5822339461
                       }
                     ]
                   }
@@ -8233,7 +8233,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -8340,23 +8340,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 80.6329351708
+                        "total": 68.2984997868
                       },
                       {
                         "year": 2035,
-                        "total": 101.1619922566
+                        "total": 77.2327811693
                       },
                       {
                         "year": 2040,
-                        "total": 122.2762333985
+                        "total": 84.0198969316
                       },
                       {
                         "year": 2045,
-                        "total": 129.1160749383
+                        "total": 86.3271276003
                       },
                       {
                         "year": 2050,
-                        "total": 134.201954501
+                        "total": 88.5822339461
                       }
                     ]
                   }
@@ -8449,7 +8449,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -8670,7 +8670,7 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -8886,7 +8886,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -9102,7 +9102,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -9318,7 +9318,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -9534,7 +9534,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -9750,7 +9750,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -9966,7 +9966,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -10182,7 +10182,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -10403,7 +10403,7 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -10510,23 +10510,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -0.0017863056
+                        "total": -0.001698628
                       },
                       {
                         "year": 2035,
-                        "total": -0.0191718996
+                        "total": -0.0160802632
                       },
                       {
                         "year": 2040,
-                        "total": -0.0362503482
+                        "total": -0.0270682589
                       },
                       {
                         "year": 2045,
-                        "total": -0.0413555575
+                        "total": -0.0298783872
                       },
                       {
                         "year": 2050,
-                        "total": -0.045599093
+                        "total": -0.0329189912
                       }
                     ]
                   }
@@ -10619,7 +10619,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -10835,7 +10835,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -11051,7 +11051,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -11267,7 +11267,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -11483,7 +11483,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -11590,23 +11590,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 82.5123903829
+                        "total": 78.4624181381
                       },
                       {
                         "year": 2035,
-                        "total": 102.3065436644
+                        "total": 85.8087189546
                       },
                       {
                         "year": 2040,
-                        "total": 123.5424286455
+                        "total": 92.2495539137
                       },
                       {
                         "year": 2045,
-                        "total": 129.9663295869
+                        "total": 93.8975206382
                       },
                       {
                         "year": 2050,
-                        "total": 135.2983776857
+                        "total": 97.6748836588
                       }
                     ]
                   }
@@ -11699,7 +11699,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -11806,23 +11806,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 82.5123903829
+                        "total": 78.4624181381
                       },
                       {
                         "year": 2035,
-                        "total": 102.3065436644
+                        "total": 85.8087189546
                       },
                       {
                         "year": 2040,
-                        "total": 123.5424286455
+                        "total": 92.2495539137
                       },
                       {
                         "year": 2045,
-                        "total": 129.9663295869
+                        "total": 93.8975206382
                       },
                       {
                         "year": 2050,
-                        "total": 135.2983776857
+                        "total": 97.6748836588
                       }
                     ]
                   }
@@ -11915,7 +11915,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -12136,7 +12136,7 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -12352,7 +12352,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -12568,7 +12568,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -12784,7 +12784,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -13000,7 +13000,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -13216,7 +13216,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -13432,7 +13432,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -13648,7 +13648,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -13869,7 +13869,7 @@ export default {
         "scenario": "NPH",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -13976,23 +13976,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -0.0015277403
+                        "total": -0.0013220439
                       },
                       {
                         "year": 2035,
-                        "total": -0.0154901452
+                        "total": -0.0124238688
                       },
                       {
                         "year": 2040,
-                        "total": -0.0279552499
+                        "total": -0.0207388257
                       },
                       {
                         "year": 2045,
-                        "total": -0.0310431806
+                        "total": -0.0226746614
                       },
                       {
                         "year": 2050,
-                        "total": -0.0337173103
+                        "total": -0.0244337241
                       }
                     ]
                   }
@@ -14085,7 +14085,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -14301,7 +14301,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -14517,7 +14517,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -14733,7 +14733,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -14949,7 +14949,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -15056,23 +15056,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 83.4244556919
+                        "total": 72.1921068356
                       },
                       {
                         "year": 2035,
-                        "total": 101.0296248824
+                        "total": 81.0307965417
                       },
                       {
                         "year": 2040,
-                        "total": 117.0238746464
+                        "total": 86.8150975435
                       },
                       {
                         "year": 2045,
-                        "total": 121.6798524625
+                        "total": 88.8777954377
                       },
                       {
                         "year": 2050,
-                        "total": 125.3079169209
+                        "total": 90.8061479352
                       }
                     ]
                   }
@@ -15165,7 +15165,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -15272,23 +15272,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 83.4244556919
+                        "total": 72.1921068356
                       },
                       {
                         "year": 2035,
-                        "total": 101.0296248824
+                        "total": 81.0307965417
                       },
                       {
                         "year": 2040,
-                        "total": 117.0238746464
+                        "total": 86.8150975435
                       },
                       {
                         "year": 2045,
-                        "total": 121.6798524625
+                        "total": 88.8777954377
                       },
                       {
                         "year": 2050,
-                        "total": 125.3079169209
+                        "total": 90.8061479352
                       }
                     ]
                   }
@@ -15381,7 +15381,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -15602,7 +15602,7 @@ export default {
         "scenario": "NPH_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -15818,7 +15818,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -16034,7 +16034,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -16250,7 +16250,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -16466,7 +16466,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -16682,7 +16682,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -16898,7 +16898,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -17114,7 +17114,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -17335,7 +17335,7 @@ export default {
         "scenario": "NPH_CCS",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -17442,23 +17442,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": -0.0015192401
+                        "total": -0.0014551316
                       },
                       {
                         "year": 2035,
-                        "total": -0.0154021959
+                        "total": -0.0133411995
                       },
                       {
                         "year": 2040,
-                        "total": -0.0277676652
+                        "total": -0.0220406036
                       },
                       {
                         "year": 2045,
-                        "total": -0.0308708922
+                        "total": -0.0239939216
                       },
                       {
                         "year": 2050,
-                        "total": -0.0335113754
+                        "total": -0.0260720406
                       }
                     ]
                   }
@@ -17551,7 +17551,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -17767,7 +17767,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -17983,7 +17983,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -18199,7 +18199,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -18415,7 +18415,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -18522,23 +18522,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 85.1197859994
+                        "total": 81.5279239314
                       },
                       {
                         "year": 2035,
-                        "total": 101.8519774372
+                        "total": 88.2229756703
                       },
                       {
                         "year": 2040,
-                        "total": 118.0334344489
+                        "total": 93.6891208768
                       },
                       {
                         "year": 2045,
-                        "total": 122.4682058062
+                        "total": 95.1865113213
                       },
                       {
                         "year": 2050,
-                        "total": 126.166808056
+                        "total": 98.158493766
                       }
                     ]
                   }
@@ -18631,7 +18631,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -18738,23 +18738,23 @@ export default {
                       },
                       {
                         "year": 2030,
-                        "total": 85.1197859994
+                        "total": 81.5279239314
                       },
                       {
                         "year": 2035,
-                        "total": 101.8519774372
+                        "total": 88.2229756703
                       },
                       {
                         "year": 2040,
-                        "total": 118.0334344489
+                        "total": 93.6891208768
                       },
                       {
                         "year": 2045,
-                        "total": 122.4682058062
+                        "total": 95.1865113213
                       },
                       {
                         "year": 2050,
-                        "total": 126.166808056
+                        "total": 98.158493766
                       }
                     ]
                   }
@@ -18847,7 +18847,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -19068,7 +19068,7 @@ export default {
         "scenario": "NPH_CCS_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -19284,7 +19284,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -19500,7 +19500,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -19716,7 +19716,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -19932,7 +19932,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -20148,7 +20148,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -20364,7 +20364,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -20580,7 +20580,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
