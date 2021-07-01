@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 import Octicon from "react-octicon";
-import { useTranslation } from "react-i18next";
 import {createBreakpoint} from 'styled-components-breakpoint';
 
 export const breakpoint = createBreakpoint({
@@ -145,7 +144,6 @@ const welcomeText = {
   }
 }
 function Welcome(props) {
-  const { t } = useTranslation();
   return (
     <AlertContainer  isOpen={props.isOpen}>
     {props.isOpen && <AlertTitle>{welcomeText[props.tab].welcome1}</AlertTitle>}
@@ -160,8 +158,9 @@ function Welcome(props) {
         <AlertBodyParagraph>{welcomeText[props.tab].welcome9}</AlertBodyParagraph>
       </AlertBody>}
       {props.isOpen && props.tab === "tab2" && <AlertBody>
-        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-2")}</AlertBodyParagraph>
-        <AlertBodyParagraph>{t("welcome-text." + props.tab + ".welcome-3")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
       </AlertBody>}
       {props.isOpen && props.tab === "tab3" && <AlertBody>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
@@ -193,6 +192,8 @@ function Welcome(props) {
       {props.isOpen && props.tab === "tab8" && <AlertBody>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome3}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome4}</AlertBodyParagraph>
+        <AlertBodyParagraph>{welcomeText[props.tab].welcome5}</AlertBodyParagraph>
       </AlertBody>}
       {props.isOpen && props.tab === "tab-history" && <AlertBody>
         <AlertBodyParagraph>{welcomeText[props.tab].welcome2}</AlertBodyParagraph>
