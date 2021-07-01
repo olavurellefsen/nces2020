@@ -129,8 +129,10 @@ const welcomeText = {
   },
   "tab8": {
 	  "welcome1": <p>Key Performance Indicators.</p>,
-	  "welcome2": <p>Here we have chosen some indicators that can say something about the development of the Nordic energy system. The indicators show development in renewable energy shares, electrification of end-use energy consumption and energy intensity of industries. The indicators illustrate differences in the structure of the energy system across the Nordic countries.</p>,
-	  "welcome3": <p>Try to select the same scenario twice and see how increase price of CO<sub>2</sub> storage or limit on import of biomass influence the indicators.</p>,
+	  "welcome2": <p>Here we have chosen some indicators that can say something about the development of the Nordic energy system.</p>,
+	  "welcome3": <p>The indicators show development in renewable energy shares, electrification of end-use energy consumption and energy intensity of industries.</p>,
+	  "welcome4": <p>The indicators illustrate differences in the structure of the energy system across the Nordic countries.</p>,
+	  "welcome5": <p>Try to select the same scenario twice and see how increase price of CO<sub>2</sub> storage or limit on import of biomass influence the indicators.</p>,
   },
   "tabHistory": {
     "welcome1": <p>Welcome to Nordic Energy Statistics Database visualisations.</p>,
