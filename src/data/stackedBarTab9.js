@@ -5,7 +5,7 @@ export default {
         "scenario": "CNB",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -221,7 +221,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -437,7 +437,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -653,7 +653,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -869,7 +869,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -1085,7 +1085,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -1301,7 +1301,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -1517,7 +1517,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -1738,7 +1738,7 @@ export default {
         "scenario": "CNB_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -1954,7 +1954,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -2170,7 +2170,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -2386,7 +2386,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -2602,7 +2602,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -2818,7 +2818,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -3034,7 +3034,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -3250,7 +3250,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -3471,7 +3471,7 @@ export default {
         "scenario": "CNB_CCS",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -3687,7 +3687,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -3903,7 +3903,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -4119,7 +4119,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -4335,7 +4335,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -4551,7 +4551,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -4767,7 +4767,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -4983,7 +4983,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -5204,7 +5204,7 @@ export default {
         "scenario": "CNB_CCS_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -5420,7 +5420,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -5636,7 +5636,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -5852,7 +5852,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -6068,7 +6068,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -6284,7 +6284,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -6500,7 +6500,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -6716,7 +6716,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -6937,7 +6937,7 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -7153,7 +7153,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -7369,7 +7369,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -7585,7 +7585,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -7801,7 +7801,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -8017,7 +8017,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -8233,7 +8233,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -8449,7 +8449,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -8670,7 +8670,7 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -8886,7 +8886,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -9102,7 +9102,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -9318,7 +9318,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -9534,7 +9534,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -9750,7 +9750,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -9966,7 +9966,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -10182,7 +10182,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -10403,7 +10403,7 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -10619,7 +10619,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -10835,7 +10835,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -11051,7 +11051,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -11267,7 +11267,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -11483,7 +11483,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -11699,7 +11699,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -11915,7 +11915,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -12136,7 +12136,7 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -12352,7 +12352,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -12568,7 +12568,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -12784,7 +12784,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -13000,7 +13000,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -13216,7 +13216,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -13432,7 +13432,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -13648,7 +13648,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -13869,7 +13869,7 @@ export default {
         "scenario": "NPH",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -14085,7 +14085,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -14301,7 +14301,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -14517,7 +14517,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -14733,7 +14733,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -14949,7 +14949,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -15165,7 +15165,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -15381,7 +15381,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -15602,7 +15602,7 @@ export default {
         "scenario": "NPH_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -15818,7 +15818,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -16034,7 +16034,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -16250,7 +16250,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -16466,7 +16466,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -16682,7 +16682,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -16898,7 +16898,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -17114,7 +17114,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -17335,7 +17335,7 @@ export default {
         "scenario": "NPH_CCS",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -17551,7 +17551,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -17767,7 +17767,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -17983,7 +17983,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -18199,7 +18199,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -18415,7 +18415,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -18631,7 +18631,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -18847,7 +18847,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {
@@ -19068,7 +19068,7 @@ export default {
         "scenario": "NPH_CCS_Bio",
         "indicators": [
           {
-            "indicator": "CO2 intensity of primary energy supply",
+            "indicator": "CO2 Intensity of Primary Energy Supply",
             "unit": "Mt CO2 / PJ",
             "regions": [
               {
@@ -19284,7 +19284,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car energy intensity",
+            "indicator": "Car Energy Intensity",
             "unit": "MJ / pkm",
             "regions": [
               {
@@ -19500,7 +19500,7 @@ export default {
             ]
           },
           {
-            "indicator": "Electrification of final energy consumption",
+            "indicator": "Electrification of Final Energy Consumption",
             "unit": "%",
             "regions": [
               {
@@ -19716,7 +19716,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry energy intensity",
+            "indicator": "Heavy Industry Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -19932,7 +19932,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors energy intensity",
+            "indicator": "Other Sectors Energy Intensity",
             "unit": "Index 2015",
             "regions": [
               {
@@ -20148,7 +20148,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share",
+            "indicator": "Renewable Primary Energy Share",
             "unit": "%",
             "regions": [
               {
@@ -20364,7 +20364,7 @@ export default {
             ]
           },
           {
-            "indicator": "Renewable primary energy share, excl. electricity exports",
+            "indicator": "Renewable Primary Energy Share, excl. Electricity Exports",
             "unit": "%",
             "regions": [
               {
@@ -20580,7 +20580,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks energy intensity",
+            "indicator": "Truck Energy Intensity",
             "unit": "MJ / tkm",
             "regions": [
               {

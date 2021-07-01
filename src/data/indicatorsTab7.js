@@ -6,7 +6,7 @@ export default
 		"Freight Transport Demand",
 		"Car Fuel Consumption",
 		"Number of Cars",
-		"Trucks Fuel Consumption",
+		"Truck Fuel Consumption",
 		"Number of Trucks",
 		"Aviation Fuel Consumption",
 		"Shipping Fuel Consumption",

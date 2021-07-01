@@ -5,7 +5,7 @@ export default {
         "scenario": "CNB",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -1146,7 +1146,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -2250,7 +2250,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -2466,7 +2466,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -2978,7 +2978,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -3564,7 +3564,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -4076,7 +4076,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -5296,7 +5296,7 @@ export default {
         "scenario": "CNB_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -6437,7 +6437,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -7541,7 +7541,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -7757,7 +7757,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -8269,7 +8269,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -8855,7 +8855,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -9367,7 +9367,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -10587,7 +10587,7 @@ export default {
         "scenario": "CNB_CCS",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -11728,7 +11728,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -12832,7 +12832,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -13048,7 +13048,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -13560,7 +13560,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -14146,7 +14146,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -14658,7 +14658,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -15878,7 +15878,7 @@ export default {
         "scenario": "CNB_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -17019,7 +17019,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -18123,7 +18123,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -18339,7 +18339,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -18851,7 +18851,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -19437,7 +19437,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -19949,7 +19949,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -21169,7 +21169,7 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -22310,7 +22310,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -23414,7 +23414,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -23630,7 +23630,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -24142,7 +24142,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -24728,7 +24728,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -25240,7 +25240,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -26460,7 +26460,7 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -27601,7 +27601,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -28705,7 +28705,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -28921,7 +28921,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -29433,7 +29433,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -30019,7 +30019,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -30531,7 +30531,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -31751,7 +31751,7 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -32892,7 +32892,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -33996,7 +33996,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -34212,7 +34212,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -34724,7 +34724,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -35310,7 +35310,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -35822,7 +35822,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -37042,7 +37042,7 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -38183,7 +38183,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -39287,7 +39287,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -39503,7 +39503,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -40015,7 +40015,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -40601,7 +40601,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -41113,7 +41113,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -42333,7 +42333,7 @@ export default {
         "scenario": "NPH",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -43474,7 +43474,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -44578,7 +44578,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -44794,7 +44794,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -45306,7 +45306,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -45892,7 +45892,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -46404,7 +46404,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -47624,7 +47624,7 @@ export default {
         "scenario": "NPH_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -48765,7 +48765,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -49869,7 +49869,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -50085,7 +50085,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -50597,7 +50597,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -51183,7 +51183,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -51695,7 +51695,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -52915,7 +52915,7 @@ export default {
         "scenario": "NPH_CCS",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -54056,7 +54056,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -55160,7 +55160,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -55376,7 +55376,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -55888,7 +55888,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -56474,7 +56474,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -56986,7 +56986,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -58206,7 +58206,7 @@ export default {
         "scenario": "NPH_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Agriculture and Fishery fuel consumption",
+            "indicator": "Agriculture and Fishery Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -59347,7 +59347,7 @@ export default {
             ]
           },
           {
-            "indicator": "Manufacturing fuel consumption",
+            "indicator": "Manufacturing Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -60451,7 +60451,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions",
+            "indicator": "Other Sectors CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -60667,7 +60667,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors CO2 emissions by sector",
+            "indicator": "Other Sectors CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -61179,7 +61179,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors fuel consumption",
+            "indicator": "Other Sectors Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -61765,7 +61765,7 @@ export default {
             ]
           },
           {
-            "indicator": "Other sectors service demand",
+            "indicator": "Other Sectors Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -62277,7 +62277,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trade and service fuel consumption",
+            "indicator": "Trade and Service Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {

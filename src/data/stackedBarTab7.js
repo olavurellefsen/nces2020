@@ -5,7 +5,7 @@ export default {
         "scenario": "CNB",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -739,7 +739,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -1584,7 +1584,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -2466,7 +2466,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -3496,7 +3496,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -4415,7 +4415,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -5778,7 +5778,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -6919,7 +6919,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -7135,7 +7135,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -9238,7 +9238,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -10014,7 +10014,7 @@ export default {
         "scenario": "CNB_Bio",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -10748,7 +10748,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -11593,7 +11593,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -12475,7 +12475,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -13505,7 +13505,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -14424,7 +14424,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -15787,7 +15787,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -16928,7 +16928,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -17144,7 +17144,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -19247,7 +19247,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -20023,7 +20023,7 @@ export default {
         "scenario": "CNB_CCS",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -20757,7 +20757,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -21602,7 +21602,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -22484,7 +22484,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -23514,7 +23514,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -24433,7 +24433,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -25796,7 +25796,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -26937,7 +26937,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -27153,7 +27153,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -29256,7 +29256,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -30032,7 +30032,7 @@ export default {
         "scenario": "CNB_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -30766,7 +30766,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -31611,7 +31611,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -32493,7 +32493,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -33523,7 +33523,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -34442,7 +34442,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -35805,7 +35805,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -36946,7 +36946,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -37162,7 +37162,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -39265,7 +39265,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -40041,7 +40041,7 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -40775,7 +40775,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -41620,7 +41620,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -42502,7 +42502,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -43532,7 +43532,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -44451,7 +44451,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -45814,7 +45814,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -46955,7 +46955,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -47171,7 +47171,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -49274,7 +49274,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -50050,7 +50050,7 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -50784,7 +50784,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -51629,7 +51629,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -52511,7 +52511,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -53541,7 +53541,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -54460,7 +54460,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -55823,7 +55823,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -56964,7 +56964,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -57180,7 +57180,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -59283,7 +59283,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -60059,7 +60059,7 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -60793,7 +60793,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -61638,7 +61638,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -62520,7 +62520,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -63550,7 +63550,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -64469,7 +64469,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -65832,7 +65832,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -66973,7 +66973,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -67189,7 +67189,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -69292,7 +69292,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -70068,7 +70068,7 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -70802,7 +70802,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -71647,7 +71647,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -72529,7 +72529,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -73559,7 +73559,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -74478,7 +74478,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -75841,7 +75841,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -76982,7 +76982,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -77198,7 +77198,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -79301,7 +79301,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -80077,7 +80077,7 @@ export default {
         "scenario": "NPH",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -80811,7 +80811,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -81656,7 +81656,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -82538,7 +82538,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -83568,7 +83568,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -84487,7 +84487,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -85850,7 +85850,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -86991,7 +86991,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -87207,7 +87207,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -89310,7 +89310,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -90086,7 +90086,7 @@ export default {
         "scenario": "NPH_Bio",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -90820,7 +90820,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -91665,7 +91665,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -92547,7 +92547,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -93577,7 +93577,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -94496,7 +94496,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -95859,7 +95859,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -97000,7 +97000,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -97216,7 +97216,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -99319,7 +99319,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -100095,7 +100095,7 @@ export default {
         "scenario": "NPH_CCS",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -100829,7 +100829,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -101674,7 +101674,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -102556,7 +102556,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -103586,7 +103586,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -104505,7 +104505,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -105868,7 +105868,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -107009,7 +107009,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -107225,7 +107225,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -109328,7 +109328,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -110104,7 +110104,7 @@ export default {
         "scenario": "NPH_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Aviation fuel consumption",
+            "indicator": "Aviation Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -110838,7 +110838,7 @@ export default {
             ]
           },
           {
-            "indicator": "Car fuel consumption",
+            "indicator": "Car Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -111683,7 +111683,7 @@ export default {
             ]
           },
           {
-            "indicator": "Freight transport demand",
+            "indicator": "Freight Transport Demand",
             "unit": "Bill. tkm",
             "regions": [
               {
@@ -112565,7 +112565,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of cars",
+            "indicator": "Number of Cars",
             "unit": "Mill. cars",
             "regions": [
               {
@@ -113595,7 +113595,7 @@ export default {
             ]
           },
           {
-            "indicator": "Number of trucks",
+            "indicator": "Number of Trucks",
             "unit": "Ths. trucks",
             "regions": [
               {
@@ -114514,7 +114514,7 @@ export default {
             ]
           },
           {
-            "indicator": "Passenger transport demand",
+            "indicator": "Passenger Transport Demand",
             "unit": "Bill. pkm",
             "regions": [
               {
@@ -115877,7 +115877,7 @@ export default {
             ]
           },
           {
-            "indicator": "Shipping fuel consumption",
+            "indicator": "Shipping Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -117018,7 +117018,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport CO2 emissions",
+            "indicator": "Transport CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -117234,7 +117234,7 @@ export default {
             ]
           },
           {
-            "indicator": "Transport fuel consumption",
+            "indicator": "Transport Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -119337,7 +119337,7 @@ export default {
             ]
           },
           {
-            "indicator": "Trucks fuel consumption",
+            "indicator": "Truck Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {

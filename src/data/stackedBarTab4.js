@@ -5,7 +5,7 @@ export default {
         "scenario": "CNB",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -1072,7 +1072,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -1288,7 +1288,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -1874,7 +1874,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -2682,7 +2682,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -3490,7 +3490,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -4330,7 +4330,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -4800,7 +4800,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -5492,7 +5492,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -6226,7 +6226,7 @@ export default {
         "scenario": "CNB_Bio",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -7293,7 +7293,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -7509,7 +7509,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -8095,7 +8095,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -8903,7 +8903,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -9711,7 +9711,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -10551,7 +10551,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -11021,7 +11021,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -11713,7 +11713,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -12447,7 +12447,7 @@ export default {
         "scenario": "CNB_CCS",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -13514,7 +13514,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -13730,7 +13730,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -14316,7 +14316,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -15124,7 +15124,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -15932,7 +15932,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -16772,7 +16772,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -17242,7 +17242,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -17934,7 +17934,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -18668,7 +18668,7 @@ export default {
         "scenario": "CNB_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -19735,7 +19735,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -19951,7 +19951,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -20537,7 +20537,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -21345,7 +21345,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -22153,7 +22153,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -22993,7 +22993,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -23463,7 +23463,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -24155,7 +24155,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -24889,7 +24889,7 @@ export default {
         "scenario": "CNN",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -25956,7 +25956,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -26172,7 +26172,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -26758,7 +26758,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -27566,7 +27566,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -28374,7 +28374,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -29214,7 +29214,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -29684,7 +29684,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -30376,7 +30376,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -31110,7 +31110,7 @@ export default {
         "scenario": "CNN_Bio",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -32177,7 +32177,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -32393,7 +32393,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -32979,7 +32979,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -33787,7 +33787,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -34595,7 +34595,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -35435,7 +35435,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -35905,7 +35905,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -36597,7 +36597,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -37331,7 +37331,7 @@ export default {
         "scenario": "CNN_CCS",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -38398,7 +38398,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -38614,7 +38614,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -39200,7 +39200,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -40008,7 +40008,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -40816,7 +40816,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -41656,7 +41656,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -42126,7 +42126,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -42818,7 +42818,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -43552,7 +43552,7 @@ export default {
         "scenario": "CNN_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -44619,7 +44619,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -44835,7 +44835,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -45421,7 +45421,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -46229,7 +46229,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -47037,7 +47037,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -47877,7 +47877,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -48347,7 +48347,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -49039,7 +49039,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -49773,7 +49773,7 @@ export default {
         "scenario": "NPH",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -50840,7 +50840,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -51056,7 +51056,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -51642,7 +51642,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -52450,7 +52450,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -53258,7 +53258,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -54098,7 +54098,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -54568,7 +54568,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -55260,7 +55260,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -55994,7 +55994,7 @@ export default {
         "scenario": "NPH_Bio",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -57061,7 +57061,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -57277,7 +57277,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -57863,7 +57863,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -58671,7 +58671,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -59479,7 +59479,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -60319,7 +60319,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -60789,7 +60789,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -61481,7 +61481,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -62215,7 +62215,7 @@ export default {
         "scenario": "NPH_CCS",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -63282,7 +63282,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -63498,7 +63498,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -64084,7 +64084,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -64892,7 +64892,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -65700,7 +65700,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -66540,7 +66540,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -67010,7 +67010,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -67702,7 +67702,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -68436,7 +68436,7 @@ export default {
         "scenario": "NPH_CCS_Bio",
         "indicators": [
           {
-            "indicator": "Cement fuel consumption",
+            "indicator": "Cement Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -69503,7 +69503,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions",
+            "indicator": "Heavy Industry CO2 Emissions",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -69719,7 +69719,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry CO2 emissions by sector",
+            "indicator": "Heavy Industry CO2 Emissions by Sector",
             "unit": "Mt CO2",
             "regions": [
               {
@@ -70305,7 +70305,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry Energy service demand",
+            "indicator": "Heavy Industry Energy Service Demand",
             "unit": "TWh",
             "regions": [
               {
@@ -71113,7 +71113,7 @@ export default {
             ]
           },
           {
-            "indicator": "Heavy Industry fuel consumption",
+            "indicator": "Heavy Industry Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -71921,7 +71921,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel fuel consumption",
+            "indicator": "Iron and steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -72761,7 +72761,7 @@ export default {
             ]
           },
           {
-            "indicator": "Mining fuel consumption",
+            "indicator": "Mining Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -73231,7 +73231,7 @@ export default {
             ]
           },
           {
-            "indicator": "Non-ferrous fuel consumption",
+            "indicator": "Non-Ferrous Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -73923,7 +73923,7 @@ export default {
             ]
           },
           {
-            "indicator": "Pulp and paper fuel consumption",
+            "indicator": "Pulp and Paper Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
