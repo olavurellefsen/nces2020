@@ -4,17 +4,17 @@
     "mobile": {
       "about": "About NCES",
       "scenarios": "Scenarios",
-      "findings": "Ten key",
-      "model": "Model and data",
-      "historical": "Historical data",
+      "findings": "Ten Key",
+      "model": "Model and Data",
+      "historical": "Historical Data",
       "howto": "How to use"
     },
     "desktop": {
       "about": "About Nordic Clean Energy Scenarios",
-      "scenarios": "Description of scenarios",
-      "findings": "Ten key messages",
-      "model": "The ON-TIMES model and data",
-      "historical": "Nordic historical data",
+      "scenarios": "Description of Scenarios",
+      "findings": "Ten Key Messages",
+      "model": "The ON-TIMES Model and Data",
+      "historical": "Nordic Historical Data",
       "howto": "How to use"
     }
   },
@@ -65,27 +65,27 @@
     "Technology Optimism_ccs_bio": "Technology Optimism"
   },
   "tabs": {
-    "tab1": "Main results",
+    "tab1": "Main Results",
     "tab2": "Upstream",
     "tab3": "Power & DH",
-    "tab4": "Heavy industry",
-    "tab5": "Other sectors",
+    "tab4": "Heavy Industry",
+    "tab5": "Other Sectors",
     "tab6": "Residential",
     "tab7": "Transport",
     "tab8": "KPIs",
-    "tab9": "Historical Data",
-    "tab10": "Raw Historical Data",
+    "tab9": "Historical Indicators",
+    "tab10": "Historical Data",
 	"mobile": {
-      "tab1": "Main results",
+      "tab1": "Main Results",
       "tab2": "Upstream",
       "tab3": "Power & DH",
-      "tab4": "Heavy industry",
-      "tab5": "Other sectors",
+      "tab4": "Heavy Industry",
+      "tab5": "Other Sectors",
       "tab6": "Residential",
       "tab7": "Transport",
       "tab8": "KPIs",
-	    "tab9": "Historical",
-      "tab10": "Raw Hist Data"
+	    "tab9": "Hist Ind",
+      "tab10": "Hist Data"
     }
   },
   "welcome-text": {

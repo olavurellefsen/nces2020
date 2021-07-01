@@ -19,7 +19,7 @@ CNB is a storyline motivated by strong political and citizen engagement. In this
 
 Energy demand for transport decrease due to more efficient use of transportation modes and a lower but more efficient heavy transport of goods. For passenger transport national passenger km is assumed to not grow past 2030.
 
-*Sensitivity Factors*
+# Sensitivity Factors
 
 ### **Carbon Capture and Storage**
 
@@ -32,7 +32,7 @@ To represent the limited global bioenergy potential, partly due to sustainabilit
 
 To apply this sensitivity to the scenario results, click the leaf icon on the chosen scenario. ![leaf icon](./images/leaf.png)
 
-### ***Definition of carbon neutrality in the NCES analysis***
+# **Definition of carbon neutrality in the NCES analysis**
 
 The NCES project focuses on activities that cause energy-related CO<sub>2</sub> emissions, which represent ~80% of total Nordic GHG emissions. The adopted definition of carbon neutrality by this project sets the limit for total energy-related CO<sub>2</sub> emissions in each modelled scenario. Differences arise between the Nordic countries in the target years for reaching carbon neutrality, in their mid-term targets, and in the use of carbon offsets. Carbon neutrality target years range from 2030 in Norway to 2050 in Denmark. The difference in target years cannot be directly compared as some countries allow the use of carbon offsets and some will benefit from considerable forest carbon sinks, such as Sweden.
 
@@ -44,8 +44,10 @@ The resulting total Nordic GHG reduction trajectory that constrains the scenario
 <img src="./images/NordicGHG.png" style="width: 850px;"/>
 </div>
 
-**Figure 1.** Sum of Nordic GHG emissions, with plotted emission trajectories for fulfilment of national targets. Note: The emissions of international transportation are not included in national targets .
 
+
+<div style="margin-left: auto; margin-right: auto; margin-bottom: 10px; margin-top: 50px; width: 620px; font-weight: 500;">Historic GHG emissions and plotted national targets for each Nordic country 
+ </div>
 
 
 

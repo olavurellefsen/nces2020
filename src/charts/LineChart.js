@@ -169,7 +169,6 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
             indicatorData1.regions.forEach((region)=>{
               if (region.region === country) {
                 region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
-                  console.log("country: ", country)
                   lineChartData.push({x: item.year, y: item.total, country: country})
                 })
               }

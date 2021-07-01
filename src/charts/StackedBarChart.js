@@ -10,7 +10,8 @@ import {
   VictoryTheme,
   VictoryAxis,
   VictoryBar,
-  VictoryTooltip, 
+  VictoryTooltip,
+  VictoryLabel, 
 } from 'victory'
 import {createAccumulatedData} from './Tools'
 import {colorNER} from './chartColors'
@@ -154,6 +155,13 @@ const HTMLLabel = props => {
     </foreignObject>
   );
 };
+const tickValueLength = getTickValues().length
+let tickValueNumberOfNegativeElements = 0
+getTickValues().forEach((val) => {
+  if (val < 0) tickValueNumberOfNegativeElements++
+})
+let t1 = tickValueNumberOfNegativeElements/tickValueLength*550
+
   return (
     <ChartContainer>
     <ChartHeader>
@@ -282,9 +290,22 @@ const HTMLLabel = props => {
             </VictoryStack>
           )}
         </VictoryGroup>
-        <VictoryAxis key={0} tickValues={periods} tickFormat={periods} style={{
-          grid: { strokeWidth: 0 },
-        }}/>
+        {console.log("place dy: ", t1)}
+        <VictoryAxis 
+          key={0} 
+          tickValues={periods} 
+          tickFormat={periods} 
+          style={{
+            grid: { strokeWidth: 0 },
+          }}
+          
+          tickLabelComponent={
+            <VictoryLabel dy={t1} dx={0}
+              backgroundStyle={[{fill: "white", opacity: 0.5}]}
+              backgroundPadding={3}
+            />
+          }
+        />
         <VictoryLegend
           x={90}
           y={5}
