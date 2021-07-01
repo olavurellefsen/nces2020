@@ -79,7 +79,7 @@ const CloseWindowIcon = styled.div`
 CloseWindowIcon.displayName = "CloseWindowIcon";
 const welcomeText = {
   "tab1": {
-    "welcome1": <p>Welcome to Nordic Clean Energy Scenarios 2020 (NCES2020) scenario viewer.</p>,
+    "welcome1": <p>Welcome to Nordic Clean Energy Scenarios 2020 (NCES2020) scenario viewer</p>,
 	"welcome2": <p>The project is funded by Nordic Energy Research and is carried out by a Nordic team of researchers and consultants – see About Nordic Clean Energy Scenarios.</p>,
 	"welcome3": <p>On this webpage you can compare scenarios and change assumptions. All the scenarios reach carbon neutrality before 2050, but technology choice, fuel consumption and cost will change when changing assumptions about readiness of technologies and whether the countries can import biomass and biofuels.</p>,
 	"welcome4": <p>You can look at results for all countries or for individual countries by clicking them on and off on the map to the left. </p>,
@@ -90,37 +90,38 @@ const welcomeText = {
 	"welcome9": <p>Try to select the CNN scenario twice and then increase cost of storing CO<sub>2</sub> in one of the scenarios by activating the &quot;barrel&quot;. Try and see how effects the amount of stored CO<sub>2</sub>.</p>,
   },
   "tab2": {
-    "welcome1": <p>The upstream sector includes oil and gas production, fossil refineries, biorefineries and PtX plants.</p>,
-    "welcome2": <p>The total used biomass in the Nordic countries is tracked and also import of biomass and biofuels. Feedstock and produced fuel from both fossil based refineries and renewable based refineries are also shown.</p>,
-    "welcome3": <p>Try to choose the same scenario twice and then activate the bioenergy constraint, the “leaf”, on one of the scenarios – then you can see a big difference in imported bioenergy and input to the RE-refineries.</p>,
+    "welcome1": <p>Upstream Sector</p>,
+    "welcome2": <p>The upstream sector includes oil and gas production, fossil refineries, biorefineries and PtX plants.</p>,
+    "welcome3": <p>The total used biomass in the Nordic countries is tracked and also import of biomass and biofuels. Feedstock and produced fuel from both fossil based refineries and renewable based refineries are also shown.</p>,
+    "welcome4": <p>Try to choose the same scenario twice and then activate the bioenergy constraint, the “leaf”, on one of the scenarios – then you can see a big difference in imported bioenergy and input to the RE-refineries.</p>,
   },
   "tab3": {
-    "welcome1": <p>Power and district heat production.</p>,
+    "welcome1": <p>Power and District Heat Sector</p>,
     "welcome2": <p>Here you can see the fuel use for power and district heat production, power plant capacities and the electricity and district heating production divided on fuels.</p>,
     "welcome3": <p>The marginal electricity price and district heating price is the weighted average price of the time slices in the model over a year. These prices are endogenous calculated by the model and it is the prices which the model “trade” power and heat between sectors.</p>,
     "welcome4": <p>Try to select the CNN scenario and the NPH scenario and compare electricity demand and the difference in needed power capacity.</p>,
   },
   "tab4": {
-	  "welcome1": <p>Heavy industry energy consumption.</p>,
+	  "welcome1": <p>Heavy Industry Sector</p>,
 	  "welcome2": <p>Here you can investigate energy consumption and CO<sub>2</sub>-emissions from heavy industry.</p>,
 	  "welcome3": <p>In heavy industry we include: Pulp and paper, Mining, Iron and steel, Aluminium and Cement.</p>,
 	  "welcome4": <p>Try to select the CNN scenario and the NPH scenario and you will see the assumed increase in activity in NPH – if you choose to compare with CNB instead you can see the impact of the assumed decrease in activity.</p>,
 	  "welcome5": <p>Try also to select CNN twice and then activate increased cost of CO<sub>2</sub> storage and compare CO<sub>2</sub>-reductions.</p>,
   },
   "tab5": {
-	  "welcome1": <p>Other sectors energy consumption.</p>,
+	  "welcome1": <p>Other Sectors</p>,
 	  "welcome2": <p>Here you can investigate energy consumption and CO<sub>2</sub>-emissions from other sectors.</p>,
-	  "welcome3": <p>In Other sectors we include: Manufacturing industries, Service sector, Agriculture and Fishery.</p>,
+	  "welcome3": <p>In other sectors we include: Manufacturing industries, service sector, agriculture and fishery.</p>,
 	  "welcome4": <p>Try to select CNN twice and then activate increased cost of CO<sub>2</sub> storage and compare CO<sub>2</sub>-reductions and fuel use in agriculture and fishery.</p>,
   },
   "tab6": {
-	  "welcome1": <p>Residential sector.</p>,
-	  "welcome2": <p>Here you can investigate development in heat demand, electricity demand and fuel use for residential sector.</p>,
+	  "welcome1": <p>Residential Sector</p>,
+	  "welcome2": <p>Here you can investigate developments in heat demand, electricity demand and fuel use for the residential sector.</p>,
 	  "welcome3": <p>The results are split in room heat and electricity for appliances. The solutions for the residential sector are very robust towards the variation in assumptions are therefore all scenarios look very similar.</p>,
 	  "welcome4": <p>So instead of comparing two scenarios try to look at the difference in heating solutions between the countries. Turn on one country at the time on the map to the left to go through country results.</p>,
   },
   "tab7": {
-	  "welcome1": <p>Transport sector energy consumption.</p>,
+	  "welcome1": <p>Transport Sector</p>,
 	  "welcome2": <p>Here you can investigate energy consumption, transport service level and CO<sub>2</sub>-emissions from passenger and freight transport.</p>,
 	  "welcome3": <p>The model includes international shipping and aviation which also can be shown on country level. For cars and trucks the stock are shown divided on vehicle types.</p>,
 	  "welcome4": <p>The results in the transport sector is very robust to the different scenario assumptions, which leads to only minor differences between the scenarios.</p>,
