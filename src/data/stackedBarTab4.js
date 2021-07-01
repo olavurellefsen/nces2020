@@ -3490,7 +3490,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -9711,7 +9711,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -15932,7 +15932,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -22153,7 +22153,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -28374,7 +28374,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -34595,7 +34595,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -40816,7 +40816,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -47037,7 +47037,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -53258,7 +53258,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -59479,7 +59479,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -65700,7 +65700,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
@@ -71921,7 +71921,7 @@ export default {
             ]
           },
           {
-            "indicator": "Iron and steel Fuel Consumption",
+            "indicator": "Iron and Steel Fuel Consumption",
             "unit": "TWh",
             "regions": [
               {
