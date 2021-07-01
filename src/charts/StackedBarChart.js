@@ -80,7 +80,7 @@ const StackedBarChart = props => {
   maxY = t
   let u=0
   let j=0
-  while(u > minY && j < 20) {
+  while(u > minY && j < 40) {
     u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
     j++
   }

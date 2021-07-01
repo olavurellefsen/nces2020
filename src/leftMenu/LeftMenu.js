@@ -34,16 +34,29 @@ const MenuHeader = styled.div`
 
 const AppLogo = styled.img`
   padding: 0px;
+  max-width: 250px;
+  border: 0;
+  align-self: center;
+  ${'' /* transform: scale(1.8) translate(43px); */}
+  
+  transition: .2s;
+  &:hover {
+    transform: scale(1.05) translate(0px);
+    cursor: pointer;
+  }
+`;
+/* const AppLogo2 = styled.img`
+  padding: 0px;
   max-width: 180px;
   border: 0;
   align-self: center;
-  transform: scale(2.2) translate(43px);
+  
   transition: .2s;
   &:hover {
     cursor: pointer;
     transform: scale(2.3) translate(43px);
   }
-`;
+`; */
 
 const MenuSeparatorLine = styled.hr`
   margin: 0.25em 12px 0.25em 15px;
@@ -164,9 +177,13 @@ function ScenarioSelectionMenu(props) {
       <MenuHeader>
         <ExternalLink href="https://www.nordicenergy.org">
           <AppLogo
-            src="./images/NER-Logo.png"
+            src="./images/nordic_energy_research_cropped.png"
             alt="Nordic Energy Research"
           />
+          {/* <AppLogo2
+            src="./images/NER-Logo_small.png"
+            alt="Nordic Energy Research"
+          /> */}
         </ExternalLink>
         <MenuRoutes>
           <MenuItem

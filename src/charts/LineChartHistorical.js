@@ -104,7 +104,8 @@ const renderLines = (lineData) => {
   return ret
 }
 const legends = selectedDataRegions
-legends.push("total")
+if (addTotal)
+  legends.push("total")
 
 return (
   <>

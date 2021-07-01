@@ -594,6 +594,50 @@ return [
   csv]
 }
 
+function createAccumulatedRawHistoricalData12(data, selectedCountries) {
+  let accumulatedHistoricalData = {}
+  let totalHistoricalYearValues = {}
+  let csv =[]
+  historicalYears.forEach(year => {
+    totalHistoricalYearValues[year] = 0
+  })
+  let selectedDataRegions = [] 
+    mapRegionToDataRegions.forEach((mapRegion) => {
+        if(selectedCountries.includes(mapRegion.path_id)) {
+        mapRegion.historical_data_regions.forEach((dataRegion) => {
+          selectedDataRegions.push(dataRegion)
+        })
+      }
+    })
+
+  data.data.nces_biofuels_prod.forEach((item, i)=>{ 
+    if(historicalYears.includes(item.year) && selectedDataRegions.includes(item.nces_country.name)) {
+      if(Object.keys(accumulatedHistoricalData).includes(item.fuel)) {
+        //checks if a value is already there, and then accumulate
+        if (accumulatedHistoricalData[item.fuel][historicalYears.indexOf(item.year)]) {
+          accumulatedHistoricalData[item.fuel][historicalYears.indexOf(item.year)].total += item.value
+          totalHistoricalYearValues[item.year] += item.value
+        } else {
+          accumulatedHistoricalData[item.fuel].push({"year": item.year, "total": item.value})
+          totalHistoricalYearValues[item.year] += item.value
+        }
+      } else {
+        accumulatedHistoricalData[item.fuel] = []
+        accumulatedHistoricalData[item.fuel].push({"year": item.year, "total": item.value})
+        totalHistoricalYearValues[item.year] += item.value
+      }
+    }
+  })
+
+let fuelTypes = []
+data.data.nces_biofuels_prod.forEach((item)=>{
+  if (fuelTypes.indexOf(item.fuel) === -1)
+  fuelTypes.push(item.fuel)
+})
+console.log("accumulatedHistoricalData", accumulatedHistoricalData)
+return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes, csv]
+}
+
 function createAccumulatedHistoricalData2(data, selectedCountries) {
   let accumulatedHistoricalData = {}
   let totalHistoricalYearValues = {}
@@ -699,6 +743,8 @@ function createAccumulatedHistoricalData3(data, selectedCountries) {
   })
 return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
 }
+
+
 
 const fixedcolorCountries = [ 'Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
 const countryColors = () => {
@@ -1354,4 +1400,5 @@ export {
   createLineChartData1,
   createLineChartData2,
   createAccumulatedRawHistoricalData11,
+  createAccumulatedRawHistoricalData12,
 }

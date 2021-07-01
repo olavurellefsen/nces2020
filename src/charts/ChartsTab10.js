@@ -18,6 +18,7 @@ import HistoricalData11 from "./../data/stackedBarTab104" //nces_enercons_trans
 import HistoricalData12 from "./../data/stackedBarTab106" //nces_vehiclenumber_stock
 //import HistoricalData13 from "./../data/stackedBarTab87" //nces_enercons_ind
 import HistoricalData14 from "./../data/lineChart01" //nces_primencon
+import HistoricalData15 from "./../data/stackedBarTab108" //nces_biofuels_prod
 
 import {createAccumulatedHistoricalData1} from "./Tools"
 import {createAccumulatedRawHistoricalData2} from "./Tools"
@@ -32,6 +33,7 @@ import {createAccumulatedRawHistoricalData10} from "./Tools"
 import {createLineChartData1} from "./Tools"
 import {createLineChartData2} from "./Tools"
 import {createAccumulatedRawHistoricalData11} from "./Tools"
+import {createAccumulatedRawHistoricalData12} from "./Tools"
 
 const RawHistoricalCharts = props => {  
   const HistoricalTableData1 = createAccumulatedHistoricalData1(HistoricalData1, props.selectedCountries)
@@ -47,7 +49,7 @@ const RawHistoricalCharts = props => {
   const HistoricalLinechartData01 = createLineChartData1(HistoricalData14, props.selectedCountries)
   const HistoricalLinechartData02 = createLineChartData2(HistoricalData4, props.selectedCountries)
   const HistoricalTableData11 = createAccumulatedRawHistoricalData11(HistoricalData9, props.selectedCountries)
-
+  const HistoricalTableData12 = createAccumulatedRawHistoricalData12(HistoricalData15, props.selectedCountries)
   return (
     <MainArea>
         <Welcome 
@@ -55,9 +57,15 @@ const RawHistoricalCharts = props => {
           closeWelcome={props.closeWelcome} 
           tab="tabRawHistory"/>
       <Flex>
-      {/*biofuelprod sb */}
+      <StackedBarChartHistorical
+        chartName="Production of biomass fuels"
+        stackedBar={HistoricalTableData12}
+        selectedCountries={props.selectedCountries}
+        label="PJ"
+        >
+      </StackedBarChartHistorical>
       <LineChartHistorical 
-        chartName="building space"
+        chartName="Building area "
         data={HistoricalLinechartData02}
         selectedCountries={props.selectedCountries}
         xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
@@ -126,11 +134,13 @@ const RawHistoricalCharts = props => {
           chartName="Number of new passenger car registrations"
           stackedBar={HistoricalTableData9}
           selectedCountries={props.selectedCountries}
+          xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
       ></StackedBarChartHistorical>
       <StackedBarChartHistorical
           chartName="Number of passenger cars "
           stackedBar={HistoricalTableData10}
           selectedCountries={props.selectedCountries}
+          xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
       ></StackedBarChartHistorical>
       </Flex>
       
