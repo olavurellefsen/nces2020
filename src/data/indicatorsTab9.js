@@ -1,4 +1,4 @@
-Export default 
+export default 
  	 [ 
 		"Electrification of Final Energy Consumption",
 		"CO2 Intensity of Primary Energy Supply",
