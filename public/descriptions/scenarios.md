@@ -25,12 +25,12 @@ Energy demand for transport decrease due to more efficient use of transportation
 
 Without negative emissions the targets of the Nordic countries cannot be reached. But one critical part of carbon capture and storage solutions is the storage. Where to store it and at what cost. In this sensitivity there are less opportunity to store CO<sub>2</sub> and the costs of storage are assumed to increase the total costs from 20-60% depending on the technology.
 
-To apply this sensitivity to the scenario results, click the barrel icon on the chosen scenario. ![barrel icon](./images/barrel.png)
+To apply this sensitivity to the scenario results, click the barrel icon on the chosen scenario. ![barrel icon](./images/barrel.svg)
 
 ### **Restriction on Bioenergy Import**
 To represent the limited global bioenergy potential, partly due to sustainability requirements, an import limitation on bioenergy to the Nordic countries can be introduced. This limitation reduces biomass imports linearly from today’s levels to 0 in 2050 for all Nordic countries. In addition, the bioenergy sensitivity lowers the assumed domestic bioenergy potential by 25%. Without the import restriction, biomass and biofuels can be imported from the rest of the world at an assumed market price.
 
-To apply this sensitivity to the scenario results, click the leaf icon on the chosen scenario. ![leaf icon](./images/leaf.png)
+To apply this sensitivity to the scenario results, click the leaf icon on the chosen scenario. ![leaf icon](./images/leaf.svg)
 
 # **Definition of carbon neutrality in the NCES analysis**
 

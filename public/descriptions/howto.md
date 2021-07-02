@@ -9,8 +9,8 @@ In the scenario selection tool, you can choose to view one scenario at a time or
 
 ### Explore the impact of sensitivity analyses
 By clicking one, or both, of the icons next to the chosen scenario you can add a sensitivity to the modelling results. 
-The barrel icon ![barrel icon](./images/database-solid.svg) adds the assumption that CCS will become more costly than currently projected, ranging from 20 to 60% depending on the technology.
-The leaf icon ![leaf icon](./images/leaf.png) adds the assumption that the import of bioenergy will be more restricted in the future, reducing linearly from today’s levels to 0 by 2050. In addition, increased competition for biomass resources is assumed to limit domestic bioenergy potential by 25%.
+The barrel icon ![barrel icon](./images/barrel.svg) adds the assumption that CCS will become more costly than currently projected, ranging from 20 to 60% depending on the technology.
+The leaf icon ![leaf icon](./images/leaf.svg) adds the assumption that the import of bioenergy will be more restricted in the future, reducing linearly from today’s levels to 0 by 2050. In addition, increased competition for biomass resources is assumed to limit domestic bioenergy potential by 25%.
 
 For example, by choosing both CNN scenario options, applying one or both sensitivities to one, you will be able to view what effects these sensitivities would have on the results by comparison. 
 
