@@ -25,13 +25,13 @@ const Charts = props => {
         />
         <ScenarioDescriptionsContainer isWelcomeOpen={props.scenarioSelection.showWelcome}>
           <Scenario1Description>
-            {selectedScenario2 && <div>LEFT COLUMN OR FULL LINE IN CHART</div>}
+            {selectedScenario2 && <div>LEFT BAR OR FULL LINE IN CHART</div>}
             {scenarioCombinations.scenarioCombinations.scenarioOptions.find(
               (option)=>option.name.toLowerCase() === selectedScenario.toLowerCase())?.desc.toUpperCase()
             }
           </Scenario1Description>
           {selectedScenario2 && <Scenario2Description>
-            <div>RIGHT COLUMN OR DASHED LINE IN CHART</div> 
+            <div>RIGHT BAR OR DASHED LINE IN CHART</div> 
           {
             scenarioCombinations.scenarioCombinations.scenarioOptions.find(
               (option)=>option.name.toLowerCase() === selectedScenario2.toLowerCase()

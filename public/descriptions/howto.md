@@ -1,8 +1,8 @@
-# How to use the results viewer tool 
+# <span style="color:#454547">How to Use the Results Viewer Tool </span>
 
 In this web tool you can explore the model results by either selecting individual countries or looking at the aggregated Nordic results. By clicking on the map, you can select which country’s results you wish to explore.
 
-# Functions of the web tool:
+## Functions of the web tool:
 
 ### Scenario comparison
 In the scenario selection tool, you can choose to view one scenario at a time or compare two different scenarios with each other.

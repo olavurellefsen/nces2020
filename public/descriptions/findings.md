@@ -1,4 +1,4 @@
-# Nordic Clean Energy Scenarios - Ten key messages
+# <span style="color:#454547">Nordic Clean Energy Scenarios - Ten key messages </span>
 
 **1) Three scenarios show different pathways to carbon neutrality.** 
 The NCES project developed three scenarios, all designed to meet the carbon neutrality target by balancing carbon emissions and sinks. While acknowledging the importance of cost-effectiveness, the analytical approach recognised that considering only this criterion is too narrow in scope for policy planning and decision making. As such, the NCES analysis seeks to balance multiple factors that will influence outcomes. Each of the three scenarios reflects a different core element:

@@ -109,7 +109,7 @@ const ToggleDifference = styled.div`
 
 const ToggleSwitchText = styled.div`
   color: ${props =>
-    props.singleMode ? "#eeeeeeee" : props.selected ? "gray" : "#999999"};
+    props.singleMode ? "#eeeeeeee" : props.selected ? "gray" : "#666666"};
   margin-left: 10px;
 `;
 

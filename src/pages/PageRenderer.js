@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import ReactMarkdown from "react-markdown";
 import styled from "styled-components";
+
+const ReactMarkdown = require('react-markdown/with-html')
 
 const AboutContainer = styled.div`
   padding: 0px 20px 20px 20px;
@@ -43,7 +44,7 @@ class ScenarioDescriptions extends Component {
     return (
       <AboutContainer>
         {posts.map((post, idx) => (
-          <div key={idx}>
+          <div key={idx} style={{color: '#6F7173'}}>
             <ReactMarkdown source={post} escapeHtml={false} />
           </div>
         ))}

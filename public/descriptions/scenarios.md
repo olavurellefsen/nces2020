@@ -1,4 +1,4 @@
-# **The Three Scenarios** 
+# <span style="color:#454547">**The Three Scenarios**</span>
 
 Nordic decision makers will play a leading role in shaping the future energy system, including the role Nordic countries could play in Europe as a whole. Policy action will underpin key areas of research and development, strategic decisions in industry, and levels of public acceptance. The NCES analytical approach sought to balance these factors that will influence outcomes and developed three scenarios to reflect a different core element:
 
@@ -11,19 +11,19 @@ Biomass imports from outside the Nordics are limited to current or slightly high
 ### **Nordic Powerhouse (NPH) explores the opportunity for the Nordics to play a larger role in the broader European energy transition by providing clean electricity, clean fuels, and carbon storage.**
 
 NPH is a storyline where the Nordic countries provide cheap clean energy and host more low carbon services and industries, increasing their exports of low carbon products and energy carriers, and increase the exports of carbon free steel and aluminium. All these activities increase demand for electricity and/or other energy products. This also results in more excess heat from industry and services that is used in district heating generation.
-The NPH also allows for increased power transmission capacity between the Nordic countries and from the Nordics to mainland Europe as well as increased PtX fuel production.
+The NPH also allows for increased power transmission capacity between the Nordic countries and from the Nordics to mainland Europe as well as increased power-to-X (PtX) fuel production.
 
 ### **Climate Neutral Behaviour (CNB) reflects Nordic societies taking additional energy and material efficiency measures in all sectors, ultimately leading to lower demand for both.**
 
 CNB is a storyline motivated by strong political and citizen engagement. In this storyline, politicians and citizens adopt additional energy and material efficiency measures in all sectors that lead to lower energy demand. Output from heavy industry decreases in this storyline by 10% in comparison to CNN from 2030 to 2050. In addition, decentralised generation technologies become much more common, further cutting the amount of energy delivered through grids. 
 
-Energy demand for transport decrease due to more efficient use of transportation modes and a lower but more efficient heavy transport of goods. For passenger transport national passenger km is assumed to not grow past 2030.
+Energy demand for transport is assumed to decrease due to more efficient use of transportation modes and less but more efficient heavy transport of goods. For passenger transport national passenger km is assumed to not grow past 2030.
 
-# Sensitivity Factors
+## Sensitivity Factors
 
 ### **Carbon Capture and Storage**
 
-Without negative emissions the targets of the Nordic countries cannot be reached. But one critical part of carbon capture and storage solutions is the storage. Where to store it and at what cost. In this sensitivity there are less opportunity to store CO<sub>2</sub> and the costs of storage are assumed to increase the total costs from 20-60% depending on the technology.
+Without negative emissions, it is not likely that the Nordic countries carbon neutrality targets can be reached. One critical part of carbon capture and storage solutions is the storage. In this sensitivity, it is assumed that there is less opportunity to store CO<sub>2</sub> and the costs of storage are assumed to increase the total costs from 20-60% depending on the technology.
 
 To apply this sensitivity to the scenario results, click the barrel icon on the chosen scenario. ![barrel icon](./images/barrel.svg)
 
@@ -32,7 +32,7 @@ To represent the limited global bioenergy potential, partly due to sustainabilit
 
 To apply this sensitivity to the scenario results, click the leaf icon on the chosen scenario. ![leaf icon](./images/leaf.svg)
 
-# **Definition of carbon neutrality in the NCES analysis**
+# **Definition of Carbon Neutrality in the NCES Analysis**
 
 The NCES project focuses on activities that cause energy-related CO<sub>2</sub> emissions, which represent ~80% of total Nordic GHG emissions. The adopted definition of carbon neutrality by this project sets the limit for total energy-related CO<sub>2</sub> emissions in each modelled scenario. Differences arise between the Nordic countries in the target years for reaching carbon neutrality, in their mid-term targets, and in the use of carbon offsets. Carbon neutrality target years range from 2030 in Norway to 2050 in Denmark. The difference in target years cannot be directly compared as some countries allow the use of carbon offsets and some will benefit from considerable forest carbon sinks, such as Sweden.
 
@@ -40,8 +40,8 @@ The resulting total Nordic GHG reduction trajectory that constrains the scenario
 
 <div style="margin-left: auto; margin-right: auto; margin-bottom: 10px; width: 620px; font-weight: 500;">Sum of Nordic historic GHG emissions and plotted sum of Nordic national targets </div>
 
-<div style="margin-left: auto; margin-right: auto; width: 850px;">
-<img src="./images/NordicGHG.png" style="width: 850px;"/>
+<div style="margin-left: auto; margin-right: auto; width: 750px;">
+<img src="./images/NordicGHG.png" style="width: 750px;"/>
 </div>
 
 
@@ -50,12 +50,17 @@ The resulting total Nordic GHG reduction trajectory that constrains the scenario
  </div>
 
 
-
+<div style="margin-left: auto; margin-right: auto; width: 1005px;">
 <img src="./images/DKGHG.png" height="300px" width="500px"/>
 <img src="./images/FIGHG.png" height="300px" width="500px"/>
+</div>
 
-<img src="./images/legendGHG.png" height="150px" width="250px" style="margin-top: 75px; margin-bottom: 75px; margin-right: 250px;"/>
+<div style="margin-left: auto; margin-right: auto; width: 1005px;">
+<img src="./images/legendGHG.png" height="150px" width="250px" style="margin-top: 75px; margin-bottom: 75px; margin-right: 125px; margin-left: 125px;"/>
 <img src="./images/ISGHG.png" height="300px" width="500px"/>
+</div>
 
+<div style="margin-left: auto; margin-right: auto; width: 1005px;">
 <img src="./images/NOGHG.png" height="300px" width="500px"/>
 <img src="./images/SEGHG.png" height="300px" width="500px"/>
+</div>

@@ -1,7 +1,7 @@
-# Nordic historical data
+# <span style="color:#454547">Nordic Energy Statistics Database </span>
 
 The Nordic Energy Statistics Database aims to harmonise energy related data across all five Nordic countries for easy use as a reference for research as well as for the public to explore. Previously there was no common aggregation of Nordic energy statistics and model input. All Nordic countries would need to rely on assumptions about their neighbouring Nordic countries’ energy systems.
-From these data variables progress indicators have been calculated:
+From these data, progress indicators have been developed for:
 - Share of RE in electricity consumption
 - CO<sub>2</sub> emissions (Mt CO<sub>2</sub>) from power and district heating
 - Share of bioenergy from gross RE consumption
@@ -12,5 +12,5 @@ From these data variables progress indicators have been calculated:
 - Energy intensity (kWh/m2) and CO<sub>2</sub> emissions intensity (kgCO<sub>2</sub>/m2) in the buildings sector 
 - CO<sub>2</sub> emissions (Mt CO<sub>2</sub>) from road transport
 
-You can review these indicators under the 
-[Historical Data tab](./tab9).
+You can review these indicators under the [Historical Indicators](./tab9) tab and view the individual historical statistics under the Historical data tab 
+[Historical Data tab](./tab10).

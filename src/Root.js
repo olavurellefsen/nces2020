@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
     height: 100%
   }
   body, #root, #root>div {
-    font-family: Roboto;
+    font-family: Corbel;
     font-size: 1em;
     margin: 0px;
     width: 100%;

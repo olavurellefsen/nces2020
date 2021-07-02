@@ -14,8 +14,8 @@
       "scenarios": "Description of Scenarios",
       "findings": "Ten Key Messages",
       "model": "The ON-TIMES Model and Data",
-      "historical": "Nordic Historical Data",
-      "howto": "How to use"
+      "historical": "Nordic Energy Statistics Database",
+      "howto": "How to Use the Results Viewer"
     }
   },
   "options": {
@@ -26,16 +26,16 @@
     "unavailable": "(unavailable)"
   },
   "general": {
-    "scenarios": "Choose scenarios",
+    "scenarios": "Choose Scenarios",
     "opt0": "CCS",
     "opt1": "BIO",
     "opt2": "ELC",
     "opt3": "SAC",
-    "scenario-difference": "Scenario difference",
+    "scenario-difference": "Scenario Difference",
     "red-minus-green": "This function will calculate the difference in value between the blue and violet model results.",
     "tokni": "Tokni",
     "developed-by": "Developed by",
-    "countries": "Choose countries"
+    "countries": "Choose Countries"
   },
   "scenario": {
     "Shift and Avoid": "Shift & Avoid",

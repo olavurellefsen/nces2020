@@ -1,4 +1,4 @@
-# About Nordic Clean Energy Scenarios
+# <span style="color:#454547">About Nordic Clean Energy Scenarios </span>
 
 The Nordic countries have a unique and long-standing cooperation on energy, which has created a solid foundation for a sustainable and secure energy supply in the region. Now, it is time to further Nordic energy cooperation with the green transition as the framework. 
 
@@ -21,7 +21,7 @@ The NCES analytical approach seeks to balance multiple factors that will influen
 
 --Klaus Skytte, CEO Nordic Energy Research
 
-To read more about this project and access the full report please visit [the project page at Nordic Energy Research’s webpage.](https://www.nordicenergy.org/project/nordic-clean-energy-scenarios-solutions-for-carbon-neutrality/) 
+To read more about this project and access the full report please [visit the project page at Nordic Energy Research](https://www.nordicenergy.org/project/nordic-clean-energy-scenarios-solutions-for-carbon-neutrality/). 
 
 
 ***Acknowledgements***
@@ -47,4 +47,5 @@ Energiforsk, EA Energy Analyses, Energy Modelling Lab, IVL Svenska Miljöinstitu
 
 Comments and questions are welcome and should be addressed to:
 
-Kevin Johnsen, Nordic Energy Research, e-mail: [kevin.johnsen@nordicenergy.org](mailto:kevin.johnsen@nordicenergy.org)
+Kevin Johnsen, Nordic Energy Research
+[kevin.johnsen@nordicenergy.org](mailto:kevin.johnsen@nordicenergy.org)
