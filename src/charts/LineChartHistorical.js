@@ -39,16 +39,7 @@ const ChartTitle = styled.div`
   font-weight: bold;
   margin-right: 10px;
 `
-const getCSVData = (lineData) => {
-  let ret = []
-  Object.entries(lineData).forEach((indicatorGroup) => {
-    indicatorGroup[1].forEach((item)=>{
-      //console.log("in gr: ", indicatorGroup)
-      ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y, country: indicatorGroup[0]})
-    })
-  })
-  return ret
-}
+
 const LineChartHistorical = ({
   chartName = "chart name",
   data = [],
@@ -57,7 +48,16 @@ const LineChartHistorical = ({
   addTotal = true,
   label= "share"
 }) => {
-
+  const getCSVData = (lineData) => {
+    let ret = []
+    Object.entries(lineData).forEach((indicatorGroup) => {
+      indicatorGroup[1].forEach((item)=>{
+        //console.log("in gr: ", indicatorGroup)
+        ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y, country: indicatorGroup[0], unit: label})
+      })
+    })
+    return ret
+  }
 let selectedDataRegions = [] 
 mapRegionToDataRegions.forEach((mapRegion) => {
   if(selectedCountries.includes(mapRegion.path_id)) {

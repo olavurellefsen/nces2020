@@ -41,21 +41,6 @@ const ChartContainer = styled.div`
   border-radius: 4px;
 `
 
-const getCSVData = (lineData1, scenarioName1, lineData2 = [], scenarioName2) => {
-  let ret = []
-  
-  lineData1.regions.forEach((region) => {
-    region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
-      ret.push({scenario: scenarioName1, indicatorGroup: region.region, year: item.year, value: item.total})
-    })
-  })
-  lineData2 && lineData2.length !== 0 && lineData2.regions.forEach((region) => {
-    region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
-      ret.push({scenario: scenarioName2, indicatorGroup: region.region, year: item.year, value: item.total})
-    })
-  })
-  return ret
-}
 const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCountries, chartName }) => {
   let selectedDataRegions = [] 
     mapRegionToDataRegions.forEach((mapRegion) => {
@@ -96,7 +81,21 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
       return indicator.indicator === chartName
     })
   })
-
+  const getCSVData = (lineData1, scenarioName1, lineData2 = [], scenarioName2) => {
+    let ret = []
+    
+    lineData1.regions.forEach((region) => {
+      region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
+        ret.push({scenario: scenarioName1, indicatorGroup: region.region, year: item.year, value: item.total, unit: indicatorData1.unit})
+      })
+    })
+    lineData2 && lineData2.length !== 0 && lineData2.regions.forEach((region) => {
+      region.indicatorGroups[0].indicatorGroupValues.forEach((item)=>{
+        ret.push({scenario: scenarioName2, indicatorGroup: region.region, year: item.year, value: item.total, unit: indicatorData1.unit})
+      })
+    })
+    return ret
+  }
   const HTMLYAxisLabel = props => {
     const text = props.text.replaceAll('§', '')
     const co2Text = text.replace("CO2", "CO<sub>2</sub>")

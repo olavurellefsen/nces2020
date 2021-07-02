@@ -70,7 +70,7 @@ const getCSVData = (lineData) => {
   let ret = []
   Object.entries(lineData).forEach((indicatorGroup) => {
     indicatorGroup[1].forEach((item)=>{
-      ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y})
+      ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y, unit: label})
     })
   })
   return ret

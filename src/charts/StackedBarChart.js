@@ -123,16 +123,17 @@ const StackedBarChart = props => {
     
     return ret
   }
-const getCSVData = (accumulatedData1, scenarioName1, accumulatedData2, scenarioName2) => {
+const getCSVData = (accumulatedData1, scenarioName1, accumulatedData2, scenarioName2, unit) => {
   let ret = []
+  console.log("accu1: ", accumulatedData1)
   Object.entries(accumulatedData1).forEach((indicatorGroup) => {
     indicatorGroup[1].forEach((item)=>{
-      ret.push({scenario: scenarioName1, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
+      ret.push({scenario: scenarioName1, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total, unit: unit})
     })
   })
   Object.entries(accumulatedData2).forEach((indicatorGroup) => {
     indicatorGroup[1].forEach((item)=>{
-      ret.push({scenario: scenarioName2, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
+      ret.push({scenario: scenarioName2, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total, unit: unit})
     })
   })
   return ret
@@ -167,7 +168,7 @@ let t1 = tickValueNumberOfNegativeElements/tickValueLength*550
     <ChartHeader>
       <ChartTitle>{parseHtml(chartTitle.replaceAll("CO2", "CO<sub>2</sub>"))}</ChartTitle>
       <CSVLink 
-        data={getCSVData(dataScenario1[0], scenario, dataScenario2 ? dataScenario2[0] : [], scenario2)}
+        data={getCSVData(dataScenario1[0], scenario, dataScenario2 ? dataScenario2[0] : [], scenario2, unit )}
         filename={chartTitle + " " + selectedCountries + ".csv"}
       >
         Download as CSV</CSVLink>

@@ -120,7 +120,7 @@ const StackedBarChartHistorical = ({
       let ret = []
       Object.entries(lineData).forEach((indicatorGroup) => {
         indicatorGroup[1].forEach((item)=>{
-          ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total})
+          ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total, unit: label})
         })
       })
       return ret
