@@ -12,5 +12,7 @@ From these data, progress indicators have been developed for:
 - Energy intensity (kWh/m2) and CO<sub>2</sub> emissions intensity (kgCO<sub>2</sub>/m2) in the buildings sector 
 - CO<sub>2</sub> emissions (Mt CO<sub>2</sub>) from road transport
 
-You can review these indicators under the [Historical Indicators](./tab9) tab and view the individual historical statistics under the Historical data tab 
+You can review these indicators under the [Historical Indicators](./tab9) tab and view the individual historical statistics under the
 [Historical Data tab](./tab10).
+
+[You can also browse the entire database here.]()

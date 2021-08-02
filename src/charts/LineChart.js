@@ -16,6 +16,7 @@ import periods from './../data/years'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
 import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
 import { CSVLink } from 'react-csv'
+import CSV_citation from "../data/citation"
 
 const ChartHeader = styled.div`
   display: flex;
@@ -40,7 +41,6 @@ const ChartContainer = styled.div`
   margin-bottom: 10px;
   border-radius: 4px;
 `
-
 const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCountries, chartName }) => {
   let selectedDataRegions = [] 
     mapRegionToDataRegions.forEach((mapRegion) => {
@@ -94,6 +94,8 @@ const LineChart = ({lineData, selectedScenario, selectedScenario2, selectedCount
         ret.push({scenario: scenarioName2, indicatorGroup: region.region, year: item.year, value: item.total, unit: indicatorData1.unit})
       })
     })
+    ret.push({citation: CSV_citation})
+
     return ret
   }
   const HTMLYAxisLabel = props => {

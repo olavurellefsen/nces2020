@@ -7,6 +7,7 @@ import ScenarioSelectionList from "../scenarioSelection/ScenarioSelectionList";
 import ToggleSwitch from "./ToggleSwitch";
 import { useTranslation } from "react-i18next";
 import MapContainer from "../map/MapContainer";
+import citation from "../data/citation"
 
 const MenuLayout = styled.div`
   display: none;
@@ -25,7 +26,7 @@ const MenuLayout = styled.div`
 const MenuHeader = styled.div`
   padding: 10px 12px 5px 10px;
   margin: 0;
-  width: 100%;
+  width: 90%;
   display: flex;
   flex-direction: column;
   align-items: top;
@@ -78,7 +79,6 @@ const MenuRoutes = styled.div`
 const MenuItem = styled(Link)`
   font-weight: ${props => (props.selected ? "bold" : "normal")};
   font-size: 1em;
-  margin: 0;
   padding: 2px 0;
   width: 100%;
   display: flex;
@@ -153,6 +153,15 @@ const ExternalLink = styled.a`
     text-decoration: underline;
   }
 `;
+const HelpLink = styled.a`
+  width: 200px;
+  color: white;
+  text-decoration: none;
+  :hover {
+    text-decoration: underline;
+  }
+color: #666666;
+`;
 const LinkLogo = styled.img`
   padding: 0px;
   max-width: 100px;
@@ -167,6 +176,40 @@ const Header = styled.h1`
   height: 26px;
   align-self: flex-start;
   color: #666666;
+`;
+const Citation = styled.div`
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #666666;
+  font-weight: bold;
+  font-size: 10px;
+`;
+const CitationIntro = styled.div`
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #666666;
+  font-weight: bold;
+`;
+const HelpText = styled.div`
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #666666;
+  font-weight: bold;
 `;
 function ScenarioSelectionMenu(props) {
   const { t } = useTranslation();
@@ -283,6 +326,8 @@ function ScenarioSelectionMenu(props) {
       <MenuSeparatorLine /></>}
       <MenuFooter>
         <CopyrightNotice>
+        <CitationIntro>When using the results presented in the result viewer use the following citation:</CitationIntro>
+          <Citation>{citation}</Citation>
           <Header> {t("general.developed-by")}</Header>
           <CopyrightItem>
             <ExternalLink href="http://www.tokni.com">
@@ -291,6 +336,12 @@ function ScenarioSelectionMenu(props) {
             <ExternalLink href="https://energymodellinglab.com/">
               <LinkLogo src="./images/eml.png" alt="Energy Modelling Lab" maxWidth="75px" data-tip="Energy Modelling Lab"/>
             </ExternalLink>
+          </CopyrightItem>
+          <CopyrightItem>
+            <HelpText>If you are experiencing issues with the web tool please contact Kenneth Karlsson at The Energy Modelling Lab.</HelpText>
+          </CopyrightItem>
+          <CopyrightItem>
+            <HelpLink href="mailto:kenneth.karlsson@energymodellinglab.com">kenneth.karlsson@ energymodellinglab.com</HelpLink>
           </CopyrightItem>
         </CopyrightNotice>
       </MenuFooter>
@@ -307,7 +358,8 @@ ScenarioSelectionMenu.propTypes = {
   options: PropTypes.any.isRequired,
   toggleOption: PropTypes.func.isRequired,
   selectedCountries: PropTypes.array.isRequired,
-  selectCountry: PropTypes.func.isRequired
+  selectCountry: PropTypes.func.isRequired,
+  selectedPage: PropTypes.string,
 };
 
 export default ScenarioSelectionMenu;

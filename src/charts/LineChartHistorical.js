@@ -16,6 +16,7 @@ import {
   VictoryVoronoiContainer,
   VictoryTooltip
 } from 'victory'
+import CSV_citation from "../data/citation"
 
 const ChartContainer = styled.div`
   width: 550px;
@@ -56,6 +57,7 @@ const LineChartHistorical = ({
         ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y, country: indicatorGroup[0], unit: label})
       })
     })
+    ret.push({citation: CSV_citation})
     return ret
   }
 let selectedDataRegions = [] 

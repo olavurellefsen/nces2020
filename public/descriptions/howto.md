@@ -16,3 +16,6 @@ For example, by choosing both CNN scenario options, applying one or both sensiti
 
 ### Scenario differences 
 By using the **Scenario difference** toggle the difference between the two chosen scenario results will be calculated and displayed.
+
+If you are experiencing any issues while using the tool please contact Kenneth Karlsson, Energy Modelling Lab.
+[kenneth.karlsson@energymodellinglab.com](mailto:kenneth.karlsson@energymodellinglab.com)

@@ -18,6 +18,7 @@ import {colorNER} from './chartColors'
 import periods from './../data/years'
 import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
 import { CSVLink } from 'react-csv'
+import CSV_citation from "../data/citation"
 
 const ChartContainer = styled.div`
   width: 550px;
@@ -136,6 +137,7 @@ const getCSVData = (accumulatedData1, scenarioName1, accumulatedData2, scenarioN
       ret.push({scenario: scenarioName2, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total, unit: unit})
     })
   })
+  ret.push({citation: CSV_citation})
   return ret
 }
 const HTMLYAxisLabel = props => {

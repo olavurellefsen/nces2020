@@ -13,6 +13,7 @@ import {
   VictoryLine
 } from 'victory'
 import { CSVLink } from 'react-csv'
+import CSV_citation from "../data/citation"
 
 const ChartContainer = styled.div`
   width: 550px;
@@ -73,6 +74,7 @@ const getCSVData = (lineData) => {
       ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y, unit: label})
     })
   })
+  ret.push({citation: CSV_citation})
   return ret
 }
 const renderLines = (lineData) => {
@@ -86,6 +88,7 @@ const renderLines = (lineData) => {
       }}>
     </VictoryLine>)
   }
+  ret.push(CSV_citation)
   return ret
 }
 const legends = Object.keys(data)

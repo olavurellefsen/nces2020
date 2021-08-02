@@ -36,6 +36,7 @@ Energiforsk, EA Energy Analyses, Energy Modelling Lab, IVL Svenska Miljöinstitu
 <img src="./images/ef_farg.png" width="180px" style="margin: 10px"/>
 <img src="./images/ea_energy_analyses_txt.gif" width="180px" style="margin: 10px"/>
 <img src="./images/EMLdefault.svg" width="240px" height="50px" style="margin: 10px"/>
+<br />
 
 <img src="./images/ivl-svenska-miljoinstitutet-logo-vector.svg" width="60px" style="margin: 10px"/>
 <img src="./images/nmbu.png" width="180px" style="margin: 10px"/>

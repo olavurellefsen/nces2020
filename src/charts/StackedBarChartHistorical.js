@@ -13,7 +13,7 @@ import {
   VictoryTooltip,
 } from 'victory'
 import { CSVLink } from 'react-csv'
-
+import CSV_citation from "../data/citation"
 import {colorNER} from './chartColors'
 
 const ChartContainer = styled.div`
@@ -123,6 +123,7 @@ const StackedBarChartHistorical = ({
           ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total, unit: label})
         })
       })
+      ret.push({citation: CSV_citation})
       return ret
     }
     const HTMLYAxisLabel = props => {
