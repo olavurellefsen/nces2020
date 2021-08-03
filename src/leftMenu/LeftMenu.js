@@ -171,7 +171,7 @@ const LinkLogo = styled.img`
 `;
 const Header = styled.h1`
   font-size: ${props => (props.narrowVersion ? "0.9em" : "1em")};
-  padding: ${props => (props.narrowVersion ? "5px" : "0 12px 0 15px")};
+  padding: ${props => (props.narrowVersion ? "5px" : "0 0 0 10px")};
   margin: 0;
   height: 26px;
   align-self: flex-start;
@@ -326,7 +326,7 @@ function ScenarioSelectionMenu(props) {
       <MenuSeparatorLine /></>}
       <MenuFooter>
         <CopyrightNotice>
-        <CitationIntro>When using the results presented in the result viewer use the following citation:</CitationIntro>
+          <CitationIntro>When using the results presented in the result viewer use the following citation:</CitationIntro>
           <Citation>{citation}</Citation>
           <Header> {t("general.developed-by")}</Header>
           <CopyrightItem>

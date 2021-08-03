@@ -15,4 +15,4 @@ From these data, progress indicators have been developed for:
 You can review these indicators under the [Historical Indicators](./tab9) tab and view the individual historical statistics under the
 [Historical Data tab](./tab10).
 
-[You can also browse the entire database here.]()
+The database GraphQL endpoint can be accessed for example using GraphQL Playground web application [https://www.graphqlbin.com/](https://www.graphqlbin.com/), using the endpoint url https://nces2020-gql-pg.herokuapp.com/v1/graphql

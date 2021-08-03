@@ -33,16 +33,16 @@ To read more about this project and access the full report please [visit the pro
 Energiforsk, EA Energy Analyses, Energy Modelling Lab, IVL Svenska Miljöinstitutet, Norwegian University of Life Sciences, Profu, Thema, VTT Technical Research Centre of Finland.
 
 
-<img src="./images/ef_farg.png" width="180px" style="margin: 10px"/>
-<img src="./images/ea_energy_analyses_txt.gif" width="180px" style="margin: 10px"/>
+<img src="./images/ef_farg_resized.png" width="180px" style="margin: 10px"/>
+<img src="./images/ea_energy_analyses_resized.gif" width="180px" style="margin: 10px"/>
 <img src="./images/EMLdefault.svg" width="240px" height="50px" style="margin: 10px"/>
 <br />
 
 <img src="./images/ivl-svenska-miljoinstitutet-logo-vector.svg" width="60px" style="margin: 10px"/>
 <img src="./images/nmbu.png" width="180px" style="margin: 10px"/>
-<img src="./images/Profu_grå_RÄTT.png" width="45px" style="margin: 10px"/>
-<img src="./images/THEMA_logo_transparent.png" width="180px" style="margin: 10px"/>
-<img src="./images/VTT_Orange_Logo.png" width="90px" style="margin: 10px"/>
+<img src="./images/Profu_grå_RÄTT_resized.png" width="45px" style="margin: 10px"/>
+<img src="./images/THEMA_logo_transparent_resized.png" width="180px" style="margin: 10px"/>
+<img src="./images/VTT_Orange_Logo_resized.png" width="90px" style="margin: 10px"/>
 
 ***Contact***
 

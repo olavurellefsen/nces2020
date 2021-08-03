@@ -7,6 +7,7 @@ import ScenarioSelectionList from "../scenarioSelection/ScenarioSelectionList";
 import ToggleSwitch from "./ToggleSwitch";
 import { useTranslation } from "react-i18next";
 import MapContainer from "../map/MapContainer";
+import citation from "../data/citation"
 
 const MenuLayout = styled.div`
   display: none;
@@ -27,7 +28,7 @@ const AppLogo = styled.img`
   max-width: 75px;
   margin: 5px;
   border: 0;
-  transform: scale(2) translate(12px);
+  transform: translate(-6px);
 `;
 
 const LinkLogo = styled.img`
@@ -96,14 +97,14 @@ const ToggleDifference = styled.div`
 const ToggleSwitchText = styled.div`
   font-size: 0.7em;
   color: ${props =>
-    props.singleMode ? "gray" : props.selected ? "#2196F3" : "white"};
+    props.singleMode ? "#eeeeeeee" : props.selected ? "gray" : "#666666"};
   margin-top: 5px;
 `;
 
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
   color: ${props =>
-    props.singleMode ? "gray" : props.selected ? "#2196F3" : "white"};
+    props.singleMode ? "gray" : props.selected ? "#385988" : "white"};
   margin: 5px;
 `;
 
@@ -143,15 +144,52 @@ const CopyrightItem = styled.div`
   margin: 0px 0px 5px 0px;
   text-align: center;
 `;
+const Citation = styled.div`
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #666666;
+  font-weight: bold;
+  font-size: 10px;
+`;
+const CitationIntro = styled.div`
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #666666;
+  font-weight: bold;
+`;
+const HelpText = styled.div`
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: left;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #666666;
+  font-weight: bold;
+`;
 function ScenarioSelectionMenu(props) {
   const { t } = useTranslation()
   const location = useLocation()
-
+  const scenarioSelectorVisible = location.pathname.includes("tab") || location.pathname === "/"
   return (
     <MenuLayout>
       <MenuHeader>
         <ExternalLink href="http://www.nordicenergy.org/flagship/project-shift/">
-          <AppLogo src="./images/NER-logo.png" alt="logo" />
+        <AppLogo
+            src="./images/nordic_energy_research_cropped.png"
+            alt="Nordic Energy Research"
+          />
         </ExternalLink>
         <MenuRoutes>
           <MenuItem
@@ -194,7 +232,7 @@ function ScenarioSelectionMenu(props) {
         selectCountry={props.selectCountry}
       />
       <MenuSeparatorLine />
-      {location.pathname !== "/tab9" && location.pathname !== "/tab10" && <><ScenarioSelection>
+      {location.pathname !== "/tab9" && location.pathname !== "/tab10" && scenarioSelectorVisible &&<><ScenarioSelection>
         <ScenarioSelectionList
           updateScenarioSelection={props.updateScenarioSelection}
           name="scenarioSelection"
