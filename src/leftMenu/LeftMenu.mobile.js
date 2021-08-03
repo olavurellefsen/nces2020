@@ -7,7 +7,6 @@ import ScenarioSelectionList from "../scenarioSelection/ScenarioSelectionList";
 import ToggleSwitch from "./ToggleSwitch";
 import { useTranslation } from "react-i18next";
 import MapContainer from "../map/MapContainer";
-import citation from "../data/citation"
 
 const MenuLayout = styled.div`
   display: none;
@@ -144,40 +143,7 @@ const CopyrightItem = styled.div`
   margin: 0px 0px 5px 0px;
   text-align: center;
 `;
-const Citation = styled.div`
-  padding: 5px 0;
-  display: flex;
-  justify-content: space-around;
-  align-items: left;
-  text-align: left;
-  margin-left: 10px;
-  margin-right: 10px;
-  color: #666666;
-  font-weight: bold;
-  font-size: 10px;
-`;
-const CitationIntro = styled.div`
-  padding: 5px 0;
-  display: flex;
-  justify-content: space-around;
-  align-items: left;
-  text-align: left;
-  margin-left: 10px;
-  margin-right: 10px;
-  color: #666666;
-  font-weight: bold;
-`;
-const HelpText = styled.div`
-  padding: 5px 0;
-  display: flex;
-  justify-content: space-around;
-  align-items: left;
-  text-align: left;
-  margin-left: 10px;
-  margin-right: 10px;
-  color: #666666;
-  font-weight: bold;
-`;
+
 function ScenarioSelectionMenu(props) {
   const { t } = useTranslation()
   const location = useLocation()
