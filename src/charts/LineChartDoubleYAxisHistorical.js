@@ -88,7 +88,6 @@ const renderLines = (lineData) => {
       }}>
     </VictoryLine>)
   }
-  ret.push(CSV_citation)
   return ret
 }
 const legends = Object.keys(data)
