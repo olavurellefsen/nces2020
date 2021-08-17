@@ -92,7 +92,6 @@ const StackedBarChartHistoricalPerCountry = ({
   minY = u
 
   //base is used in tickFormat
-  console.log("chartNAme: ", chartName)
   if (maxY < -minY) 
     base = -minY
   else 
@@ -102,7 +101,7 @@ const StackedBarChartHistoricalPerCountry = ({
     let ret = []
     Object.entries(lineData).forEach((indicatorGroup) => {
       indicatorGroup[1].forEach((item)=>{
-        ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total, unit: label})
+        ret.push({indicatorGroup: indicatorGroup[0], year: item.year, value: item.total, unit: label })
       })
     })
     ret.push({citation: CSV_citation})
