@@ -13,6 +13,6 @@ To learn more about the models used please contact:
 
 [Anders Kofoed-Wiuff](mailto:akw@eaea.dk), EA Energy Analyses: BALMOREL
 
-- The entire open-source ON-TIMES energy system model, available on GitHub - [ON-TIMES v.1.final](https://github.com/NordicEnergyResearch/NCES2020/releases/tag/v1.final)
+- The entire open-source ON-TIMES energy system model, available on GitHub – [ON-TIMES v.1.final](https://github.com/NordicEnergyResearch/NCES2020/releases/tag/v1.final)
 - Entire Dataset, download by right clicking the link and choose 'save link as..'  – [dataset](https://raw.githubusercontent.com/tokni/nces2020/develop/ON-TIMES_complete_results.csv)
 
