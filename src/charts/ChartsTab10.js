@@ -19,6 +19,8 @@ import HistoricalData12 from "./../data/stackedBarTab106" //nces_vehiclenumber_s
 //import HistoricalData13 from "./../data/stackedBarTab87" //nces_enercons_ind
 import HistoricalData14 from "./../data/lineChart01" //nces_primencon
 import HistoricalData15 from "./../data/stackedBarTab108" //nces_biofuels_prod
+import HistoricalData16 from "./../data/stackedBarTab109" //nces_enercons_gross
+import HistoricalData17 from "./../data/stackedBarTab1010" //nces_eleccap
 
 import {createAccumulatedHistoricalData1} from "./Tools"
 import {createAccumulatedRawHistoricalData2} from "./Tools"
@@ -34,6 +36,8 @@ import {createLineChartData1} from "./Tools"
 import {createLineChartData2} from "./Tools"
 import {createAccumulatedRawHistoricalData11} from "./Tools"
 import {createAccumulatedRawHistoricalData12} from "./Tools"
+import {createAccumulatedRawHistoricalData13} from "./Tools"
+import {createAccumulatedRawHistoricalData14} from "./Tools"
 
 const RawHistoricalCharts = props => {  
   const HistoricalTableData1 = createAccumulatedHistoricalData1(HistoricalData1, props.selectedCountries)
@@ -50,6 +54,9 @@ const RawHistoricalCharts = props => {
   const HistoricalLinechartData02 = createLineChartData2(HistoricalData4, props.selectedCountries)
   const HistoricalTableData11 = createAccumulatedRawHistoricalData11(HistoricalData9, props.selectedCountries)
   const HistoricalTableData12 = createAccumulatedRawHistoricalData12(HistoricalData15, props.selectedCountries)
+  const HistoricalTableData13 = createAccumulatedRawHistoricalData13(HistoricalData16, props.selectedCountries)
+  const HistoricalTableData14 = createAccumulatedRawHistoricalData14(HistoricalData17, props.selectedCountries)
+  
   return (
     <MainArea>
         <Welcome 
@@ -75,7 +82,11 @@ const RawHistoricalCharts = props => {
       </LineChartHistorical>
       {/*dh_cap sb */}
       {/*dh_gen sb */}
-      {/*eleccap sb */}
+      <StackedBarChartHistorical
+          chartName="Generation Capacity (Electricity) "
+          stackedBar={HistoricalTableData14}
+          selectedCountries={props.selectedCountries}
+      ></StackedBarChartHistorical>
       <StackedBarChartHistorical
           chartName="Electricity consumption"
           stackedBar={HistoricalTableData6}
@@ -94,7 +105,12 @@ const RawHistoricalCharts = props => {
           selectedCountries={props.selectedCountries}
           label="GWh"
       ></StackedBarChartHistorical>
-      {/*enercons-gross */}
+      <StackedBarChartHistorical
+          chartName="Gross Energy Consumption"
+          stackedBar={HistoricalTableData13}
+          selectedCountries={props.selectedCountries}
+          label="GWh"
+      ></StackedBarChartHistorical>
       <StackedBarChartHistorical
           chartName="Final energy consumption in industry"
           stackedBar={HistoricalTableData3}
