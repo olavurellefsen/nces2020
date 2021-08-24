@@ -42,55 +42,55 @@ const HistoricalCharts = props => {
           tab="tabHistory"/>
       <Flex>
       <LineChartHistorical
-        chartName={"Share of RE in electricity"}
+        chartName={"Share of RE in Electricity"}
         data={indicator1Data}
         selectedCountries={props.selectedCountries}
         xRange={[1990, 1995, 2000, 2005, 2010, 2015]}
       />
       <StackedBarChartHistoricalPerCountry
-          chartName={"CO2 emissions from power and district heating"}
+          chartName={"CO2 Emissions from Power and District Heating"}
           stackedBar={indicator2Data}
           selectedCountries={props.selectedCountries}
           label={"Mt CO2"}
         />
       <LineChartDoubleYAxisHistorical
-        chartName={"Share of bioenergy from gross RE consumption"}
+        chartName={"Share of Bioenergy from Gross RE Consumption"}
         data={indicator3Data}
         selectedCountries={props.selectedCountries}
         xRange={[2013, 2014, 2015, 2016, 2017, 2018]}
         label={"share"}
       />
       <LineChartHistorical
-        chartName={"Battery and plug-in hybrid electric vehicles share of new passenger vehicle sales (Electrification of transport)"}
+        chartName={"Battery and Plug-in Hybrid Electric Vehicles Share of New Passenger Vehicle Sales (Electrification of Transport)"}
         data={indicator4Data}
         selectedCountries={props.selectedCountries}
         xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
       />
       <StackedBarChartHistorical
-        chartName={"District heat generation (PJ) by fuel (Electrification of heat supply)"}
+        chartName={"District Heat Generation (PJ) by Fuel (Electrification of Heat Supply)"}
         stackedBar={indicator5Data}
         selectedCountries={props.selectedCountries}
       />
       <StackedBarChartHistoricalPerCountry
-        chartName={"CO2 emissions from the industrial sector (Decarbonisation of industry)"}
+        chartName={"CO2 Emissions from the Industrial Sector (Decarbonisation of Industry)"}
         stackedBar={indicator6Data}
         selectedCountries={props.selectedCountries}
         label={"Mt CO2"}
       />
       <StackedBarChartHistorical
-        chartName={"Final energy consumption by source (PJ) in industry (Decarbonisation of industry)"}
+        chartName={"Final Energy Consumption by Source (PJ) in Industry (Decarbonisation of Industry)"}
         stackedBar={indicator7Data}
         selectedCountries={props.selectedCountries}
       />
       <LineChartDoubleYAxisHistorical
-        chartName={"Energy intensity and CO2 emissions intensity in the buildings sector (Energy efficient and smart buildings) "}
+        chartName={"Energy Intensity and CO<sub>2</sub> Emissions Intensity in the Buildings Sector (Energy Efficient and Smart Buildings) "}
         data={indicator8Data}
         selectedCountries={props.selectedCountries}
         xRange={[2013, 2014, 2015, 2016, 2017, 2018]}
         label={"energy: kWh/m2, emission: kgCO2/m2"}
       />
       <StackedBarChartHistoricalPerCountry
-        chartName={"CO2 emissions from road transport (Green mobility)"}
+        chartName={"CO<sub>2</sub> Emissions from Road Transport (Green Mobility)"}
         stackedBar={indicator9Data}
         selectedCountries={props.selectedCountries}
         label={"Mt CO2"}

@@ -737,9 +737,9 @@ function createAccumulatedHistoricalData2(data, selectedCountries) {
     }
   })
   const fuel_source_filter = [
-    {"Fossil fuels" : ["Coal", "Natural gas", "Oil", "Oil shale/oil sand", "Peat and peat products"]},
+    {"Fossil Fuels" : ["Coal", "Natural gas", "Oil", "Oil shale/oil sand", "Peat and peat products"]},
     {"Renewables": ["Biofuels", "Geothermal", "Solar thermal", "Tide, wave, ocean"]},
-    {"Derived heat": ["Ambient heat (heat pumps)", "Heat" ]},
+    {"Derived Heat": ["Ambient heat (heat pumps)", "Heat" ]},
     {"Power": ["Electricity", "Hydroelectricity", "Solar photovoltaic", "Wind electricity", "Nuclear fuels" ]},
     {"Waste": ["Non-renewable waste", "Renewable waste" ]}
   ]
@@ -789,9 +789,9 @@ function createAccumulatedHistoricalData3(data, selectedCountries) {
     }
   })
   const fuel_source_filter = [
-    {"Fossil fuels" : ["Coal", "Natural gas", "Oil", "Oil shale/oil sand", "Peat and peat products"]},
+    {"Fossil Fuels" : ["Coal", "Natural gas", "Oil", "Oil shale/oil sand", "Peat and peat products"]},
     {"Renewables": ["Biofuels", "Geothermal", "Solar thermal", "Tide, wave, ocean"]},
-    {"Derived heat": ["Ambient heat", "Heat" ]},
+    {"Derived Heat": ["Ambient heat", "Heat" ]},
     {"Power": ["Electricity", "Hydroelectricity", "Solar photovoltaic", "Wind electricity", "Nuclear fuels" ]},
     {"Waste": ["Non-renewable waste", "Renewable waste" ]},
     {"Other": ["Other"]}
@@ -889,11 +889,11 @@ const createIndicator1Data = (rawData, selectedCountries) => {
   for(let country in selectedDataRegions) {
     ret[selectedDataRegions[country]] = []
     re[selectedDataRegions[country]].forEach((value, index)=>{
-      ret[selectedDataRegions[country]][index] = { "x": index + 1990, "y": value/totalPerCountry[selectedDataRegions[country]][index] }
+      ret[selectedDataRegions[country]][index] = { "x": index + 1990, "y": value/totalPerCountry[selectedDataRegions[country]][index], "country": selectedDataRegions[country] }
     })
   }
   reAll.forEach((value,index)=>{
-    ret["total"][index] = {"x": index + 1990, "y": value/totalAll[index]}
+    ret["total"][index] = {"x": index + 1990, "y": value/totalAll[index], country: "Total"}
   })
   return ret
 }
@@ -1178,21 +1178,24 @@ const createIndicator3Data = (enercons_res, enercons_ser, enercons_ind, elecprod
   used_years.forEach((year)=>{
     ret['Electricity'][year - used_years[0]] = { 
       "x": year, 
-      "y": cumulativeElecprodBiofuel[year - used_years[0]]/cumulativeElecprodRenewable[year-used_years[0]]
+      "y": cumulativeElecprodBiofuel[year - used_years[0]]/cumulativeElecprodRenewable[year-used_years[0]],
+      "line": "Electricity",
     }
   })
-  ret['Heating and industry'] = []
+  ret['Heating and Industry'] = []
   used_years.forEach((year)=>{
-    ret['Heating and industry'][year - used_years[0]] = { 
+    ret['Heating and Industry'][year - used_years[0]] = { 
       "x": year, 
-      "y": cumulativeEnerconsBiofuel[year - used_years[0]]/cumulativeEnerconsRenewable[year-used_years[0]]
+      "y": cumulativeEnerconsBiofuel[year - used_years[0]]/cumulativeEnerconsRenewable[year-used_years[0]],
+      "line": "Heating and Industry",
     }
   })
   ret['Transport'] = []
   used_years.forEach((year)=>{
     ret['Transport'][year - used_years[0]] = { 
       "x": year, 
-      "y": cumulativeEnerconsIndBiofuel[year - used_years[0]]/cumulativeEnerconsIndRenewable[year-used_years[0]]
+      "y": cumulativeEnerconsIndBiofuel[year - used_years[0]]/cumulativeEnerconsIndRenewable[year-used_years[0]],
+      "line": "Transport",
     }
   })
   return ret
@@ -1246,11 +1249,11 @@ const createIndicator4Data = (rawData, selectedCountries) => {
   for(let country in selectedDataRegions) {
     ret[selectedDataRegions[country]] = []
     re[selectedDataRegions[country]].forEach((value, index)=>{
-      ret[selectedDataRegions[country]][index] = { "x": index + 2013, "y": value/totalPerCountry[selectedDataRegions[country]][index] }
+      ret[selectedDataRegions[country]][index] = { "x": index + 2013, "y": value/totalPerCountry[selectedDataRegions[country]][index], country: selectedDataRegions[country] }
     })
   }
   reAll.forEach((value,index)=>{
-    ret["total"][index] = {"x": index + 2013, "y": value/totalAll[index]}
+    ret["total"][index] = {"x": index + 2013, "y": value/totalAll[index], country: "Total"}
   })
   return ret
 }
@@ -1313,18 +1316,20 @@ const createIndicator8Data = (buildingData, enerconResData, enerconSerData, ghgD
   const PJ_to_kWh = 277777777.7777778
   const kTons_to_kg = 1000*1000//thousand tonnes
   
-  ret['energy'] = []
+  ret['Energy'] = []
   used_years.forEach((year)=>{
-    ret['energy'][year - used_years[0]] = { 
+    ret['Energy'][year - used_years[0]] = { 
       "x": year, 
-      "y": cumulativeEnergy[year - used_years[0]]*PJ_to_kWh/totalBuildingArea[year - used_years[0]]
+      "y": cumulativeEnergy[year - used_years[0]]*PJ_to_kWh/totalBuildingArea[year - used_years[0]],
+      "line": "Energy"
     }
   })
-  ret['emission'] = []
+  ret['Emission'] = []
   used_years.forEach((year)=>{
-    ret['emission'][year - used_years[0]] = { 
+    ret['Emission'][year - used_years[0]] = { 
       "x": year, 
-      "y": cumulativeEmission[year - used_years[0]]*kTons_to_kg/totalBuildingArea[year - used_years[0]]
+      "y": cumulativeEmission[year - used_years[0]]*kTons_to_kg/totalBuildingArea[year - used_years[0]],
+      "line": "Emission"
     }
   })
   return ret

@@ -10,7 +10,9 @@ import {
   VictoryGroup,
   VictoryTheme,
   VictoryAxis,
-  VictoryLine
+  VictoryLine,
+  VictoryTooltip,
+  VictoryVoronoiContainer
 } from 'victory'
 import { CSVLink } from 'react-csv'
 import CSV_citation from "../data/citation"
@@ -85,7 +87,9 @@ const renderLines = (lineData) => {
       data={lineData[line]}
       style={{
         data: { stroke: legendColors()[line] },
-      }}>
+      }}
+      labelComponent={<VictoryTooltip />}
+      >
     </VictoryLine>)
   }
   return ret
@@ -123,7 +127,17 @@ return (
         Download as CSV</CSVLink>
     </ChartHeader>
   <div>
-    {selectedCountries.length !== 0 && <VictoryChart domainPadding={20}
+    {selectedCountries.length !== 0 && 
+      <VictoryChart 
+        containerComponent={
+          <VictoryVoronoiContainer
+            labels={({ datum }) => {
+              return (`${datum.line}, ${Math.round(100*datum.y, 2)/100}`)
+            }}
+            labelComponent={<VictoryTooltip />}
+          />
+        }
+        domainPadding={20}
         width={550}
         height={550}
         padding={{ left: 80, right: 50, top: 50, bottom: 50 }}

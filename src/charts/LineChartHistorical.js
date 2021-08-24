@@ -100,14 +100,13 @@ const renderLines = (lineData) => {
       }}
       labelComponent={<VictoryTooltip />}
       >
-      
     </VictoryLine>)
   }
   return ret
 }
 const legends = selectedDataRegions
 if (addTotal)
-  legends.push("total")
+  legends.push("Total")
 
 return (
   <>

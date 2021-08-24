@@ -65,14 +65,14 @@ const RawHistoricalCharts = props => {
           tab="tabRawHistory"/>
       <Flex>
       <StackedBarChartHistorical
-        chartName="Production of biomass fuels"
+        chartName="Production of Biomass Fuels"
         stackedBar={HistoricalTableData12}
         selectedCountries={props.selectedCountries}
         label="PJ"
         >
       </StackedBarChartHistorical>
       <LineChartHistorical 
-        chartName="Building area "
+        chartName="Building Area "
         data={HistoricalLinechartData02}
         selectedCountries={props.selectedCountries}
         xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
@@ -88,19 +88,19 @@ const RawHistoricalCharts = props => {
           selectedCountries={props.selectedCountries}
       ></StackedBarChartHistorical>
       <StackedBarChartHistorical
-          chartName="Electricity consumption"
+          chartName="Electricity Consumption"
           stackedBar={HistoricalTableData6}
           selectedCountries={props.selectedCountries}
       ></StackedBarChartHistorical>
       <StackedBarChartHistorical
-          chartName="Exchanged power with 3rd countries"
+          chartName="Exchanged Power with 3rd Countries"
           stackedBar={HistoricalTableData11}
           selectedCountries={props.selectedCountries}
           label="GWh"
           xRange={[2015,2016,2017,2018,2019,2020]}
       ></StackedBarChartHistorical>
       <StackedBarChartHistorical
-          chartName="Electricity production"
+          chartName="Electricity Production"
           stackedBar={HistoricalTableData1}
           selectedCountries={props.selectedCountries}
           label="GWh"
@@ -112,33 +112,33 @@ const RawHistoricalCharts = props => {
           label="GWh"
       ></StackedBarChartHistorical>
       <StackedBarChartHistorical
-          chartName="Final energy consumption in industry"
+          chartName="Final Energy Consumption in Industry"
           stackedBar={HistoricalTableData3}
           selectedCountries={props.selectedCountries}
       ></StackedBarChartHistorical> 
       <StackedBarChartHistorical
-          chartName="Final energy consumption in residential sector "
+          chartName="Final Energy Consumption in Residential Sector "
           stackedBar={HistoricalTableData5}
           selectedCountries={props.selectedCountries}
       ></StackedBarChartHistorical>
       <StackedBarChartHistorical
-          chartName="Final energy consumption in services sector"
+          chartName="Final Energy Consumption in Services Sector"
           stackedBar={HistoricalTableData4}
           selectedCountries={props.selectedCountries}
       ></StackedBarChartHistorical> 
       <StackedBarChartHistorical
-          chartName="Final energy consumption in transport "
+          chartName="Final Energy Consumption in Transport "
           stackedBar={HistoricalTableData8}
           selectedCountries={props.selectedCountries}
       ></StackedBarChartHistorical>
       <StackedBarChartHistorical
-          chartName="CO<sub>2</sub> emissions"
+          chartName="CO<sub>2</sub> Emissions"
           stackedBar={HistoricalTableData2}
           selectedCountries={props.selectedCountries}
           label="kt CO2"
       ></StackedBarChartHistorical>
       <LineChartHistorical 
-        chartName="Total primary energy demand "
+        chartName="Total Primary Energy Demand "
         data={HistoricalLinechartData01}
         selectedCountries={props.selectedCountries}
         xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
@@ -147,13 +147,13 @@ const RawHistoricalCharts = props => {
         >
       </LineChartHistorical>
       <StackedBarChartHistorical
-          chartName="Number of new passenger car registrations"
+          chartName="Number of New Passenger Car Registrations"
           stackedBar={HistoricalTableData9}
           selectedCountries={props.selectedCountries}
           xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
       ></StackedBarChartHistorical>
       <StackedBarChartHistorical
-          chartName="Number of passenger cars "
+          chartName="Number of Passenger Cars "
           stackedBar={HistoricalTableData10}
           selectedCountries={props.selectedCountries}
           xRange={[2013, 2014, 2015, 2016, 2017, 2018, 2019]}
