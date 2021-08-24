@@ -53,7 +53,6 @@ const LineChartHistorical = ({
     let ret = []
     Object.entries(lineData).forEach((indicatorGroup) => {
       indicatorGroup[1].forEach((item)=>{
-        //console.log("in gr: ", indicatorGroup)
         ret.push({indicatorGroup: indicatorGroup[0], year: item.x, value: item.y, country: indicatorGroup[0], unit: label})
       })
     })

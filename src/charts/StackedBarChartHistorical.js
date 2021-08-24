@@ -75,7 +75,6 @@ const StackedBarChartHistorical = ({
   let u=0
   let j=0
   while(u > minY && j < 40) {
-    console.log("u: ", u)
     u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
     j++
   }
@@ -191,7 +190,6 @@ const StackedBarChartHistorical = ({
             tickValues={[0, 0.25, 0.5, 0.75, 1.0]}
           />
         )}
-        {console.log("CO: ", chartName === "CO<sub>2</sub> emissions" ? 2 : 3)}
         <VictoryLegend
           x={90}
           y={5}

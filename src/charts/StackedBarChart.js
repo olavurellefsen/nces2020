@@ -126,7 +126,6 @@ const StackedBarChart = props => {
   }
 const getCSVData = (accumulatedData1, scenarioName1, accumulatedData2, scenarioName2, unit) => {
   let ret = []
-  console.log("accu1: ", accumulatedData1)
   Object.entries(accumulatedData1).forEach((indicatorGroup) => {
     indicatorGroup[1].forEach((item)=>{
       ret.push({scenario: scenarioName1, indicatorGroup: indicatorGroup[0], year: item.year, value: item.total, unit: unit})
@@ -293,7 +292,6 @@ let t1 = tickValueNumberOfNegativeElements/tickValueLength*550
             </VictoryStack>
           )}
         </VictoryGroup>
-        {console.log("place dy: ", t1)}
         <VictoryAxis 
           key={0} 
           tickValues={periods} 

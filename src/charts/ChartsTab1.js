@@ -82,8 +82,9 @@ const Charts = props => {
         selectedScenario2 !== '' && (
         <Flex>
           {
-            indicators.map(i => 
+            indicators.map((i, index) => 
               <StackedBarDiffChart
+                key={i+' '+index}
                 chartName={i}
                 chartTitle={i}
                 selectedScenario={selectedScenario}
