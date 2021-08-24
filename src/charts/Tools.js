@@ -550,18 +550,6 @@ function createAccumulatedRawHistoricalData11(data, selectedCountries) {
     }
   })
 
-let carTypes = []
-/* Object.keys(accumulatedHistoricalDataPositive).forEach((key) => {
-  carTypes.push()
-}) */
-
-/* data.data.nces_elecexchange_3rd_country.forEach((item)=>{
-  if (carTypes.indexOf(item.country_3rd + " import") === -1) {
-    carTypes.push(item.country_3rd + " import")
-    carTypes.push(item.country_3rd + " export")
-  }
-}) */
-
 return [
   {...accumulatedHistoricalDataPositive, ...accumulatedHistoricalDataNegative},
   {...totalHistoricalYearValuesPositive, ...totalHistoricalYearValuesNegative}, 
