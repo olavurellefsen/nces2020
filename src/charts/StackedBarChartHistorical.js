@@ -23,6 +23,9 @@ const ChartContainer = styled.div`
   margin-right: 10px;
   margin-bottom: 10px;
   border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 `
 const ChartHeader = styled.div`
   display: flex;
@@ -134,6 +137,10 @@ const StackedBarChartHistorical = ({
         </foreignObject>
       );
     };
+
+  const legendY = 0//-(legends.length / 3) * 8
+  const chartHeight = 550// - (legends.length / 3) * 16
+  const topPadding = Math.ceil(legends.length / 3) * 21
   return (
     <ChartContainer>
     <ChartHeader>
@@ -144,12 +151,12 @@ const StackedBarChartHistorical = ({
       >
         Download as CSV</CSVLink>
     </ChartHeader>
-      {selectedCountries.length !== 0 && <VictoryChart
+      {selectedCountries.length !== 0 && <div style={{paddingBottom: "20px"}}><VictoryChart
         domainPadding={20}
         width={550}
-        height={550}
-        padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
-        style={{parent: { height: "550px" }}}
+        height={chartHeight}
+        padding={{ left: 80, right: 50, top: topPadding, bottom: 30 }}
+        style={{parent: { height: "550px" }, marginBottom: '20px'}}
         theme={VictoryTheme.material}
       >
         <VictoryAxis key={0} tickValues={xRange} tickFormat={xRange} />
@@ -192,14 +199,15 @@ const StackedBarChartHistorical = ({
         )}
         <VictoryLegend
           x={90}
-          y={5}
+          y={legendY}
+          padding={{ top: 120, bottom: 160 }}
           orientation="horizontal"
           gutter={chartName === "CO<sub>2</sub> emissions" ? 0 : 15}
           rowGutter={2}
           symbolSpacer={5}
           itemsPerRow={chartName === "CO<sub>2</sub> emissions" ? 2 : 3}
           style={{
-            title: { fontSize: 14, leftPadding: -10 }, margin: 10,
+            title: { fontSize: 14, leftPadding: -10 }, margin: 10
           }}
           colorScale={colorNER}
           data={Array.from(legends).map((legend, i) => ({
@@ -241,7 +249,7 @@ const StackedBarChartHistorical = ({
               ))}
           </VictoryStack>
         </VictoryGroup>}
-      </VictoryChart>}
+      </VictoryChart></div>}
     </ChartContainer>
   )
 }

@@ -159,10 +159,11 @@ const HTMLLabel = props => {
 };
 const tickValueLength = getTickValues().length
 let tickValueNumberOfNegativeElements = 0
+const topPadding = Math.ceil(legends.size / 4) * 21
 getTickValues().forEach((val) => {
   if (val < 0) tickValueNumberOfNegativeElements++
 })
-let t1 = tickValueNumberOfNegativeElements/tickValueLength*550
+let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegativeElements/tickValueLength*550 - topPadding/2
 
   return (
     <ChartContainer>
@@ -178,7 +179,7 @@ let t1 = tickValueNumberOfNegativeElements/tickValueLength*550
         domainPadding={20}
         width={550}
         height={550}
-        padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
+        padding={{ left: 80, right: 50, top: topPadding, bottom: 50 }}
         theme={VictoryTheme.material}
         style={{parent: { height: "550px" }}}
       >

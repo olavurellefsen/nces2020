@@ -22,6 +22,7 @@ const ChartContainer = styled.div`
   margin-right: 10px;
   margin-bottom: 10px;
   border-radius: 4px;
+  border: 4px solid pink;
 `
 const ChartHeader = styled.div`
   display: flex;
@@ -116,6 +117,8 @@ const StackedBarChartHistoricalPerCountry = ({
       </foreignObject>
     );
   };
+  const topPadding = Math.ceil(legends.length / 4) * 21
+  
 return (
   <ChartContainer>
   <ChartHeader>
@@ -130,7 +133,7 @@ return (
       domainPadding={20}
       width={550}
       height={550}
-      padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
+      padding={{ left: 80, right: 50, top: topPadding, bottom: 50 }}
       style={{parent: { height: "550px" }}}
       theme={VictoryTheme.material}
       // domain={{ y: yDomain }} //removed to fix issue with axis labels not being updated

@@ -71,7 +71,7 @@ const StackedBarChart = props => {
     let lineRatio = minY2 / maxY2
     yDomain = stackedRatio < lineRatio ? [stackedRatio, 1] : [lineRatio, 1]
   }
-
+console.log("yDomain: ", yDomain)
   const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
   const accumulatedDataScenario1 = dataScenario1[0]
@@ -107,25 +107,33 @@ const StackedBarChart = props => {
     })
   })
   Object.keys(totalYearValuesPos).forEach(year => {
-    maxValue = Math.round(Math.max(maxValue, totalYearValuesPos[year]))
-    minValue = Math.round(Math.min(minValue, totalYearValuesNeg[year]))
+    maxValue = Math.max(maxValue, totalYearValuesPos[year])
+    minValue = Math.min(minValue, totalYearValuesNeg[year])
+    console.log("totalYearValuesNeg[year]: ",totalYearValuesNeg[year])
+    console.log("minvalue: ", minValue)
   })
+  console.log("OG minvalue: ", minValue)
   let t = 1
   let i = 0
   let range = [2,4,6,8,10]
   while(t < maxValue) {
-    t = range[i%5]*Math.pow(range[4], Math.floor(i/5))
+    t = range[i%5]*Math.pow(range[4], Math.floor(i/5) - 2)
+    console.log("t: ", t)
     i++
   }
   maxValue = t
-  let u=1
+  let u=0
   let j=0
-  while(u > minValue && j < 20) {
-    u = -range[j%5]*Math.pow(range[4], Math.floor(j/5))
+  while(u > minValue && j < 50) {
+    u = -range[j%5]*Math.pow(range[4], Math.floor(j/5) - 2)
+    console.log("Math.floor(j/5): ", Math.floor(j/5))
+    console.log("Math.pow(range[4], Math.floor(j/5)): ", Math.pow(range[4], Math.floor(j/5)))
+    console.log("u: ", u)
     j++
   }
   minValue = u
-
+  console.log("MaxY: ", maxValue)
+  console.log("MinY: ", minValue)
   //base is used in tickFormat
   if (maxValue < -minValue) 
     base = -minValue
@@ -138,19 +146,23 @@ const StackedBarChart = props => {
       if (-minValue > maxValue) {
         ret=[-0.75,-0.5, -0.25, 0]
         defTick.forEach((tick, i)=> {
+          console.log("tick*minValue: ", tick*minValue)
           if (tick !== 0.75)
-          if (-tick*minValue < maxValue)
-          ret.push(defTick[i+1])
+            if (-tick*minValue < maxValue)
+              ret.push(defTick[i+1])
         })
       }
       else {
         ret=[0, 0.25, 0.5, 0.75]
         defTick.forEach((tick, i)=> {
+          console.log("tick*maxValue + maxValue*0.05: ", tick*maxValue + maxValue*0.05)
           if (tick !== 0.75)
             if (tick*maxValue + maxValue*0.05 < -minValue)
               ret.unshift(-defTick[i+1])
         })
       }
+      console.log("chartName: ", chartTitle)
+      console.log("getTickValues: ", ret)
       return ret
     }
 
@@ -158,12 +170,22 @@ const StackedBarChart = props => {
     const text = props.text.replaceAll('§', '')
   
     return (
-      <foreignObject x={props.x+3} y={props.y-9} width={600} height={700}>
-        <div style={{ fontSize: '12px', fontFamily: "Open Sans" }}>{parseHtml(text)}</div>
+      <foreignObject x={props.x+3} y={props.y-9} width={90} height={60}>
+        <div style={{ fontSize: '12px'}}>{parseHtml(text)}</div>
       </foreignObject>
     );
   };
-
+  const tickValueLength = getTickValues().length
+let tickValueNumberOfNegativeElements = 0
+const topPadding = Math.ceil(Object.keys(diffData).length / 4) * 21
+getTickValues().forEach((val) => {
+  if (val < 0) tickValueNumberOfNegativeElements++
+})
+  let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegativeElements/tickValueLength*550 - topPadding/2
+  
+console.log("tickValueNumberOfNegativeElements: ", tickValueNumberOfNegativeElements)
+console.log("t1: ", t1)
+console.log("divideValues: ", props.divideValues)
   return (
     <ChartContainer>
       <ChartTitle>{parseHtml(chartTitle.replaceAll("CO2", "CO<sub>2</sub>"))}</ChartTitle>
@@ -171,12 +193,12 @@ const StackedBarChart = props => {
         domainPadding={20}
         width={550}
         height={550}
-        padding={{ left: 80, right: 50, top: 50, bottom: 50 }}
+        padding={{ left: 80, right: 50, top: topPadding, bottom: 50 }}
         theme={VictoryTheme.material}
-        domain={{ y: yDomain }}
+        
       >
         
-        <VictoryAxis key={0} tickValues={periods} tickFormat={periods} />
+        
         <VictoryAxis
           dependentAxis
           axisLabelComponent={<VictoryLabel dx={10} dy={-50} />}
@@ -192,10 +214,61 @@ const StackedBarChart = props => {
                 '%'
               )
             }
-            return Math.round((tick * base) / props.divideValues, 0)
+            return (tick * base) / props.divideValues
           }}
           tickValues={getTickValues()}
           label={unit}
+        />
+        
+        <VictoryGroup offset={15} style={{ data: { width: 15 } }}>
+          <VictoryStack>
+            {Object.keys(diffData).map((indicatorName, i) => (
+              <VictoryBar
+                key={indicatorName}
+                data={diffData[indicatorName].map(chartGroupValue => ({
+                  ...chartGroupValue,
+                  label:
+                    'Difference: ' +
+                    indicatorName +
+                    ': ' +
+                    (props.YPercentage
+                      ? (
+                          (chartGroupValue.total * 100) /
+                          props.divideValues
+                        ).toFixed(0) + '%'
+                      : (Math.round(chartGroupValue.total / props.divideValues * 100, 2)/100
+                        )),
+                }))}
+                x="year"
+                y={datum => datum['total'] / (base === 0 ? 100 : base)}
+                labelComponent={<VictoryTooltip />}
+                style={{
+                    data: { fill: () => {
+                      if (indicatorgroup_colors[indicatorName]) 
+                        return indicatorgroup_colors[indicatorName]
+                      else
+                        return colorNER[i]
+                      }, 
+                    },
+                  }}
+              />
+            ))}
+          </VictoryStack>
+        </VictoryGroup>
+        <VictoryAxis 
+          key={0} 
+          tickValues={periods} 
+          tickFormat={periods} 
+          style={{
+            grid: { strokeWidth: 0 },
+          }}
+          
+          tickLabelComponent={
+            <VictoryLabel dy={t1} dx={0}
+              backgroundStyle={[{fill: "white", opacity: 0.5}]}
+              backgroundPadding={3}
+            />
+          }
         />
         <VictoryLegend
           x={90}
@@ -223,42 +296,6 @@ const StackedBarChart = props => {
           }))}
           labelComponent={<HTMLLabel />}
         />
-        <VictoryGroup offset={15} style={{ data: { width: 15 } }}>
-          <VictoryStack>
-            {Object.keys(diffData).map((indicatorName, i) => (
-              <VictoryBar
-                key={indicatorName}
-                data={diffData[indicatorName].map(chartGroupValue => ({
-                  ...chartGroupValue,
-                  label:
-                    'Difference: ' +
-                    indicatorName +
-                    ': ' +
-                    (props.YPercentage
-                      ? (
-                          (chartGroupValue.total * 100) /
-                          props.divideValues
-                        ).toFixed(0) + '%'
-                      : (chartGroupValue.total / props.divideValues).toFixed(
-                          0
-                        )),
-                }))}
-                x="year"
-                y={datum => maxValue === 0 ? 0 : datum['total'] / base}
-                labelComponent={<VictoryTooltip />}
-                style={{
-                    data: { fill: () => {
-                      if (indicatorgroup_colors[indicatorName]) 
-                        return indicatorgroup_colors[indicatorName]
-                      else
-                        return colorNER[i]
-                      }, 
-                    },
-                  }}
-              />
-            ))}
-          </VictoryStack>
-        </VictoryGroup>
       </VictoryChart>
     </ChartContainer>
   )
