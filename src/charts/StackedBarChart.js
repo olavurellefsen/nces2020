@@ -19,6 +19,7 @@ import periods from './../data/years'
 import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
 import { CSVLink } from 'react-csv'
 import CSV_citation from "../data/citation"
+import CustomLegendColors from "../data/indicatorsTab1CustomLegendColor"
 
 const ChartContainer = styled.div`
   width: 550px;
@@ -245,11 +246,15 @@ let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegative
                   labelComponent={<VictoryTooltip />}
                   style={{
                     data: { fill: () => {
-                      if (indicatorgroup_colors[chartGroupName]) 
-                        return indicatorgroup_colors[chartGroupName]
-                      else
-                        return colorNER[i]
-                      }, 
+                if (CustomLegendColors[chartTitle] && CustomLegendColors[chartTitle][chartGroupName]) {
+                  return CustomLegendColors[chartTitle][chartGroupName]
+                } else {
+                  if (indicatorgroup_colors[chartGroupName]) 
+                    return indicatorgroup_colors[chartGroupName]
+                  else
+                    return colorNER[i]
+                  }
+                }
                     },
                   }}
                 />
@@ -281,11 +286,15 @@ let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegative
                     labelComponent={<VictoryTooltip />}
                     style={{
                     data: { fill: () => {
-                      if (indicatorgroup_colors[chartGroupName]) 
-                        return indicatorgroup_colors[chartGroupName] + '88'
-                      else
-                        return colorNER[i] +'88'
-                      }, 
+                if (CustomLegendColors[chartTitle] && CustomLegendColors[chartTitle][chartGroupName]) {
+                  return CustomLegendColors[chartTitle][chartGroupName]
+                } else {
+                  if (indicatorgroup_colors[chartGroupName]) 
+                    return indicatorgroup_colors[chartGroupName]
+                  else
+                    return colorNER[i]
+                  }
+                }
                     },
                   }}
                   />
@@ -323,13 +332,17 @@ let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegative
           data={Array.from(legends).map((legend, i) => ({
               name: legend,
               symbol: { fill: () => {
-                if (indicatorgroup_colors[legend]) 
-                  return indicatorgroup_colors[legend]
-                else
-                  return colorNER[i]
-                },
-              }}
-          ))}
+                if (CustomLegendColors[chartTitle] && CustomLegendColors[chartTitle][legend]) {
+                  return CustomLegendColors[chartTitle][legend]
+                } else {
+                  if (indicatorgroup_colors[legend]) 
+                    return indicatorgroup_colors[legend]
+                  else
+                    return colorNER[i]
+                  }
+                }
+              }
+          }))}
           labelComponent={<HTMLLabel />}
         />
       </VictoryChart>
