@@ -51,8 +51,8 @@ const StackedBarChart = props => {
     gutter = 0
     rowGutter = 0
   } else {
-    gutter = -40
-    rowGutter = -5
+    gutter = 0
+    rowGutter = 0
   }
 
   const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
