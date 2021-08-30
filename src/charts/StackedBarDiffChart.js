@@ -71,7 +71,6 @@ const StackedBarChart = props => {
     let lineRatio = minY2 / maxY2
     yDomain = stackedRatio < lineRatio ? [stackedRatio, 1] : [lineRatio, 1]
   }
-console.log("yDomain: ", yDomain)
   const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
   const accumulatedDataScenario1 = dataScenario1[0]
@@ -109,16 +108,12 @@ console.log("yDomain: ", yDomain)
   Object.keys(totalYearValuesPos).forEach(year => {
     maxValue = Math.max(maxValue, totalYearValuesPos[year])
     minValue = Math.min(minValue, totalYearValuesNeg[year])
-    console.log("totalYearValuesNeg[year]: ",totalYearValuesNeg[year])
-    console.log("minvalue: ", minValue)
   })
-  console.log("OG minvalue: ", minValue)
   let t = 1
   let i = 0
   let range = [2,4,6,8,10]
   while(t < maxValue) {
     t = range[i%5]*Math.pow(range[4], Math.floor(i/5) - 2)
-    console.log("t: ", t)
     i++
   }
   maxValue = t
@@ -126,14 +121,9 @@ console.log("yDomain: ", yDomain)
   let j=0
   while(u > minValue && j < 50) {
     u = -range[j%5]*Math.pow(range[4], Math.floor(j/5) - 2)
-    console.log("Math.floor(j/5): ", Math.floor(j/5))
-    console.log("Math.pow(range[4], Math.floor(j/5)): ", Math.pow(range[4], Math.floor(j/5)))
-    console.log("u: ", u)
     j++
   }
   minValue = u
-  console.log("MaxY: ", maxValue)
-  console.log("MinY: ", minValue)
   //base is used in tickFormat
   if (maxValue < -minValue) 
     base = -minValue
@@ -146,7 +136,6 @@ console.log("yDomain: ", yDomain)
       if (-minValue > maxValue) {
         ret=[-0.75,-0.5, -0.25, 0]
         defTick.forEach((tick, i)=> {
-          console.log("tick*minValue: ", tick*minValue)
           if (tick !== 0.75)
             if (-tick*minValue < maxValue)
               ret.push(defTick[i+1])
@@ -155,14 +144,11 @@ console.log("yDomain: ", yDomain)
       else {
         ret=[0, 0.25, 0.5, 0.75]
         defTick.forEach((tick, i)=> {
-          console.log("tick*maxValue + maxValue*0.05: ", tick*maxValue + maxValue*0.05)
           if (tick !== 0.75)
             if (tick*maxValue + maxValue*0.05 < -minValue)
               ret.unshift(-defTick[i+1])
         })
       }
-      console.log("chartName: ", chartTitle)
-      console.log("getTickValues: ", ret)
       return ret
     }
 
@@ -183,9 +169,6 @@ getTickValues().forEach((val) => {
 })
   let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegativeElements/tickValueLength*550 - topPadding/2
   
-console.log("tickValueNumberOfNegativeElements: ", tickValueNumberOfNegativeElements)
-console.log("t1: ", t1)
-console.log("divideValues: ", props.divideValues)
   return (
     <ChartContainer>
       <ChartTitle>{parseHtml(chartTitle.replaceAll("CO2", "CO<sub>2</sub>"))}</ChartTitle>
