@@ -40,11 +40,8 @@ const StackedBarChart = props => {
   const selectedCountries = props.selectedCountries
   const chartName = props.chartName
   const chartTitle = props.chartTitle
-  const combinedChart = props.combinedChart
   const periods = years
   let gutter, rowGutter
-  let minY = props.minY
-  let maxY = props.maxY
 
   if (
     !process.env.NODE_ENV ||
@@ -58,19 +55,6 @@ const StackedBarChart = props => {
     rowGutter = -5
   }
 
-  let maxY2 = 1
-  let minY2 = 0
-  if (combinedChart === true) {
-    maxY2 = props.maxY2
-    minY2 = props.minY2
-  }
-
-  let yDomain = [0, 1]
-  if (minY < 0 || minY2 < 0) {
-    let stackedRatio = minY / maxY
-    let lineRatio = minY2 / maxY2
-    yDomain = stackedRatio < lineRatio ? [stackedRatio, 1] : [lineRatio, 1]
-  }
   const dataScenario1 = createAccumulatedData(stackedBar.data, scenario, false, chartName, selectedCountries)
   const dataScenario2 = createAccumulatedData(stackedBar.data, scenario2, false, chartName, selectedCountries)
   const accumulatedDataScenario1 = dataScenario1[0]
