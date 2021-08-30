@@ -22,7 +22,6 @@ const ChartContainer = styled.div`
   margin-right: 10px;
   margin-bottom: 10px;
   border-radius: 4px;
-  border: 4px solid pink;
 `
 const ChartHeader = styled.div`
   display: flex;
