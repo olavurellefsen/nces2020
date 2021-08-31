@@ -15,13 +15,20 @@ ON-TIMES include the five Nordic countries and all energy conversion in all sect
 
 ON-TIMES is from the TIMES modelling family, a modelling concept and framework developed through more than 30 years in the IEA, TCP, ETSAP (International Energy Agency, Technology Collaboration Platform, Energy Technology System Analysis Program) (https://iea-etsap.org/).
 
-Documentation for ON-TIMES:
+**Documentation for ON-TIMES:**
+
+The model structure is based on the TIMES-DK model expanded to include the other Nordic countries. For more information on the mode please see: TIMES-DK: Technology-rich multi-sectoral optimisation model of the Danish energy system, Olexandr Balyk, Kristoffer S. Andersen, Steffen Dockweiler, Maurizio Gargiulo, Kenneth Karlsson, Rikke Næraa, Stefan Petrović, Jacopo Tattini, Lars B. Termansen, Giada Venturinia. 
+[https://doi.org/10.1016/j.esr.2018.11.003](https://doi.org/10.1016/j.esr.2018.11.003)
  - For mathematical formulations and model code we refer to the official TIMES documentation - https://iea-etsap.org/index.php/documentation
- - Input data for technologies and fuel prices are documented in the Technology Catalogue (Link)
- - The model structure are based on the TIMES-DK model expanded to the other Nordic countries (TIMES-DK: Technology-rich multi-sectoral optimisation model of the Danish energy system, Olexandr Balyk, Kristoffer S. Andersen, Steffen Dockweiler, Maurizio Gargiulo, Kenneth Karlsson, Rikke Næraa, Stefan  Petrović, Jacopo Tattini, Lars B. Termansen, Giada Venturinia. https://doi.org/10.1016/j.esr.2018.11.003
+ - Input data for technologies and fuel prices are documented in the Technology Catalogue  (Link)
  - The entire open-source ON-TIMES energy system model, available on GitHub – [ON-TIMES v.1.final](https://github.com/NordicEnergyResearch/NCES2020/releases/tag/v1.final)
  - The model files, which can be downloaded from the GitHub, contains all technology data on sector level and all demand projections, with references
 
+**Documentation for Balmorel:**
+
+For documentation of the Balmorel model we refer to the official Balmorel homepage www. Balmorel.com where a recent version of the model may also be downloaded.
+-	Moreover, Ea Energy Analyses, has produced an extensive user guide, which can be downloaded from Ea’s website. [https://www.ea-energianalyse.dk/wp-content/uploads/2020/06/Balmorel_UserGuide.pdf](https://www.ea-energianalyse.dk/wp-content/uploads/2020/06/Balmorel_UserGuide.pdf)
+-	Ea has also developed an easily accessible version of the model called BalmorelLite which allows users to set up and simulate energy systems by means of an online calculator, see [http://balmorellite.dk/](http://balmorellite.dk/)
 To learn more about the models used please contact: 
 
 [Kenneth Karlsson](mailto:kenneth.karlsson@ivl.se), IVL & Energy Modelling Lab: ON-TIMES
