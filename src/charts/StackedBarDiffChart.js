@@ -18,6 +18,7 @@ import {createAccumulatedData} from './Tools'
 import parseHtml from 'html-react-parser'
 import { colorNER } from "./chartColors"
 import {indicatorgroup_colors} from '../charts/indicatorgroup_color'
+import CustomLegendColors from "../data/indicatorsTab1CustomLegendColor"
 
 const ChartTitle = styled.div`
   margin-left: 70px;
@@ -211,12 +212,17 @@ getTickValues().forEach((val) => {
                 labelComponent={<VictoryTooltip />}
                 style={{
                     data: { fill: () => {
-                      if (indicatorgroup_colors[indicatorName]) 
-                        return indicatorgroup_colors[indicatorName]
-                      else
-                        return colorNER[i]
-                      }, 
+                      if (CustomLegendColors[chartTitle] && CustomLegendColors[chartTitle][indicatorName]) {
+                        return CustomLegendColors[chartTitle][indicatorName]
+                      } else {
+                        if (indicatorgroup_colors[indicatorName]) 
+                          return indicatorgroup_colors[indicatorName]
+                        else
+                          return colorNER[i]
+                      }
+                    }
                     },
+                    
                   }}
               />
             ))}
@@ -254,11 +260,15 @@ getTickValues().forEach((val) => {
               .concat('§§§§§§§§§§§§§§§§§§§§§')
               .substr(0, 16),
               symbol: { fill: () => {
-                if (indicatorgroup_colors[indicatorName]) 
-                  return indicatorgroup_colors[indicatorName]
-                else
-                  return colorNER[i]
-                },
+                      if (CustomLegendColors[chartTitle] && CustomLegendColors[chartTitle][indicatorName]) {
+                        return CustomLegendColors[chartTitle][indicatorName]
+                      } else {
+                        if (indicatorgroup_colors[indicatorName]) 
+                          return indicatorgroup_colors[indicatorName]
+                        else
+                          return colorNER[i]
+                      }
+                    },
               }
           }))}
           labelComponent={<HTMLLabel />}

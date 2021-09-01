@@ -81,28 +81,47 @@ const colors = [
   ]
 
   const colorNER = [
-    '#385988',
-    '#006eb6',
-    '#ef403b',
-    '#fdcf41',
-    '#55a946',
-    '#454647',
-    '#3d72ab',
-    '#3e92cc',
-    '#ec6255',
-    '#ffe14d',
-    '#accc83',
-    '#87898c',
-    '#859bc9',
-    '#7eb9e5',
-    '#f4a6a0',
-    '#ffec8c',
-    '#d8e8c5',
+    
+    
+    '#AE0E16', //Dark red
+    '#FFE67F', //orangemiddle
+    '#006eb6', //IS, Electricity  darkblue
+    '#ef403b', //Transport        middlered
+    '#fdcf41', //SE, solar        darkyellow
+    '#55a946', //FI, Biofuels     darkgreen
+    '#668AB8', //lightdeepblue
+    '#d8e8c5', //lightgreen
+    '#CE4695', //purplemiddle
+    '#c7c9e6', //verylightdeepblue
+    '#888A8C', //middlegray
+    '#4695CE', //middleblue
+    '#adcff1', //lightblue
+    
+    
+    
+    
+    
+    
+    
+    
+    '#f4a6a0', //Synthetic fuels  pink
+    '#385988', //NO, wind         middledeepblue
+    
+    '#accc83', //Others           middlegreen
+    
+    '#ffdde2', //Chemical         lightpink
+    '#fff0be', //Nuclear          lightyellow
+    '#454547', //darkgrey
+    '#ecedee', //lightgrey
+    
+    '#B6006E', //purpledark
+    '#1C2C44', //Darkdeepblue
+    
+    
+
+    
     '#c8cacc',
-    '#c7c9e6',
-    '#ffdde2',
-    '#fff0be', //new
-    '#7ad199', //old just in case
+    '#454647', 
     '#15535c',
     '#171442',
     '#312e30',
@@ -118,6 +137,22 @@ const colors = [
     '#3395f7',
     '#4346fa',
     '#52627f',
+    '#B6006E', //purpledark
+    '#CE4695', //purplemiddle
+    '#F1ADCF', //purplelight
+    '#FDCF41', //orangedark
+    '#FFE67F', //orangemiddle
+    '#3e92cc', //
+    '#ec6255', //
+    '#ffe14d',
+    '#87898c',
+    '#859bc9',
+    '#7eb9e5',
+    '#ffec8c',
+    
+    
+    '#7ad199', //old just in case
+
   ]
 
   export {colors, colors2, colorNER}

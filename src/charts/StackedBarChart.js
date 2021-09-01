@@ -246,15 +246,17 @@ let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegative
                   labelComponent={<VictoryTooltip />}
                   style={{
                     data: { fill: () => {
-                if (CustomLegendColors[chartTitle] && CustomLegendColors[chartTitle][chartGroupName]) {
-                  return CustomLegendColors[chartTitle][chartGroupName]
-                } else {
-                  if (indicatorgroup_colors[chartGroupName]) 
-                    return indicatorgroup_colors[chartGroupName]
-                  else
-                    return colorNER[i]
-                  }
-                }
+                      if (CustomLegendColors[chartTitle] && CustomLegendColors[chartTitle][chartGroupName]) {
+                        return CustomLegendColors[chartTitle][chartGroupName]
+                      } else {
+                        if (indicatorgroup_colors[chartGroupName]) {
+                          return indicatorgroup_colors[chartGroupName]
+                        }
+                        else {
+                          return colorNER[i]
+                        }
+                      }
+                    }
                     },
                   }}
                 />
@@ -287,12 +289,12 @@ let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegative
                     style={{
                     data: { fill: () => {
                 if (CustomLegendColors[chartTitle] && CustomLegendColors[chartTitle][chartGroupName]) {
-                  return CustomLegendColors[chartTitle][chartGroupName]
+                  return CustomLegendColors[chartTitle][chartGroupName] + '88'
                 } else {
                   if (indicatorgroup_colors[chartGroupName]) 
-                    return indicatorgroup_colors[chartGroupName]
+                    return indicatorgroup_colors[chartGroupName] + '88'
                   else
-                    return colorNER[i]
+                    return colorNER[i] + '88'
                   }
                 }
                     },
@@ -329,7 +331,8 @@ let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegative
             title: { fontSize: 14, leftPadding: -10 },
           }}
           colorScale={colorNER}
-          data={Array.from(legends).map((legend, i) => ({
+          data={
+            Array.from(legends).map((legend, i) => ({
               name: legend,
               symbol: { fill: () => {
                 if (CustomLegendColors[chartTitle] && CustomLegendColors[chartTitle][legend]) {
@@ -337,8 +340,10 @@ let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegative
                 } else {
                   if (indicatorgroup_colors[legend]) 
                     return indicatorgroup_colors[legend]
-                  else
+                  else {
                     return colorNER[i]
+                  }
+                    
                   }
                 }
               }
