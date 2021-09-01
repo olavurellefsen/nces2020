@@ -40,11 +40,11 @@ const colors = [
   ]
 
   const colors2 = [
-    '#2cbae6',
-    '#96d957',
-    '#cac364',
-    '#5cd3ff',
-    '#a998cb',
+    '#fdcf41',
+    '#385988',
+    '#ef403b',
+    '#55a946',
+    '#006eb6',
     '#c2d249',
     '#63b9c6',
     '#9cc5a8',
@@ -81,13 +81,11 @@ const colors = [
   ]
 
   const colorNER = [
-    
-    
     '#AE0E16', //Dark red
     '#FFE67F', //orangemiddle
     '#006eb6', //IS, Electricity  darkblue
     '#ef403b', //Transport        middlered
-    '#fdcf41', //SE, solar        darkyellow
+    '#fdcf41', //SE, solar        darkyellow´
     '#55a946', //FI, Biofuels     darkgreen
     '#668AB8', //lightdeepblue
     '#d8e8c5', //lightgreen
@@ -155,4 +153,14 @@ const colors = [
 
   ]
 
-  export {colors, colors2, colorNER}
+  const colorHist = [
+    '#AE0E16', //Dark red
+    '#FFE67F', //orangemiddle
+    '#006eb6', //IS, Electricity  darkblue
+    '#CE4695', //purplemiddle
+    '#454547', //darkgrey
+    '#55a946', //FI, Biofuels     darkgreen
+    '#668AB8', //lightdeepblue
+  ]
+
+  export {colors, colors2, colorNER, colorHist}

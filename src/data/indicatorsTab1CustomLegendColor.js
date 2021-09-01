@@ -36,7 +36,7 @@ export default {
     "Kerosene": '#d8e8c5',
   },
   "Primary Biomass Supply": {
-    "Wood pellets": '#f4a6a0',
+    "Wood chips": '#fff0be',
   },
   "Import/Export of Bio-Energy": {
     Biogasoline: '#f4a6a0', 
@@ -118,4 +118,12 @@ export default {
   "Truck Fuel Consumption": {
     "Gas": '#454547', 
   },
+
+  //Histo data
+  "Final Energy Consumption by Source (PJ) in Industry (Decarbonisation of Industry)": {
+    "Renewables": '#55a946'
+  },
+  "District Heat Generation (PJ) by Fuel (Electrification of Heat Supply)":  {
+    "Renewables": '#CE4695', //purplemiddle
+  }
 }

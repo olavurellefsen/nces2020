@@ -15,6 +15,7 @@ import {
 import { CSVLink } from 'react-csv'
 import CSV_citation from "../data/citation"
 import {colorNER} from './chartColors'
+import CustomLegendColors from "../data/indicatorsTab1CustomLegendColor"
 
 const ChartContainer = styled.div`
   width: 550px;
@@ -212,7 +213,14 @@ const StackedBarChartHistorical = ({
           colorScale={colorNER}
           data={Array.from(legends).map((legend, i) => ({
               name: legend,
-              fill: colorNER[i],
+              symbol: { fill: () => {
+                      if (CustomLegendColors[chartName] && CustomLegendColors[chartName][legend]) {
+                        return CustomLegendColors[chartName][legend]
+                      } else {
+                          return colorNER[i]
+                      }
+                    }
+                    },
             }))}
           labelComponent={<VictoryLabel style={{ fontSize: '12px' }} />}
         />

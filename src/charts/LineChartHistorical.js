@@ -2,7 +2,6 @@ import React from 'react'
 import styled from 'styled-components'
 import parseHtml from 'html-react-parser'
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
-import { colorNER } from "./chartColors"
 import historicalYears from "./../data/historicalyears"
 import { CSVLink } from 'react-csv'
 import {
@@ -79,10 +78,11 @@ const HTMLYAxisLabel = props => {
 };
 
 const fixedcolorCountries = ['Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
+const fixedColors=['#fdcf41', '#385988', '#ef403b', '#55a946', '#006eb6']
 const countryColors = () => {
-  let ret = colorNER.slice(0, 4)
+  let ret = []
   fixedcolorCountries.forEach((country, index)=>{
-    ret[country] = colorNER[index]
+    ret[country] = fixedColors[index]
   })
   if (addTotal)
     ret['total'] = 'black'

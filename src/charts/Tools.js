@@ -1,7 +1,6 @@
 import years from "./../data/years"
 import historicalYears from "./../data/historicalyears"
 import mapRegionToDataRegions from "./../data/mapRegionToDataRegions"
-import { colorNER } from "./chartColors"
 
 const kiloToMega = 1000;
 
@@ -794,10 +793,11 @@ return [accumulatedHistoricalData,totalHistoricalYearValues, fuelTypes]
 
 
 const fixedcolorCountries = [ 'Sweden', 'Norway', 'Denmark', 'Finland', 'Iceland']
+const fixedColors=['#fdcf41', '#385988', '#ef403b', '#55a946', '#006eb6']
 const countryColors = () => {
-  let ret = colorNER.slice(0, 4)
+  let ret = []
   fixedcolorCountries.forEach((country, index)=>{
-    ret[country] = colorNER[index]
+    ret[country] = fixedColors[index]
   })
   return ret
 }
