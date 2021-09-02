@@ -98,7 +98,7 @@ const StackedBarChart = props => {
   stackedBar.data.scenarios
   .find(o => o.scenario.toLowerCase() === scenario.toLowerCase())
   .indicators.find(o => o.indicator === chartName).regions.forEach((reg)=>{
-    reg.indicatorGroups.forEach((group)=>{
+    reg.indicatorGroups.forEach((group, i)=>{
       legends.add(group.indicatorGroup)
     })
   })
@@ -221,7 +221,9 @@ let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegative
         
         <VictoryGroup offset={15} style={{ data: { width: 15 } }}>
           <VictoryStack>
-            {Object.keys(accumulatedDataScenario1).map((chartGroupName, i) => (
+            {Object.keys(accumulatedDataScenario1).map((chartGroupName, i) => {
+
+              return(
                 <VictoryBar
                   key={chartGroupName}
                   data={accumulatedDataScenario1[chartGroupName].map(
@@ -260,7 +262,8 @@ let t1 = tickValueNumberOfNegativeElements === 0 ? 0 : tickValueNumberOfNegative
                     },
                   }}
                 />
-              ))}
+              )
+            })}
           </VictoryStack>
           {scenario2 !== '' && (
             <VictoryStack>

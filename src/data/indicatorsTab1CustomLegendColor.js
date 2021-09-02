@@ -3,17 +3,19 @@ export default {
   "Primary Energy Supply by Energy Source": {
     'District heat': "#AE0E16"
   },
-  /* "CO2 Emissions": {
-    "Agriculture and Fishery": "#55A946",
-    "Upstream": "#888A8C",
-    "Captured": "#AE0E16",
-  }, */
+  "CO2 Emissions": {
+    //"Agriculture and Fishery": "#55A946",
+    //"Upstream": "#888A8C",
+    //"Captured": "#AE0E16",
+    "Power and Heat": '#fdcf41',
+  },
   "Carbon Capture": {
     /* "Power and Heat": "#AE0E16",
     "DAC": "#55A946" */
   },
   "Final Energy Consumption by Energy Source": {
-    Oil: "#AE0E16"
+    Oil: "#AE0E16",
+    "District heat": '#c7c9e6',
   },
   "Final Energy Consumption by Sector": {
     "Residential and commercial": "#ef403b",
@@ -36,12 +38,12 @@ export default {
     "Kerosene": '#d8e8c5',
   },
   "Primary Biomass Supply": {
-    "Wood chips": '#fff0be',
+    //"Wood chips": '#fff0be',
   },
   "Import/Export of Bio-Energy": {
     Biogasoline: '#f4a6a0', 
     Biokerosene: '#1C2C44',
-    Firewood: '#fff0be'
+    Firewood: '#fff0be',
   },
   //Power and DH
   "Power and Heat Fuel Consumption": {
@@ -51,11 +53,11 @@ export default {
   "District Heat Production": {
     "Solid fuels": "#D8E8C5",
     "Excess heat": "#006eb6",
+    "Bioenergy": '#c7c9e6'
   },
   "Power Capacity": {
     "Geothermal": "#ef403b",
     "Solid fuels": "#D8E8C5",
-    
   },
   //Heavy Industry
   "Heavy Industry CO2 Emissions by Sector": {
@@ -82,27 +84,33 @@ export default {
   },
   //other sectors
   "Agriculture and Fishery Fuel Consumption": {
-    'Oil': "#AE0E16"
+    'Oil': "#AE0E16",
+    'District heat': '#CE4695'
   },
   "Manufacturing Fuel Consumption": {
-    'Oil': "#fdcf41"
+    'Oil': "#fdcf41",
+    'District heat': '#CE4695'
   },
   "Trade and Service Fuel Consumption": {
-    'Oil': "#AE0E16"
+    'Oil': "#AE0E16",
+    'District heat': '#CE4695'
   },
   //Residential
   "Residential Fuel Consumption": {
-    "Firewood": "#c7c9e6"
+    "Firewood": "#c7c9e6",
+    "Diesel": '#B6006E',
   },
   "Residential Heating": {
-    "Firewood": "#c7c9e6"
+    "Firewood": "#c7c9e6",
+    "Diesel": '#B6006E',
   },
   "Electric Appliances Consumption": {
     "Lighting": "#006eb6"
   },
   //Transport
   "Transport Fuel Consumption": {
-    "Biokerosene": "#55a946"
+    "Biokerosene": "#55a946",
+    "Biomethane": '#CE4695',
   },
   "Freight Transport Demand": {
     "Van": "#55a946"
