@@ -32,13 +32,16 @@ export default {
     "Biomethanol": "#454547",
     "Biomethane": "#fff0be",
     "Gasoline": "#f4a6a0",
+    Hydrogen: '#d8e8c5',
   },
   "Fossil Refineries": {
     "Gasoline": "#f4a6a0",
-    "Kerosene": '#d8e8c5',
+    "District heat": '#CE4695',
+    "Heavy fuel oil": '#fff0be',
   },
   "Primary Biomass Supply": {
-    //"Wood chips": '#fff0be',
+    "Wood chips": '#accc83',
+    "Wood pellets": '#fff0be',
   },
   "Import/Export of Bio-Energy": {
     Biogasoline: '#f4a6a0', 
