@@ -4,17 +4,32 @@ export default {
     'District heat': "#AE0E16"
   },
   "CO2 Emissions": {
-    //"Agriculture and Fishery": "#55A946",
-    //"Upstream": "#888A8C",
-    //"Captured": "#AE0E16",
     "Power and Heat": '#fdcf41',
+    Captured: '#888A8C', //(Mid-Grey)
+    Transport: '#006eb6', //(Mid blue)
+    Service: '#ef403b', //(Red)
+    Industry: '#1C2C44', //(Dark blue)
+    Upstream: '#fdcf41', //(Yellow)
+    'Power and Heat': '#AE0E16', //(Dark red)
+    'Agriculture and Fishery': '#454547', //(Dark grey)
+    Residential: '#668AB8', //(Blue)
+    'Internation transport': '#c7c9e6', //(Light purple)
+
   },
   "Carbon Capture": {
-    /* "Power and Heat": "#AE0E16",
-    "DAC": "#55A946" */
+    BECCS: '#006eb6',
+    Waste: '#fff0be',
+    DAC: '#4695CE',
+    Biogas: '#adcff1',
+    Industry: '#1C2C44',
+    Aluminium: '#385988',
+    'Power and heat': '#AE0E16',
+    'Iron and steel': '#668AB8',
+    Upstream: '#fdcf41',
+
   },
   "Final Energy Consumption by Energy Source": {
-    Oil: "#AE0E16",
+    Oil: '#454547',
     "District heat": '#c7c9e6',
   },
   "Final Energy Consumption by Sector": {
@@ -22,26 +37,51 @@ export default {
   },
   //Upstream
   "RE Refineries Input": {
-    /* "District heat": "#AE0E16", */
-    "Manure": '#f4a6a0',
-    Biogas: '#CE4695',
-    Straw: '#4695CE',
+    Bioenergy: '#55A946',
+    Manure: '#1C2C44',
+    Biofuels: '#ACCC83',
+    'District heat': '#AE0E16',
+    Straw: '#668AB8',
+    Biogas: '#c7c9e6',
+    Electricity: '#006eb6',
+    Waste: '#888A8C',
+    Biomethanol: '#FFDDE2',
+    Hydro: '#ef403b',
+    Wood: '#385988',
+
 
   },
   "RE Refineries Output": {
-    "Biomethanol": "#454547",
-    "Biomethane": "#fff0be",
-    "Gasoline": "#f4a6a0",
-    Hydrogen: '#d8e8c5',
+    Biogas: '#c7c9e6', //(light purple)
+    'Synth. nat. gas': '#adcff1', // (light blue)
+    Bioethanol: '#FFDDE2', // (Light pink)
+    Electricity: '#006eb6', // (mid blue)
+    Biodiesel: '#D8E8C5', // (light green)
+    Biomethanol: '#888A8C', // (mid grey)
+    Gasoline: 'black',
+    Biofuels: '#ACCC83', // (mid green)
+    'E-Diesel': '#a7a9ab', // (light grey)
+    Hydrogen: '#ef403b', // (red)
+    'District heat': '#AE0E16', // (Dark red)
+
   },
   "Fossil Refineries": {
-    "Gasoline": "#f4a6a0",
-    "District heat": '#CE4695',
-    "Heavy fuel oil": '#fff0be',
+    'Crude oil': '#a7a9ab', //(light grey)
+    Gasoline: '#CE4695', // (Blue)
+    Gas: '#c7c9e6', // (light purple)
+    Diesel: '#1C2C44', // (Dark blue)
+    'Heavy fuel oil': '#000000', // (black)
+    Biodiesel: '#385988', // (Mid-blue)
+    'District heat': '#AE0E16', // (Dark red)
+    Kerosene: '#fdcf41', // (yellow)
+    LPG: '#FFDDE2', // (pink)
+    Feedstock: '#D8E8C5', // (light green)
+
   },
   "Primary Biomass Supply": {
     "Wood chips": '#accc83',
     "Wood pellets": '#fff0be',
+    'Bio-oil': '#1C2C44',
   },
   "Import/Export of Bio-Energy": {
     Biogasoline: '#f4a6a0', 
@@ -61,6 +101,17 @@ export default {
   "Power Capacity": {
     "Geothermal": "#ef403b",
     "Solid fuels": "#D8E8C5",
+  },
+  "Power Consumption by Sector": {
+    Aviation: 'black',
+    'Other sectors': '#ef403b', //(red)
+    Upstream: '#FFDDE2', // (pink)
+    Car: '#a7a9ab', // (light grey)
+    Residential: '#385988', // (blue)
+    'Data centers': '#AE0E16', // (Dark red)
+    'Heavy industry': '#1C2C44', // (Dark blue)
+    Truck: '#454547', // (dark grey)
+
   },
   //Heavy Industry
   "Heavy Industry CO2 Emissions by Sector": {
@@ -86,48 +137,146 @@ export default {
     'Oil': "#fdcf41"
   },
   //other sectors
+  "Other Sectors CO2 Emissions by Sector": {
+    'Agriculture and fishery': '#385988',
+    Chemical: '#668AB8',
+    Services: '#c7c9e6',
+  },
+  "Other Sectors Service Demand": {
+    'Agriculture and fishery': '#385988',
+    Chemical: '#668AB8',
+    Services: '#c7c9e6',
+  },
+  "Other Sectors Fuel Consumption": {
+    'Agriculture and fishery': '#385988',
+    Chemical: '#668AB8',
+    Services: '#c7c9e6',
+  },
+
   "Agriculture and Fishery Fuel Consumption": {
-    'Oil': "#AE0E16",
-    'District heat': '#CE4695'
+    Biofuels: '#c7c9e6', //(light purple)
+    'Natural gas': '#696a6c',
+    Coal: 'black',
+    Oil:  '#454547',
+    'District heat': '#AE0E16', // (Dark red)
+    Others: '#FFDDE2', // (light pink)
+    Electricity: '#006eb6', // (mid blue) 
   },
   "Manufacturing Fuel Consumption": {
-    'Oil': "#fdcf41",
-    'District heat': '#CE4695'
+    Coal: 'black',
+    Oil:  '#454547',
+    'District heat': '#AE0E16', //(Dark red)
+    Electricity: '#006eb6', //(mid blue) 
+
   },
   "Trade and Service Fuel Consumption": {
-    'Oil': "#AE0E16",
-    'District heat': '#CE4695'
+    Biofuels: '#c7c9e6', //(light purple)
+    Others: '#FFDDE2', // (light pink)
+    Coal: 'black',
+    Oil:  '#454547',
+    'District heat': '#AE0E16', // (Dark red)
+    Electricity: '#006eb6', // (mid blue) 
+
   },
   //Residential
   "Residential Fuel Consumption": {
-    "Firewood": "#c7c9e6",
-    "Diesel": '#B6006E',
+    Bioenergy: '#c7c9e6', //(light purple)
+    Electricity: '#006eb6', // (mid blue) 
+    'Wood pellets': '#668AB8', // (purple blue)
+    'Heavy fuel oil': 'black',
+    Biomethane: '#adcff1', // (light blue)
+    Firewood: '#385988', // (dark blue)
+    Biofuels: '#55A946', // (dark green)
+    LPG: '#FFDDE2', // (pink)
+    Diesel: '#696a6c', // (mid grey)
+    'Natural gas': '#a7a9ab', // (light grey)
+    Biogas: '#4695CE', // (blue)
+    Biodiesel: '#1C2C44', // (black/blue)
+    'District heat': '#AE0E16', // (Dark red)
+    Solar: '#fdcf41', // (bright yellow)
+    Coal: '#454547', // (dark grey)
+    Geothermal: '#fdcf41', // (light yellow)
   },
   "Residential Heating": {
-    "Firewood": "#c7c9e6",
-    "Diesel": '#B6006E',
+    Bioenergy: '#c7c9e6', //(light purple)
+    Electricity: '#006eb6', // (mid blue) 
+    'Wood pellets': '#668AB8', // (purple blue)
+    'Heavy fuel oil': 'black',
+    Biomethane: '#adcff1', // (light blue)
+    Firewood: '#385988', // (dark blue)
+    Biofuels: '#55A946', // (dark green)
+    LPG: '#FFDDE2', // (pink)
+    Diesel: '#696a6c', // (mid grey)
+    'Natural gas': '#a7a9ab', // (light grey)
+    Biogas: '#4695CE', // (blue)
+    Biod: '#1C2C44', // (black/blue)
+    'District heat': '#AE0E16', // (Dark red)
+    Solar: '#fdcf41', // (bright yellow)
+    Coal: '#454547', // (dark grey)
+    Geothermal: '#fdcf41', // (light yellow)
   },
   "Electric Appliances Consumption": {
-    "Lighting": "#006eb6"
+    Cooking: '#fdcf41', // (dark yellow)
+    'Washing machines': '#668AB8', // (purple blue)
+    Lighting: '#385988', // (dark blue)
+    'Aggr. appliances in NO': '#adcff1', // (light blue)
+    Others: '#FFDDE2', // (pink)
+    Refrigeration: '#c7c9e6', // (light purple)
+
   },
   //Transport
+  "Passenger Transport Demand": {
+    Ship: '#c7c9e6', //(light purple)
+    Walk: '#1C2C44', //black blue
+  },
   "Transport Fuel Consumption": {
     "Biokerosene": "#55a946",
     "Biomethane": '#CE4695',
   },
   "Freight Transport Demand": {
-    "Van": "#55a946"
+    "Van": '#adcff1'
   },
   "Car Fuel Consumption": {
-    "Gas": "#55a946",
-    "Gasoline": "#fdcf41"
+    Diesel: '#454547',
+    Gasoline: 'black',
+    Electricity:  '#006eb6',
+    Gas: '#1C2C44',
   },
   "Number of Cars": {
-    "Gasoline": '#f4a6a0',
-    "Electric cars": '#55a946'
+    Diesel: '#454547',
+    'Hybrid cars': '#668AB8',
+    'Electric cars': '#006eb6',
+    Gas: '#a7a9ab',
+    Gasoline: 'black',
   },
   "Truck Fuel Consumption": {
-    "Gas": '#454547', 
+    Diesel: '#454547', //(dark grey)
+    Gasoline: 'black',
+    Elec: '#006eb6',
+    Metha: '#FFDDE2', //(pink)
+    Gas: '#1C2C44',
+  },
+  "Number of Trucks": {
+    Diesel: '#454547', //(dark grey)
+    'Electric Truck': '#006eb6',
+    Gasoline: 'black',
+    Gas: '#a7a9ab', //(light grey)
+    Methanol: '#FFDDE2', //(pink)
+    'Hybrid Truck': '#668AB8',
+  },
+  "Aviation Fuel Consumption": {
+    Biokerosene: '#696a6c',
+    Kerosene: '#454547',
+    'E-kerosene': '#FFDDE2',
+    Electricity: '#006eb6',
+  },
+  "Shipping Fuel Consumption": {
+    Diesel: '#454547', //(dark grey)
+    'Diesel blend': '#a7a9ab', //(light grey)
+    'Natural gas': '#c7c9e6', //(light purple)
+    Gasoline: '#385988', //(dark purple blue)
+    'Synth. nat. gas': '#FFDDE2', //(pink)
+    'Heavy fuel oil': 'black',
   },
 
   //Histo data
