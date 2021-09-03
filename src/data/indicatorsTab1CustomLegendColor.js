@@ -4,7 +4,6 @@ export default {
     'District heat': "#AE0E16"
   },
   "CO2 Emissions": {
-    "Power and Heat": '#fdcf41',
     Captured: '#888A8C', //(Mid-Grey)
     Transport: '#006eb6', //(Mid blue)
     Service: '#ef403b', //(Red)
