@@ -137,17 +137,17 @@ export default {
   },
   //other sectors
   "Other Sectors CO2 Emissions by Sector": {
-    'Agriculture and fishery': '#385988',
+    'Agriculture and Fishery': '#385988',
     Chemical: '#668AB8',
     Services: '#c7c9e6',
   },
   "Other Sectors Service Demand": {
-    'Agriculture and fishery': '#385988',
+    'Agriculture and Fishery': '#385988',
     Chemical: '#668AB8',
     Services: '#c7c9e6',
   },
   "Other Sectors Fuel Consumption": {
-    'Agriculture and fishery': '#385988',
+    'Agriculture and Fishery': '#385988',
     Chemical: '#668AB8',
     Services: '#c7c9e6',
   },
@@ -162,6 +162,7 @@ export default {
     Electricity: '#006eb6', // (mid blue) 
   },
   "Manufacturing Fuel Consumption": {
+    Bioenergy: '#c7c9e6', //(light purple)
     Coal: 'black',
     Oil:  '#454547',
     'District heat': '#AE0E16', //(Dark red)
@@ -194,7 +195,7 @@ export default {
     'District heat': '#AE0E16', // (Dark red)
     Solar: '#fdcf41', // (bright yellow)
     Coal: '#454547', // (dark grey)
-    Geothermal: '#fdcf41', // (light yellow)
+    Geothermal: '#fff0be', // (light yellow)
   },
   "Residential Heating": {
     Bioenergy: '#c7c9e6', //(light purple)
@@ -212,7 +213,7 @@ export default {
     'District heat': '#AE0E16', // (Dark red)
     Solar: '#fdcf41', // (bright yellow)
     Coal: '#454547', // (dark grey)
-    Geothermal: '#fdcf41', // (light yellow)
+    Geothermal: '#fff0be', // (light yellow)
   },
   "Electric Appliances Consumption": {
     Cooking: '#fdcf41', // (dark yellow)
