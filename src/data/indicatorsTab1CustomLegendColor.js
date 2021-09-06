@@ -92,6 +92,9 @@ export default {
     "Geothermal": "#ACCC83",
     'District heat': "#AE0E16"
   },
+  "Power Production by Energy Source": {
+    'District heat': "#AE0E16"
+  },
   "District Heat Production": {
     "Solid fuels": "#D8E8C5",
     "Excess heat": "#006eb6",
@@ -114,26 +117,62 @@ export default {
   },
   //Heavy Industry
   "Heavy Industry CO2 Emissions by Sector": {
-    "Iron and steel": "#55a946"
+    Cement: '#696a6c', //(mid grey)
+    'Pulp and paper': '#c7c9e6', //(light purple)
+    'Aluminium': '#adcff1', //(light blue)
+    'Iron and steel': '#1C2C44', //(black/blue)
+    Mining: '#a7a9ab', //(light grey)
+
   },
   "Heavy Industry Energy Service Demand": {
-    "Pulp and paper": "#55a946"
+    Cement: '#696a6c', //(mid grey)
+    'Pulp and paper': '#c7c9e6', //(light purple)
+    'Aluminium': '#adcff1', //(light blue)
+    'Iron and steel': '#1C2C44', //(black/blue)
+    Mining: '#a7a9ab', //(light grey)
   },
   "Heavy Industry Fuel Consumption": {
-    "Pulp and paper": "#55a946"
+    Cement: '#696a6c', //(mid grey)
+    'Pulp and paper': '#c7c9e6', //(light purple)
+    'Aluminium': '#adcff1', //(light blue)
+    'Iron and steel': '#1C2C44', //(black/blue)
+    Mining: '#a7a9ab', //(light grey)
   },
   "Cement Fuel Consumption": {
-    'District heat': "#AE0E16",
-    'Oil': "#fdcf41"
+    Coal: 'black',
+    Oil:  '#454547',
+    'District heat': '#AE0E16', //(Dark red)
+    Electricity: '#006eb6', //(mid blue) 
+
   },
   "Pulp and Paper Fuel Consumption": {
-    'District heat': "#AE0E16"
+    'District heat': '#AE0E16', //(Dark red)
+    Coal: 'Black',
+    Others: '#FFDDE2', //(pink)
+    'Natural gas': '#696a6c', //(mid grey)
+    Electricity: '#006eb6', //(mid blue)
+    Oil:  '#454547', //(dark grey)
+    Biofuels: '#c7c9e6', //(light purple)
+
   },
   "Iron and Steel Fuel Consumption": {
-    'Oil': "#AE0E16"
+    Biofuels: '#c7c9e6', //(light purple)
+    Electricity: '#006eb6', //(mid blue) 
+    Coal: 'black', //
+    Oil: '#454547', //(dark grey)
+    'Synthetic fuels': '#FFDDE2', //(pink)
+    'Natural gas': '#a7a9ab', //(light grey)
+    'District heat': '#AE0E16', //(Dark red)
+    Others: '#385988', //(dark blue)
   },
   "Mining Fuel Consumption": {
-    'Oil': "#fdcf41"
+    'District heat': '#AE0E16', //(Dark red)
+    Coal: 'Black',
+    Others: '#FFDDE2', //(pink)
+    'Natural gas': '#696a6c', //(mid grey)
+    Electricity: '#006eb6', //(mid blue)
+    Oil:  '#454547', //(dark grey)
+    Biofuels: '#c7c9e6', //(light purple)
   },
   //other sectors
   "Other Sectors CO2 Emissions by Sector": {
@@ -230,8 +269,21 @@ export default {
     Walk: '#1C2C44', //black blue
   },
   "Transport Fuel Consumption": {
-    "Biokerosene": "#55a946",
-    "Biomethane": '#CE4695',
+    Biodiesel: '#FFE67F', //(yellow)
+    Diesel: '#AE0E16', //(dark red)
+    Hydrogen: '#ef403b', //(red)
+    'Bunker fuel': '#696a6c', //(mid grey)
+    Bioethanol: '#4695CE', //(light blue)
+    Electricity: '#006eb6', //(blue)
+    Kerosene: '#454547', //(dark grey)
+    Methanol: '#FFDDE2', //(light pink)
+    Biokerosene: '#1C2C44', //(black blue)
+    Gasoline: '#a7a9ab', //light grey 
+    LPG: '#c7c9e6', //(light purple)
+    Biomethane: '#385988', //(blue purple)
+    'Heavy fuel oil':'black', //
+    'Natural gas': '#668AB8', //(light blue purple)
+
   },
   "Freight Transport Demand": {
     "Van": '#adcff1'
