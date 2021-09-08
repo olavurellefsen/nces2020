@@ -11,7 +11,7 @@ import citation from "../data/citation"
 
 const MenuLayout = styled.div`
   display: none;
-  height: calc(100vh);
+  min-height: calc(100vh);
   ${breakpoint("desktop")`
     display: flex;
     flex-direction: column;

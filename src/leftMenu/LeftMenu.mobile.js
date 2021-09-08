@@ -10,7 +10,7 @@ import MapContainer from "../map/MapContainer";
 
 const MenuLayout = styled.div`
   display: none;
-  height: calc(100vh);
+  min-height: calc(100vh);
   ${breakpoint("mobile", "desktop")`
     display: flex;  
     min-height: 100vh;
