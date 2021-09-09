@@ -21,7 +21,7 @@ The model structure is based on the TIMES-DK model expanded to include the other
 [https://doi.org/10.1016/j.esr.2018.11.003](https://doi.org/10.1016/j.esr.2018.11.003)
  - For mathematical formulations and model code we refer to the official TIMES documentation - https://iea-etsap.org/index.php/documentation
  - Input data for technologies and fuel prices are documented in the Technology Catalogue  (Link)
- - The entire open-source ON-TIMES energy system model, available on GitHub – [ON-TIMES v.1.final](https://github.com/NordicEnergyResearch/NCES2020/releases/tag/v1.final)
+ - The entire open-source ON-TIMES energy system model, available on GitHub – [Nordic Energy Research NCES](https://github.com/NordicEnergyResearch/NCES2020)
  - The model files, which can be downloaded from the GitHub, contains all technology data on sector level and all demand projections, with references
 
 **Documentation for Balmorel:**
