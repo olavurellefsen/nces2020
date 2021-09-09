@@ -66,7 +66,7 @@ export default {
   },
   "Fossil Refineries": {
     'Crude oil': '#a7a9ab', //(light grey)
-    Gasoline: '#CE4695', // (Blue)
+    Gasoline: '#FFE67F',
     Gas: '#c7c9e6', // (light purple)
     Diesel: '#1C2C44', // (Dark blue)
     'Heavy fuel oil': '#000000', // (black)
