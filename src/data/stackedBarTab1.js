@@ -4718,43 +4718,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.7821904288
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.7821904288
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.4000271161
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.6094796393
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.6676745945
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.2813897663
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -5579,43 +5542,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -5950,43 +5876,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.017331481
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4931834539
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.1208828025
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.9497892857
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.3550228487
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3430011879
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4793302715
                       }
                     ]
                   },
@@ -6399,43 +6288,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.790242321
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.691956626
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.1120177375
-                      },
-                      {
-                        "year": 2035,
-                        "total": 28.8180711534
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.2984809081
-                      },
-                      {
-                        "year": 2045,
-                        "total": 29.7344797187
-                      },
-                      {
-                        "year": 2050,
-                        "total": 28.6897263262
                       }
                     ]
                   },
@@ -11532,43 +11384,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.4092498355
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.7970951398
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.0339919196
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.1293857892
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.6912945641
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.4042268329
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -12393,43 +12208,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0018218145
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -12764,43 +12542,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.9441594018
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0812401507
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.940471424
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4810906698
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.5051253653
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.5044346924
                       }
                     ]
                   },
@@ -13213,43 +12954,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 9.9972117278
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.4589299493
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.4858344926
-                      },
-                      {
-                        "year": 2035,
-                        "total": 26.6968520482
-                      },
-                      {
-                        "year": 2040,
-                        "total": 26.7642175489
-                      },
-                      {
-                        "year": 2045,
-                        "total": 26.8589036663
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.1012885571
                       }
                     ]
                   },
@@ -18346,43 +18050,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.1124764548
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.1124764548
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.5745913717
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.7526277436
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.858868281
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.3042440414
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -19207,43 +18874,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -19578,43 +19208,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.2375729879
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0671251085
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.9570678737
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.3804587987
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3505427308
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4285602106
                       }
                     ]
                   },
@@ -20027,43 +19620,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.0880535841
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.6467382908
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.1285941866
-                      },
-                      {
-                        "year": 2035,
-                        "total": 28.5247286161
-                      },
-                      {
-                        "year": 2040,
-                        "total": 28.3930665917
-                      },
-                      {
-                        "year": 2045,
-                        "total": 29.5539298322
-                      },
-                      {
-                        "year": 2050,
-                        "total": 27.9974010256
                       }
                     ]
                   },
@@ -25160,43 +24716,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.1551966932
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.5738847521
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.011118571
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.2477629979
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.638472663
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.3654048708
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -26021,43 +25540,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.894e-07
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0014079083
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -26392,43 +25874,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.6696595086
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0886376308
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.995144633
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.5970166127
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.6141018371
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.5460366358
                       }
                     ]
                   },
@@ -26841,43 +26286,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.597186476
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.3708983925
-                      },
-                      {
-                        "year": 2030,
-                        "total": 16.9941035906
-                      },
-                      {
-                        "year": 2035,
-                        "total": 26.5941666232
-                      },
-                      {
-                        "year": 2040,
-                        "total": 26.2537839346
-                      },
-                      {
-                        "year": 2045,
-                        "total": 26.1724370056
-                      },
-                      {
-                        "year": 2050,
-                        "total": 24.84286252
                       }
                     ]
                   },
@@ -31974,43 +31382,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.0757584042
-                      },
-                      {
-                        "year": 2030,
-                        "total": 6.0757584042
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.4412706163
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.6239044931
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.7339602576
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.1415988604
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -32835,43 +32206,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -33206,43 +32540,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 2.5500769085
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4931834539
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0846541723
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.8991591136
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.334446662
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3642867671
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4428490003
                       }
                     ]
                   },
@@ -33655,43 +32952,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 12.2600890199
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.646364967
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.1094325516
-                      },
-                      {
-                        "year": 2035,
-                        "total": 27.9996238814
-                      },
-                      {
-                        "year": 2040,
-                        "total": 26.5994832913
-                      },
-                      {
-                        "year": 2045,
-                        "total": 27.2925027543
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.1294791367
                       }
                     ]
                   },
@@ -38788,43 +38048,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.508377552
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.9528811773
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.3261834251
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.0455999374
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.6116622289
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.7572193146
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -39649,43 +38872,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0018218145
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -40020,43 +39206,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.4721899827
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0494478648
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.8814113178
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.4684728218
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.4331872033
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.363317786
                       }
                     ]
                   },
@@ -40469,43 +39618,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 13.5610015856
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.5278543764
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.4639135997
-                      },
-                      {
-                        "year": 2035,
-                        "total": 24.8670342233
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.6005253924
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.3610865474
-                      },
-                      {
-                        "year": 2050,
-                        "total": 22.194183237
                       }
                     ]
                   },
@@ -45602,43 +44714,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.6465360853
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.6465360853
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.503832976
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.79891883
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.7811046176
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.3258482085
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -46463,43 +45538,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -46834,43 +45872,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.2813058429
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0793190267
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.9721522861
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.3876584106
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.3497135308
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4236250785
                       }
                     ]
                   },
@@ -47283,43 +46284,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.0390649984
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.7053501871
-                      },
-                      {
-                        "year": 2030,
-                        "total": 17.1305324634
-                      },
-                      {
-                        "year": 2035,
-                        "total": 28.1363473998
-                      },
-                      {
-                        "year": 2040,
-                        "total": 27.7855127056
-                      },
-                      {
-                        "year": 2045,
-                        "total": 27.6834228304
-                      },
-                      {
-                        "year": 2050,
-                        "total": 25.2214730117
                       }
                     ]
                   },
@@ -52416,43 +51380,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.3666872448
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.4871516758
-                      },
-                      {
-                        "year": 2035,
-                        "total": 8.3781496684
-                      },
-                      {
-                        "year": 2040,
-                        "total": 10.1884251171
-                      },
-                      {
-                        "year": 2045,
-                        "total": 14.5849413342
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.457815912
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -53277,43 +52204,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 3.894e-07
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0014079083
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -53648,43 +52538,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.8695103063
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0632612705
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.9710738518
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.5866163638
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.589556694
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.4499002174
                       }
                     ]
                   },
@@ -54097,43 +52950,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.828971828
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.1294287178
-                      },
-                      {
-                        "year": 2030,
-                        "total": 18.5970986552
-                      },
-                      {
-                        "year": 2035,
-                        "total": 25.3585684299
-                      },
-                      {
-                        "year": 2040,
-                        "total": 24.4071582622
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.732761946
-                      },
-                      {
-                        "year": 2050,
-                        "total": 23.0395662453
                       }
                     ]
                   },
@@ -59230,43 +58046,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.3302084075
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.3302084075
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.8142355813
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.1158745024
-                      },
-                      {
-                        "year": 2045,
-                        "total": 12.7217435837
-                      },
-                      {
-                        "year": 2050,
-                        "total": 11.9880803426
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -60091,43 +58870,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -60462,43 +59204,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.5905218629
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4931834539
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.0865835084
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.7706517643
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.1725325651
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2187159823
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.2270610962
                       }
                     ]
                   },
@@ -60911,43 +59616,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 4.4501989749
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.8731526534
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15.6820751892
-                      },
-                      {
-                        "year": 2035,
-                        "total": 24.8159555263
-                      },
-                      {
-                        "year": 2040,
-                        "total": 21.0571123494
-                      },
-                      {
-                        "year": 2045,
-                        "total": 21.2680420776
-                      },
-                      {
-                        "year": 2050,
-                        "total": 19.2001571092
                       }
                     ]
                   },
@@ -66044,43 +64712,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.3041441176
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.4542585479
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.6092020671
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.3230348163
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.3512094286
-                      },
-                      {
-                        "year": 2050,
-                        "total": 12.718785074
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -66905,43 +65536,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.828e-07
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0002993894
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -67276,43 +65870,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 5.7990123166
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2030,
-                        "total": 2.026990917
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.7077210479
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.1988826692
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2140275803
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.2262464497
                       }
                     ]
                   },
@@ -67725,43 +66282,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 4.5152677099
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.6515774197
-                      },
-                      {
-                        "year": 2030,
-                        "total": 14.2669403553
-                      },
-                      {
-                        "year": 2035,
-                        "total": 22.243510286
-                      },
-                      {
-                        "year": 2040,
-                        "total": 20.78859715
-                      },
-                      {
-                        "year": 2045,
-                        "total": 20.7742103769
-                      },
-                      {
-                        "year": 2050,
-                        "total": 19.2422435515
                       }
                     ]
                   },
@@ -72858,43 +71378,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 5.3217877282
-                      },
-                      {
-                        "year": 2030,
-                        "total": 5.3217877282
-                      },
-                      {
-                        "year": 2035,
-                        "total": 6.1400387022
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.1781298319
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.668735822
-                      },
-                      {
-                        "year": 2050,
-                        "total": 10.9641032749
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -73719,43 +72202,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2030,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -74090,43 +72536,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.5805704329
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4930978881
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.9181170728
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.740178095
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.2116026005
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.2466856564
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.2411283222
                       }
                     ]
                   },
@@ -74539,43 +72948,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.7125592894
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 7.0922714472
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15.1569596264
-                      },
-                      {
-                        "year": 2035,
-                        "total": 26.5213461717
-                      },
-                      {
-                        "year": 2040,
-                        "total": 25.4279492133
-                      },
-                      {
-                        "year": 2045,
-                        "total": 24.4795045422
-                      },
-                      {
-                        "year": 2050,
-                        "total": 21.491782748
                       }
                     ]
                   },
@@ -79672,43 +78044,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2025,
-                        "total": 4.1506505013
-                      },
-                      {
-                        "year": 2030,
-                        "total": 4.3035297924
-                      },
-                      {
-                        "year": 2035,
-                        "total": 7.7011105749
-                      },
-                      {
-                        "year": 2040,
-                        "total": 9.7251163589
-                      },
-                      {
-                        "year": 2045,
-                        "total": 13.468949
-                      },
-                      {
-                        "year": 2050,
-                        "total": 13.5383531782
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Electricity",
                     "indicatorGroupValues": [
                       {
@@ -80533,43 +78868,6 @@ export default {
                     ]
                   },
                   {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2020,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.828e-07
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2035,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2040,
-                        "total": 1.04333e-05
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.0
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.0002993894
-                      }
-                    ]
-                  },
-                  {
                     "indicatorGroup": "Hydro",
                     "indicatorGroupValues": [
                       {
@@ -80904,43 +79202,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 1.5748405457
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 2.785885334
-                      },
-                      {
-                        "year": 2020,
-                        "total": 3.4936306212
-                      },
-                      {
-                        "year": 2025,
-                        "total": 3.4931834539
-                      },
-                      {
-                        "year": 2030,
-                        "total": 1.9575223658
-                      },
-                      {
-                        "year": 2035,
-                        "total": 0.6644247638
-                      },
-                      {
-                        "year": 2040,
-                        "total": 0.1695012881
-                      },
-                      {
-                        "year": 2045,
-                        "total": 0.1751573053
-                      },
-                      {
-                        "year": 2050,
-                        "total": 0.227726582
                       }
                     ]
                   },
@@ -81353,43 +79614,6 @@ export default {
                       {
                         "year": 2050,
                         "total": 0.750606536
-                      }
-                    ]
-                  },
-                  {
-                    "indicatorGroup": "District heat",
-                    "indicatorGroupValues": [
-                      {
-                        "year": 2015,
-                        "total": 6.2327074342
-                      },
-                      {
-                        "year": 2020,
-                        "total": 5.3696063492
-                      },
-                      {
-                        "year": 2025,
-                        "total": 6.3070519103
-                      },
-                      {
-                        "year": 2030,
-                        "total": 15.9398741192
-                      },
-                      {
-                        "year": 2035,
-                        "total": 24.0367357267
-                      },
-                      {
-                        "year": 2040,
-                        "total": 23.0201126801
-                      },
-                      {
-                        "year": 2045,
-                        "total": 23.2913913329
-                      },
-                      {
-                        "year": 2050,
-                        "total": 21.5435270468
                       }
                     ]
                   },
