@@ -17,7 +17,7 @@ ON-TIMES is from the TIMES modelling family, a modelling concept and framework d
 
 **Documentation for ON-TIMES:**
 
-The model structure is based on the TIMES-DK model expanded to include the other Nordic countries. For more information on the mode please see: TIMES-DK: Technology-rich multi-sectoral optimisation model of the Danish energy system, Olexandr Balyk, Kristoffer S. Andersen, Steffen Dockweiler, Maurizio Gargiulo, Kenneth Karlsson, Rikke Næraa, Stefan Petrović, Jacopo Tattini, Lars B. Termansen, Giada Venturinia. 
+The model structure is based on the TIMES-DK model and developments in the [Shift project](https://www.nordicenergy.org/flagship/project-shift/) expanded to include the other Nordic countries. For more information on the mode please see: TIMES-DK: Technology-rich multi-sectoral optimisation model of the Danish energy system, Olexandr Balyk, Kristoffer S. Andersen, Steffen Dockweiler, Maurizio Gargiulo, Kenneth Karlsson, Rikke Næraa, Stefan Petrović, Jacopo Tattini, Lars B. Termansen, Giada Venturinia. 
 [https://doi.org/10.1016/j.esr.2018.11.003](https://doi.org/10.1016/j.esr.2018.11.003)
  - For mathematical formulations and model code we refer to the official TIMES documentation - https://iea-etsap.org/index.php/documentation
  - Input data for technologies and fuel prices are documented in the Technology Catalogue  (Link)
